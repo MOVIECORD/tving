@@ -1,0 +1,20 @@
+[navertv]
+title = "TVING ─ NAVER TV"
+url = "https://tv.naver.com/tvingofficial/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[vlive]
+title = "TVING ─ V LIVE"
+url = "https://www.vlive.tv/channel/938D75/board/7812?lang=ko"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong[class^='title_text']"
+linkSelector = "a[class^='post_area']"
+contentSelector = "span[class^='upload_time']"
+waitUntil = "networkidle"
+onFail = "stale"
