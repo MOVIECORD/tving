@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 02:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 03:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙합 메디컬 시트콤 [ EMERGENCY ] 제작발표회 라이브 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22855140</link>
+            <guid>https://tv.naver.com/v/22855140</guid>
+            <pubDate>Fri, 08 Oct 2021 03:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:06:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_165/iHU2W_1633662072373JmPWq_JPEG/dba1b470-27e3-11ec-8e56-a0369ff94f34_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이머전시] 여기서 치료 믿고 맡겨도 되나요? 어딘가 수상한 병원과 더 수상한 환자들 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22855117</link>
+            <guid>https://tv.naver.com/v/22855117</guid>
+            <pubDate>Fri, 08 Oct 2021 03:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[6:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_44/x7vDe_1633661965891xENkt_JPEG/1633661821535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[골신강림] "제가 그 분 때문에...⛳" 장성규 말에 신동엽이 놀라는 이유 | 7화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/22845350</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210930_256/WR5vO_1632996190074AUQ1P_JPEG/1632996153481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 제철음식 최강 가을이 왔다🍁🍂  | 티저 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22712816</link>
-            <guid>https://tv.naver.com/v/22712816</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_170/elF45_1632996133587uR1G6_JPEG/1632996027397.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 환승연애 [선공개] "당신의 마음을 고백하세요" 확신과 불안의 기로, 최종 선택은? (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22709166</link>
-            <guid>https://tv.naver.com/v/22709166</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[6:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_213/pLS3i_16329883318669bCNp_JPEG/1632988281247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 제철음식 최강 가을이 왔다🍁🍂  | 티저 예고 (TVING ─ V LIVE)]]></title>
