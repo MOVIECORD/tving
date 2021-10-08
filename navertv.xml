@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 04:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 05:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 08 Oct 2021 03:08:20 GMT</pubDate>
             <content:encoded><![CDATA[6:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211008_44/x7vDe_1633661965891xENkt_JPEG/1633661821535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 술이 고픈 당신을 위한 드라마🍻 | 1,2화 예고]]></title>
+            <link>https://tv.naver.com/v/22845400</link>
+            <guid>https://tv.naver.com/v/22845400</guid>
+            <pubDate>Fri, 08 Oct 2021 05:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_187/nFOo2_1633607739418gWdCj_JPEG/1633598276874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[골신강림] "제가 그 분 때문에...⛳" 장성규 말에 신동엽이 놀라는 이유 | 7화 선공개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210930_62/hedp9_16330001505516ozvp_JPEG/1633000128630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓스타] 태생부터 슈퍼스타🌟 하이샤인뷰티 비주얼 센터 ㅣ 이온 캐릭터 예고 영상]]></title>
-            <link>https://tv.naver.com/v/22712842</link>
-            <guid>https://tv.naver.com/v/22712842</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_256/WR5vO_1632996190074AUQ1P_JPEG/1632996153481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
