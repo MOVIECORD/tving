@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 22:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 23:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Fri, 08 Oct 2021 01:57:41 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_231/2Iser_1633599153038FokBb_JPEG/1633598489327.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 라인업] 10월 티빙 콘텐츠 배틀]]></title>
+            <link>https://tv.naver.com/v/22836151</link>
+            <guid>https://tv.naver.com/v/22836151</guid>
+            <pubDate>Sun, 10 Oct 2021 23:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_217/Tyi4G_1633585973567GRsT2_JPEG/1633585926955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[골신강림] 6화 하이라이트 | 드라이브와 감각만 있다면 어디든 갈 수 있어, 인생대결🏌]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_22/41yq1_1633053872511C6ff8_JPEG/1633053797138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 1승이라는 먹잇감을 노린다🐯 호동엽 VS 현직 프로 안신애 플레이! | 7화 예고]]></title>
-            <link>https://tv.naver.com/v/22715795</link>
-            <guid>https://tv.naver.com/v/22715795</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_278/YLWFX_1633004405558SXHt7_JPEG/1633004272106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
