@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 00:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 01:59:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 08 Oct 2021 05:07:00 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_187/nFOo2_1633607739418gWdCj_JPEG/1633598276874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 친구와 웬수는 한 끗 차이.. 한 번의 스윙, 갈라지는 호동엽의 관계 | 8화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22845375</link>
+            <guid>https://tv.naver.com/v/22845375</guid>
+            <pubDate>Mon, 11 Oct 2021 01:59:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_182/Se9Dz_1633607669462kD6R6_JPEG/1633607641361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[골신강림] "제가 그 분 때문에...⛳" 장성규 말에 신동엽이 놀라는 이유 | 7화 선공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_265/gFW02_1633054264758VUqY1_JPEG/1633054189037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] 우리나라에 래퍼 멘탈 치료 센터가 있다고? 네, 가족같은 병원 여기 있습니다🤗 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22723755</link>
-            <guid>https://tv.naver.com/v/22723755</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_22/41yq1_1633053872511C6ff8_JPEG/1633053797138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 제철음식 최강 가을이 왔다🍁🍂  | 티저 예고 (TVING ─ V LIVE)]]></title>
