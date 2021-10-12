@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 07:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 08:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EMERGENCY] 이 병원에서 가장 이상한 건.... 원장 아닌가요?🙄 | 양동근 캐릭터 티저]]></title>
+            <link>https://tv.naver.com/v/22916213</link>
+            <guid>https://tv.naver.com/v/22916213</guid>
+            <pubDate>Tue, 12 Oct 2021 08:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_86/h4FNf_1634025481109hWlqN_JPEG/1634025371636.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[골신강림] 안신애 프로에게 어프로치 특강받는 동엽 (부럽다!)  | Ep.7-5]]></title>
             <link>https://tv.naver.com/v/22866478</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[11:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_17/DueC7_1633071574913nOmMI_JPEG/1633071508379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들] 이선빈X한선화X정은지X최시원, 술로 조져(?)드립니다🍻 | 메인 예고]]></title>
-            <link>https://tv.naver.com/v/22723954</link>
-            <guid>https://tv.naver.com/v/22723954</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_265/gFW02_1633054264758VUqY1_JPEG/1633054189037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
