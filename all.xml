@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 12:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 13:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 12 Oct 2021 08:09:46 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_86/h4FNf_1634025481109hWlqN_JPEG/1634025371636.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해피니스] 한효주X박형식X조우진★최고의 배우들이 뭉쳤다! ㅣ 대본 리딩 현장 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22912593</link>
+            <guid>https://tv.naver.com/v/22912593</guid>
+            <pubDate>Tue, 12 Oct 2021 13:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[6:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_175/LlIdM_1634016964125GFHbe_JPEG/1634016850278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[골신강림] 안신애 프로에게 어프로치 특강받는 동엽 (부럽다!)  | Ep.7-5 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[6:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_15/Zg4IJ_1633071639568e7Vdu_JPEG/1633071600215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 5화 하이라이트 | 골프 너란 녀석.. 어렵구나💦 그래도 포기하지 않는 호동엽 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22731468</link>
-            <guid>https://tv.naver.com/v/22731468</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[11:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_17/DueC7_1633071574913nOmMI_JPEG/1633071508379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 제철음식 최강 가을이 왔다🍁🍂  | 티저 예고 (TVING ─ V LIVE)]]></title>
