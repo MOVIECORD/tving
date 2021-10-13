@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 12:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 13:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[골신강림] 7화 하이라이트 | '숏게임의 여왕' 타이틀 제대로 보여준 안신애 프로 활약상.zi (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22944762</link>
+            <guid>https://tv.naver.com/v/22944762</guid>
+            <pubDate>Wed, 13 Oct 2021 13:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[5:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211013_181/j6k6F_1634128896452EKJq2_JPEG/1634128881340.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 7화 하이라이트 | 당신에게서 벽이 느껴져요... 현역 골퍼와 호동엽의 완벽. (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22944755</link>
+            <guid>https://tv.naver.com/v/22944755</guid>
+            <pubDate>Wed, 13 Oct 2021 13:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[9:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211013_230/kX8UR_163412886067810HRA_JPEG/1634128797198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EMERGENCY] 대체 래퍼전문병원이 뭔데? 그 실체를 보여드림 | 트레일러(short ver) @힙합 메디컬 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/22936845</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[4:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_33/wfnEa_1633072690737ClJvv_JPEG/1633072570719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 티빙이 쏘는 1억원 상당의 황금골프채의 주인은? | Ep 6-4 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22732086</link>
-            <guid>https://tv.naver.com/v/22732086</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[4:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_217/dNk9T_1633072747549x4iLw_JPEG/1633072741237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 친구끼리 사이좋게 입틀막하게 만드는 호동엽  | Ep.6-2 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22731978</link>
-            <guid>https://tv.naver.com/v/22731978</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_184/ssqgN_1633072564113khGzl_JPEG/1633072532751.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 제철음식 최강 가을이 왔다🍁🍂  | 티저 예고 (TVING ─ V LIVE)]]></title>
