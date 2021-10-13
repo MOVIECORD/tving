@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 02:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 03:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EMERGENCY] 살벌했던 첫 만남, 끊임없는 디스전 극과 극 관계성 맛집 | 마미손-차정원 캐릭터]]></title>
+            <link>https://tv.naver.com/v/22929646</link>
+            <guid>https://tv.naver.com/v/22929646</guid>
+            <pubDate>Wed, 13 Oct 2021 03:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211013_297/QWlgC_1634093418202qc5zO_JPEG/1634093329686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EMERGENCY] 이 병원에서 가장 이상한 건.... 원장 아닌가요?🙄 | 양동근 캐릭터 티저]]></title>
             <link>https://tv.naver.com/v/22916213</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_94/2iB7d_16330725265448rkQ7_JPEG/1633072440937.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 5화 하이라이트 | 골프도 잘 치는데 재밌기까지 한 사람이 있다? 는 강호동💪]]></title>
-            <link>https://tv.naver.com/v/22731503</link>
-            <guid>https://tv.naver.com/v/22731503</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[6:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_15/Zg4IJ_1633071639568e7Vdu_JPEG/1633071600215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
