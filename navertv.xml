@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 02:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 03:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EMERGENCY] 입구부터 범접할 수 없는 포스가 풍겨지는 병원이 있다? | 간호사즈 캐릭터 티저]]></title>
+            <link>https://tv.naver.com/v/22951238</link>
+            <guid>https://tv.naver.com/v/22951238</guid>
+            <pubDate>Thu, 14 Oct 2021 03:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211014_28/0n7Ol_1634178809650SuAKS_JPEG/1634178744652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[골신강림] 7화 하이라이트 | '숏게임의 여왕' 타이틀 제대로 보여준 안신애 프로 활약상.zi]]></title>
             <link>https://tv.naver.com/v/22944762</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_213/6CJjB_1633072796419OTVOM_JPEG/1633072759663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 경) 드디어 백돌이나가 해냈다!!  (축 | Ep.6-3]]></title>
-            <link>https://tv.naver.com/v/22732049</link>
-            <guid>https://tv.naver.com/v/22732049</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[4:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_33/wfnEa_1633072690737ClJvv_JPEG/1633072570719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
