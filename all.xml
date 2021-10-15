@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 06:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 07:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EMERGENCY] 0화 | 전설의 레전드는 시작되었다. 래퍼전문병원 천방지축 어리둥절 면접 현장 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22977482</link>
+            <guid>https://tv.naver.com/v/22977482</guid>
+            <pubDate>Fri, 15 Oct 2021 07:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[14:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_213/xAdmw_1634279046223HWu0x_JPEG/1634279043348.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22977192</link>
+            <guid>https://tv.naver.com/v/22977192</guid>
+            <pubDate>Fri, 15 Oct 2021 07:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:13:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_101/ssfFP_1634277980195xyGVh_JPEG/e1af0bac-2d7d-11ec-b39d-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들] (🔊주의) 술자리 흑역사가 소환될 수 있음 | 5분 하이라이트 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/22971296</link>
@@ -232,20 +248,11 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_64/hYyRF_1633083537139mrDca_JPEG/1633083493848.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[환승연애] 왼쪽에는 X가, 문 밖엔 새로운 사람이.. 과연 보현의 선택은? | Episode. 15-2 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22736301</link>
-            <guid>https://tv.naver.com/v/22736301</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[4:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_134/9zf5g_16330834798784UmOl_JPEG/1633083440711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애] "누나가 좋은 이유는..." X가 듣는 앞에서 마지막 고백을 하는 남자 | Episode. 15-1 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22736294</link>
-            <guid>https://tv.naver.com/v/22736294</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_184/j6Afn_1633083436041TG3px_JPEG/1633083383906.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-25983569</link>
+            <guid>https://www.vlive.tv/post/1-25983569</guid>
+            <pubDate>Fri, 15 Oct 2021 07:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[47분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 제철음식 최강 가을이 왔다🍁🍂  | 티저 예고 (TVING ─ V LIVE)]]></title>
@@ -378,13 +385,6 @@
             <link>https://www.vlive.tv/post/1-22521114</link>
             <guid>https://www.vlive.tv/post/1-22521114</guid>
             <pubDate>Wed, 13 Oct 2021 08:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[4.23.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[서복] "모든 순간이 좋았다" 공유, 박보검, 이용주 감독이 말하는 명장면 코멘터리 영상 (TVING ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-22521113</link>
-            <guid>https://www.vlive.tv/post/1-22521113</guid>
-            <pubDate>Fri, 15 Oct 2021 06:10:08 GMT</pubDate>
             <content:encoded><![CDATA[4.23.]]></content:encoded>
         </item>
     </channel>
