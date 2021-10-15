@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 00:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 01:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[골신강림] 현역 이즈 현역! 실수도 바로 만회하는 역전의 퍼팅 실력ㄷㄷ | 8화 선공개]]></title>
+            <link>https://tv.naver.com/v/22961423</link>
+            <guid>https://tv.naver.com/v/22961423</guid>
+            <pubDate>Fri, 15 Oct 2021 01:55:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211014_236/ANCAk_16342059723626wvn1_JPEG/1634205969613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EMERGENCY] 입구부터 범접할 수 없는 포스가 풍겨지는 병원이 있다? | 간호사즈 캐릭터 티저]]></title>
             <link>https://tv.naver.com/v/22951238</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[14:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_298/KpSEQ_1633073088807RmkuX_JPEG/1633073073139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 이수근, 골프의 신 내리다? 동물적인 감각이 만들어낸 명장면! | Ep.6-5]]></title>
-            <link>https://tv.naver.com/v/22732122</link>
-            <guid>https://tv.naver.com/v/22732122</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_213/6CJjB_1633072796419OTVOM_JPEG/1633072759663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
