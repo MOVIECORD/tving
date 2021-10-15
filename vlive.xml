@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/938D75/board/7812?lang=ko</id>
     <title>TVING ─ V LIVE</title>
-    <updated>2021-10-15T04:09:44.567Z</updated>
+    <updated>2021-10-15T05:07:18.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회]]></title>
+        <id>https://www.vlive.tv/post/1-25983569</id>
+        <link href="https://www.vlive.tv/post/1-25983569"/>
+        <updated>2021-10-15T05:07:17.498Z</updated>
+        <content type="html"><![CDATA[16분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 제철음식 최강 가을이 왔다🍁🍂  | 티저 예고]]></title>
         <id>https://www.vlive.tv/post/0-25704613</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-22521114</id>
         <link href="https://www.vlive.tv/post/1-22521114"/>
         <updated>2021-10-13T08:09:21.804Z</updated>
-        <content type="html"><![CDATA[4.23.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서복] "모든 순간이 좋았다" 공유, 박보검, 이용주 감독이 말하는 명장면 코멘터리 영상]]></title>
-        <id>https://www.vlive.tv/post/1-22521113</id>
-        <link href="https://www.vlive.tv/post/1-22521113"/>
-        <updated>2021-10-13T08:09:21.805Z</updated>
         <content type="html"><![CDATA[4.23.]]></content>
     </entry>
 </feed>
