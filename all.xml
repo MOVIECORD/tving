@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 05:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 06:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,13 +248,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_184/j6Afn_1633083436041TG3px_JPEG/1633083383906.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-25983569</link>
-            <guid>https://www.vlive.tv/post/1-25983569</guid>
-            <pubDate>Fri, 15 Oct 2021 05:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[16분 전]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 제철음식 최강 가을이 왔다🍁🍂  | 티저 예고 (TVING ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-25704613</link>
             <guid>https://www.vlive.tv/post/0-25704613</guid>
@@ -385,6 +378,13 @@
             <link>https://www.vlive.tv/post/1-22521114</link>
             <guid>https://www.vlive.tv/post/1-22521114</guid>
             <pubDate>Wed, 13 Oct 2021 08:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[4.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[서복] "모든 순간이 좋았다" 공유, 박보검, 이용주 감독이 말하는 명장면 코멘터리 영상 (TVING ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-22521113</link>
+            <guid>https://www.vlive.tv/post/1-22521113</guid>
+            <pubDate>Fri, 15 Oct 2021 06:10:08 GMT</pubDate>
             <content:encoded><![CDATA[4.23.]]></content:encoded>
         </item>
     </channel>
