@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 04:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 05:07:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 술 안마셔도 이정도 텐션🤸‍♂️🤸‍♀️ ㅣ포스터 촬영 비하인드]]></title>
+            <link>https://tv.naver.com/v/22984465</link>
+            <guid>https://tv.naver.com/v/22984465</guid>
+            <pubDate>Sat, 16 Oct 2021 05:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[11:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_112/ooWbW_16342897295679GwP0_JPEG/1634289634304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EMERGENCY] 0화 | 전설의 레전드는 시작되었다. 래퍼전문병원 천방지축 어리둥절 면접 현장]]></title>
             <link>https://tv.naver.com/v/22977482</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[8:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211006_68/Rx7t1_1633521063329tBRwJ_JPEG/1633521048888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애] 경건한 마음으로 드디어 야쿠지(?) 타임을 가지는 혜선🛁 | Episode. 15-3]]></title>
-            <link>https://tv.naver.com/v/22736318</link>
-            <guid>https://tv.naver.com/v/22736318</guid>
-            <pubDate>Thu, 07 Oct 2021 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_64/hYyRF_1633083537139mrDca_JPEG/1633083493848.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
