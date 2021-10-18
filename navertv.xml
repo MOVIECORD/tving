@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 00:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 02:01:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 15 Oct 2021 03:08:26 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211014_69/cEKJx_1634206166698Fs50K_JPEG/1634206125557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 아무도 그의 실력을 알지 못했다 골프채를 잡기 전까지.. Job신vs골신 | 9화 예고]]></title>
+            <link>https://tv.naver.com/v/22961441</link>
+            <guid>https://tv.naver.com/v/22961441</guid>
+            <pubDate>Mon, 18 Oct 2021 02:00:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211014_4/ApKuw_1634205943675aD3Db_JPEG/1634205925445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[골신강림] 현역 이즈 현역! 실수도 바로 만회하는 역전의 퍼팅 실력ㄷㄷ | 8화 선공개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Oct 2021 01:59:42 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_182/Se9Dz_1633607669462kD6R6_JPEG/1633607641361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] "제가 그 분 때문에...⛳" 장성규 말에 신동엽이 놀라는 이유 | 7화 선공개]]></title>
-            <link>https://tv.naver.com/v/22845350</link>
-            <guid>https://tv.naver.com/v/22845350</guid>
-            <pubDate>Fri, 08 Oct 2021 01:57:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_190/cpVct_1633607588273KfU9Q_JPEG/1633607531287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
