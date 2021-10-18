@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 06:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 07:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EMERGENCY] Dr.양 멘탈케어센터의 첫 환자와 경찰(?) 제대로 개원할 수 있겠지;; | 1화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23024699</link>
+            <guid>https://tv.naver.com/v/23024699</guid>
+            <pubDate>Mon, 18 Oct 2021 07:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211018_282/3V8vJ_1634539902531QK3LU_JPEG/1634539812229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들] 술 안마셔도 이정도 텐션🤸‍♂️🤸‍♀️ ㅣ포스터 촬영 비하인드 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/22984465</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Oct 2021 05:07:00 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_187/nFOo2_1633607739418gWdCj_JPEG/1633598276874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 친구와 웬수는 한 끗 차이.. 한 번의 스윙, 갈라지는 호동엽의 관계 | 8화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22845375</link>
-            <guid>https://tv.naver.com/v/22845375</guid>
-            <pubDate>Mon, 11 Oct 2021 01:59:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_182/Se9Dz_1633607669462kD6R6_JPEG/1633607641361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
