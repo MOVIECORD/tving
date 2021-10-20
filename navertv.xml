@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 10:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 11:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[골신강림] 8화 하이라이트 | 호동이 뚁땅해😭 이 현실 믿기지 않아.. 치는 공마다 망샷?]]></title>
+            <link>https://tv.naver.com/v/23072840</link>
+            <guid>https://tv.naver.com/v/23072840</guid>
+            <pubDate>Wed, 20 Oct 2021 11:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_262/rnU1U_1634726090785FSpje_JPEG/1634726055427.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 8화 하이라이트 | 악조건 속에서 벌어지는 안신애 프로 VS 호동엽 스크램블 경기]]></title>
+            <link>https://tv.naver.com/v/23072821</link>
+            <guid>https://tv.naver.com/v/23072821</guid>
+            <pubDate>Wed, 20 Oct 2021 11:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[9:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_99/1eAo0_16347260433171G18J_JPEG/1634725982493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 낙지 꽃이 피었습니다🐙 | 태안편]]></title>
             <link>https://tv.naver.com/v/23064807</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 03:07:53 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211008_48/sqMZo_1633695373133N70y0_JPEG/1633695343380.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 실력발휘하는 호동엽때문에 안신애 프로는 부담 백배! | Ep 7-4]]></title>
-            <link>https://tv.naver.com/v/22866471</link>
-            <guid>https://tv.naver.com/v/22866471</guid>
-            <pubDate>Sun, 10 Oct 2021 03:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_80/d7ywu_1633695336976YYAgf_JPEG/1633695302931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 커몬!! 강호동, 알바트로스에 이어 이글까지?  | Ep.7-3]]></title>
-            <link>https://tv.naver.com/v/22866458</link>
-            <guid>https://tv.naver.com/v/22866458</guid>
-            <pubDate>Sun, 10 Oct 2021 03:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_236/ZGdYy_1633695295373JjL7w_JPEG/1633695263494.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
