@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 07:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 08:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 낙지 꽃이 피었습니다🐙 | 태안편]]></title>
+            <link>https://tv.naver.com/v/23064807</link>
+            <guid>https://tv.naver.com/v/23064807</guid>
+            <pubDate>Wed, 20 Oct 2021 08:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_134/EJMft_1634708317178ka4S5_JPEG/1634708181484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EMERGENCY] episode 0-3. 힙합구조대 완전체 두둥등장🤟🏻 벌써 치료 예약이 풀이라는…]]></title>
             <link>https://tv.naver.com/v/23060010</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 03:07:53 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211008_236/ZGdYy_1633695295373JjL7w_JPEG/1633695263494.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 굿 스타트를 알리는 첫 티샷! 강기도의 기도빨은? | Ep.7-2]]></title>
-            <link>https://tv.naver.com/v/22866447</link>
-            <guid>https://tv.naver.com/v/22866447</guid>
-            <pubDate>Sun, 10 Oct 2021 03:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[4:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_16/wrYZL_1633695251203xEqAN_JPEG/1633695225090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
