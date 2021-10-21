@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 10:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 11:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ING터뷰] 최시원, 술 마신 다음 날 **옆에서 눈 뜨다? 흑역사 대방출!🍻 | 술꾼도시여자들]]></title>
+            <link>https://tv.naver.com/v/23098715</link>
+            <guid>https://tv.naver.com/v/23098715</guid>
+            <pubDate>Thu, 21 Oct 2021 11:06:44 GMT</pubDate>
+            <content:encoded><![CDATA[7:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_105/rWRhV_16348130238757UDPP_JPEG/1634812934689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[골신강림] 8화 하이라이트 | 호동이 뚁땅해😭 이 현실 믿기지 않아.. 치는 공마다 망샷?]]></title>
             <link>https://tv.naver.com/v/23072840</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Oct 2021 08:09:46 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_86/h4FNf_1634025481109hWlqN_JPEG/1634025371636.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] 한효주X박형식X조우진★최고의 배우들이 뭉쳤다! ㅣ 대본 리딩 현장]]></title>
-            <link>https://tv.naver.com/v/22912593</link>
-            <guid>https://tv.naver.com/v/22912593</guid>
-            <pubDate>Tue, 12 Oct 2021 13:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[6:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_175/LlIdM_1634016964125GFHbe_JPEG/1634016850278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
