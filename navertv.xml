@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 08:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 09:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 20 Oct 2021 01:57:04 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_212/cOc7c_1634694754955YeVTX_JPEG/1634694740057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 K콘 페스타] 1년 내내 티빙 월 6,417원으로 즐기는 방법]]></title>
+            <link>https://tv.naver.com/v/23043770</link>
+            <guid>https://tv.naver.com/v/23043770</guid>
+            <pubDate>Thu, 21 Oct 2021 09:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_238/bA5lm_1634620657053WDlDJ_PNG/1634620580119.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[술꾼도시여자들] 드라마 찍다 술트릿우먼파이터 뽜뽀먼스 갈긴 썰 푼다 | 비하인드 토크]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Oct 2021 13:15:17 GMT</pubDate>
             <content:encoded><![CDATA[6:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_175/LlIdM_1634016964125GFHbe_JPEG/1634016850278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 안신애 프로에게 어프로치 특강받는 동엽 (부럽다!)  | Ep.7-5]]></title>
-            <link>https://tv.naver.com/v/22866478</link>
-            <guid>https://tv.naver.com/v/22866478</guid>
-            <pubDate>Sun, 10 Oct 2021 03:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_48/sqMZo_1633695373133N70y0_JPEG/1633695343380.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
