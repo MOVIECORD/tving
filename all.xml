@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 00:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 02:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 20 Oct 2021 01:57:04 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_212/cOc7c_1634694754955YeVTX_JPEG/1634694740057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 K콘 페스타] 뭘 좋아할지 몰라서 다 준비해봤어 | 월 6,417원 | 41%할인 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23044201</link>
+            <guid>https://tv.naver.com/v/23044201</guid>
+            <pubDate>Fri, 22 Oct 2021 02:03:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_125/qFoY5_1634621610776ntbNe_PNG/1634621558501.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[티빙 K콘 페스타] 1년 내내 티빙 월 6,417원으로 즐기는 방법 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Oct 2021 03:08:46 GMT</pubDate>
             <content:encoded><![CDATA[0:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211013_297/QWlgC_1634093418202qc5zO_JPEG/1634093329686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] 이 병원에서 가장 이상한 건.... 원장 아닌가요?🙄 | 양동근 캐릭터 티저 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22916213</link>
-            <guid>https://tv.naver.com/v/22916213</guid>
-            <pubDate>Tue, 12 Oct 2021 08:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_86/h4FNf_1634025481109hWlqN_JPEG/1634025371636.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
