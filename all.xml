@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 04:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 05:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 22 Oct 2021 11:06:38 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_253/IiF2Z_1634898699064CE0He_JPEG/1634898696394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 정은지, 뜻밖의 재능 발견? 술꾼들의 진기명기ㅣ1,2화 비하인드 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23119452</link>
+            <guid>https://tv.naver.com/v/23119452</guid>
+            <pubDate>Sat, 23 Oct 2021 05:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[10:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_104/innI3_1634895859193dDV8b_JPEG/1634895842057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ING터뷰] 최시원, 술 마신 다음 날 **옆에서 눈 뜨다? 흑역사 대방출!🍻 | 술꾼도시여자들 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Oct 2021 03:08:23 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211014_28/0n7Ol_1634178809650SuAKS_JPEG/1634178744652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 7화 하이라이트 | '숏게임의 여왕' 타이틀 제대로 보여준 안신애 프로 활약상.zi (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22944762</link>
-            <guid>https://tv.naver.com/v/22944762</guid>
-            <pubDate>Wed, 13 Oct 2021 13:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[5:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211013_181/j6k6F_1634128896452EKJq2_JPEG/1634128881340.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
