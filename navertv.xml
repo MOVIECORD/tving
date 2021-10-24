@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 04:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 05:07:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 22 Oct 2021 11:06:38 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_253/IiF2Z_1634898699064CE0He_JPEG/1634898696394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 30대 술꾼들에게 닥친 인생 최대 위기 | 3,4화 예고]]></title>
+            <link>https://tv.naver.com/v/23119909</link>
+            <guid>https://tv.naver.com/v/23119909</guid>
+            <pubDate>Sun, 24 Oct 2021 05:06:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_286/02hfn_16348977139075uMRC_JPEG/1634897632158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[골신강림] 귀하신분이 골신강림에…월클 현역 김효주 프로의 호동엽 평가! | Ep.9-5]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 17 Oct 2021 03:08:17 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_172/YveBd_1634273667693GOAHD_JPEG/a07cb92c-2d73-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 호동엽 무릎 꿇린 안신애가 숏게임의 여왕인 이유 | Ep.8-2]]></title>
-            <link>https://tv.naver.com/v/22975028</link>
-            <guid>https://tv.naver.com/v/22975028</guid>
-            <pubDate>Sun, 17 Oct 2021 03:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_167/2RLNx_1634273630670XG6t7_JPEG/88a3125b-2d73-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
