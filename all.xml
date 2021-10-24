@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 02:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 03:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,60 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_253/IiF2Z_1634898699064CE0He_JPEG/1634898696394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[골신강림] 귀하신분이 골신강림에…월클 현역 김효주 프로의 호동엽 평가! | Ep.9-5 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23119815</link>
+            <guid>https://tv.naver.com/v/23119815</guid>
+            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_147/xo65g_1634897200124ruI6h_JPEG/1634896946660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 스크린골프st로 장성규 맞춤 지도하는 안신애 프로| Ep 9-4 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23119805</link>
+            <guid>https://tv.naver.com/v/23119805</guid>
+            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[4:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_117/T3Kd5_1634897157419nf5La_JPEG/1634896942819.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 티샷 잘치는 법 참 쉽죠? 그냥 활짝 열면 됩니다  | Ep.9-3 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23119799</link>
+            <guid>https://tv.naver.com/v/23119799</guid>
+            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_108/12w7a_1634897124606xH9fy_JPEG/1634896938766.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] "좀 놀랬습니다?" 안신애프로를 놀라게 한 숨은 강자(?) | Ep.9-2 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23119790</link>
+            <guid>https://tv.naver.com/v/23119790</guid>
+            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_45/R8maT_1634897088637malcQ_JPEG/1634896934436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 바람아 제발 멈춰다오~ 변수가 가득한 티샷  | Ep.9-1 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23119782</link>
+            <guid>https://tv.naver.com/v/23119782</guid>
+            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_198/XklgV_1634897049749PJfNt_JPEG/1634896928634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[술꾼도시여자들] 정은지, 뜻밖의 재능 발견? 술꾼들의 진기명기ㅣ1,2화 비하인드 메이킹 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23119452</link>
             <guid>https://tv.naver.com/v/23119452</guid>
             <pubDate>Sat, 23 Oct 2021 05:06:52 GMT</pubDate>
             <content:encoded><![CDATA[10:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_104/innI3_1634895859193dDV8b_JPEG/1634895842057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 백종원, 신메뉴 출시할 맛?! | 태안편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23112225</link>
+            <guid>https://tv.naver.com/v/23112225</guid>
+            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_101/7zgbR_1634879983482fyoqB_JPEG/1634879915706.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ING터뷰] 최시원, 술 마신 다음 날 **옆에서 눈 뜨다? 흑역사 대방출!🍻 | 술꾼도시여자들 (TVING ─ NAVER TV)]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Sun, 17 Oct 2021 03:08:17 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_167/2RLNx_1634273630670XG6t7_JPEG/88a3125b-2d73-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 이게 진짜일리 없어~ 현실부정하고 싶은 호동엽! | Ep.8-1 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22975012</link>
-            <guid>https://tv.naver.com/v/22975012</guid>
-            <pubDate>Sun, 17 Oct 2021 03:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_187/L32F2_1634273590841duT5J_JPEG/7a6dfc29-2d73-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들] (🔊주의) 술자리 흑역사가 소환될 수 있음 | 5분 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22971296</link>
-            <guid>https://tv.naver.com/v/22971296</guid>
-            <pubDate>Fri, 15 Oct 2021 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_164/1Vv9Z_1634262601231cvrw5_JPEG/1634262529252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] 정체가 뭐야? 병원을 집처럼 드나드는 사람들 | 박의석&백주호 캐릭터 티저 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22961497</link>
-            <guid>https://tv.naver.com/v/22961497</guid>
-            <pubDate>Fri, 15 Oct 2021 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211014_69/cEKJx_1634206166698Fs50K_JPEG/1634206125557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 아무도 그의 실력을 알지 못했다 골프채를 잡기 전까지.. Job신vs골신 | 9화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22961441</link>
-            <guid>https://tv.naver.com/v/22961441</guid>
-            <pubDate>Mon, 18 Oct 2021 02:00:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211014_4/ApKuw_1634205943675aD3Db_JPEG/1634205925445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 현역 이즈 현역! 실수도 바로 만회하는 역전의 퍼팅 실력ㄷㄷ | 8화 선공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22961423</link>
-            <guid>https://tv.naver.com/v/22961423</guid>
-            <pubDate>Fri, 15 Oct 2021 01:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211014_236/ANCAk_16342059723626wvn1_JPEG/1634205969613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] 입구부터 범접할 수 없는 포스가 풍겨지는 병원이 있다? | 간호사즈 캐릭터 티저 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22951238</link>
-            <guid>https://tv.naver.com/v/22951238</guid>
-            <pubDate>Thu, 14 Oct 2021 03:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211014_28/0n7Ol_1634178809650SuAKS_JPEG/1634178744652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
