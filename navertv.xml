@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 02:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 03:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Wed, 20 Oct 2021 08:09:48 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_134/EJMft_1634708317178ka4S5_JPEG/1634708181484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 월드 클래스 프로골퍼와 월드 아이돌🎉 김효주&최민호 특급 승부! | 10화 예고]]></title>
+            <link>https://tv.naver.com/v/23060984</link>
+            <guid>https://tv.naver.com/v/23060984</guid>
+            <pubDate>Mon, 25 Oct 2021 03:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_261/vPS2a_1634697599790Uckq1_JPEG/1634697581114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[골신강림] "닫지 말고 열으라고!" 성규에게 전수한 동엽의 티샷 잘 치는 비법? | 9화 선공개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 17 Oct 2021 03:08:17 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_63/XSc4e_1634273710466kpr7r_JPEG/aeb689cb-2d73-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 티샷 후 호동이는 언제나 칭찬에 목마르다  | Ep.8-3]]></title>
-            <link>https://tv.naver.com/v/22975044</link>
-            <guid>https://tv.naver.com/v/22975044</guid>
-            <pubDate>Sun, 17 Oct 2021 03:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_172/YveBd_1634273667693GOAHD_JPEG/a07cb92c-2d73-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
