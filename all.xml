@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 05:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 06:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[갓스타] 과몰입주의! 최고의 버추얼 스타의 정체를 밝혀라! 메타버스 추리서바이벌 <갓스 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23175599</link>
+            <guid>https://tv.naver.com/v/23175599</guid>
+            <pubDate>Tue, 26 Oct 2021 06:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[11:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211026_271/NbV5V_1635225684962cbFCV_JPEG/1635225615396.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[어른연습생] 제발 단단해지지 말라고! 😱 혈기왕성(性) 호르몬 폭발!🔥 10대들의 핑크 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23164780</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Oct 2021 02:25:43 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_5/3HZs5_16346067961299Gu26_JPEG/1634606757862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] 기이한 신종 감염병의 정체는? 긴박감 넘치는 2차 티저 공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23032365</link>
-            <guid>https://tv.naver.com/v/23032365</guid>
-            <pubDate>Mon, 18 Oct 2021 13:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211018_145/cpfEJ_1634559663163WDNm5_JPEG/1634559594273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
