@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 02:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 03:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EMERGENCY] episode 2-6. 아무도 비프리를 화나게 해선 안돼🤯 (마미손: ㅎㄷㄷ) (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23242897</link>
+            <guid>https://tv.naver.com/v/23242897</guid>
+            <pubDate>Sat, 30 Oct 2021 03:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_199/gdE4w_1635500385573dD92y_JPEG/1635500365474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EMERGENCY] episode 2-5. 상황 마무으리를 위해 허석김보성이 떴다👊 뜻밖의 현웃 참기 챌린지 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23242889</link>
+            <guid>https://tv.naver.com/v/23242889</guid>
+            <pubDate>Sat, 30 Oct 2021 03:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_240/BqYG9_1635500348960aEe2C_JPEG/1635500320736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EMERGENCY] episode 2-4. 오메가사피엔 급발진하게 만든 전설의 네 글자 소환(feat. 스윙스) (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23242876</link>
+            <guid>https://tv.naver.com/v/23242876</guid>
+            <pubDate>Sat, 30 Oct 2021 03:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_139/ehYjq_1635500305681UHJkY_JPEG/1635500255543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EMERGENCY] episode 2-3. 잘 봐! 전문의들의 싸움이다~ 원장 양동근, 딥빡하게 만든 상황! (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23242862</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_101/7zgbR_1634879983482fyoqB_JPEG/1634879915706.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ING터뷰] 최시원, 술 마신 다음 날 **옆에서 눈 뜨다? 흑역사 대방출!🍻 | 술꾼도시여자들 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23098715</link>
-            <guid>https://tv.naver.com/v/23098715</guid>
-            <pubDate>Thu, 21 Oct 2021 11:06:44 GMT</pubDate>
-            <content:encoded><![CDATA[7:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_105/rWRhV_16348130238757UDPP_JPEG/1634812934689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 8화 하이라이트 | 호동이 뚁땅해😭 이 현실 믿기지 않아.. 치는 공마다 망샷? (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23072840</link>
-            <guid>https://tv.naver.com/v/23072840</guid>
-            <pubDate>Wed, 20 Oct 2021 11:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_262/rnU1U_1634726090785FSpje_JPEG/1634726055427.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 8화 하이라이트 | 악조건 속에서 벌어지는 안신애 프로 VS 호동엽 스크램블 경기 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23072821</link>
-            <guid>https://tv.naver.com/v/23072821</guid>
-            <pubDate>Wed, 20 Oct 2021 11:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[9:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_99/1eAo0_16347260433171G18J_JPEG/1634725982493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
