@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 22:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 23:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 29 Oct 2021 10:08:33 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211029_96/rshfR_1635500160622cfBCJ_JPEG/1635500105810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 경찰서에서부터 다져진(?) 술친구들의 찐 우정ㅣ5,6화 예고]]></title>
+            <link>https://tv.naver.com/v/23242763</link>
+            <guid>https://tv.naver.com/v/23242763</guid>
+            <pubDate>Sat, 30 Oct 2021 23:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_164/Qg1jw_1635499815170QPXHV_JPEG/1635499702394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EMERGENCY] 쇼미에 할 말 있는 사람 모여🔥 시즌8 우승자 펀치넬로는 무슨 일로? | 3화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Oct 2021 05:06:52 GMT</pubDate>
             <content:encoded><![CDATA[10:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_104/innI3_1634895859193dDV8b_JPEG/1634895842057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 백종원, 신메뉴 출시할 맛?! | 태안편]]></title>
-            <link>https://tv.naver.com/v/23112225</link>
-            <guid>https://tv.naver.com/v/23112225</guid>
-            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_101/7zgbR_1634879983482fyoqB_JPEG/1634879915706.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
