@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 02:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 03:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,38 @@
             <pubDate>Sat, 30 Oct 2021 11:06:51 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211030_72/u25ng_1635590878707jLf56_JPEG/1635590812450.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 칭찬했으니까 잘쳐야돼요! 열정MAX 민호 다룰 줄 아는 효주| Ep 10-4]]></title>
+            <link>https://tv.naver.com/v/23243522</link>
+            <guid>https://tv.naver.com/v/23243522</guid>
+            <pubDate>Sun, 31 Oct 2021 03:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_193/Xx2jF_1635503089999JzdxY_JPEG/1635503059451.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 웃음기빼고 진지함 가득! 10회만에 하늘에 닿은 호동엽의 기도🙏 | Ep.10-3]]></title>
+            <link>https://tv.naver.com/v/23243505</link>
+            <guid>https://tv.naver.com/v/23243505</guid>
+            <pubDate>Sun, 31 Oct 2021 03:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_96/Qvhd6_1635503032950XOsrD_JPEG/1635502997737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 할말은 해야지!🏃 호동이에게 참지 않는 김효주  | Ep.10-2]]></title>
+            <link>https://tv.naver.com/v/23243499</link>
+            <guid>https://tv.naver.com/v/23243499</guid>
+            <pubDate>Sun, 31 Oct 2021 03:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_223/XcCuV_1635502990040oEYzc_JPEG/1635502948874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 갓진한이 모셔온 특급 대결상대! 월클 프로 김효주가 떴다! | Ep.10-1]]></title>
+            <link>https://tv.naver.com/v/23243487</link>
+            <guid>https://tv.naver.com/v/23243487</guid>
+            <pubDate>Sun, 31 Oct 2021 03:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_283/8DNlr_1635502941676e86aA_JPEG/1635502803407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EMERGENCY] episode 2-2. 마미손도 밟으면 꿈틀댄다💢 약올리기학과 수석 카더가든]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 22 Oct 2021 11:06:38 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_253/IiF2Z_1634898699064CE0He_JPEG/1634898696394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들] 30대 술꾼들에게 닥친 인생 최대 위기 | 3,4화 예고]]></title>
-            <link>https://tv.naver.com/v/23119909</link>
-            <guid>https://tv.naver.com/v/23119909</guid>
-            <pubDate>Sun, 24 Oct 2021 05:06:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_286/02hfn_16348977139075uMRC_JPEG/1634897632158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 귀하신분이 골신강림에…월클 현역 김효주 프로의 호동엽 평가! | Ep.9-5]]></title>
-            <link>https://tv.naver.com/v/23119815</link>
-            <guid>https://tv.naver.com/v/23119815</guid>
-            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_147/xo65g_1634897200124ruI6h_JPEG/1634896946660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 스크린골프st로 장성규 맞춤 지도하는 안신애 프로| Ep 9-4]]></title>
-            <link>https://tv.naver.com/v/23119805</link>
-            <guid>https://tv.naver.com/v/23119805</guid>
-            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[4:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_117/T3Kd5_1634897157419nf5La_JPEG/1634896942819.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 티샷 잘치는 법 참 쉽죠? 그냥 활짝 열면 됩니다  | Ep.9-3]]></title>
-            <link>https://tv.naver.com/v/23119799</link>
-            <guid>https://tv.naver.com/v/23119799</guid>
-            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_108/12w7a_1634897124606xH9fy_JPEG/1634896938766.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
