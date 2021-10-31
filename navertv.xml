@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 00:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 01:53:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EMERGENCY] episode 2-9. 상황 마무으리를 위해 허석김보성이 떴다👊 뜻밖의 현웃 참기 챌린지]]></title>
+            <link>https://tv.naver.com/v/23254474</link>
+            <guid>https://tv.naver.com/v/23254474</guid>
+            <pubDate>Sun, 31 Oct 2021 01:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_146/p6lM0_1635591151496tID2P_JPEG/1635591108485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EMERGENCY] episode 2-8. 잘 봐! 전문의들의 싸움이다~ 원장 양동근, 딥빡친 상황!]]></title>
+            <link>https://tv.naver.com/v/23254462</link>
+            <guid>https://tv.naver.com/v/23254462</guid>
+            <pubDate>Sun, 31 Oct 2021 01:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_220/7U3hN_16355910951090y385_JPEG/1635591074189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EMERGENCY] episode 2-7. 케케 묵은 앙금까지 풀어주는 병원🩹 근데 제대로 화해한 거 맞죠..?]]></title>
+            <link>https://tv.naver.com/v/23254450</link>
+            <guid>https://tv.naver.com/v/23254450</guid>
+            <pubDate>Sun, 31 Oct 2021 01:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_42/sOnyS_1635591058014HfzNm_JPEG/1635591029285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EMERGENCY] episode 2-6. 국내 최초로 디스하다 현피 뜬 래퍼 두 명이 만났다, 무슨 일이래(쫑긋)]]></title>
             <link>https://tv.naver.com/v/23254439</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_108/12w7a_1634897124606xH9fy_JPEG/1634896938766.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] "좀 놀랬습니다?" 안신애프로를 놀라게 한 숨은 강자(?) | Ep.9-2]]></title>
-            <link>https://tv.naver.com/v/23119790</link>
-            <guid>https://tv.naver.com/v/23119790</guid>
-            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_45/R8maT_1634897088637malcQ_JPEG/1634896934436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 바람아 제발 멈춰다오~ 변수가 가득한 티샷  | Ep.9-1]]></title>
-            <link>https://tv.naver.com/v/23119782</link>
-            <guid>https://tv.naver.com/v/23119782</guid>
-            <pubDate>Sun, 24 Oct 2021 03:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_198/XklgV_1634897049749PJfNt_JPEG/1634896928634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들] 정은지, 뜻밖의 재능 발견? 술꾼들의 진기명기ㅣ1,2화 비하인드 메이킹]]></title>
-            <link>https://tv.naver.com/v/23119452</link>
-            <guid>https://tv.naver.com/v/23119452</guid>
-            <pubDate>Sat, 23 Oct 2021 05:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[10:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_104/innI3_1634895859193dDV8b_JPEG/1634895842057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
