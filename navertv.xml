@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 06:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 07:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 04 Nov 2021 01:53:20 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211103_272/rsNLF_1635930827111JeSRY_JPEG/1635930736042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[갓스타] 예리한 추리와 똥촉 파티를 걸친 첫번째 탈락자 공개! ㅣ 2화 예고]]></title>
+            <link>https://tv.naver.com/v/23315768</link>
+            <guid>https://tv.naver.com/v/23315768</guid>
+            <pubDate>Thu, 04 Nov 2021 07:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_290/tr5u9_1635918874502stEMp_JPEG/1635918815653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[갓스타] 이온에게 느껴지는 부리의 향기…! 🦆 ㅣ 1화 하이라이트 공개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Oct 2021 10:08:29 GMT</pubDate>
             <content:encoded><![CDATA[9:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_185/DvcrK_1635317926198KXbQV_JPEG/1635317865409.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓스타] 과몰입주의! 최고의 버추얼 스타의 정체를 밝혀라! ㅣ 0화 공개]]></title>
-            <link>https://tv.naver.com/v/23184794</link>
-            <guid>https://tv.naver.com/v/23184794</guid>
-            <pubDate>Tue, 26 Oct 2021 12:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[11:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211026_4/xEofl_1635247820046vNeJF_JPEG/1635247753592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
