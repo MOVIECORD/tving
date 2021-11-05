@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 09:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 10:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 05 Nov 2021 01:52:11 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_222/Lymq8_1636035313606cyMAE_JPEG/1636035265006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[갓스타] 뭘 해도 귀여운 이온의 본캐 모먼트 모음 ㅣ 이온 메이킹 필름]]></title>
+            <link>https://tv.naver.com/v/23343686</link>
+            <guid>https://tv.naver.com/v/23343686</guid>
+            <pubDate>Fri, 05 Nov 2021 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_187/W3szy_1636012745922TtNQI_JPEG/1636012641679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[어른연습생] 어른이 된 내가 전하는, 과거의 너에게 하고 싶은 말! ㅣ 18세의 나에게 영상]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Oct 2021 07:08:32 GMT</pubDate>
             <content:encoded><![CDATA[41:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211029_100/GWMWs_1635487530693XnoCL_JPEG/1635487442419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 우천 속 집 나간 호동엽의 멘탈! 결국 '김효주' 이름을 외치다? | 11화 예고]]></title>
-            <link>https://tv.naver.com/v/23199443</link>
-            <guid>https://tv.naver.com/v/23199443</guid>
-            <pubDate>Mon, 01 Nov 2021 03:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_31/mjZ6t_1635318238633cnntT_JPEG/1635318186663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
