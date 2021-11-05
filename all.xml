@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 00:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 01:52:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[골신강림] '잘생긴 장성규(?)' 없던 서사도 만들어낸 민호의 비주얼 골프⛳  | 11화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23353117</link>
+            <guid>https://tv.naver.com/v/23353117</guid>
+            <pubDate>Fri, 05 Nov 2021 01:52:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_222/Lymq8_1636035313606cyMAE_JPEG/1636035265006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[어른연습생] 어른이 된 내가 전하는, 과거의 너에게 하고 싶은 말! ㅣ 18세의 나에게 영상 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23342382</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Oct 2021 01:49:46 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_197/XIHMm_1635318159709k0FfC_JPEG/1635318099156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 9화 하이라이트 | "타이거 우즈가 와도…" 정확도부터 힘까지 완벽한 강신강림 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23199345</link>
-            <guid>https://tv.naver.com/v/23199345</guid>
-            <pubDate>Wed, 27 Oct 2021 10:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[7:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_21/JJR0Y_1635318005880p5HJq_JPEG/1635317940737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
