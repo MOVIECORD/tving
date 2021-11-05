@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 22:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 23:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 05 Nov 2021 01:52:11 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_222/Lymq8_1636035313606cyMAE_JPEG/1636035265006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 라인업] 11월 다양한 티빙 콘텐츠를 즐겨보세요]]></title>
+            <link>https://tv.naver.com/v/23345714</link>
+            <guid>https://tv.naver.com/v/23345714</guid>
+            <pubDate>Fri, 05 Nov 2021 23:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_291/mzVQu_1636016127562vGyci_PNG/1636016055281.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[갓스타] 뭘 해도 귀여운 이온의 본캐 모먼트 모음 ㅣ 이온 메이킹 필름]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Oct 2021 23:07:57 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211029_164/Qg1jw_1635499815170QPXHV_JPEG/1635499702394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] 쇼미에 할 말 있는 사람 모여🔥 시즌8 우승자 펀치넬로는 무슨 일로? | 3화 예고]]></title>
-            <link>https://tv.naver.com/v/23241069</link>
-            <guid>https://tv.naver.com/v/23241069</guid>
-            <pubDate>Fri, 29 Oct 2021 09:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_178/kwVEO_1635495301208FKASP_JPEG/1635495289516.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
