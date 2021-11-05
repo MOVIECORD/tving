@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 08:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 09:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EMERGENCY] 너희가 K-힙합을 아느냐, 힙합의 날 맞이 중생들을 위한 구원자 등장✨ | 4화 예고]]></title>
+            <link>https://tv.naver.com/v/23369911</link>
+            <guid>https://tv.naver.com/v/23369911</guid>
+            <pubDate>Fri, 05 Nov 2021 09:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_14/yLKs3_1636098816796wcgdW_JPEG/1636098813807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[골신강림] '잘생긴 장성규(?)' 없던 서사도 만들어낸 민호의 비주얼 골프⛳  | 11화 선공개]]></title>
             <link>https://tv.naver.com/v/23353117</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 Nov 2021 03:08:36 GMT</pubDate>
             <content:encoded><![CDATA[0:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_31/mjZ6t_1635318238633cnntT_JPEG/1635318186663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 호동이의 지식서랍 대방출🗂 갑분 골퍼 김효주 아빠가 된 동엽? | 10화 선공개]]></title>
-            <link>https://tv.naver.com/v/23199418</link>
-            <guid>https://tv.naver.com/v/23199418</guid>
-            <pubDate>Fri, 29 Oct 2021 01:49:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_197/XIHMm_1635318159709k0FfC_JPEG/1635318099156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
