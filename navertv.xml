@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 22:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 23:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sat, 06 Nov 2021 04:10:07 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211106_151/13p9J_1636169412940QehM8_JPEG/1636169360580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 이선빈 앞에 나타난 의문의 남자? 그리고 소환된 그 날 기억 | 7,8화 예고]]></title>
+            <link>https://tv.naver.com/v/23372107</link>
+            <guid>https://tv.naver.com/v/23372107</guid>
+            <pubDate>Sat, 06 Nov 2021 23:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_54/iXU5K_1636104455259GDXrX_JPEG/1636104395685.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EMERGENCY] 너희가 K-힙합을 아느냐, 힙합의 날 맞이 중생들을 위한 구원자 등장✨ | 4화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Oct 2021 11:06:51 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211030_72/u25ng_1635590878707jLf56_JPEG/1635590812450.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 칭찬했으니까 잘쳐야돼요! 열정MAX 민호 다룰 줄 아는 효주| Ep 10-4]]></title>
-            <link>https://tv.naver.com/v/23243522</link>
-            <guid>https://tv.naver.com/v/23243522</guid>
-            <pubDate>Sun, 31 Oct 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_193/Xx2jF_1635503089999JzdxY_JPEG/1635503059451.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
