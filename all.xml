@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 06:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 07:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 서울] "마음에 들면 뺏어야죠" 매력적인 캐처들이 온다 | 출연자 프롤로그 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23405889</link>
+            <guid>https://tv.naver.com/v/23405889</guid>
+            <pubDate>Mon, 08 Nov 2021 07:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_206/vozfq_1636352033363cycl9_JPEG/1636351984582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EMERGENCY] episode 3-9. 말 많은 래퍼에게 제한시간을 줘보았다 (feat. 16마디 45초) (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23400818</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 Nov 2021 13:15:38 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_103/k91OM_1635841527855iD1yc_JPEG/1635841425568.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들] 언니들 (술)싸움이다! 이선빈X정은지X한선화의 술배틀ㅣ4화 비하인드 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23272790</link>
-            <guid>https://tv.naver.com/v/23272790</guid>
-            <pubDate>Mon, 01 Nov 2021 03:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[9:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211101_169/wT8AW_1635735001372PCHVx_JPEG/1635734911112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
