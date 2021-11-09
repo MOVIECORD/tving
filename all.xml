@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 10:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 11:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해피니스] 사람을 공격하는 변종 바이러스 감염자 발생! | 1-2화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23429660</link>
+            <guid>https://tv.naver.com/v/23429660</guid>
+            <pubDate>Tue, 09 Nov 2021 11:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_151/v4BHu_1636447415223KxmM9_JPEG/1636447370956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해피니스] 첫 촬영부터 티키타카 케미 넘친다! | 첫 촬영 메이킹 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23429620</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Nov 2021 01:50:36 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_54/41TwY_1636035248987TMijO_JPEG/1636035199717.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙 라인업] 11월 다양한 티빙 콘텐츠를 즐겨보세요 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23345714</link>
-            <guid>https://tv.naver.com/v/23345714</guid>
-            <pubDate>Fri, 05 Nov 2021 23:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_291/mzVQu_1636016127562vGyci_PNG/1636016055281.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
