@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 09:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 10:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 09 Nov 2021 09:08:13 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211109_51/mv6pZ_1636446871073GMS2z_JPEG/1636446866712.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ING터뷰] 거짓말 하기 있기? 없기? 어른연습생들의 노필터 토크 ㅣ 포커페이싱터뷰 START (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23429030</link>
+            <guid>https://tv.naver.com/v/23429030</guid>
+            <pubDate>Tue, 09 Nov 2021 10:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[8:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_238/vgMVe_1636446180591KPTCw_JPEG/1636446117850.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[술꾼도시여자들] 극강의 하이텐션 이선빈X한선화X정은지와 그저 살아남고 싶은 최시원 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 05 Nov 2021 23:08:18 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_291/mzVQu_1636016127562vGyci_PNG/1636016055281.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓스타] 뭘 해도 귀여운 이온의 본캐 모먼트 모음 ㅣ 이온 메이킹 필름 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23343686</link>
-            <guid>https://tv.naver.com/v/23343686</guid>
-            <pubDate>Fri, 05 Nov 2021 10:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_187/W3szy_1636012745922TtNQI_JPEG/1636012641679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
