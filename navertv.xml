@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 07:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 08:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Tue, 09 Nov 2021 09:08:13 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211109_51/mv6pZ_1636446871073GMS2z_JPEG/1636446866712.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ING터뷰] 거짓말 하기 있기? 없기? 어른연습생들의 노필터 토크 ㅣ 포커페이싱터뷰 START]]></title>
-            <link>https://tv.naver.com/v/23429030</link>
-            <guid>https://tv.naver.com/v/23429030</guid>
-            <pubDate>Tue, 09 Nov 2021 10:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[8:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_238/vgMVe_1636446180591KPTCw_JPEG/1636446117850.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[술꾼도시여자들] 극강의 하이텐션 이선빈X한선화X정은지와 그저 살아남고 싶은 최시원]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sun, 07 Nov 2021 03:08:18 GMT</pubDate>
             <content:encoded><![CDATA[4:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211105_61/20W2M_1636094242726TUEeM_JPEG/1636094237592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 골프실력는 말잇못이지만😂 비주얼로 순정만화 만들어내는 민호😍 | Ep.11-1]]></title>
+            <link>https://tv.naver.com/v/23368050</link>
+            <guid>https://tv.naver.com/v/23368050</guid>
+            <pubDate>Wed, 10 Nov 2021 08:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_73/dS5sd_1636094183763XAryV_JPEG/1636093965398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
