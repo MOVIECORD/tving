@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 06:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 07:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ING터뷰] 거짓말 하기 있기? 없기? 어른연습생들의 노필터 토크 ㅣ 포커페이싱터뷰 START (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23445180</link>
+            <guid>https://tv.naver.com/v/23445180</guid>
+            <pubDate>Wed, 10 Nov 2021 07:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[8:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211110_297/pKb5C_16365253469037PHxX_JPEG/1636525172521.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[어른연습생] ※후방주의※ 엑기스만 모아모아 15금 하이라이트 대방출! (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23443086</link>
@@ -14,6 +22,14 @@
             <pubDate>Wed, 10 Nov 2021 06:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211110_127/2QKUw_1636520244556D3nuE_JPEG/1636520159829.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해피니스] 바닥 무너질 것 같은데?! 손땀폭발 비하인드 | 1-2화 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23429788</link>
+            <guid>https://tv.naver.com/v/23429788</guid>
+            <pubDate>Wed, 10 Nov 2021 07:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[7:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_207/WZxfz_1636447716514cV5OE_JPEG/1636447677466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해피니스] 사람을 공격하는 변종 바이러스 감염자 발생! | 1-2화 하이라이트 (TVING ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 07 Nov 2021 03:08:18 GMT</pubDate>
             <content:encoded><![CDATA[4:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211105_61/20W2M_1636094242726TUEeM_JPEG/1636094237592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 골프실력는 말잇못이지만😂 비주얼로 순정만화 만들어내는 민호😍 | Ep.11-1 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23368050</link>
-            <guid>https://tv.naver.com/v/23368050</guid>
-            <pubDate>Sun, 07 Nov 2021 03:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_73/dS5sd_1636094183763XAryV_JPEG/1636093965398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] '잘생긴 장성규(?)' 없던 서사도 만들어낸 민호의 비주얼 골프⛳  | 11화 선공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23353117</link>
-            <guid>https://tv.naver.com/v/23353117</guid>
-            <pubDate>Fri, 05 Nov 2021 01:52:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_222/Lymq8_1636035313606cyMAE_JPEG/1636035265006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
