@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 06:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[어른연습생] ※후방주의※ 엑기스만 모아모아 15금 하이라이트 대방출!]]></title>
+            <link>https://tv.naver.com/v/23443086</link>
+            <guid>https://tv.naver.com/v/23443086</guid>
+            <pubDate>Wed, 10 Nov 2021 06:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211110_127/2QKUw_1636520244556D3nuE_JPEG/1636520159829.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해피니스] 사람을 공격하는 변종 바이러스 감염자 발생! | 1-2화 하이라이트]]></title>
             <link>https://tv.naver.com/v/23429660</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 05 Nov 2021 01:52:11 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_222/Lymq8_1636035313606cyMAE_JPEG/1636035265006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 대망의 마지막 승부✨ 포텐 터진 실력 속 김효주 프로의 원픽은?  | 12화 예고]]></title>
-            <link>https://tv.naver.com/v/23353103</link>
-            <guid>https://tv.naver.com/v/23353103</guid>
-            <pubDate>Mon, 08 Nov 2021 01:50:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_54/41TwY_1636035248987TMijO_JPEG/1636035199717.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
