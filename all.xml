@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 06:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 07:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해피니스] 이 집 전염성 강하네,,해피바이러스 전염성 | 1-2화 스페셜 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23469318</link>
+            <guid>https://tv.naver.com/v/23469318</guid>
+            <pubDate>Thu, 11 Nov 2021 07:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[10:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_196/sHZKy_1636612483803aPFNQ_JPEG/1636612419625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[골신강림] 11화 하이라이트 | 경기하다가 점점 골프 실력이 업그레이드되는 최민호🔥 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23452844</link>
@@ -30,6 +38,14 @@
             <pubDate>Wed, 10 Nov 2021 07:08:41 GMT</pubDate>
             <content:encoded><![CDATA[8:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211110_297/pKb5C_16365253469037PHxX_JPEG/1636525172521.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[갓스타] 갓스타와 떠나는 팬미팅 현장에 오실걸 환영합니다! 🎟 ㅣ 3화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23443280</link>
+            <guid>https://tv.naver.com/v/23443280</guid>
+            <pubDate>Thu, 11 Nov 2021 07:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211110_189/kPfq5_16365206941651KH67_JPEG/1636520661045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[어른연습생] ※후방주의※ 엑기스만 모아모아 15금 하이라이트 대방출! (TVING ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 07 Nov 2021 03:08:18 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211105_117/0za9s_1636094496933dYQAB_JPEG/1636094462620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 성장서사 미.쳤.다. 모두가 놀란 민호의 대활약!| Ep 11-4 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23368173</link>
-            <guid>https://tv.naver.com/v/23368173</guid>
-            <pubDate>Sun, 07 Nov 2021 03:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_233/iCqRX_1636094441794wS14e_JPEG/1636094330279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 👑월클 인성👑 김효주의 호동엽팀 라이 봐주기 | Ep.11-3 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23368109</link>
-            <guid>https://tv.naver.com/v/23368109</guid>
-            <pubDate>Sun, 07 Nov 2021 03:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_266/TkqIT_1636094301031biVt1_JPEG/1636094266371.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
