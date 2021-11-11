@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 12:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 13:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 11 Nov 2021 07:08:37 GMT</pubDate>
             <content:encoded><![CDATA[10:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211111_196/sHZKy_1636612483803aPFNQ_JPEG/1636612419625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[어른연습생] 100일의 기적이 일어났어요! 꿀팁을 알려드립니다 ㅣ 재민편 5분 미리보기 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23464107</link>
+            <guid>https://tv.naver.com/v/23464107</guid>
+            <pubDate>Thu, 11 Nov 2021 13:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_183/L3PGN_1636599476683Gvaal_JPEG/1636599356304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[골신강림] 11화 하이라이트 | 경기하다가 점점 골프 실력이 업그레이드되는 최민호🔥 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 06 Nov 2021 04:10:07 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211106_151/13p9J_1636169412940QehM8_JPEG/1636169360580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들] 이선빈 앞에 나타난 의문의 남자? 그리고 소환된 그 날 기억 | 7,8화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23372107</link>
-            <guid>https://tv.naver.com/v/23372107</guid>
-            <pubDate>Sat, 06 Nov 2021 23:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_54/iXU5K_1636104455259GDXrX_JPEG/1636104395685.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
