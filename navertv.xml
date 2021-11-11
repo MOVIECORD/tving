@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 09:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 10:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 긴말이 필요없슈 한우🐮니까 | 예산편]]></title>
+            <link>https://tv.naver.com/v/23473481</link>
+            <guid>https://tv.naver.com/v/23473481</guid>
+            <pubDate>Thu, 11 Nov 2021 10:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_275/HjadG_1636622177308rjOtY_JPEG/1636622137389.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] "게눈 감출 시간도 없었다.." 게순삭현상 발생 | 부산편]]></title>
+            <link>https://tv.naver.com/v/23473415</link>
+            <guid>https://tv.naver.com/v/23473415</guid>
+            <pubDate>Thu, 11 Nov 2021 10:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_183/pZOHS_1636622072898bc69l_JPEG/1636622069778.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해피니스] 이 집 전염성 강하네,,해피바이러스 전염성 | 1-2화 스페셜 메이킹]]></title>
             <link>https://tv.naver.com/v/23469318</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 06 Nov 2021 23:07:51 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211105_54/iXU5K_1636104455259GDXrX_JPEG/1636104395685.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] 너희가 K-힙합을 아느냐, 힙합의 날 맞이 중생들을 위한 구원자 등장✨ | 4화 예고]]></title>
-            <link>https://tv.naver.com/v/23369911</link>
-            <guid>https://tv.naver.com/v/23369911</guid>
-            <pubDate>Fri, 05 Nov 2021 09:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_14/yLKs3_1636098816796wcgdW_JPEG/1636098813807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 오늘도 철푸덕...호동엽이 빅 웃음 드립니다😆| Ep 11-5]]></title>
-            <link>https://tv.naver.com/v/23368196</link>
-            <guid>https://tv.naver.com/v/23368196</guid>
-            <pubDate>Sun, 07 Nov 2021 03:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_117/0za9s_1636094496933dYQAB_JPEG/1636094462620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
