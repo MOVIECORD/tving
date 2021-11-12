@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 04:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 05:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 서울] 서울 한복판 사랑과 돈을 찾으러 온 캐처가 떴다(☞ﾟヮﾟ)☞ | 1화예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23484931</link>
+            <guid>https://tv.naver.com/v/23484931</guid>
+            <pubDate>Fri, 12 Nov 2021 05:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211112_7/ChQwa_1636685152129jC2bL_JPEG/1636685039880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 긴말이 필요없슈 한우🐮니까 | 예산편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23473481</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 06 Nov 2021 04:10:07 GMT</pubDate>
             <content:encoded><![CDATA[2:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211106_266/YMFyv_1636169490250OV4kg_JPEG/1636169444243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] episode 3-1. 미국에서 온 사회생활📚 상사 맞장구가 '차'석이 아니라 수석이야! (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23379951</link>
-            <guid>https://tv.naver.com/v/23379951</guid>
-            <pubDate>Sat, 06 Nov 2021 04:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_151/13p9J_1636169412940QehM8_JPEG/1636169360580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
