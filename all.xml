@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 07:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 08:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 12 Nov 2021 10:08:51 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_90/BHXRP_1636709123984LAv4l_JPEG/1636709121031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[갓스타] 괴도루팡 비주얼 센터 민휘빈 정체가 바로..이사람이였어? ㅣ 민휘빈 메이킹 필름 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23493054</link>
+            <guid>https://tv.naver.com/v/23493054</guid>
+            <pubDate>Sat, 13 Nov 2021 08:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211112_204/zUos1_1636706901056WDD5l_JPEG/1636706845460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[어른연습생] 유교걸 반유라의 위험천만한 일탈? ㅣ 유라편 예고 공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Nov 2021 08:10:04 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_296/geYqM_1636354748595okVLe_JPEG/1636354669905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] "마음에 들면 뺏어야죠" 매력적인 캐처들이 온다 | 출연자 프롤로그 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23405889</link>
-            <guid>https://tv.naver.com/v/23405889</guid>
-            <pubDate>Mon, 08 Nov 2021 07:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_206/vozfq_1636352033363cycl9_JPEG/1636351984582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
