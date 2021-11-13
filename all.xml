@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 00:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 01:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 12 Nov 2021 05:07:39 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_7/ChQwa_1636685152129jC2bL_JPEG/1636685039880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해피니스] 한효주, 박형식 아파트에 갇히다?! 걷잡을 수 없이 커지는 혼란 예고 | 4화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23479194</link>
+            <guid>https://tv.naver.com/v/23479194</guid>
+            <pubDate>Sat, 13 Nov 2021 01:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_194/cF1K5_1636638854506OnnJg_JPEG/1636638800213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 긴말이 필요없슈 한우🐮니까 | 예산편 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Nov 2021 02:22:39 GMT</pubDate>
             <content:encoded><![CDATA[3:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_165/7QThT_1636336219914mtutm_JPEG/1636336166664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] episode 3-8. 여기서 지코를 왜 찾아요;; 기승전-지코로 끝나버린 우태운 분량 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23400796</link>
-            <guid>https://tv.naver.com/v/23400796</guid>
-            <pubDate>Mon, 08 Nov 2021 02:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_105/dUkaZ_1636336153160EN24u_JPEG/1636336131804.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
