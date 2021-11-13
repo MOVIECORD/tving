@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 02:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 03:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 12 Nov 2021 10:08:51 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_90/BHXRP_1636709123984LAv4l_JPEG/1636709121031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[어른연습생] 유교걸 반유라의 위험천만한 일탈? ㅣ 유라편 예고 공개]]></title>
+            <link>https://tv.naver.com/v/23488943</link>
+            <guid>https://tv.naver.com/v/23488943</guid>
+            <pubDate>Sat, 13 Nov 2021 03:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211112_210/AVJN1_1636698450398AqA1G_JPEG/1636698391864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[러브캐처 인 서울] 서울 한복판 사랑과 돈을 찾으러 온 캐처가 떴다(☞ﾟヮﾟ)☞ | 1화예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Nov 2021 07:08:40 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_206/vozfq_1636352033363cycl9_JPEG/1636351984582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] episode 3-9. 말 많은 래퍼에게 제한시간을 줘보았다 (feat. 16마디 45초)]]></title>
-            <link>https://tv.naver.com/v/23400818</link>
-            <guid>https://tv.naver.com/v/23400818</guid>
-            <pubDate>Mon, 08 Nov 2021 02:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_165/7QThT_1636336219914mtutm_JPEG/1636336166664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
