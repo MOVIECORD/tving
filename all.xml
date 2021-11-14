@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 00:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 01:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Fri, 12 Nov 2021 05:07:39 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_7/ChQwa_1636685152129jC2bL_JPEG/1636685039880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해피니스] 한효주&박형식, 아파트 주민들과 본격 갈등? | 5화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23479217</link>
+            <guid>https://tv.naver.com/v/23479217</guid>
+            <pubDate>Sun, 14 Nov 2021 01:52:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_3/bjvda_1636638933920uRIW2_JPEG/1636638877531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해피니스] 한효주, 박형식 아파트에 갇히다?! 걷잡을 수 없이 커지는 혼란 예고 | 4화 예고 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Nov 2021 08:10:04 GMT</pubDate>
             <content:encoded><![CDATA[16:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_195/Faa6l_16363550588727N5Lt_JPEG/1636354934097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[어른연습생] 곰도 사람이 되는 마법의 100일! 그것(?)에서 자유로울 수 있을까? (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23407083</link>
-            <guid>https://tv.naver.com/v/23407083</guid>
-            <pubDate>Mon, 08 Nov 2021 08:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_296/geYqM_1636354748595okVLe_JPEG/1636354669905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
