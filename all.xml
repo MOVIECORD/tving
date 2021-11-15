@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 08:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 09:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 20대 꼬꼬마가 된 술도녀ㅣ8화 비하인드 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23537820</link>
+            <guid>https://tv.naver.com/v/23537820</guid>
+            <pubDate>Mon, 15 Nov 2021 09:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[13:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_80/LGRMD_1636966715652y1SVY_JPEG/1636966602974.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들]지구본체 정은지의 서윗함과, 이선빈의 욕씬 비하인드!ㅣ7화 비하인드 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23537735</link>
+            <guid>https://tv.naver.com/v/23537735</guid>
+            <pubDate>Mon, 15 Nov 2021 09:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[12:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_28/YCap2_16369664634887mRlw_JPEG/1636966320214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EMERGENCY] episode 4-5. "그런 거 말해도 괜찮아요...?" 말마다 양동근 원장 멘탈 흔드는 루피 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23498855</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 09 Nov 2021 11:07:08 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211109_151/v4BHu_1636447415223KxmM9_JPEG/1636447370956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] 첫 촬영부터 티키타카 케미 넘친다! | 첫 촬영 메이킹 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23429620</link>
-            <guid>https://tv.naver.com/v/23429620</guid>
-            <pubDate>Tue, 09 Nov 2021 09:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_65/xo9iH_1636447342599vobn0_JPEG/1636447301048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] "집값에 도움 안돼요" 아파트 봉쇄보다 집값이 더 걱정인 주민들?! | 3화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23429574</link>
-            <guid>https://tv.naver.com/v/23429574</guid>
-            <pubDate>Tue, 09 Nov 2021 09:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_52/Tfw4u_16364472566496ur5u_JPEG/1636447228463.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
