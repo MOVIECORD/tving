@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 04:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 05:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 12 Nov 2021 17:15:57 GMT</pubDate>
             <content:encoded><![CDATA[4:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211113_267/cRoEq_16367345921160tGuy_JPEG/1636734589405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 한우보다 비싼 1등급 송이를 한우 차돌이랑 먹음  | 양양 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23494809</link>
+            <guid>https://tv.naver.com/v/23494809</guid>
+            <pubDate>Mon, 15 Nov 2021 05:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211112_237/xfWXE_16367139473045X1oz_JPEG/1636713891624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EMERGENCY] 난리났다 릴씨가문🔥 혈연은 못 참지, 국힙을 이끌어가는 명문 릴씨 | 5화 예고 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 Nov 2021 09:08:13 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211109_52/Tfw4u_16364472566496ur5u_JPEG/1636447228463.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] 한효주, 아파트에서 감지한 수상한 기운? | 2화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23429520</link>
-            <guid>https://tv.naver.com/v/23429520</guid>
-            <pubDate>Tue, 09 Nov 2021 09:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_239/pZZOL_1636447174383wb6cW_JPEG/1636447119101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
