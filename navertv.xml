@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 09:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 10:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 수험생분들을 위한 술도녀팀의 응원💓 수능대박나고 내년에 술 먹자!]]></title>
+            <link>https://tv.naver.com/v/23538553</link>
+            <guid>https://tv.naver.com/v/23538553</guid>
+            <pubDate>Mon, 15 Nov 2021 10:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_49/gZblp_1636968668450d8h5q_JPEG/1636968588451.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들]갑작스러운 이선빈 아빠의 죽음, 곁을 지키는 한선화와 정은지ㅣ9화 예고]]></title>
+            <link>https://tv.naver.com/v/23538482</link>
+            <guid>https://tv.naver.com/v/23538482</guid>
+            <pubDate>Mon, 15 Nov 2021 10:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_225/2J4T2_1636968444441Q9NJz_JPEG/1636968387611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] '가끔 넘어져도 괜찮아!' 정은지의 청춘을 위한 인생 한잔ㅣ스페셜MV]]></title>
+            <link>https://tv.naver.com/v/23538046</link>
+            <guid>https://tv.naver.com/v/23538046</guid>
+            <pubDate>Mon, 15 Nov 2021 10:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_176/5qFdc_16369672438573DSkl_JPEG/1636967136238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들] 20대 꼬꼬마가 된 술도녀ㅣ8화 비하인드 메이킹]]></title>
             <link>https://tv.naver.com/v/23537820</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 11 Nov 2021 07:08:37 GMT</pubDate>
             <content:encoded><![CDATA[0:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211110_189/kPfq5_16365206941651KH67_JPEG/1636520661045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[어른연습생] ※후방주의※ 엑기스만 모아모아 15금 하이라이트 대방출!]]></title>
-            <link>https://tv.naver.com/v/23443086</link>
-            <guid>https://tv.naver.com/v/23443086</guid>
-            <pubDate>Wed, 10 Nov 2021 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211110_127/2QKUw_1636520244556D3nuE_JPEG/1636520159829.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] 바닥 무너질 것 같은데?! 손땀폭발 비하인드 | 1-2화 메이킹]]></title>
-            <link>https://tv.naver.com/v/23429788</link>
-            <guid>https://tv.naver.com/v/23429788</guid>
-            <pubDate>Wed, 10 Nov 2021 07:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[7:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_207/WZxfz_1636447716514cV5OE_JPEG/1636447677466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] 사람을 공격하는 변종 바이러스 감염자 발생! | 1-2화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/23429660</link>
-            <guid>https://tv.naver.com/v/23429660</guid>
-            <pubDate>Tue, 09 Nov 2021 11:07:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_151/v4BHu_1636447415223KxmM9_JPEG/1636447370956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
