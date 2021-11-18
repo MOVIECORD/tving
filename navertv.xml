@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 10:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 11:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[골신강림] 12화 하이라이트 | 골신강림의 진정한 주인공, 강호동의 신들린 샷 모음.zip]]></title>
+            <link>https://tv.naver.com/v/23602737</link>
+            <guid>https://tv.naver.com/v/23602737</guid>
+            <pubDate>Thu, 18 Nov 2021 11:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[14:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_154/mUNH2_1637231048061b4a67_JPEG/1637230938257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[골신강림] 12화 하이라이트 | 비가 이렇게 오는데 골프를 어떻게 쳐요ㄴㅇㄱ 그들은 해냄]]></title>
+            <link>https://tv.naver.com/v/23602695</link>
+            <guid>https://tv.naver.com/v/23602695</guid>
+            <pubDate>Thu, 18 Nov 2021 11:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[9:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_283/R5GtN_1637230921484mCg4F_JPEG/1637230894172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[갓스타] 배신과 협박이 난무하는 연합작전부터 대환장 제작발표회까지ㅣ 4화 예고]]></title>
             <link>https://tv.naver.com/v/23601403</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 13 Nov 2021 03:08:25 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_210/AVJN1_1636698450398AqA1G_JPEG/1636698391864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] 서울 한복판 사랑과 돈을 찾으러 온 캐처가 떴다(☞ﾟヮﾟ)☞ | 1화예고]]></title>
-            <link>https://tv.naver.com/v/23484931</link>
-            <guid>https://tv.naver.com/v/23484931</guid>
-            <pubDate>Fri, 12 Nov 2021 05:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211112_7/ChQwa_1636685152129jC2bL_JPEG/1636685039880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] 한효주&박형식, 아파트 주민들과 본격 갈등? | 5화 예고]]></title>
-            <link>https://tv.naver.com/v/23479217</link>
-            <guid>https://tv.naver.com/v/23479217</guid>
-            <pubDate>Sun, 14 Nov 2021 01:52:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_3/bjvda_1636638933920uRIW2_JPEG/1636638877531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
