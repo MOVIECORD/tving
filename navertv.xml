@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 06:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 서울] 설레는 나를 봐 너무 설레❣ 긴장과 두근거림의 첫 만남! | 하이라이트]]></title>
+            <link>https://tv.naver.com/v/23596780</link>
+            <guid>https://tv.naver.com/v/23596780</guid>
+            <pubDate>Thu, 18 Nov 2021 06:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[5:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_228/SEg7N_1637214196841IFeNa_JPEG/1637214193217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해피니스] 이제 왜 아파트 봉쇄가 필요한 이유를 아시겠어요?  | 1-4화 하이라이트]]></title>
             <link>https://tv.naver.com/v/23567321</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 Nov 2021 01:48:42 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211111_194/cF1K5_1636638854506OnnJg_JPEG/1636638800213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 긴말이 필요없슈 한우🐮니까 | 예산편]]></title>
-            <link>https://tv.naver.com/v/23473481</link>
-            <guid>https://tv.naver.com/v/23473481</guid>
-            <pubDate>Thu, 11 Nov 2021 10:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_275/HjadG_1636622177308rjOtY_JPEG/1636622137389.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
