@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 08:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 09:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[갓스타] 배신과 협박이 난무하는 연합작전부터 대환장 제작발표회까지ㅣ 4화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23601403</link>
+            <guid>https://tv.naver.com/v/23601403</guid>
+            <pubDate>Thu, 18 Nov 2021 09:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_55/bb0MS_1637226409264ilxQE_JPEG/1637226370669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 서울] 설레는 나를 봐 너무 설레❣ 긴장과 두근거림의 첫 만남! | 하이라이트 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23596780</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 14 Nov 2021 01:52:28 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211111_3/bjvda_1636638933920uRIW2_JPEG/1636638877531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] 한효주, 박형식 아파트에 갇히다?! 걷잡을 수 없이 커지는 혼란 예고 | 4화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23479194</link>
-            <guid>https://tv.naver.com/v/23479194</guid>
-            <pubDate>Sat, 13 Nov 2021 01:48:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_194/cF1K5_1636638854506OnnJg_JPEG/1636638800213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
