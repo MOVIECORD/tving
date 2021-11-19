@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 04:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 05:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해피니스] 케미니스로 이름 바꾸셔야겠어요😘 킬포 한가득 현장 | 3-4화 스케치 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23614565</link>
+            <guid>https://tv.naver.com/v/23614565</guid>
+            <pubDate>Fri, 19 Nov 2021 05:07:35 GMT</pubDate>
+            <content:encoded><![CDATA[9:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_144/3NjZs_1637297384500bWLHb_JPEG/1637297334023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[골신강림] 12화 하이라이트 | 골신강림의 진정한 주인공, 강호동의 신들린 샷 모음.zip (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23602737</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 14 Nov 2021 03:08:18 GMT</pubDate>
             <content:encoded><![CDATA[4:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_209/CzoQD_1636702792808caLDt_JPEG/1636702636391.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[어른연습생] 유교걸 반유라의 위험천만한 일탈? ㅣ 유라편 예고 공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23488943</link>
-            <guid>https://tv.naver.com/v/23488943</guid>
-            <pubDate>Sat, 13 Nov 2021 03:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211112_210/AVJN1_1636698450398AqA1G_JPEG/1636698391864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
