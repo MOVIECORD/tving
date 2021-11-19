@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 09:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 10:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[갓스타]이토록 존재감 강한 본체(?) 천재 프로듀서 엠쌉 얼공 가보자고ㅣ엠쌉 메이킹 필름]]></title>
+            <link>https://tv.naver.com/v/23620580</link>
+            <guid>https://tv.naver.com/v/23620580</guid>
+            <pubDate>Fri, 19 Nov 2021 10:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_132/wTtin_16373116898289JfUl_JPEG/1637311618676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해피니스] 케미니스로 이름 바꾸셔야겠어요😘 킬포 한가득 현장 | 3-4화 스케치 메이킹]]></title>
             <link>https://tv.naver.com/v/23614565</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 14 Nov 2021 03:08:18 GMT</pubDate>
             <content:encoded><![CDATA[4:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_221/eZUrB_1636702830143OQyxN_JPEG/1636702805570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골신강림] 드디어 독립한 최민호! 민호를 놀리는 못~된 형들😜 | Ep.12-1]]></title>
-            <link>https://tv.naver.com/v/23491046</link>
-            <guid>https://tv.naver.com/v/23491046</guid>
-            <pubDate>Sun, 14 Nov 2021 03:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211112_209/CzoQD_1636702792808caLDt_JPEG/1636702636391.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
