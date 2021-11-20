@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 03:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 04:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,6 +176,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211119_70/lbfrA_16373245040884omBc_JPEG/1637324432679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[어른연습생] 나은이도 드디어 모쏠탈출 하나요?ㅣ나은편 예고]]></title>
+            <link>https://tv.naver.com/v/23623951</link>
+            <guid>https://tv.naver.com/v/23623951</guid>
+            <pubDate>Sat, 20 Nov 2021 04:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_204/gUoRH_1637323370026eTvQu_JPEG/1637323320581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[갓스타]이토록 존재감 강한 본체(?) 천재 프로듀서 엠쌉 얼공 가보자고ㅣ엠쌉 메이킹 필름]]></title>
             <link>https://tv.naver.com/v/23620580</link>
             <guid>https://tv.naver.com/v/23620580</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 Nov 2021 06:10:04 GMT</pubDate>
             <content:encoded><![CDATA[6:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211116_222/nsHQ4_1637040276970rBpHW_JPEG/1637040229491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] episode 4-10. ㅅㅅㅎ, ㅁㄷㅋㄹㅇ 빅나티와 매드클라운 심장을 조종하는 마법 단어?]]></title>
-            <link>https://tv.naver.com/v/23540387</link>
-            <guid>https://tv.naver.com/v/23540387</guid>
-            <pubDate>Mon, 15 Nov 2021 12:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_65/hM2UN_1636974846244Fkvp6_JPEG/1636974840379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
