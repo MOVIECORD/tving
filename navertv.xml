@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 06:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 07:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 19 Nov 2021 18:09:29 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_109/oAY3I_1637343086002C8KON_JPEG/1637343072127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 서울] 아무도 믿을 수 없는 이 곳💘 반전의 반전을 숨기고 있다? | 2화 예고]]></title>
+            <link>https://tv.naver.com/v/23627537</link>
+            <guid>https://tv.naver.com/v/23627537</guid>
+            <pubDate>Sat, 20 Nov 2021 07:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211120_77/aqZK3_1637339854886Xs3gI_JPEG/1637339840899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EMERGENCY] 이게 자선사업도 아니고.. 래퍼바라기 양동근 원장은 각성하라! | 6화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Nov 2021 06:10:04 GMT</pubDate>
             <content:encoded><![CDATA[5:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_228/SEg7N_1637214196841IFeNa_JPEG/1637214193217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] 이제 왜 아파트 봉쇄가 필요한 이유를 아시겠어요?  | 1-4화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/23567321</link>
-            <guid>https://tv.naver.com/v/23567321</guid>
-            <pubDate>Thu, 18 Nov 2021 03:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[4:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211116_218/pJvlE_1637069462922fJJP2_JPEG/1637069457539.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
