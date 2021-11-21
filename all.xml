@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 00:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 01:54:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,6 +176,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_106/rjZ6A_1637338006756YgoKT_JPEG/1637337963943.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해피니스] 조우진, 사태 수습을 위한 최악의 선택을...? | 7화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23624262</link>
+            <guid>https://tv.naver.com/v/23624262</guid>
+            <pubDate>Sun, 21 Nov 2021 01:53:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_129/9xNaA_1637324598490a88cv_JPEG/1637324542144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해피니스] 감염자와 갇힌 한효주! 이기적인 주민들의 반란? | 6화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23624226</link>
             <guid>https://tv.naver.com/v/23624226</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Nov 2021 09:08:41 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_55/bb0MS_1637226409264ilxQE_JPEG/1637226370669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] 설레는 나를 봐 너무 설레❣ 긴장과 두근거림의 첫 만남! | 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23596780</link>
-            <guid>https://tv.naver.com/v/23596780</guid>
-            <pubDate>Thu, 18 Nov 2021 06:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[5:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_228/SEg7N_1637214196841IFeNa_JPEG/1637214193217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
