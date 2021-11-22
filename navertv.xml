@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 06:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 07:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[티빙 라인업] 11월 다양한 티빙 콘텐츠를 입맛대로 즐겨보세요💜]]></title>
+            <link>https://tv.naver.com/v/23666183</link>
+            <guid>https://tv.naver.com/v/23666183</guid>
+            <pubDate>Mon, 22 Nov 2021 07:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_288/XFIz6_1637560793806e9iuV_PNG/1637560754441.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 서울] 1화 풀버전 | Love or Money, 당신은 어떤 사람입니까?]]></title>
             <link>https://tv.naver.com/v/23665943</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 Nov 2021 06:09:33 GMT</pubDate>
             <content:encoded><![CDATA[5:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211119_71/enaIL_1637323465447q4v5R_JPEG/1637323400630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[어른연습생] 나은이도 드디어 모쏠탈출 하나요?ㅣ나은편 예고]]></title>
-            <link>https://tv.naver.com/v/23623951</link>
-            <guid>https://tv.naver.com/v/23623951</guid>
-            <pubDate>Sat, 20 Nov 2021 04:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_204/gUoRH_1637323370026eTvQu_JPEG/1637323320581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
