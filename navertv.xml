@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 14:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 15:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 술도녀에게 닥친 인생 최대 시련ㅣ11화 예고]]></title>
+            <link>https://tv.naver.com/v/23677888</link>
+            <guid>https://tv.naver.com/v/23677888</guid>
+            <pubDate>Mon, 22 Nov 2021 15:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_19/AMixR_1637590566041ADSeJ_JPEG/1637590533723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 이선빈X최시원 베드씬부터 한선화의 데이트, 정은지X동생의 꽁냥 모먼트]]></title>
+            <link>https://tv.naver.com/v/23677808</link>
+            <guid>https://tv.naver.com/v/23677808</guid>
+            <pubDate>Mon, 22 Nov 2021 15:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[14:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_75/k3TeH_1637590335132ofURX_JPEG/1637590244966.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 정은지, 이선빈 얼굴에 냉수 뿌린 이유는? 열연 돋보인 장례식씬 메이킹]]></title>
+            <link>https://tv.naver.com/v/23677736</link>
+            <guid>https://tv.naver.com/v/23677736</guid>
+            <pubDate>Mon, 22 Nov 2021 15:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[10:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_296/H9CpO_1637590120907Iy20U_JPEG/1637590004889.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[티빙 라인업] 11월 다양한 티빙 콘텐츠를 입맛대로 즐겨보세요💜]]></title>
             <link>https://tv.naver.com/v/23666183</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
             <content:encoded><![CDATA[4:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_106/rjZ6A_1637338006756YgoKT_JPEG/1637337963943.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] 조우진, 사태 수습을 위한 최악의 선택을...? | 7화 예고]]></title>
-            <link>https://tv.naver.com/v/23624262</link>
-            <guid>https://tv.naver.com/v/23624262</guid>
-            <pubDate>Sun, 21 Nov 2021 01:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_129/9xNaA_1637324598490a88cv_JPEG/1637324542144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피니스] 감염자와 갇힌 한효주! 이기적인 주민들의 반란? | 6화 예고]]></title>
-            <link>https://tv.naver.com/v/23624226</link>
-            <guid>https://tv.naver.com/v/23624226</guid>
-            <pubDate>Sat, 20 Nov 2021 01:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_70/lbfrA_16373245040884omBc_JPEG/1637324432679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[어른연습생] 본투비 유교걸이 전체관람가를 벗어났다🔥🔥 | 유라편 5분 미리보기]]></title>
-            <link>https://tv.naver.com/v/23623973</link>
-            <guid>https://tv.naver.com/v/23623973</guid>
-            <pubDate>Sat, 20 Nov 2021 06:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[5:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_71/enaIL_1637323465447q4v5R_JPEG/1637323400630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
