@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 09:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 10:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 오리지널 [러브캐처 in SEOUL] 온라인 제작발표회 (full ver)]]></title>
+            <link>https://tv.naver.com/v/23700099</link>
+            <guid>https://tv.naver.com/v/23700099</guid>
+            <pubDate>Tue, 23 Nov 2021 10:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[41:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_119/2YwdE_1637661022089UzP2t_JPEG/1637660814783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들] 술도녀에게 닥친 인생 최대 시련ㅣ11화 예고]]></title>
             <link>https://tv.naver.com/v/23677888</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_43/k1qdp_1637338094184pQl66_JPEG/1637338082281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep1-1. "첫 눈에 반해본 적은 없어요" 서울의 바에서 만나는 첫 출연자는?]]></title>
-            <link>https://tv.naver.com/v/23627211</link>
-            <guid>https://tv.naver.com/v/23627211</guid>
-            <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[4:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211120_106/rjZ6A_1637338006756YgoKT_JPEG/1637337963943.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
