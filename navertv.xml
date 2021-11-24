@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 07:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 08:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 서울] 5천만원VS찐사랑 러브맨션 입성 전 9인 남녀의 속마음 공개 | 9인 인터뷰]]></title>
+            <link>https://tv.naver.com/v/23717229</link>
+            <guid>https://tv.naver.com/v/23717229</guid>
+            <pubDate>Wed, 24 Nov 2021 08:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_84/gIk2T_1637740668002KouKz_JPEG/1637740599290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해피니스] 하마터면 철창 박살 엔딩 볼뻔했던 열정 비하인드 | 5-6화 메이킹]]></title>
+            <link>https://tv.naver.com/v/23716603</link>
+            <guid>https://tv.naver.com/v/23716603</guid>
+            <pubDate>Wed, 24 Nov 2021 08:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[6:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_72/JrdUG_1637739122988ylVsf_JPEG/1637738948079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 오리지널 [러브캐처 in SEOUL] 온라인 제작발표회 (full ver)]]></title>
             <link>https://tv.naver.com/v/23700099</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_205/juTpQ_1637338239216FrnGm_JPEG/1637338211337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep1-3. 잠깐. 의자가 9개면 안 맞잖아? 당황스러운 흐름에 둥절한 출연자]]></title>
-            <link>https://tv.naver.com/v/23627251</link>
-            <guid>https://tv.naver.com/v/23627251</guid>
-            <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211120_257/seOW8_1637338177954sHmQu_JPEG/1637338165571.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep1-2. 입장과 동시에 PO적극WER 출연자의 등장✨]]></title>
-            <link>https://tv.naver.com/v/23627234</link>
-            <guid>https://tv.naver.com/v/23627234</guid>
-            <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211120_43/k1qdp_1637338094184pQl66_JPEG/1637338082281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
