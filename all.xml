@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 08:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 09:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 24 Nov 2021 08:09:59 GMT</pubDate>
             <content:encoded><![CDATA[6:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211124_72/JrdUG_1637739122988ylVsf_JPEG/1637738948079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 거부할 수 없는 너의 마력은 마곱능이 | 양양편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23716450</link>
+            <guid>https://tv.naver.com/v/23716450</guid>
+            <pubDate>Wed, 24 Nov 2021 09:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_68/Rlh4F_1637738843486NBoIM_JPEG/1637738759489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [러브캐처 in SEOUL] 온라인 제작발표회 (full ver) (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_114/dre9l_1637338322200HFX1b_JPEG/1637338299984.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep1-4. 머니캐처에게 주어지는 특별한 혜택은? 이미 쫄깃해진 심장..😎 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23627261</link>
-            <guid>https://tv.naver.com/v/23627261</guid>
-            <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211120_205/juTpQ_1637338239216FrnGm_JPEG/1637338211337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
