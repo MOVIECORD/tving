@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 00:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 01:52:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 러브캐처 인 서울 [단독 선공개] 충격x소름! 캐처들을 뒤집어 놓은 메기의 정체는? (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23722840</link>
+            <guid>https://tv.naver.com/v/23722840</guid>
+            <pubDate>Thu, 25 Nov 2021 01:52:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_93/orRLd_1637756418971O0tqa_JPEG/1637756300581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 서울] 5천만원VS찐사랑 러브맨션 입성 전 9인 남녀의 속마음 공개 | 9인 인터뷰 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23717229</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
             <content:encoded><![CDATA[4:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_295/7pAVT_16373384106488Y4C0_JPEG/1637338367596.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep1-5. 숙소에 혼자 오게 될 누군가? 저기요, 첫 미션부터 당황스러운데 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23627279</link>
-            <guid>https://tv.naver.com/v/23627279</guid>
-            <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211120_114/dre9l_1637338322200HFX1b_JPEG/1637338299984.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
