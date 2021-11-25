@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 06:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 07:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[갓스타] 최후의 갓스타는 누구?! 상상도 못한 정체 ㄴㅇㄱㅣ최종화 예고]]></title>
+            <link>https://tv.naver.com/v/23735673</link>
+            <guid>https://tv.naver.com/v/23735673</guid>
+            <pubDate>Thu, 25 Nov 2021 07:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_128/VeFpw_1637818005253NXvSj_JPEG/1637817931597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 러브캐처 인 서울 [단독 선공개] 충격x소름! 캐처들을 뒤집어 놓은 메기의 정체는?]]></title>
             <link>https://tv.naver.com/v/23722840</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_151/fpW6p_1637338456634XUiQM_JPEG/1637338440592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep1-6. 왜 호감이 있다고 말을 못해! 이 사람이 궁금하다 왜 말을 못해!]]></title>
-            <link>https://tv.naver.com/v/23627292</link>
-            <guid>https://tv.naver.com/v/23627292</guid>
-            <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211120_295/7pAVT_16373384106488Y4C0_JPEG/1637338367596.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
