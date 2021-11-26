@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 09:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 10:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 26 Nov 2021 09:08:43 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211126_39/r8tO1_1637916699218DBubP_JPEG/1637916639699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[백수세끼] 백수도 배는 고프다...! 12월 10일 티빙 최초공개🍽 | 캐릭터 티저 영상]]></title>
+            <link>https://tv.naver.com/v/23763860</link>
+            <guid>https://tv.naver.com/v/23763860</guid>
+            <pubDate>Fri, 26 Nov 2021 10:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_183/591j0_16379166290192djRH_JPEG/1637916563667.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[여고추리반2] "자.. 이제부터 진짜 시작인가✨" 다시 봐도 소름돋는 비하인드 | 예습복습회]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_20/AOAN7_1637338678056VP63y_JPEG/1637338625791.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep1-9. 선택한 사람과 숙소까지 함께 가는 길🚘 과몰입이 시작된다]]></title>
-            <link>https://tv.naver.com/v/23627323</link>
-            <guid>https://tv.naver.com/v/23627323</guid>
-            <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211120_276/NSBiW_1637338590180PFeti_JPEG/1637338563591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
