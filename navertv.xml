@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 00:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:49:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여고추리반2] "자.. 이제부터 진짜 시작인가✨" 다시 봐도 소름돋는 비하인드 | 예습복습회]]></title>
+            <link>https://tv.naver.com/v/23749272</link>
+            <guid>https://tv.naver.com/v/23749272</guid>
+            <pubDate>Fri, 26 Nov 2021 01:49:34 GMT</pubDate>
+            <content:encoded><![CDATA[16:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_132/Igdp5_1637851687564N48dV_JPEG/1637851685286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[갓스타] 최후의 갓스타는 누구?! 상상도 못한 정체 ㄴㅇㄱㅣ최종화 예고]]></title>
             <link>https://tv.naver.com/v/23735673</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_283/NS1PI_16373385188893ckNK_JPEG/1637338489292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep1-7. 포르쉐 앞에서 작아만지는 남자.. 과연 여자의 선택은?]]></title>
-            <link>https://tv.naver.com/v/23627301</link>
-            <guid>https://tv.naver.com/v/23627301</guid>
-            <pubDate>Sat, 20 Nov 2021 00:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211120_151/fpW6p_1637338456634XUiQM_JPEG/1637338440592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
