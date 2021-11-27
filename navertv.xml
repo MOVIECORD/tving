@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 00:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 01:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해피니스] 모두가 마시는 음료수에 넥스트를 섞었다고? | 8화 예고]]></title>
+            <link>https://tv.naver.com/v/23769583</link>
+            <guid>https://tv.naver.com/v/23769583</guid>
+            <pubDate>Sat, 27 Nov 2021 01:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211127_134/r4T38_1637940894403rk9Nk_JPEG/1637940831165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 서울] Ep2-6. 2화 만에 머니캐처 공개 실화임? 이거 괜찮아요…?]]></title>
             <link>https://tv.naver.com/v/23768960</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 21 Nov 2021 03:08:32 GMT</pubDate>
             <content:encoded><![CDATA[4:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_3/Z8bcx_1637343561645LGiM3_JPEG/1637343550353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] episode 5-8. 쇼미,언더*머 흑역사로 얼룩진 릴러말즈 과거, 근데 망신살을 곁들인..]]></title>
-            <link>https://tv.naver.com/v/23628049</link>
-            <guid>https://tv.naver.com/v/23628049</guid>
-            <pubDate>Sun, 21 Nov 2021 03:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211120_106/jfAm2_16373434745437VX67_JPEG/1637343459887.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
