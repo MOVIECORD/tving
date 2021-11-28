@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 02:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 03:08:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,38 @@
             <pubDate>Sat, 27 Nov 2021 00:25:52 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211126_283/T5pli_1637936844818Qw1Ri_JPEG/1637936834096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EMERGENCY] episode 6-2(4). 불 꺼진 병원, 잠입한 누군가… 시트콤의 미스터리화 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23768725</link>
+            <guid>https://tv.naver.com/v/23768725</guid>
+            <pubDate>Sun, 28 Nov 2021 03:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_70/2N0xQ_1637935732653UpLlt_JPEG/1637935652825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EMERGENCY] episode 6-2(3). 멘탈 치료해준다더니 관상을 왜 봐주는 거죠? 카더가든 작두 타는 날 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23768710</link>
+            <guid>https://tv.naver.com/v/23768710</guid>
+            <pubDate>Sun, 28 Nov 2021 03:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_286/1troH_1637935641420yiALu_JPEG/1637935602838.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EMERGENCY] episode 6-2(2). 등장부터 진료까지 진짜 이상한 사람들이 왔다. 이름이? 바밍타이거? (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23768690</link>
+            <guid>https://tv.naver.com/v/23768690</guid>
+            <pubDate>Sun, 28 Nov 2021 03:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[7:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_233/Uw7SL_1637935586695U8xQk_JPEG/1637935568331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EMERGENCY] episode 6-2(1). 흥이 넘치는 병원은 장기하도 랩하게 만든다🎉 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23768688</link>
+            <guid>https://tv.naver.com/v/23768688</guid>
+            <pubDate>Sun, 28 Nov 2021 03:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[7:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_20/fdeWT_1637935580716lRJYD_JPEG/1637935466603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EMERGENCY] episode6-1(7). 유명 래퍼가 왔으니 바가지도 씌우고 호구(?)도 만들고 일석이조 (TVING ─ NAVER TV)]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 24 Nov 2021 09:08:24 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211124_68/Rlh4F_1637738843486NBoIM_JPEG/1637738759489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 [러브캐처 in SEOUL] 온라인 제작발표회 (full ver) (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23700099</link>
-            <guid>https://tv.naver.com/v/23700099</guid>
-            <pubDate>Tue, 23 Nov 2021 10:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[41:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_119/2YwdE_1637661022089UzP2t_JPEG/1637660814783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들] 술도녀에게 닥친 인생 최대 시련ㅣ11화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23677888</link>
-            <guid>https://tv.naver.com/v/23677888</guid>
-            <pubDate>Mon, 22 Nov 2021 15:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_19/AMixR_1637590566041ADSeJ_JPEG/1637590533723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들] 이선빈X최시원 베드씬부터 한선화의 데이트, 정은지X동생의 꽁냥 모먼트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23677808</link>
-            <guid>https://tv.naver.com/v/23677808</guid>
-            <pubDate>Mon, 22 Nov 2021 15:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[14:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_75/k3TeH_1637590335132ofURX_JPEG/1637590244966.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들] 정은지, 이선빈 얼굴에 냉수 뿌린 이유는? 열연 돋보인 장례식씬 메이킹 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23677736</link>
-            <guid>https://tv.naver.com/v/23677736</guid>
-            <pubDate>Mon, 22 Nov 2021 15:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[10:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_296/H9CpO_1637590120907Iy20U_JPEG/1637590004889.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
