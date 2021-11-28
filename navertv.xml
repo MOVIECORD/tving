@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 00:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 01:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 27 Nov 2021 07:08:29 GMT</pubDate>
             <content:encoded><![CDATA[6:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211127_259/DzgVl_1637949026227uBgCj_JPEG/1637948962210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해피니스] 한효주 분노 폭발! 숨은 감염자 찾아볼까 | 9화 예고]]></title>
+            <link>https://tv.naver.com/v/23769599</link>
+            <guid>https://tv.naver.com/v/23769599</guid>
+            <pubDate>Sun, 28 Nov 2021 01:47:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211127_160/yhCMq_1637941000634sCEBa_JPEG/1637940931833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해피니스] 모두가 마시는 음료수에 넥스트를 섞었다고? | 8화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 Nov 2021 15:09:05 GMT</pubDate>
             <content:encoded><![CDATA[10:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211122_296/H9CpO_1637590120907Iy20U_JPEG/1637590004889.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙 라인업] 11월 다양한 티빙 콘텐츠를 입맛대로 즐겨보세요💜]]></title>
-            <link>https://tv.naver.com/v/23666183</link>
-            <guid>https://tv.naver.com/v/23666183</guid>
-            <pubDate>Mon, 22 Nov 2021 07:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_288/XFIz6_1637560793806e9iuV_PNG/1637560754441.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
