@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 07:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[어른연습생] 재민X예경 귀엽고 사랑스럽고 다합니다만! | 재민편 제작기 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23798194</link>
+            <guid>https://tv.naver.com/v/23798194</guid>
+            <pubDate>Mon, 29 Nov 2021 08:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_259/g8Waj_1638168315696nftjF_PNG/1638168260147.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[어른연습생]훈남들이 모쏠인 내게 다가온다? 러브레터 속 J는 누구? | 나은편 5분 미리보기 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23797991</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Nov 2021 01:52:25 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211124_93/orRLd_1637756418971O0tqa_JPEG/1637756300581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] 5천만원VS찐사랑 러브맨션 입성 전 9인 남녀의 속마음 공개 | 9인 인터뷰 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23717229</link>
-            <guid>https://tv.naver.com/v/23717229</guid>
-            <pubDate>Wed, 24 Nov 2021 08:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_84/gIk2T_1637740668002KouKz_JPEG/1637740599290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
