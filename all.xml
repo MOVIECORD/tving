@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 04:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 05:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아이돌 받아쓰기 대회2] 슈주부터 스키즈까지 아이돌 세대 대통합💖 | 티저 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23795943</link>
+            <guid>https://tv.naver.com/v/23795943</guid>
+            <pubDate>Mon, 29 Nov 2021 05:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_245/3qNbc_1638162424712QULjz_JPEG/1638162422451.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해피니스] 유독 해피니스 현장에서 잘 옮는 것: 웃음, 귀여움, 흥 | 5-6화 스케치 메이킹 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23770276</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Nov 2021 08:09:59 GMT</pubDate>
             <content:encoded><![CDATA[6:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211124_72/JrdUG_1637739122988ylVsf_JPEG/1637738948079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 거부할 수 없는 너의 마력은 마곱능이 | 양양편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23716450</link>
-            <guid>https://tv.naver.com/v/23716450</guid>
-            <pubDate>Wed, 24 Nov 2021 09:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_68/Rlh4F_1637738843486NBoIM_JPEG/1637738759489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
