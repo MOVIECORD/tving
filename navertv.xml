@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 00:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 01:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해피 뉴 이어] 새해에 로맨스는 국룰! 이 배우들과 거하게 설레고 싶다💘 | 런칭 예고]]></title>
+            <link>https://tv.naver.com/v/23805540</link>
+            <guid>https://tv.naver.com/v/23805540</guid>
+            <pubDate>Tue, 30 Nov 2021 01:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_194/Psq5P_1638192056516q7AxC_JPEG/1638192041960.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[어른연습생] 재민X예경 귀엽고 사랑스럽고 다합니다만! | 재민편 제작기]]></title>
             <link>https://tv.naver.com/v/23798194</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Nov 2021 07:10:02 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211125_128/VeFpw_1637818005253NXvSj_JPEG/1637817931597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 러브캐처 인 서울 [단독 선공개] 충격x소름! 캐처들을 뒤집어 놓은 메기의 정체는?]]></title>
-            <link>https://tv.naver.com/v/23722840</link>
-            <guid>https://tv.naver.com/v/23722840</guid>
-            <pubDate>Thu, 25 Nov 2021 01:52:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_93/orRLd_1637756418971O0tqa_JPEG/1637756300581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
