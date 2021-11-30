@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 13:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 14:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들] 이선빈X한선화에게 사랑받는(?) 정은지💓 지구방위대씬 비하인드]]></title>
+            <link>https://tv.naver.com/v/23826072</link>
+            <guid>https://tv.naver.com/v/23826072</guid>
+            <pubDate>Tue, 30 Nov 2021 14:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[12:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211130_262/3Hciy_1638280544584Oo8ki_JPEG/1638280476322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EMERGENCY] 하이라이트 #2. 광기엔 광기로 잡는다‼ 퇴마 수준의 멘탈 처방 맛집💊]]></title>
+            <link>https://tv.naver.com/v/23825938</link>
+            <guid>https://tv.naver.com/v/23825938</guid>
+            <pubDate>Tue, 30 Nov 2021 14:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[5:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211130_258/iaCmN_1638279743687GOxNO_JPEG/1638279673805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EMERGENCY] 하이라이트 #1. 중간은 없는 국힙래퍼들의 은은한 광기💫와 쉽지 않은 진단]]></title>
+            <link>https://tv.naver.com/v/23825749</link>
+            <guid>https://tv.naver.com/v/23825749</guid>
+            <pubDate>Tue, 30 Nov 2021 14:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[6:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211130_214/6yMJu_1638278831604vYSIa_JPEG/1638278746706.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아이돌 받아쓰기 대회2] 슈주부터 스키즈까지 아이돌 세대 대통합💘 | 티저 영상]]></title>
             <link>https://tv.naver.com/v/23812496</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 26 Nov 2021 13:15:34 GMT</pubDate>
             <content:encoded><![CDATA[4:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211126_150/owkV7_1637931202440UvucY_JPEG/1637931123794.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] 관상 이즈 사이언스? 편견상(face) 래퍼 오왼과 던밀스의 말 못할 고민! | 7화 예고]]></title>
-            <link>https://tv.naver.com/v/23763895</link>
-            <guid>https://tv.naver.com/v/23763895</guid>
-            <pubDate>Fri, 26 Nov 2021 09:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_39/r8tO1_1637916699218DBubP_JPEG/1637916639699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백수세끼] 백수도 배는 고프다...! 12월 10일 티빙 최초공개🍽 | 캐릭터 티저 영상]]></title>
-            <link>https://tv.naver.com/v/23763860</link>
-            <guid>https://tv.naver.com/v/23763860</guid>
-            <pubDate>Fri, 26 Nov 2021 10:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_183/591j0_16379166290192djRH_JPEG/1637916563667.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여고추리반2] "자.. 이제부터 진짜 시작인가✨" 다시 봐도 소름돋는 비하인드 | 예습복습회]]></title>
-            <link>https://tv.naver.com/v/23749272</link>
-            <guid>https://tv.naver.com/v/23749272</guid>
-            <pubDate>Fri, 26 Nov 2021 01:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[16:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_132/Igdp5_1637851687564N48dV_JPEG/1637851685286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
