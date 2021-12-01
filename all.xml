@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 10:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 11:07:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 서울] 둘 만의 나이트 데이트? 커플 화보 촬영과 사라진 출연자 | 3화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23845399</link>
+            <guid>https://tv.naver.com/v/23845399</guid>
+            <pubDate>Wed, 01 Dec 2021 11:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_22/klKYu_1638352174761B2Tm9_JPEG/c1fc458e-528b-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 서울] 이 텐션 감당할 수 있겠어? 격해지는 호감 시그널💕 | 3화 미리보기 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23833029</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 Nov 2021 14:07:56 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211126_28/PccvD_16379350112043wW6A_JPEG/1637934981075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] episode 6-1(2). "직원 행복 보장하라!" 하나의 뮤지컬을 방불케하는 집단 시위의 현장 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23768552</link>
-            <guid>https://tv.naver.com/v/23768552</guid>
-            <pubDate>Fri, 26 Nov 2021 14:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[4:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_244/bnJ4c_16379349364134bWAf_JPEG/1637934885586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
