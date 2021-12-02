@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 00:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 01:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 01 Dec 2021 11:07:15 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_22/klKYu_1638352174761B2Tm9_JPEG/c1fc458e-528b-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 러브캐처 인 서울 [단독 선공개] "내 입술 보고 있어? 무슨 생각해?" 이 텐션 찐이다.. (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23843842</link>
+            <guid>https://tv.naver.com/v/23843842</guid>
+            <pubDate>Thu, 02 Dec 2021 01:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_98/NwNeM_1638348206781szSxk_JPEG/1638347763018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 새우에 자꾸 손이 가는 건 싸이언스 | 속초편 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Nov 2021 03:08:31 GMT</pubDate>
             <content:encoded><![CDATA[5:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211126_88/QwbDw_1637935057460nEygA_JPEG/1637935035029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] episode 6-1(3). 마미손-카더가든-넉살이 한 자리에🔥 근데 자꾸 기분이 바뀌어 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23768567</link>
-            <guid>https://tv.naver.com/v/23768567</guid>
-            <pubDate>Fri, 26 Nov 2021 14:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[7:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_141/rYMDi_163793502709639Ent_JPEG/1637934970941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
