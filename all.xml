@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 09:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 10:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해피니스] 둘,셋! 안녕하세요 감염자 싹쓰리하는 해피쓰리입니다 | 7-8화 스케치 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23863146</link>
+            <guid>https://tv.naver.com/v/23863146</guid>
+            <pubDate>Thu, 02 Dec 2021 10:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[5:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_130/ZKybQ_1638436338399v8O1D_JPEG/1638436039308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 서울] 둘 만의 나이트 데이트? 커플 화보 촬영과 사라진 출연자 | 3화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23845399</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Nov 2021 03:08:31 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211126_241/bJhYB_1637935104169n02tk_JPEG/1637935065617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] episode 6-1(5). 사리사리 넉살에게 '작은 것'이란 무엇인가 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23768575</link>
-            <guid>https://tv.naver.com/v/23768575</guid>
-            <pubDate>Sat, 27 Nov 2021 03:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[5:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_88/QwbDw_1637935057460nEygA_JPEG/1637935035029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
