@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 22:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 23:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 03 Dec 2021 12:12:07 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_37/PAZfF_1638531106372qNhKH_JPEG/1638531092314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해피니스] 박형식, 조우진에게 마지막으로 한효주를 부탁하다? | 10화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23889333</link>
+            <guid>https://tv.naver.com/v/23889333</guid>
+            <pubDate>Fri, 03 Dec 2021 23:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_151/ACYC6_1638527634148W9y8l_JPEG/1638527542690.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해피니스] 둘,셋! 안녕하세요 감염자 싹쓰리하는 해피쓰리입니다 | 7-8화 스케치 메이킹 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Nov 2021 00:25:52 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211126_283/T5pli_1637936844818Qw1Ri_JPEG/1637936834096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] episode 6-2(4). 불 꺼진 병원, 잠입한 누군가… 시트콤의 미스터리화 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23768725</link>
-            <guid>https://tv.naver.com/v/23768725</guid>
-            <pubDate>Sun, 28 Nov 2021 03:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_70/2N0xQ_1637935732653UpLlt_JPEG/1637935652825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
