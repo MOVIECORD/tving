@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 22:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 23:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_37/PAZfF_1638531106372qNhKH_JPEG/1638531092314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해피니스] 박형식 감염?! 그리고 드디어 밝혀지는 앤드류의 정체 | 11화 예고]]></title>
+            <link>https://tv.naver.com/v/23889354</link>
+            <guid>https://tv.naver.com/v/23889354</guid>
+            <pubDate>Sat, 04 Dec 2021 23:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_176/wutww_1638527732325ps1Gt_JPEG/1638527663166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해피니스] 박형식, 조우진에게 마지막으로 한효주를 부탁하다? | 10화 예고]]></title>
             <link>https://tv.naver.com/v/23889333</link>
             <guid>https://tv.naver.com/v/23889333</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 Nov 2021 05:06:48 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211130_18/5VYAo_1638245615567sLq1C_JPEG/1638245612946.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피 뉴 이어] 새해에 로맨스는 국룰! 이 배우들과 거하게 설레고 싶다💘 | 런칭 예고]]></title>
-            <link>https://tv.naver.com/v/23805540</link>
-            <guid>https://tv.naver.com/v/23805540</guid>
-            <pubDate>Tue, 30 Nov 2021 01:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_194/Psq5P_1638192056516q7AxC_JPEG/1638192041960.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
