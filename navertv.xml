@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 23:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 00:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_37/PAZfF_1638531106372qNhKH_JPEG/1638531092314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[아이돌 받아쓰기 대회2] 안녕! 지금부터 우리 소개를 하지 | 자기소개 영상]]></title>
+            <link>https://tv.naver.com/v/23889974</link>
+            <guid>https://tv.naver.com/v/23889974</guid>
+            <pubDate>Mon, 06 Dec 2021 00:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_193/YGh4e_1638530170989dyfF1_JPEG/1638530140076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해피니스] 박형식 감염?! 그리고 드디어 밝혀지는 앤드류의 정체 | 11화 예고]]></title>
             <link>https://tv.naver.com/v/23889354</link>
             <guid>https://tv.naver.com/v/23889354</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 Nov 2021 14:07:58 GMT</pubDate>
             <content:encoded><![CDATA[12:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211130_262/3Hciy_1638280544584Oo8ki_JPEG/1638280476322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] 하이라이트 #2. 광기엔 광기로 잡는다‼ 퇴마 수준의 멘탈 처방 맛집💊]]></title>
-            <link>https://tv.naver.com/v/23825938</link>
-            <guid>https://tv.naver.com/v/23825938</guid>
-            <pubDate>Tue, 30 Nov 2021 14:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[5:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211130_258/iaCmN_1638279743687GOxNO_JPEG/1638279673805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
