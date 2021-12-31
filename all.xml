@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 08:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 09:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 31 Dec 2021 02:00:20 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_192/T0CGM_1640872278492lTFo2_JPEG/1640872204194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여고추리반2] 아깐 하하호호하더니..😮 밤이 되면 드러나는 태평여고의 괴담? | 2화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24361726</link>
+            <guid>https://tv.naver.com/v/24361726</guid>
+            <pubDate>Fri, 31 Dec 2021 09:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_188/R5UQR_16408721634469hoEq_JPEG/1640872085947.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[내과 박원장] 슬기롭고 '싶은' 의사생활, 과연 현실은?ㅣ메인 예고 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[9:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211224_249/19ev7_1640346511634ENYBL_JPEG/1640346455704.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] episode10-1. 행복한 직원들 사이 어딘가 씁쓸한 표정의 양동근 원장, 무슨 일이야?! (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24252786</link>
-            <guid>https://tv.naver.com/v/24252786</guid>
-            <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_1/YujVw_1640346437793vU790_JPEG/1640346246802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
