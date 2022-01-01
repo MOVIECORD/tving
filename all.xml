@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 03:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 04:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아이돌 받아쓰기 대회2] 오마이걸 미미X유아 불꽃 케미 선사하러 왔어요🔥 | 4주차 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24377962</link>
+            <guid>https://tv.naver.com/v/24377962</guid>
+            <pubDate>Sat, 01 Jan 2022 04:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_156/sk71z_1640949025070tId1V_JPEG/1640949002597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 서울] Ep7-7. "한 잔하고 갈까?" 으른연애란 이런 것♨♨ (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24377727</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211225_124/HCuSS_1640362994794suzWb_JPEG/1640362976127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep6-5. 왜 슬픈 예감은 틀린 적이 없나😢 다나가 재형을 불러낸 이유 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24255960</link>
-            <guid>https://tv.naver.com/v/24255960</guid>
-            <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211225_60/mBLrK_1640362972264Br6tN_JPEG/1640362938888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
