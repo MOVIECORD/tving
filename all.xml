@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 02:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 03:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여고추리반2] Ep1-3. 추리반이 있었는데 없어졌습니다. 단 1명 남은 추리반 친구 찾기🔍 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24380742</link>
+            <guid>https://tv.naver.com/v/24380742</guid>
+            <pubDate>Sun, 02 Jan 2022 03:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_105/6F5hs_1640966208009L6iVW_JPEG/1640966174050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여고추리반2] Ep1-2. 유난히 적극적인 담임쌤을 만나 두근두근하는 추리반 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24380734</link>
+            <guid>https://tv.naver.com/v/24380734</guid>
+            <pubDate>Sun, 02 Jan 2022 03:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_208/734th_1640966053490ndYW5_JPEG/1640966025886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여고추리반2] Ep1-1. (랜선투어) 새 학교 규모 무엇? 전방에 감탄 발사! 이 곳이 극락이다... (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24380721</link>
+            <guid>https://tv.naver.com/v/24380721</guid>
+            <pubDate>Sun, 02 Jan 2022 03:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_10/OU0vl_1640965923041LjnUW_JPEG/1640965908320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 서울] "뭘 어떻게 해야될지 모르겠어요" 최종 선택의 순간 | 8화 미리보기 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24378928</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_233/ylsoA_1640588386911RdCIN_JPEG/1640588307913.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아이돌 받아쓰기 대회2] 우리한테 왜그래요?😱작정하고 높아진 난이도!ㅣ밸런스게임2탄 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24287485</link>
-            <guid>https://tv.naver.com/v/24287485</guid>
-            <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_189/sHF3R_1640574694674SHW3A_JPEG/1640574380599.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep6-8. 당신에게 주어진 모든 것을 바꿀 한 번의 기회, 정체 체인지 시간 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24255987</link>
-            <guid>https://tv.naver.com/v/24255987</guid>
-            <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211225_101/ic8cO_164036308882450u7h_JPEG/1640363076896.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep6-7. "이제 러브던지 머니던지 상관 없어" 지민-다나의 솔직한 대화 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24255971</link>
-            <guid>https://tv.naver.com/v/24255971</guid>
-            <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211225_157/G6LCZ_164036304311868QUv_JPEG/1640363002620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
