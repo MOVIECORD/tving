@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 10:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 11:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[티빙 라인업] 새해에도 티빙과 함께해요💜]]></title>
+            <link>https://tv.naver.com/v/24420466</link>
+            <guid>https://tv.naver.com/v/24420466</guid>
+            <pubDate>Tue, 04 Jan 2022 11:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_252/NDkmj_1641261051541z2QwJ_PNG/1641260983200.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[해피니스] 본편만큼 꿀잼보장🔥 작감배가 함께하는 멜로 해명(?)과 무물타임| 코멘터리]]></title>
             <link>https://tv.naver.com/v/24410881</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_74/eOGAJ_1640596979424F1HU1_JPEG/1640596959646.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] 데이트 신청을 하고 싶은데 종이가 없다? 수원이를 보자 | 6화 다시보기]]></title>
-            <link>https://tv.naver.com/v/24296981</link>
-            <guid>https://tv.naver.com/v/24296981</guid>
-            <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_128/2cm4Z_16405969098204hzVN_JPEG/1640596869195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
