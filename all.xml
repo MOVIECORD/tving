@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 23:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 00:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[백종원의 사계- 이 계절 뭐 먹지?] 가장 맛있는 계절 ❄겨울❄ 그가 돌아온다! | 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24429975</link>
+            <guid>https://tv.naver.com/v/24429975</guid>
+            <pubDate>Wed, 05 Jan 2022 00:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_14/KypC2_1641288436077bfPaj_JPEG/1641288345560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[티빙 라인업] 새해에도 티빙과 함께해요💜 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24420466</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[4:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_171/6E0IR_1640597081246xBG8m_JPEG/1640597020412.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] "이런 적 없잖아" 모두를 충격에 빠뜨린 사건ㄷㄷ | 6화 다시보기 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24297009</link>
-            <guid>https://tv.naver.com/v/24297009</guid>
-            <pubDate>Wed, 29 Dec 2021 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_74/eOGAJ_1640596979424F1HU1_JPEG/1640596959646.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
