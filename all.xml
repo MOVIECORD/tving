@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 00:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 02:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[내과 박원장] 개원만 하면 다될줄 알았는데…돈💰걱정만 늘어나는 박원장😂 | 1주차 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24469365</link>
+            <guid>https://tv.naver.com/v/24469365</guid>
+            <pubDate>Fri, 07 Jan 2022 02:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_119/AlaJO_16414594178254QBCX_JPEG/1641459412346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ING터뷰] 멤버 방송까지 챙겨보는 진심, 이번 시즌 꼭 하고 싶은 것? | 여고추리반 최예나편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24440661</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 06:13:24 GMT</pubDate>
             <content:encoded><![CDATA[7:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_6/bK0bB_1640756611919774z9_JPEG/1640756511223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EMERGENCY] 하이라이트 #3. 이런 사람들 어디 있다 왔는지ㅋㅋ 의사 멘탈마저 털어가는 환자 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24333034</link>
-            <guid>https://tv.naver.com/v/24333034</guid>
-            <pubDate>Wed, 29 Dec 2021 06:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[10:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_121/ke8yZ_1640756601813OdtxE_JPEG/1640756455949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
