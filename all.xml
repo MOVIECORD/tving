@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 23:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 00:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,46 @@
             <pubDate>Fri, 07 Jan 2022 11:10:20 GMT</pubDate>
             <content:encoded><![CDATA[14:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_207/MOwCs_1641550280128MXEcj_JPEG/1641549972153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 서울] Ep8-5. 진심으로 다나에게 직진했던 두 사람, 최종 다나의 선택은? (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24491302</link>
+            <guid>https://tv.naver.com/v/24491302</guid>
+            <pubDate>Sat, 08 Jan 2022 00:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_141/g58DP_1641548808375WJ9Fi_JPEG/1641548769381.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 서울] Ep8-4. 최종 선택이 다가올 수록 깊어지는 그들의 고민 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24491288</link>
+            <guid>https://tv.naver.com/v/24491288</guid>
+            <pubDate>Sat, 08 Jan 2022 00:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_9/Af1t2_1641548760589kIj42_JPEG/1641548718484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 서울] Ep8-3. "얼굴 보니까 괜찮아" 미안한 다나와 위로하는 원재 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24491273</link>
+            <guid>https://tv.naver.com/v/24491273</guid>
+            <pubDate>Sat, 08 Jan 2022 00:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_111/dL8ho_16415487232153NXVo_JPEG/1641548690856.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 서울] Ep8-2. 하루종일 다나의 연락을 기다린 원재, 결국…😶 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24491259</link>
+            <guid>https://tv.naver.com/v/24491259</guid>
+            <pubDate>Sat, 08 Jan 2022 00:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_129/lyyCf_1641548683216JbU9W_JPEG/1641548650848.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 서울] Ep8-1. 마음은 디폴트✨ 마지막까지 하늘과 함께하고 싶은 수원의 진심 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24491248</link>
+            <guid>https://tv.naver.com/v/24491248</guid>
+            <pubDate>Sat, 08 Jan 2022 00:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_9/OB3C5_1641548633719Khy9f_JPEG/1641548531615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[여고추리반2] 살인 일어나자마자 실종이 또?! 방심할 수 없는 사건의 연속! | 3화 예고 (TVING ─ NAVER TV)]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Sat, 01 Jan 2022 00:37:55 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_197/3HwFv_1640947686529aIxqP_JPEG/1640947654812.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep7-6. 다나에게 올인한 원재의 기다림과 불안함 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24377717</link>
-            <guid>https://tv.naver.com/v/24377717</guid>
-            <pubDate>Sat, 01 Jan 2022 00:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_10/SII8V_1640947643203re27C_JPEG/1640947626267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep7-5. 모랫바닥에 네 이름을 새기고✨ 재형의 행동에 혼란스러운 인성 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24377697</link>
-            <guid>https://tv.naver.com/v/24377697</guid>
-            <pubDate>Sat, 01 Jan 2022 00:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_287/dIORQ_1640947590144hgThY_JPEG/1640947573055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep7-4. "수원씨 원래 안 이랬잖아요?" 스스럼 없이 표현하는 수원 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24377687</link>
-            <guid>https://tv.naver.com/v/24377687</guid>
-            <pubDate>Sat, 01 Jan 2022 00:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_90/NjEUp_1640947538276OGLU9_JPEG/1640947528265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep7-3. (해바라기톤) 꼭 그렇게 지나갔어야 했냐..! 씁쓸한 원재 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24377666</link>
-            <guid>https://tv.naver.com/v/24377666</guid>
-            <pubDate>Sat, 01 Jan 2022 00:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_277/oLjph_1640947477091nEE4s_JPEG/1640947453983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep7-2. "제 자신이 짠해져서…" 결국 눈물 터져버린 여민😭 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24377662</link>
-            <guid>https://tv.naver.com/v/24377662</guid>
-            <pubDate>Sat, 01 Jan 2022 00:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_147/R4Bzh_16409474470209eBSY_JPEG/1640947412986.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
