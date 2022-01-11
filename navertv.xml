@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 02:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 03:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[내과 박원장] 이 집 비주얼 맛집(?)이네✨ 포스터 촬영 현장 공개ㅣ티저&포스터 비하인드]]></title>
+            <link>https://tv.naver.com/v/24538793</link>
+            <guid>https://tv.naver.com/v/24538793</guid>
+            <pubDate>Tue, 11 Jan 2022 03:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[9:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_84/qZ0X5_1641868870377Kr350_JPEG/1641868861969.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아이돌 받아쓰기 대회2] 놀토랑 달라! 믿고 보는 도레미 조합 키X한해 왔다♪ | 5주차 예고]]></title>
             <link>https://tv.naver.com/v/24495327</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 02 Jan 2022 00:38:35 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_199/GWng9_16409543636950zXb1_JPEG/1640954308495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아이돌 받아쓰기 대회2] 오마이걸 미미X유아 불꽃 케미 선사하러 왔어요🔥 | 4주차 예고]]></title>
-            <link>https://tv.naver.com/v/24377962</link>
-            <guid>https://tv.naver.com/v/24377962</guid>
-            <pubDate>Sat, 01 Jan 2022 04:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_156/sk71z_1640949025070tId1V_JPEG/1640949002597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
