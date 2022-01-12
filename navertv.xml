@@ -4,17 +4,9 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 02:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[얼라이브] 대한민국 발라더의 조상님, 유재하를 아시나요? | 1차 티저 유재하ver]]></title>
-            <link>https://tv.naver.com/v/24547177</link>
-            <guid>https://tv.naver.com/v/24547177</guid>
-            <pubDate>Wed, 12 Jan 2022 00:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_52/8I4ZL_1641890907709vmmS7_JPEG/1641890887173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[얼라이브] 이 시대의 최고의 엔터테이너의 귀환 | 1차 티저 임윤택ver]]></title>
             <link>https://tv.naver.com/v/24547098</link>
@@ -246,6 +238,14 @@
             <pubDate>Sun, 02 Jan 2022 03:12:14 GMT</pubDate>
             <content:encoded><![CDATA[4:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220101_208/734th_1640966053490ndYW5_JPEG/1640966025886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여고추리반2] Ep1-1. (랜선투어) 새 학교 규모 무엇? 전방에 감탄 발사! 이 곳이 극락이다...]]></title>
+            <link>https://tv.naver.com/v/24380721</link>
+            <guid>https://tv.naver.com/v/24380721</guid>
+            <pubDate>Wed, 12 Jan 2022 03:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_10/OU0vl_1640965923041LjnUW_JPEG/1640965908320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
