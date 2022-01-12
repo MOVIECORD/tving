@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 23:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 00:38:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[얼라이브] 대한민국 발라더의 조상님, 유재하를 아시나요? | 1차 티저 유재하ver (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24547177</link>
+            <guid>https://tv.naver.com/v/24547177</guid>
+            <pubDate>Wed, 12 Jan 2022 00:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_52/8I4ZL_1641890907709vmmS7_JPEG/1641890887173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[얼라이브] 이 시대의 최고의 엔터테이너의 귀환 | 1차 티저 임윤택ver (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24547098</link>
+            <guid>https://tv.naver.com/v/24547098</guid>
+            <pubDate>Wed, 12 Jan 2022 00:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_281/rXsRD_1641890734588Uge3x_JPEG/1641890676507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[내과 박원장] 이 집 비주얼 맛집(?)이네✨ 포스터 촬영 현장 공개ㅣ티저&포스터 비하인드 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24538793</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 02 Jan 2022 03:12:14 GMT</pubDate>
             <content:encoded><![CDATA[4:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220101_208/734th_1640966053490ndYW5_JPEG/1640966025886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여고추리반2] Ep1-1. (랜선투어) 새 학교 규모 무엇? 전방에 감탄 발사! 이 곳이 극락이다... (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24380721</link>
-            <guid>https://tv.naver.com/v/24380721</guid>
-            <pubDate>Sun, 02 Jan 2022 03:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_10/OU0vl_1640965923041LjnUW_JPEG/1640965908320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] "뭘 어떻게 해야될지 모르겠어요" 최종 선택의 순간 | 8화 미리보기 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24378928</link>
-            <guid>https://tv.naver.com/v/24378928</guid>
-            <pubDate>Sun, 02 Jan 2022 00:38:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_199/GWng9_16409543636950zXb1_JPEG/1640954308495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
