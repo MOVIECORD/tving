@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 02:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 03:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아이돌 받아쓰기 대회2] 이 서사의 새로운 주인공! 더보이즈 뉴X주연🎉 | 6화 예고]]></title>
+            <link>https://tv.naver.com/v/24606874</link>
+            <guid>https://tv.naver.com/v/24606874</guid>
+            <pubDate>Sat, 15 Jan 2022 03:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_188/FbR6j_1642155229038CWut7_JPEG/1642155112296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아이돌 받아쓰기 대회2] 미주광이는 안 물어요.. 춤에 진심일 뿐.. 🔥 | 5주차 하이라이트]]></title>
             <link>https://tv.naver.com/v/24606410</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Jan 2022 00:37:34 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_141/g58DP_1641548808375WJ9Fi_JPEG/1641548769381.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 서울] Ep8-4. 최종 선택이 다가올 수록 깊어지는 그들의 고민]]></title>
-            <link>https://tv.naver.com/v/24491288</link>
-            <guid>https://tv.naver.com/v/24491288</guid>
-            <pubDate>Sat, 08 Jan 2022 00:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_9/Af1t2_1641548760589kIj42_JPEG/1641548718484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
