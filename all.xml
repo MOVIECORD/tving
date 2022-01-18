@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 06:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 07:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[내과 박원장] 님아 그 개원길을 가지마오😂ㅣ하이라이트 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24666891</link>
+            <guid>https://tv.naver.com/v/24666891</guid>
+            <pubDate>Tue, 18 Jan 2022 07:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_44/6y4Ek_1642488888925p2m8h_JPEG/1642488669621.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여고추리반2] Ep3-3. 영자신문반에서 왜 이게 나와..? 신문반에 숨겨진 비밀 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24625056</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jan 2022 11:10:20 GMT</pubDate>
             <content:encoded><![CDATA[9:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_13/wzdF8_1641551315470XY28v_JPEG/1641551189471.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아이돌 받아쓰기 대회2] 2006년 은혁 등장 E.L.F는 고개를 드세요ㅣ4주차 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24491856</link>
-            <guid>https://tv.naver.com/v/24491856</guid>
-            <pubDate>Fri, 07 Jan 2022 11:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[14:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_259/sYvmV_1641551079595jGaWC_JPEG/1641550977806.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
