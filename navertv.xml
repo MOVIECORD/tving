@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 06:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 07:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[내과 박원장] 안보면 후회하는 선공개 "내가...내가!! OO라니!!!!!"]]></title>
+            <link>https://tv.naver.com/v/24706927</link>
+            <guid>https://tv.naver.com/v/24706927</guid>
+            <pubDate>Thu, 20 Jan 2022 07:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_68/tD2js_1642660442534aM2Ng_JPEG/1642660371541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[얼라이브] 이게 AI라고? 보고도 놀라운 전설의 귀환ㅣ종합예고]]></title>
             <link>https://tv.naver.com/v/24672290</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Jan 2022 03:13:14 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220108_25/gDjDa_16415700308194lgfN_JPEG/1641569984101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아이돌 받아쓰기 대회2] 미주광이의 알콜프리 간겜댄스💃| 4주차 하이라이트]]></title>
-            <link>https://tv.naver.com/v/24491935</link>
-            <guid>https://tv.naver.com/v/24491935</guid>
-            <pubDate>Fri, 07 Jan 2022 11:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[4:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_242/TaYA0_1641551419382kGuRH_JPEG/1641551341273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
