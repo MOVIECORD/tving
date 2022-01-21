@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 07:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 08:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아이돌 받아쓰기 대회2] 이 영상을 본 당신은 여기에 묶여버렸습니다. | 6주차 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24727862</link>
+            <guid>https://tv.naver.com/v/24727862</guid>
+            <pubDate>Fri, 21 Jan 2022 08:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_147/XQDiS_1642749275485Udjps_JPEG/1642749205865.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아이돌 받아쓰기 대회2] 끝까지 광란의 파티 현장🎊 | 6주차 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24727834</link>
+            <guid>https://tv.naver.com/v/24727834</guid>
+            <pubDate>Fri, 21 Jan 2022 08:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_180/as59A_1642749187012JeA9g_JPEG/1642749125730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아이돌 받아쓰기 대회2] 덕후 심장 나대는 리스펙 아이돌룩! | 6주차 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24727763</link>
+            <guid>https://tv.naver.com/v/24727763</guid>
+            <pubDate>Fri, 21 Jan 2022 08:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[10:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_264/2XpVy_1642749018477UJWto_JPEG/1642748855189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아이돌 받아쓰기 대회2] 똑똑 주연 레전드 직캠 주문하신 분✨ | 6주차 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24727755</link>
+            <guid>https://tv.naver.com/v/24727755</guid>
+            <pubDate>Fri, 21 Jan 2022 08:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_35/C24gI_1642748992173eOPzu_JPEG/1642748902660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[얼라이브] 어린시절 우상 임윤택과 듀엣을 하게 된 휘인의 소감은?ㅣ비하인드(임윤택편) (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24721547</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 14 Jan 2022 12:17:11 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_23/GAyAb_164214282748574Ga3_JPEG/1642142752279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 절겁다 절거워↗↗ 찐 가족같은 촬영현장 | 1-2화 비하인드 메이킹 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24599911</link>
-            <guid>https://tv.naver.com/v/24599911</guid>
-            <pubDate>Sun, 16 Jan 2022 03:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[8:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_169/PyUn3_164213687178764WK5_JPEG/1642136739736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼라이브] 대한민국 발라더의 조상님, 유재하를 아시나요? | 1차 티저 유재하ver (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24559902</link>
-            <guid>https://tv.naver.com/v/24559902</guid>
-            <pubDate>Wed, 12 Jan 2022 05:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_237/MGavd_1642050628383BdSCR_JPEG/1642050624051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼라이브] 이 시대의 최고의 엔터테이너의 귀환 | 1차 티저 임윤택ver (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24547098</link>
-            <guid>https://tv.naver.com/v/24547098</guid>
-            <pubDate>Wed, 12 Jan 2022 00:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_281/rXsRD_1641890734588Uge3x_JPEG/1641890676507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 이 집 비주얼 맛집(?)이네✨ 포스터 촬영 현장 공개ㅣ티저&포스터 비하인드 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24538793</link>
-            <guid>https://tv.naver.com/v/24538793</guid>
-            <pubDate>Tue, 11 Jan 2022 03:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[9:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_84/qZ0X5_1641868870377Kr350_JPEG/1641868861969.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
