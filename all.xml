@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 03:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 04:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[얼라이브] 어린시절 우상 임윤택과 듀엣을 하게 된 휘인의 소감은?ㅣ비하인드(임윤택편) (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24721547</link>
+            <guid>https://tv.naver.com/v/24721547</guid>
+            <pubDate>Fri, 21 Jan 2022 04:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[24:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_267/k19Zs_1642730452656BRB6V_JPEG/1642729996131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[내과 박원장] 안보면 후회하는 선공개 "내가...내가!! OO라니!!!!!" (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24706927</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Jan 2022 03:13:50 GMT</pubDate>
             <content:encoded><![CDATA[9:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220111_84/qZ0X5_1641868870377Kr350_JPEG/1641868861969.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아이돌 받아쓰기 대회2] 놀토랑 달라! 믿고 보는 도레미 조합 키X한해 왔다♪ | 5주차 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24495327</link>
-            <guid>https://tv.naver.com/v/24495327</guid>
-            <pubDate>Sat, 08 Jan 2022 03:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_25/gDjDa_16415700308194lgfN_JPEG/1641569984101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
