@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 04:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 05:09:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해피뉴이어] 미공개씬부터 NG까지 다 있다! 아직 못다한 이야기 커밍쑨 | 확장판 예고]]></title>
+            <link>https://tv.naver.com/v/24780100</link>
+            <guid>https://tv.naver.com/v/24780100</guid>
+            <pubDate>Tue, 25 Jan 2022 05:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_3/WD9gB_1643078770033jyBYc_JPEG/1643078425136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 미운 마흔 4살 박해준의 갓생 도전기🔥 | 티저 예고]]></title>
             <link>https://tv.naver.com/v/24731125</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jan 2022 11:09:42 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_160/LJLwQ_1642153662620ugyNm_JPEG/1642153621057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아이돌 받아쓰기 대회2] 수트+퍼포먼스=진리(는 EVERYBODY 키-라비) | 5주차 하이라이트]]></title>
-            <link>https://tv.naver.com/v/24606389</link>
-            <guid>https://tv.naver.com/v/24606389</guid>
-            <pubDate>Fri, 14 Jan 2022 11:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[4:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_254/efviA_1642153622321xUyMn_JPEG/1642153578279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
