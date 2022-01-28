@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 22:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 23:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Fri, 28 Jan 2022 02:27:19 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_94/Qv5e6_16432820060451vBXn_JPEG/1643282001687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 라인업] 2월 꿀잼 체크하기💕 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24832484</link>
+            <guid>https://tv.naver.com/v/24832484</guid>
+            <pubDate>Fri, 28 Jan 2022 23:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_193/FlAwL_1643273801195IukAP_PNG/1643273764320.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[얼라이브] 공개 D-1! 임윤택의 유작과 유재하의 신곡 하이라이트 메들리  | 음원 선공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Jan 2022 09:10:33 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_115/j9cYb_1642742627173BKkVs_JPEG/1642742588634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 셋째가 싫은 김강훈의 이서진 무력화(?) 계획 (feat. 전자파, 묶기..) | 4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24724814</link>
-            <guid>https://tv.naver.com/v/24724814</guid>
-            <pubDate>Fri, 21 Jan 2022 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_258/mtflV_1642742234882FlQI8_JPEG/1642742197443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
