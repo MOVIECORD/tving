@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 00:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 01:54:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[얼라이브] 임윤택을 생각하면서 부르는 울랄라세션의 헌정무대 | 선공개 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24834821</link>
+            <guid>https://tv.naver.com/v/24834821</guid>
+            <pubDate>Fri, 28 Jan 2022 01:53:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_94/Qv5e6_16432820060451vBXn_JPEG/1643282001687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[얼라이브] 공개 D-1! 임윤택의 유작과 유재하의 신곡 하이라이트 메들리  | 음원 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24828722</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Jan 2022 07:12:10 GMT</pubDate>
             <content:encoded><![CDATA[4:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_44/6y4Ek_1642488888925p2m8h_JPEG/1642488669621.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여고추리반2] Ep3-3. 영자신문반에서 왜 이게 나와..? 신문반에 숨겨진 비밀 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24625056</link>
-            <guid>https://tv.naver.com/v/24625056</guid>
-            <pubDate>Sun, 16 Jan 2022 03:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220116_259/pZP1B_1642265331930GUcfS_JPEG/1642265306250.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
