@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 05:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 06:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 레전드 대통합! 이효리-김완선-엄정화-보아-화사가 한 자리에✨ (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24880701</link>
+            <guid>https://tv.naver.com/v/24880701</guid>
+            <pubDate>Mon, 31 Jan 2022 06:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220131_233/tvQRI_1643606599972qbCqE_JPEG/1643606503426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울체크인] 언니는 언니 없이 어떻게 버텼어요?😳 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24880685</link>
+            <guid>https://tv.naver.com/v/24880685</guid>
+            <pubDate>Mon, 31 Jan 2022 06:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220131_277/43l9f_1643606490276GzBs8_JPEG/1643606422673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울체크인] 엄정화, 이효리한테 짓밟힌 썰 풀다?! 한밤의 티키타카ㅋㅋㅋ (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24880669</link>
+            <guid>https://tv.naver.com/v/24880669</guid>
+            <pubDate>Mon, 31 Jan 2022 06:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220131_48/tIlSW_16436063902386hnj5_JPEG/1643606243158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울체크인] MAMA는 효리도 춤추게 한다💃(feat. 스우파) (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24880645</link>
+            <guid>https://tv.naver.com/v/24880645</guid>
+            <pubDate>Mon, 31 Jan 2022 06:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220131_250/TbJRP_1643606195364ah2Vl_JPEG/1643605949581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 서울체크인 [선공개] 서울에서 무엇을 할까? 이효리의 소울-풀 서울 스토리 공개! (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24863930</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 26 Jan 2022 00:39:59 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220125_283/zKWE4_16431009033385kICJ_JPEG/1643100833579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피뉴이어] 미공개씬부터 NG까지 다 있다! 아직 못다한 이야기 커밍쑨 | 확장판 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24780100</link>
-            <guid>https://tv.naver.com/v/24780100</guid>
-            <pubDate>Tue, 25 Jan 2022 05:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_3/WD9gB_1643078770033jyBYc_JPEG/1643078425136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 미운 마흔 4살 박해준의 갓생 도전기🔥 | 티저 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24731125</link>
-            <guid>https://tv.naver.com/v/24731125</guid>
-            <pubDate>Mon, 24 Jan 2022 01:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_264/VUQ8w_16430071893457LgxR_JPEG/1643007183123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 돈벌기 참 어렵쥬? 이서진의 현자타임&라미란의 웃참타임🤣ㅣ3-4화 비하인 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24730938</link>
-            <guid>https://tv.naver.com/v/24730938</guid>
-            <pubDate>Sun, 23 Jan 2022 03:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[8:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_219/ShZiZ_1642755907036k6UkO_JPEG/1642755903580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여고추리반2] Ep4-3. 무언가 할 말이 있는 듯한 부반장과 쎄믈리에 촉 발동하게 하는 반장 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24729650</link>
-            <guid>https://tv.naver.com/v/24729650</guid>
-            <pubDate>Sun, 23 Jan 2022 03:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_188/iuaiF_1642755717172xFafE_JPEG/1642755711415.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
