@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 23:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 00:35:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_278/HkEqC_1643344340963AJKa5_JPEG/1643344203336.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[얼라이브] 눈물샘 자극💦 기적같은 단 하루의 만남 | 2화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24844165</link>
+            <guid>https://tv.naver.com/v/24844165</guid>
+            <pubDate>Mon, 31 Jan 2022 00:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_154/W8De3_1643343449040vWRhh_JPEG/1643343414482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[얼라이브] Ep.1-4 서쪽하늘 아직도 듣는 사람들은 무조건 클릭!! (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24843007</link>
             <guid>https://tv.naver.com/v/24843007</guid>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 23 Jan 2022 03:10:38 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_188/iuaiF_1642755717172xFafE_JPEG/1642755711415.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여고추리반2] Ep4-2. 동네 핫플 만나분식으로 초대된 추리반즈. 맛집 가보자고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24729621</link>
-            <guid>https://tv.naver.com/v/24729621</guid>
-            <pubDate>Sun, 23 Jan 2022 03:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_18/qSSdb_1642752749219pt03i_JPEG/1642752731377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
