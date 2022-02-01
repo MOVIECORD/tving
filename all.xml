@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 10:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 11:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_40/rd1df_1643345785844blnEP_JPEG/1643345783322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 박해준 따라 풀네임 암기 가보자고 | 제목 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24844546</link>
+            <guid>https://tv.naver.com/v/24844546</guid>
+            <pubDate>Tue, 01 Feb 2022 11:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_49/wmFd4_1643344639110kvUSc_JPEG/1643344611943.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[내과 박원장] 이서진 스타의사 만들기 작전⭐중 더 스타가 되고 싶은 라미란?! | 5화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24844514</link>
             <guid>https://tv.naver.com/v/24844514</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 00:35:22 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_115/JIdhr_1643251588438p7YSB_JPEG/1643251584825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼라이브] 그가 다시 돌아온다! 단 한 컷으로 강한 임팩트 | 임윤택 원 컷 티저 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24787797</link>
-            <guid>https://tv.naver.com/v/24787797</guid>
-            <pubDate>Wed, 26 Jan 2022 00:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_283/zKWE4_16431009033385kICJ_JPEG/1643100833579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
