@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 03:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 04:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 퇴사 갈긴 박해준에 뒷목 잡은 김갑수🔥 | 메인 예고]]></title>
+            <link>https://tv.naver.com/v/24905516</link>
+            <guid>https://tv.naver.com/v/24905516</guid>
+            <pubDate>Thu, 03 Feb 2022 04:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_97/uLpO4_1643856533286P82TS_JPEG/1643856525373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 레전드 대통합! 이효리-김완선-엄정화-보아-화사가 한 자리에✨]]></title>
             <link>https://tv.naver.com/v/24880701</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 06:12:38 GMT</pubDate>
             <content:encoded><![CDATA[1:08:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_280/juIQB_16432638767107DQGn_JPEG/ca853998-7f37-11ec-a810-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 무대 위 VS 리얼 현실 이효리의 180도 반전 서울 라이프✅ | 파일럿 예고편]]></title>
-            <link>https://tv.naver.com/v/24811173</link>
-            <guid>https://tv.naver.com/v/24811173</guid>
-            <pubDate>Thu, 27 Jan 2022 00:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_115/JIdhr_1643251588438p7YSB_JPEG/1643251584825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
