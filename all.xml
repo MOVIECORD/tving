@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 23:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 00:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[얼라이브] 그가 남기고 간 낡은 테잎 임윤택&휘인 첫 듀엣 무대로 재탄생! | 2화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24913359</link>
+            <guid>https://tv.naver.com/v/24913359</guid>
+            <pubDate>Fri, 04 Feb 2022 00:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_75/CNFIU_16438768966371W226_JPEG/1643876800053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 퇴사 갈긴 박해준에 뒷목 잡은 김갑수🔥 | 메인 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24905516</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 09:10:40 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_114/w6Xnz_1643265099343usKoi_JPEG/1643265095715.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 [ 얼라이브 ] 제작발표회 LIVE (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24828175</link>
-            <guid>https://tv.naver.com/v/24828175</guid>
-            <pubDate>Thu, 27 Jan 2022 06:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:08:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_280/juIQB_16432638767107DQGn_JPEG/ca853998-7f37-11ec-a810-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
