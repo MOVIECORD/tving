@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 10:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 11:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 04 Feb 2022 09:09:35 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_264/ojQCz_1643953088322wwh39_JPEG/1643953027926.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[내과 박원장] 울트라 리코더 전공 라미란X공부 시작한 주우연 | 9화 예고]]></title>
+            <link>https://tv.naver.com/v/24931823</link>
+            <guid>https://tv.naver.com/v/24931823</guid>
+            <pubDate>Fri, 04 Feb 2022 11:07:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_143/ZkcUL_1643942001269YKfN3_JPEG/1643941990528.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[얼라이브] 그가 남기고 간 낡은 테잎 임윤택&휘인 첫 듀엣 무대로 재탄생! | 2화 선공개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jan 2022 09:10:49 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_278/HkEqC_1643344340963AJKa5_JPEG/1643344203336.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼라이브] 눈물샘 자극💦 기적같은 단 하루의 만남 | 2화 예고]]></title>
-            <link>https://tv.naver.com/v/24844165</link>
-            <guid>https://tv.naver.com/v/24844165</guid>
-            <pubDate>Mon, 31 Jan 2022 00:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_154/W8De3_1643343449040vWRhh_JPEG/1643343414482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
