@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 23:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 00:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Sun, 06 Feb 2022 03:09:52 GMT</pubDate>
             <content:encoded><![CDATA[4:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_216/KSrho_16439658604789KXN0_JPEG/1643965828478.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[얼라이브] "교과서 같은 음악" 천재 뮤지션 유재하 컴백! | 3화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24940148</link>
+            <guid>https://tv.naver.com/v/24940148</guid>
+            <pubDate>Mon, 07 Feb 2022 00:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_212/S457U_1643961196877IwQNn_JPEG/1643961178108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[내과 박원장] 분장 필요없는 김광규에게 박원장 자릴 양보하려는 이서진? | 7-8화 비하인드 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jan 2022 09:10:49 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_72/pojJo_1643348668181ypOyV_JPEG/1643348640060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 찬바닥 리허설부터 CPR 연습까지 연기열정 가득한 배우들ㅣ5-6화 비하인드 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24846035</link>
-            <guid>https://tv.naver.com/v/24846035</guid>
-            <pubDate>Sun, 30 Jan 2022 03:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[7:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_79/3UDYi_1643348663812I137q_JPEG/1643348643707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
