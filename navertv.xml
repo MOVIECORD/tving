@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 00:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 02:00:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[얼라이브] 실력파 뮤지션들이 인정하는 천재 싱어송라이터 유재하 | 비하인드(유재하편)]]></title>
+            <link>https://tv.naver.com/v/25018819</link>
+            <guid>https://tv.naver.com/v/25018819</guid>
+            <pubDate>Wed, 09 Feb 2022 02:00:35 GMT</pubDate>
+            <content:encoded><![CDATA[16:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_35/5KeEa_1644369093627RrY9x_JPEG/1644368914844.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[내과 박원장] 이서진과 함께 내과 박원장을 보았다 (w. 라미란, 차청화, 서범준)ㅣ코멘터리]]></title>
             <link>https://tv.naver.com/v/25003527</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 30 Jan 2022 03:10:23 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_298/OyGuJ_1643378916215VlvMs_JPEG/1643378911315.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여고추리반2] Ep5-1. 구치소에서 사망한 아란이..?😱 그리고 밝혀지는 선우경의 비밀]]></title>
-            <link>https://tv.naver.com/v/24846417</link>
-            <guid>https://tv.naver.com/v/24846417</guid>
-            <pubDate>Sun, 30 Jan 2022 03:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_121/NsUO4_1643378903964dVlUf_JPEG/1643378877690.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
