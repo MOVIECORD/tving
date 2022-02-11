@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 23:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 00:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 10 Feb 2022 10:11:44 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220210_56/iVvvw_1644486509590uwUgX_JPEG/1644486414015.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[얼라이브] 그저 빛,,,갓벽한 빅마마의 '그대 내 품에' 하모니 맛보기 | 3화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25053222</link>
+            <guid>https://tv.naver.com/v/25053222</guid>
+            <pubDate>Fri, 11 Feb 2022 00:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_189/X9Rub_1644484973611EJRtQ_JPEG/1644484950151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쓰리썸] 우린 사랑일까? 그날 밤 이후, 7년차 연인이 달라보인다| 예고편 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 31 Jan 2022 06:12:38 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220131_250/TbJRP_1643606195364ah2Vl_JPEG/1643605949581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 서울체크인 [선공개] 서울에서 무엇을 할까? 이효리의 소울-풀 서울 스토리 공개! (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24863930</link>
-            <guid>https://tv.naver.com/v/24863930</guid>
-            <pubDate>Sun, 30 Jan 2022 01:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220129_31/QogZh_1643451789770LgWfT_JPEG/1643451632845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
