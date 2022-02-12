@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 08:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 09:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ING터뷰] 이서진X라미란X차청화X서범준 화끈한 힐링주고 힐링받기 ✨ | 내과 박원장 편]]></title>
+            <link>https://tv.naver.com/v/25078045</link>
+            <guid>https://tv.naver.com/v/25078045</guid>
+            <pubDate>Sat, 12 Feb 2022 09:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[8:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_19/NsOX5_1644573979471eXmdI_JPEG/1644573933976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 대선배: 자기야 어려☺ 데뷔 23년차 보아도 아기가 되는 매직 | 미공개 영상]]></title>
             <link>https://tv.naver.com/v/25078028</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 06 Feb 2022 03:09:52 GMT</pubDate>
             <content:encoded><![CDATA[4:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_216/KSrho_16439658604789KXN0_JPEG/1643965828478.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼라이브] "교과서 같은 음악" 천재 뮤지션 유재하 컴백! | 3화 예고]]></title>
-            <link>https://tv.naver.com/v/24940148</link>
-            <guid>https://tv.naver.com/v/24940148</guid>
-            <pubDate>Mon, 07 Feb 2022 00:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_212/S457U_1643961196877IwQNn_JPEG/1643961178108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
