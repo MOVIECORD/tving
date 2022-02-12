@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 23:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 00:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 대선배: 자기야 어려☺ 데뷔 23년차 보아도 아기가 되는 매직 | 미공개 영상]]></title>
+            <link>https://tv.naver.com/v/25078028</link>
+            <guid>https://tv.naver.com/v/25078028</guid>
+            <pubDate>Sat, 12 Feb 2022 00:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_204/8wk2b_1644573917187wQ7hx_JPEG/1644573878399.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울체크인] 레전드급 전국콘🎵 댄스가수 유랑단은 못 참지 | 미공개 영상]]></title>
+            <link>https://tv.naver.com/v/25078001</link>
+            <guid>https://tv.naver.com/v/25078001</guid>
+            <pubDate>Sat, 12 Feb 2022 00:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_281/n6Q25_16445738525728NSCC_JPEG/1644573795737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[내과 박원장] 그 것이 들어오고,,,병원에 이상한 소리가 들린다 | 11화 예고]]></title>
             <link>https://tv.naver.com/v/25077478</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 04 Feb 2022 09:09:35 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_201/76Cpp_1643957483712N5BS9_JPEG/1643957424158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 이서진도 피해가지 못한 탈룰라 (feat. 라미란)| 7화 클립]]></title>
-            <link>https://tv.naver.com/v/24938330</link>
-            <guid>https://tv.naver.com/v/24938330</guid>
-            <pubDate>Fri, 04 Feb 2022 09:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_185/kgWBi_1643957416327W64lC_JPEG/1643957354751.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 미신으로 하나되는 라미란X서범준, 속터지는 이서진 🤯| 7화 클립]]></title>
-            <link>https://tv.naver.com/v/24938291</link>
-            <guid>https://tv.naver.com/v/24938291</guid>
-            <pubDate>Fri, 04 Feb 2022 09:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_7/Zgpm0_1643957347498wxO61_JPEG/1643957276183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
