@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 23:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 00:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 11 Feb 2022 23:10:21 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_3/BkfQt_16445726852434ts32_JPEG/1644572682199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[얼라이브] 이거 좀 울컥한다..유재하의 육성 최초공개!  | 4화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25076224</link>
+            <guid>https://tv.naver.com/v/25076224</guid>
+            <pubDate>Mon, 14 Feb 2022 00:36:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_173/yteFl_1644570147324ibUMM_JPEG/1644570144478.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[얼라이브] Ep.3-4 고막을 사르륵 녹이는 '멜로망스X유재하 - 내 마음에 비친 내 모습' (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 05 Feb 2022 05:09:03 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220205_149/UedJj_1644035902058cyaxp_JPEG/1644035862550.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼라이브] Ep.2-2 생의 끝자락에도 열정을 불태운 임윤택의 마지막 부탁 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24950267</link>
-            <guid>https://tv.naver.com/v/24950267</guid>
-            <pubDate>Sat, 05 Feb 2022 05:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[7:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220205_31/lSctU_1644035853957qqAIB_JPEG/1644035719291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
