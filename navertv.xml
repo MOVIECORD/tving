@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 23:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 00:35:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[돼지의 왕] 그때 그날 기억나? 너도 함께 해야지.. | 티저 예고]]></title>
+            <link>https://tv.naver.com/v/25171440</link>
+            <guid>https://tv.naver.com/v/25171440</guid>
+            <pubDate>Thu, 17 Feb 2022 00:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_122/WAvPw_16450122250771mN8G_JPEG/1645012144525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 박해준, 킹받는 와중에 잘생김 | 포스터 촬영 비하인드]]></title>
             <link>https://tv.naver.com/v/25114130</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 05 Feb 2022 05:09:03 GMT</pubDate>
             <content:encoded><![CDATA[4:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220205_112/SfnXo_1644036019948lbI6T_JPEG/1644036005936.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼라이브] Ep.2-4 마마무 휘인과의 듀엣으로 공개되는 '낡은 테잎' XR 스테이지]]></title>
-            <link>https://tv.naver.com/v/24950281</link>
-            <guid>https://tv.naver.com/v/24950281</guid>
-            <pubDate>Sat, 05 Feb 2022 05:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[6:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220205_257/ZoPLl_1644035939864cjy9p_JPEG/1644035908741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
