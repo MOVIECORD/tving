@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 04:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여고추리반2] 폐교 심페소생 가능? 이 어려운 걸 제작진이 해냅니다👏 | 비포&애프터]]></title>
+            <link>https://tv.naver.com/v/25182461</link>
+            <guid>https://tv.naver.com/v/25182461</guid>
+            <pubDate>Thu, 17 Feb 2022 05:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[8:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_227/AzoyU_16450730480999n9Uk_JPEG/1645073018128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돼지의 왕] 그때 그날 기억나? 너도 함께 해야지.. | 티저 예고]]></title>
             <link>https://tv.naver.com/v/25179241</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Feb 2022 08:12:31 GMT</pubDate>
             <content:encoded><![CDATA[6:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220208_26/gF7Il_1644304505990Tdimo_JPEG/1644304448114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼라이브] Ep.2-5 즐겨! 인생은 짧아!😎 울랄라 세션 완전체 신곡 'ALIVE']]></title>
-            <link>https://tv.naver.com/v/24950295</link>
-            <guid>https://tv.naver.com/v/24950295</guid>
-            <pubDate>Sat, 05 Feb 2022 05:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220205_112/SfnXo_1644036019948lbI6T_JPEG/1644036005936.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
