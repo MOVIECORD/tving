@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 23:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 00:42:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[얼라이브] 그 감성 그대로! 35년 만에 유재하의 신곡무대 | 4화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25191900</link>
+            <guid>https://tv.naver.com/v/25191900</guid>
+            <pubDate>Fri, 18 Feb 2022 00:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_99/EP7PS_1645091556112bMlCj_JPEG/1645091533013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여고추리반2] 폐교 심폐소생 가능? 이 어려운 걸 제작진이 해냅니다👏 | 비포&애프터 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25182461</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Feb 2022 00:38:00 GMT</pubDate>
             <content:encoded><![CDATA[0:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220208_176/Jb7CB_1644306755760pHE77_JPEG/1644306749721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 이서진과 함께 내과 박원장을 보았다 (w. 라미란, 차청화, 서범준)ㅣ코멘터리 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25003527</link>
-            <guid>https://tv.naver.com/v/25003527</guid>
-            <pubDate>Tue, 08 Feb 2022 08:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220208_26/gF7Il_1644304505990Tdimo_JPEG/1644304448114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
