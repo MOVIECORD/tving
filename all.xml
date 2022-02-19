@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 02:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 03:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[얼라이브] Ep.4-4 35년만에 신곡! 유재하X김나영 '그대의 조각들을 담고서' (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25214769</link>
+            <guid>https://tv.naver.com/v/25214769</guid>
+            <pubDate>Sat, 19 Feb 2022 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[6:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_64/jhhSi_1645168153490vehwB_JPEG/1645168124757.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[얼라이브] Ep.4-3 미션 : 유재하 감성 그대로 복사 붙여넣기! 유재하 신곡 발매 프로젝트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25214759</link>
+            <guid>https://tv.naver.com/v/25214759</guid>
+            <pubDate>Sat, 19 Feb 2022 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_43/aE4yW_1645168119254zKlES_JPEG/1645168060293.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[얼라이브] Ep.4-2 오케스트라 버전으로 돌아온 '유재하 - 사랑하기 때문에' (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25214735</link>
+            <guid>https://tv.naver.com/v/25214735</guid>
+            <pubDate>Sat, 19 Feb 2022 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[8:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_56/blei5_1645168035396W8LmA_JPEG/1645168002391.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[얼라이브] Ep.4-1 어떤 사랑을 한거야,,,😭 로맨스 영화같은 유재하의 앨범 분석 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25214711</link>
+            <guid>https://tv.naver.com/v/25214711</guid>
+            <pubDate>Sat, 19 Feb 2022 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_225/qzeb3_1645167996085mzeNU_JPEG/1645167943545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[내과 박원장] 내과 원장 VS 웹툰 작가 박원장 이서진의 선택은?! | 최종화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25212844</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 11 Feb 2022 09:10:37 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_192/XqB5V_1644559809275x3lRS_JPEG/1644559766034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 가발 들킨 이서진🤯 놀리는 김광규X정형석 ㅋㅋ | 10화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25070836</link>
-            <guid>https://tv.naver.com/v/25070836</guid>
-            <pubDate>Fri, 11 Feb 2022 09:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_176/NVd0P_1644559757675R6xUm_JPEG/1644559691131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 이서진 내과에 이렇게 손님..아니 환자가 많은 적은 처음이야! | 10화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25070808</link>
-            <guid>https://tv.naver.com/v/25070808</guid>
-            <pubDate>Fri, 11 Feb 2022 09:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_135/tu4nn_1644559682751NjzLm_JPEG/1644559592147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 슬의생에 조정석,정경호가 있다면 여기엔 이서진X이세창이 있다 | 10화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25070778</link>
-            <guid>https://tv.naver.com/v/25070778</guid>
-            <pubDate>Fri, 11 Feb 2022 09:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_135/gs9dd_1644559585727C1HC9_JPEG/1644559501153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 라미란의 아들 사랑과 이서진에게 다가오는 오싹한 기운😨 | 9화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25070156</link>
-            <guid>https://tv.naver.com/v/25070156</guid>
-            <pubDate>Fri, 11 Feb 2022 09:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_67/XKZPG_1644558100780xpqVs_JPEG/1644557967868.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
