@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 00:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 01:55:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 20 Feb 2022 03:11:19 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220218_205/pDv1t_1645177904951V5w8l_JPEG/1645177803581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 프로 웹툰 작가..하고 싶은 프로 알바생인데요 | 3,4화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25217967</link>
+            <guid>https://tv.naver.com/v/25217967</guid>
+            <pubDate>Mon, 21 Feb 2022 01:55:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_162/00Gk7_1645174427360qXgjL_JPEG/1645174389431.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[얼라이브] Ep.4-4 35년만에 신곡! 유재하X김나영 '그대의 조각들을 담고서' (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 12 Feb 2022 03:09:57 GMT</pubDate>
             <content:encoded><![CDATA[6:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_258/qj9me_1644569617098Mo996_JPEG/1644569582777.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼라이브] Ep.3-3 유재하계(?) 순혈이 보내는 헌정무대 '스윗소로우 - 하늘' (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25075897</link>
-            <guid>https://tv.naver.com/v/25075897</guid>
-            <pubDate>Sat, 12 Feb 2022 03:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[5:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_223/jrxUb_1644569577401hHhF3_JPEG/1644569525035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
