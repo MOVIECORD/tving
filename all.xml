@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 06:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 07:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여고추리반2] 끝날 때까지 안 끝남! 최초부터 미공개까지 못 참겠지~? | 코멘터리 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25321427</link>
+            <guid>https://tv.naver.com/v/25321427</guid>
+            <pubDate>Thu, 24 Feb 2022 07:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_159/8sWbC_1645685933465vhhOe_JPEG/1645685770061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여고추리반2] Ep8-3. MZ세대에게 못 푸는 문제란 없지( ͡~ ͜ʖ ͡°) 친구들 구하러 가보자고! (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25219554</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Feb 2022 00:36:26 GMT</pubDate>
             <content:encoded><![CDATA[0:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_173/yteFl_1644570147324ibUMM_JPEG/1644570144478.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼라이브] Ep.3-4 고막을 사르륵 녹이는 '멜로망스X유재하 - 내 마음에 비친 내 모습' (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25075919</link>
-            <guid>https://tv.naver.com/v/25075919</guid>
-            <pubDate>Sat, 12 Feb 2022 03:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[6:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_258/qj9me_1644569617098Mo996_JPEG/1644569582777.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
