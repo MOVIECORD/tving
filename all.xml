@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 03:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 28 Feb 2022 00:43:24 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220225_186/zdp0v_16457817878381l3gn_JPEG/1645781689402.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 박해준을 선덕거리게 한 전화 한 통? | 5,6화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25341797</link>
+            <guid>https://tv.naver.com/v/25341797</guid>
+            <pubDate>Mon, 28 Feb 2022 03:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220225_180/OyUar_1645773994494Mw5yc_JPEG/1645773903310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[여고추리반2] 끝날 때까지 안 끝남! 최초부터 미공개까지 못 참겠지~? | 코멘터리 예고 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 12 Feb 2022 00:40:46 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_281/n6Q25_16445738525728NSCC_JPEG/1644573795737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 그 것이 들어오고,,,병원에 이상한 소리가 들린다 | 11화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25077478</link>
-            <guid>https://tv.naver.com/v/25077478</guid>
-            <pubDate>Fri, 11 Feb 2022 23:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_3/BkfQt_16445726852434ts32_JPEG/1644572682199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
