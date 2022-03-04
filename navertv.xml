@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 08:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 09:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 턱에 구멍 난 거 아니에요😥 | 랜선 회초리 02]]></title>
+            <link>https://tv.naver.com/v/25469335</link>
+            <guid>https://tv.naver.com/v/25469335</guid>
+            <pubDate>Fri, 04 Mar 2022 09:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_143/7j0zT_164637822052943cIE_JPEG/1646378208221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 어이없지 내가 PT샵 기부천사였다니 | 랜선 회초리 01]]></title>
             <link>https://tv.naver.com/v/25448014</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 12 Feb 2022 09:10:45 GMT</pubDate>
             <content:encoded><![CDATA[8:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_19/NsOX5_1644573979471eXmdI_JPEG/1644573933976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 대선배: 자기야 어려☺ 데뷔 23년차 보아도 아기가 되는 매직 | 미공개 영상]]></title>
-            <link>https://tv.naver.com/v/25078028</link>
-            <guid>https://tv.naver.com/v/25078028</guid>
-            <pubDate>Sat, 12 Feb 2022 00:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_204/8wk2b_1644573917187wQ7hx_JPEG/1644573878399.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
