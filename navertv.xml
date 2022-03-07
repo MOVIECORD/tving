@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 00:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 02:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 04 Mar 2022 09:10:57 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_143/7j0zT_164637822052943cIE_JPEG/1646378208221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 깜박무새 금필과 새롭게 꽃피는,,,LO,,VE,,,?💗 | 7,8화 예고]]></title>
+            <link>https://tv.naver.com/v/25467669</link>
+            <guid>https://tv.naver.com/v/25467669</guid>
+            <pubDate>Mon, 07 Mar 2022 02:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_274/5Rvp3_1646374158561ag45W_JPEG/1646374061171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 어이없지 내가 PT샵 기부천사였다니 | 랜선 회초리 01]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Feb 2022 03:10:24 GMT</pubDate>
             <content:encoded><![CDATA[6:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_6/H9ULz_16445749881486fBKj_JPEG/1644574939468.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ING터뷰] 이서진X라미란X차청화X서범준 화끈한 힐링주고 힐링받기 ✨ | 내과 박원장 편]]></title>
-            <link>https://tv.naver.com/v/25078045</link>
-            <guid>https://tv.naver.com/v/25078045</guid>
-            <pubDate>Sat, 12 Feb 2022 09:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[8:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_19/NsOX5_1644573979471eXmdI_JPEG/1644573933976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
