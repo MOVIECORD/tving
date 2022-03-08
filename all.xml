@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 06:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 07:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 이번 학기에 갓생살기로 다짐한 대학생 주목| 랜선회초리3 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25523351</link>
+            <guid>https://tv.naver.com/v/25523351</guid>
+            <pubDate>Tue, 08 Mar 2022 07:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_262/fj6DG_1646654729641geOqU_JPEG/1646654727628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 뜻밖의 찐텐💃촬영엔 최선을 다한 박해준| 1~6화 메이킹 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25473079</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Feb 2022 03:10:24 GMT</pubDate>
             <content:encoded><![CDATA[4:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220212_20/MgNlf_16446771120680VmqD_JPEG/1644677049602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여고추리반2] Ep7-1. 학교에 방문한 영선이 아버님. 그런데 저 사람 그 사람이잖아ㅇ0ㅇ?!! (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25095259</link>
-            <guid>https://tv.naver.com/v/25095259</guid>
-            <pubDate>Sun, 13 Feb 2022 03:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220212_285/S0eIK_1644677051339b4sWt_JPEG/1644676993704.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
