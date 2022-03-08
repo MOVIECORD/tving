@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 22:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 23:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 08 Mar 2022 07:11:41 GMT</pubDate>
             <content:encoded><![CDATA[0:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_262/fj6DG_1646654729641geOqU_JPEG/1646654727628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 라인업] 3월에는 달콤😄살벌🥶 힐링X장르물 가득]]></title>
+            <link>https://tv.naver.com/v/25516011</link>
+            <guid>https://tv.naver.com/v/25516011</guid>
+            <pubDate>Tue, 08 Mar 2022 23:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_20/QqYui_1646636864041mviNJ_JPEG/1646636838252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 뜻밖의 찐텐💃촬영엔 최선을 다한 박해준| 1~6화 메이킹]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Feb 2022 03:10:24 GMT</pubDate>
             <content:encoded><![CDATA[4:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220212_221/84rsD_164467715745242Ixh_JPEG/1644677091541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여고추리반2] Ep7-2. 영선이의 상상도 못한 정체ㄴㅇㄱ! 그런데 예나의 극대노를 곁들인]]></title>
-            <link>https://tv.naver.com/v/25095270</link>
-            <guid>https://tv.naver.com/v/25095270</guid>
-            <pubDate>Sun, 13 Feb 2022 03:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220212_20/MgNlf_16446771120680VmqD_JPEG/1644677049602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
