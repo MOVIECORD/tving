@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 06:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 07:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[티빙초이스] 역대급 라인업📑 추천작 소개에 진심인 [아직 최선] 배우들의 티빙초이스?]]></title>
+            <link>https://tv.naver.com/v/25544407</link>
+            <guid>https://tv.naver.com/v/25544407</guid>
+            <pubDate>Wed, 09 Mar 2022 07:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_110/V48N0_1646739047573aK775_JPEG/1646738879561.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 이번 학기에 갓생살기로 다짐한 대학생 주목| 랜선회초리3]]></title>
             <link>https://tv.naver.com/v/25523351</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Feb 2022 07:10:44 GMT</pubDate>
             <content:encoded><![CDATA[5:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220214_186/64HXT_1644814819422gmmFA_JPEG/1644814767195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여고추리반2] Ep7-3. 오대양 선생님 두둥등장! 분명히 잘생겼다고 하셨잖아요…]]></title>
-            <link>https://tv.naver.com/v/25095280</link>
-            <guid>https://tv.naver.com/v/25095280</guid>
-            <pubDate>Sun, 13 Feb 2022 03:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220212_221/84rsD_164467715745242Ixh_JPEG/1644677091541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
