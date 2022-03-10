@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 04:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 05:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[돼지의 왕] 벌써 압도적! 포스터 촬영 현장 공개! | 포스터 촬영 스케치]]></title>
+            <link>https://tv.naver.com/v/25568038</link>
+            <guid>https://tv.naver.com/v/25568038</guid>
+            <pubDate>Thu, 10 Mar 2022 05:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_190/rY073_1646888330538EgjP9_JPEG/1646888264938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[티빙초이스] 역대급 라인업📑 추천작 소개에 진심인 [아직 최선] 배우들의 티빙초이스?]]></title>
             <link>https://tv.naver.com/v/25544407</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Feb 2022 02:20:12 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_256/pOPKE_1645063034822GGxsO_JPEG/1645062964615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 박해준, 킹받는 와중에 잘생김 | 포스터 촬영 비하인드]]></title>
-            <link>https://tv.naver.com/v/25114130</link>
-            <guid>https://tv.naver.com/v/25114130</guid>
-            <pubDate>Mon, 14 Feb 2022 07:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[5:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_186/64HXT_1644814819422gmmFA_JPEG/1644814767195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
