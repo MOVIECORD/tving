@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 06:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 07:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 10 Mar 2022 05:10:39 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_190/rY073_1646888330538EgjP9_JPEG/1646888264938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아직 최선...] 제법 진지한 박해준과 그렇지 못한 결과물💦 | 박해준 캐리커쳐 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25544519</link>
+            <guid>https://tv.naver.com/v/25544519</guid>
+            <pubDate>Thu, 10 Mar 2022 07:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_297/quJGF_1646739482305Wtqzs_JPEG/1646739400947.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[티빙초이스] 역대급 라인업📑 추천작 소개에 진심인 [아직 최선] 배우들의 티빙초이스? (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Feb 2022 05:09:41 GMT</pubDate>
             <content:encoded><![CDATA[8:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_227/AzoyU_16450730480999n9Uk_JPEG/1645073018128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 그때 그날 기억나? 너도 함께 해야지.. | 티저 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25179241</link>
-            <guid>https://tv.naver.com/v/25179241</guid>
-            <pubDate>Thu, 17 Feb 2022 02:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_256/pOPKE_1645063034822GGxsO_JPEG/1645062964615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
