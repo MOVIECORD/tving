@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 23:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 00:48:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[돼지의 왕] 너희들 노리개였던 황경민, 기억 안 나? | 1화 예고]]></title>
+            <link>https://tv.naver.com/v/25579153</link>
+            <guid>https://tv.naver.com/v/25579153</guid>
+            <pubDate>Fri, 11 Mar 2022 00:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_50/gvQca_1646917754587eKTzS_JPEG/1646917719553.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돼지의 왕] 벌써 압도적! 포스터 촬영 현장 공개! | 포스터 촬영 스케치]]></title>
             <link>https://tv.naver.com/v/25568038</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Feb 2022 03:11:13 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_104/nEv1N_1645083320548qpR5k_JPEG/1645083250832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여고추리반2] 폐교 심폐소생 가능? 이 어려운 걸 제작진이 해냅니다👏 | 비포&애프터]]></title>
-            <link>https://tv.naver.com/v/25182461</link>
-            <guid>https://tv.naver.com/v/25182461</guid>
-            <pubDate>Thu, 17 Feb 2022 05:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[8:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_227/AzoyU_16450730480999n9Uk_JPEG/1645073018128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
