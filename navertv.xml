@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 06:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 07:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 14 Mar 2022 02:10:03 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_270/lcIDE_1646982801309CAaOi_JPEG/1646982755317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 몰아치는 팩폭에 정신 못차리는 박해준 | 9,10화 예고]]></title>
+            <link>https://tv.naver.com/v/25588040</link>
+            <guid>https://tv.naver.com/v/25588040</guid>
+            <pubDate>Mon, 14 Mar 2022 07:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_18/L3HE8_1646973966791gG7Lh_JPEG/1646973856020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[돼지의 왕] 너희들 노리개였던 황경민, 기억 안 나? | 1화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Feb 2022 09:10:55 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220218_242/GkxU3_1645163342268cVcEH_JPEG/1645163200388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[얼라이브] 그 감성 그대로! 35년 만에 유재하의 신곡무대 | 4화 선공개]]></title>
-            <link>https://tv.naver.com/v/25191900</link>
-            <guid>https://tv.naver.com/v/25191900</guid>
-            <pubDate>Fri, 18 Feb 2022 00:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_99/EP7PS_1645091556112bMlCj_JPEG/1645091533013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
