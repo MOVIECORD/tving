@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 00:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 02:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[괴이] 월간괴담 유튜버 구교환, 사탕(총)쏜다🍭🔫ㅣ화이트데이 이벤트]]></title>
+            <link>https://tv.naver.com/v/25591465</link>
+            <guid>https://tv.naver.com/v/25591465</guid>
+            <pubDate>Mon, 14 Mar 2022 02:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_270/lcIDE_1646982801309CAaOi_JPEG/1646982755317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돼지의 왕] 너희들 노리개였던 황경민, 기억 안 나? | 1화 예고]]></title>
             <link>https://tv.naver.com/v/25579153</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Feb 2022 00:42:17 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_99/EP7PS_1645091556112bMlCj_JPEG/1645091533013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙초이스] 라미란 술도녀 즌2 합류?! <내과 박원장>배우들의 티빙 추천작은?]]></title>
-            <link>https://tv.naver.com/v/25187679</link>
-            <guid>https://tv.naver.com/v/25187679</guid>
-            <pubDate>Fri, 18 Feb 2022 03:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_104/nEv1N_1645083320548qpR5k_JPEG/1645083250832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
