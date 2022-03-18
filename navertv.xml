@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 03:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 04:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[괴이] 구교환X신현빈, 저주받은 불상의 지옥이 시작된다!ㅣ티저 예고]]></title>
+            <link>https://tv.naver.com/v/25718743</link>
+            <guid>https://tv.naver.com/v/25718743</guid>
+            <pubDate>Fri, 18 Mar 2022 04:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_48/Ozeco_1647574472953a8VX8_PNG/1647574347118.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[돼지의 왕] 괜찮겠어? 우린 적당히 찍을 줄 모르는 과몰입러들인데 | 제작 비하인드]]></title>
             <link>https://tv.naver.com/v/25702630</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Feb 2022 09:10:55 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220218_135/67Kr4_1645163824969M9AUB_JPEG/1645163756302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 차청화X서범준 관계를 의심하는 이서진 + 서범준 여자친구까지!? | 11화 클립]]></title>
-            <link>https://tv.naver.com/v/25212694</link>
-            <guid>https://tv.naver.com/v/25212694</guid>
-            <pubDate>Fri, 18 Feb 2022 09:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_1/eZFT5_1645163744199amnNm_JPEG/1645163431541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
