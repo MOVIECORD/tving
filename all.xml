@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 04:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 05:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 효리 웰컴백💛 더 제대로 즐기는 소울-풀 서울! | 1차 티저 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25719827</link>
+            <guid>https://tv.naver.com/v/25719827</guid>
+            <pubDate>Fri, 18 Mar 2022 05:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_36/hSkk1_1647578177208hPXHL_JPEG/1647578100158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[괴이] 구교환X신현빈, 저주받은 불상의 지옥이 시작된다!ㅣ티저 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25718743</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Feb 2022 09:10:55 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220218_73/HqAaJ_16451639465901cOrn_JPEG/1645163837071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내과 박원장] 이서진도 피해가지 못한 코로나 19😷 | 최종화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25212739</link>
-            <guid>https://tv.naver.com/v/25212739</guid>
-            <pubDate>Fri, 18 Feb 2022 09:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_135/67Kr4_1645163824969M9AUB_JPEG/1645163756302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
