@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 04:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 05:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Fri, 18 Mar 2022 10:12:48 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_105/JbLFn_1647595883229PHk1v_JPEG/1647595875775.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] "내 옆엔 이제 아무도 없다" 그들의 말 못할 사연은? | 11,12 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25720958</link>
+            <guid>https://tv.naver.com/v/25720958</guid>
+            <pubDate>Mon, 21 Mar 2022 05:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_261/sc5a3_16475810367537XTmd_JPEG/1647580964570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울체크인] 효리 웰컴백💛 더 제대로 즐기는 소울-풀 서울! | 1차 티저 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Feb 2022 03:12:10 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220225_180/OyUar_1645773994494Mw5yc_JPEG/1645773903310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여고추리반2] 끝날 때까지 안 끝남! 최초부터 미공개까지 못 참겠지~? | 코멘터리 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25321427</link>
-            <guid>https://tv.naver.com/v/25321427</guid>
-            <pubDate>Thu, 24 Feb 2022 07:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_159/8sWbC_1645685933465vhhOe_JPEG/1645685770061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
