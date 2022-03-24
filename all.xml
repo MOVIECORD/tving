@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 09:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 10:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[괴이] 구교환X신현빈 🦅 무빙 포스터 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25827554</link>
+            <guid>https://tv.naver.com/v/25827554</guid>
+            <pubDate>Thu, 24 Mar 2022 10:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_147/dMfja_1648099818189hucxO_JPEG/515242d3-ab33-11ec-a0dc-d4f5ef5a9532_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돼지의 왕] "무언가 끓어오르는 듯 했다" 연상호 감독의 후기는? | 연상호 감독 인터뷰 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25826614</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Mar 2022 09:11:49 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_277/h8F4G_16462926253999tx17_JPEG/1646292623141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 중학교때 친구가 연쇄살인마가 되어 나타났다 | 메인 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25344750</link>
-            <guid>https://tv.naver.com/v/25344750</guid>
-            <pubDate>Mon, 28 Feb 2022 00:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220225_186/zdp0v_16457817878381l3gn_JPEG/1645781689402.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
