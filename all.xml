@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 10:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 11:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[돼지의 왕] 한 순간도 허투루 쓰지 않는 열혈 현장 공개 | 1-2화 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25833826</link>
+            <guid>https://tv.naver.com/v/25833826</guid>
+            <pubDate>Thu, 24 Mar 2022 11:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_131/JjBaG_1648113433672U16Lc_JPEG/1648113430134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[괴이] 구교환X신현빈 🦅 무빙 포스터 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25827554</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Mar 2022 02:07:51 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_274/5Rvp3_1646374158561ag45W_JPEG/1646374061171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 어이없지 내가 PT샵 기부천사였다니 | 랜선 회초리 01 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25448014</link>
-            <guid>https://tv.naver.com/v/25448014</guid>
-            <pubDate>Thu, 03 Mar 2022 09:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_277/h8F4G_16462926253999tx17_JPEG/1646292623141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
