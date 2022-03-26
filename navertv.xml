@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 06:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 07:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[돼지의 왕] 조금씩 드러나는 정종석과 황경민의 과거! | 5화 예고]]></title>
+            <link>https://tv.naver.com/v/25855655</link>
+            <guid>https://tv.naver.com/v/25855655</guid>
+            <pubDate>Sat, 26 Mar 2022 07:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_209/JFADK_1648197831544eB0aO_JPEG/1648197775803.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돼지의 왕] 한 순간도 허투루 쓰지 않는 열혈 현장 공개 | 1-2화 메이킹]]></title>
             <link>https://tv.naver.com/v/25833826</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Mar 2022 07:11:57 GMT</pubDate>
             <content:encoded><![CDATA[6:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_266/03MLf_1647324698173qACCb_JPEG/1647324490260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[괴이] 월간괴담 유튜버 구교환, 사탕(총)쏜다🍭🔫ㅣ화이트데이 이벤트]]></title>
-            <link>https://tv.naver.com/v/25591465</link>
-            <guid>https://tv.naver.com/v/25591465</guid>
-            <pubDate>Mon, 14 Mar 2022 02:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_270/lcIDE_1646982801309CAaOi_JPEG/1646982755317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
