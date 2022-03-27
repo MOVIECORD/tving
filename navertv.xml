@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 04:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 05:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 26 Mar 2022 09:10:39 GMT</pubDate>
             <content:encoded><![CDATA[9:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_100/5seI8_1648201588322NCnNC_JPEG/1648201584815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ING터뷰] 어쩔티빙? 돼지의 왕받네(?) 이 조합 저는 대찬성입니다❤ | 돼지의 왕 편]]></title>
+            <link>https://tv.naver.com/v/25855909</link>
+            <guid>https://tv.naver.com/v/25855909</guid>
+            <pubDate>Sun, 27 Mar 2022 05:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[6:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_125/zJRzV_1648198377908HcG5a_JPEG/1648198331677.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[돼지의 왕] 조금씩 드러나는 정종석과 황경민의 과거! | 5화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Mar 2022 04:14:13 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_48/Ozeco_1647574472953a8VX8_PNG/1647574347118.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 괜찮겠어? 우린 적당히 찍을 줄 모르는 과몰입러들인데 | 제작 비하인드]]></title>
-            <link>https://tv.naver.com/v/25702630</link>
-            <guid>https://tv.naver.com/v/25702630</guid>
-            <pubDate>Thu, 17 Mar 2022 16:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_90/ZL6rx_1647499451620zYpzG_JPEG/1647499354818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
