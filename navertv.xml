@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 06:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 07:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,22 +184,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_199/4Ske7_1647596286887GvAbl_PNG/1647596069157.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[돼지의 왕] 칼 들고 학폭 가해자 찾아간 김동욱]]></title>
-            <link>https://tv.naver.com/v/25727478</link>
-            <guid>https://tv.naver.com/v/25727478</guid>
-            <pubDate>Fri, 18 Mar 2022 10:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_9/8p2J1_1647595939181kmFRz_JPEG/1647595765926.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] //소름//김동욱, 다시 마주한 학창시절의 트라우마]]></title>
-            <link>https://tv.naver.com/v/25727477</link>
-            <guid>https://tv.naver.com/v/25727477</guid>
-            <pubDate>Fri, 18 Mar 2022 10:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_22/CsDu5_1647595932411sqYTI_JPEG/1647595868359.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[돼지의 왕] 폭력에 무너졌던 어린 시절에 분노 폭발 김동욱]]></title>
             <link>https://tv.naver.com/v/25727473</link>
             <guid>https://tv.naver.com/v/25727473</guid>
@@ -214,6 +198,22 @@
             <pubDate>Fri, 18 Mar 2022 10:12:48 GMT</pubDate>
             <content:encoded><![CDATA[3:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_208/1UkNa_1647595921513hQ4oY_JPEG/1647595618686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돼지의 왕] 칼 들고 학폭 가해자 찾아간 김동욱]]></title>
+            <link>https://tv.naver.com/v/25727478</link>
+            <guid>https://tv.naver.com/v/25727478</guid>
+            <pubDate>Fri, 18 Mar 2022 10:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_9/8p2J1_1647595939181kmFRz_JPEG/1647595765926.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돼지의 왕] //소름//김동욱, 다시 마주한 학창시절의 트라우마]]></title>
+            <link>https://tv.naver.com/v/25727477</link>
+            <guid>https://tv.naver.com/v/25727477</guid>
+            <pubDate>Fri, 18 Mar 2022 10:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_22/CsDu5_1647595932411sqYTI_JPEG/1647595868359.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[돼지의 왕] 김동욱의 꽁냥꽁냥 결혼 생활(그 일이 있기 전까지)]]></title>
