@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 23:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 00:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전체관람가+: 숏버스터] 영화X예능 콜라보🎬 모든 것이 플러스로 돌아왔다! | 1차 티저 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25963838</link>
+            <guid>https://tv.naver.com/v/25963838</guid>
+            <pubDate>Fri, 01 Apr 2022 00:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_162/KPhcr_1648725698995gQjb9_JPEG/1648725631684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 효리는 서울에서 어딜 가고 누굴 만날까?📍 서울 라이프 공개! | 2차 티저 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25954000</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Mar 2022 05:10:49 GMT</pubDate>
             <content:encoded><![CDATA[1:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_261/sc5a3_16475810367537XTmd_JPEG/1647580964570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 효리 웰컴백💛 더 제대로 즐기는 소울-풀 서울! | 1차 티저 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25719827</link>
-            <guid>https://tv.naver.com/v/25719827</guid>
-            <pubDate>Fri, 18 Mar 2022 05:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_36/hSkk1_1647578177208hPXHL_JPEG/1647578100158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
