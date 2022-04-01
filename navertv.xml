@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 22:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 23:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Fri, 01 Apr 2022 09:11:58 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_257/UAY2C_1648720725531IXXir_JPEG/1648720697930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 라인업] 초월적인 4월 티빙 라인업!]]></title>
+            <link>https://tv.naver.com/v/25956661</link>
+            <guid>https://tv.naver.com/v/25956661</guid>
+            <pubDate>Fri, 01 Apr 2022 23:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_12/oJyKE_1648709762667demPp_PNG/1648709715690.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[서울체크인] 효리는 서울에서 어딜 가고 누굴 만날까?📍 서울 라이프 공개! | 2차 티저]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 19 Mar 2022 07:10:46 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_42/EmJTU_1647602388057fXD1S_JPEG/1647602347286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕][소름엔딩] 김동욱이 살인 후 피로 남긴 메시지는?!]]></title>
-            <link>https://tv.naver.com/v/25727590</link>
-            <guid>https://tv.naver.com/v/25727590</guid>
-            <pubDate>Fri, 18 Mar 2022 10:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_195/NQwtR_1647596332342GYtb5_PNG/1647596250173.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
