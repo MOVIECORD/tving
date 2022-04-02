@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 06:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 07:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 01 Apr 2022 06:15:28 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_125/xoYj8_1648792560221pjcXo_JPEG/1648792492537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돼지의 왕] 점점 좁혀드는 수사망과 사건의 중심 속 "철이"?!🔪 | 7화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25973015</link>
+            <guid>https://tv.naver.com/v/25973015</guid>
+            <pubDate>Sat, 02 Apr 2022 07:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_289/kO4bD_1648778990695LDC0V_JPEG/1648778959101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[돼지의 왕] 일진 평판 하루 만에 추락시킨 살인마 김동욱의 술수 | 6화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 05:10:37 GMT</pubDate>
             <content:encoded><![CDATA[5:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_118/WwUfs_1648097385842Of7Bd_JPEG/1648097300264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 김동욱 두번째 타겟은? 기다려, 하나씩 보내줄게🔪  | 3화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25729331</link>
-            <guid>https://tv.naver.com/v/25729331</guid>
-            <pubDate>Sat, 19 Mar 2022 07:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_42/EmJTU_1647602388057fXD1S_JPEG/1647602347286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
