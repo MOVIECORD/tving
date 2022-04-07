@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 07:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 08:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 오리지널 전체관람가+: 숏버스터 [선공개] 블록버스터보다 스펙타클 숏버스터 탄생✨ (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26093659</link>
+            <guid>https://tv.naver.com/v/26093659</guid>
+            <pubDate>Thu, 07 Apr 2022 08:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_7/nU6hC_1649312604646tWqjn_JPEG/1649312601171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[괴이] 무빙 포스터 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26078101</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 09:12:01 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_53/K4i4x_1648097938591F7IGh_JPEG/1648097913055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 김성규의 목을 졸라오는 과거, 그리고 김동욱의 메세지 | 3화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25826808</link>
-            <guid>https://tv.naver.com/v/25826808</guid>
-            <pubDate>Fri, 25 Mar 2022 09:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_162/ocLKu_1648097903875PFROG_JPEG/1648097871382.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
