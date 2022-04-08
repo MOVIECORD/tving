@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 22:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 23:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 08 Apr 2022 12:18:51 GMT</pubDate>
             <content:encoded><![CDATA[3:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_273/hXUOk_1649418774572PQMwB_JPEG/1649418714974.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[괴이] 포스터 촬영 때 챙겨야 할 뜻밖의 준비물=과몰입 | 포스터 촬영 비하인드]]></title>
+            <link>https://tv.naver.com/v/26118286</link>
+            <guid>https://tv.naver.com/v/26118286</guid>
+            <pubDate>Fri, 08 Apr 2022 23:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_43/Kmxlf_1649406043690EmKjJ_JPEG/1649406033828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 괴이 [선공개] 구교환X신현빈 | 눈을 본 자, 지옥에 갇힌다ㅣ메인 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 31 Mar 2022 06:14:42 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_130/xoEcq_1648704336625Q5sue_JPEG/1648704233366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아직 최선을 다하지 않았을 뿐] 금필이 못 보내 아니 안 보내😭 훈훈했던 현장 | 7~12화]]></title>
-            <link>https://tv.naver.com/v/25857154</link>
-            <guid>https://tv.naver.com/v/25857154</guid>
-            <pubDate>Sat, 26 Mar 2022 09:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[9:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_100/5seI8_1648201588322NCnNC_JPEG/1648201584815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
