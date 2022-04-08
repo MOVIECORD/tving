@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 11:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 12:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 효리&윤주의 만남! 누가 더 사랑하나❤ | 1화 미공개 영상]]></title>
+            <link>https://tv.naver.com/v/26122384</link>
+            <guid>https://tv.naver.com/v/26122384</guid>
+            <pubDate>Fri, 08 Apr 2022 12:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_273/hXUOk_1649418774572PQMwB_JPEG/1649418714974.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 괴이 [선공개] 구교환X신현빈 | 눈을 본 자, 지옥에 갇힌다ㅣ메인 예고편]]></title>
             <link>https://tv.naver.com/v/26111283</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Mar 2022 09:10:39 GMT</pubDate>
             <content:encoded><![CDATA[9:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_100/5seI8_1648201588322NCnNC_JPEG/1648201584815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ING터뷰] 어쩔티빙? 돼지의 왕받네(?) 이 조합 저는 대찬성입니다❤ | 돼지의 왕 편]]></title>
-            <link>https://tv.naver.com/v/25855909</link>
-            <guid>https://tv.naver.com/v/25855909</guid>
-            <pubDate>Sun, 27 Mar 2022 05:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[6:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_125/zJRzV_1648198377908HcG5a_JPEG/1648198331677.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
