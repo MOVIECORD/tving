@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 06:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 07:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 08 Apr 2022 23:11:24 GMT</pubDate>
             <content:encoded><![CDATA[4:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_43/Kmxlf_1649406043690EmKjJ_JPEG/1649406033828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돼지의 왕] "선택해 살릴지 죽일지" 폭주하는 황경민, 정종석 | 9화 예고]]></title>
+            <link>https://tv.naver.com/v/26117036</link>
+            <guid>https://tv.naver.com/v/26117036</guid>
+            <pubDate>Sat, 09 Apr 2022 07:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_191/emqwj_1649403073476l56yj_JPEG/1649403030405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 괴이 [선공개] 구교환X신현빈 | 눈을 본 자, 지옥에 갇힌다ㅣ메인 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 23:11:59 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_12/oJyKE_1648709762667demPp_PNG/1648709715690.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 효리는 서울에서 어딜 가고 누굴 만날까?📍 서울 라이프 공개! | 2차 티저]]></title>
-            <link>https://tv.naver.com/v/25954000</link>
-            <guid>https://tv.naver.com/v/25954000</guid>
-            <pubDate>Thu, 31 Mar 2022 06:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_130/xoEcq_1648704336625Q5sue_JPEG/1648704233366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
