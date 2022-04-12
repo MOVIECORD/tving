@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 06:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 07:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 핫플 성수에 갓효리 그래피티라,, 이건 못 참지💗 | 그래피티 메이킹]]></title>
+            <link>https://tv.naver.com/v/26182087</link>
+            <guid>https://tv.naver.com/v/26182087</guid>
+            <pubDate>Tue, 12 Apr 2022 07:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_298/rg1r1_1649744350391DHef5_JPEG/1649744306693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 라떼 추억소환 완☕ 지난 시간만큼 매워진 친구들과 찐친모먼트 | 2화 예고]]></title>
             <link>https://tv.naver.com/v/26176860</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 09:11:58 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_44/H1P3Q_1648720901280k2Lhi_JPEG/1648720879849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 김동욱x김성규를 학폭 지옥에서 꺼내준 구원자?! | 5화 클립]]></title>
-            <link>https://tv.naver.com/v/25962121</link>
-            <guid>https://tv.naver.com/v/25962121</guid>
-            <pubDate>Fri, 01 Apr 2022 09:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_100/Ms1ka_16487208730599s5hP_JPEG/1648720842015.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
