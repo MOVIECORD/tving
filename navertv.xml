@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] "언니가 왜 거기?" 나래 잡는 화사의 등장!? | 1화 미공개 영상]]></title>
+            <link>https://tv.naver.com/v/26239922</link>
+            <guid>https://tv.naver.com/v/26239922</guid>
+            <pubDate>Fri, 15 Apr 2022 05:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_26/4NTNr_1649986695257qARbS_JPEG/1649986106052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[장미맨션] 언니가 사라지고 지옥 같은 집에 다시 돌아왔다 | 티저 예고편]]></title>
             <link>https://tv.naver.com/v/26230404</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 09:11:58 GMT</pubDate>
             <content:encoded><![CDATA[2:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_254/zdKJX_164872118949224e0h_JPEG/1648721162138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 인간쓰레기 제거하려는 살인마 김동욱 | 6화 클립]]></title>
-            <link>https://tv.naver.com/v/25962226</link>
-            <guid>https://tv.naver.com/v/25962226</guid>
-            <pubDate>Fri, 01 Apr 2022 09:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_249/yzTwT_1648721153323HHRCm_JPEG/1648721003414.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
