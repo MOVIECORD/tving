@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 06:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 07:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 16 Apr 2022 05:10:26 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_104/FLOsU_1650018818951VYRDT_JPEG/1650018699524.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돼지의 왕] "난 괴물이 될게" 모든 것을 끝내고 싶은 김동욱 VS 김성규| 최종화 예고]]></title>
+            <link>https://tv.naver.com/v/26252035</link>
+            <guid>https://tv.naver.com/v/26252035</guid>
+            <pubDate>Sat, 16 Apr 2022 07:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_294/6QIAd_1650015220720QiYw7_JPEG/1650015127333.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[돼지의 왕] 김동욱이 고이 보내드림! 방관자의 마지막 가시는 길 | 10화 클립]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Apr 2022 09:11:49 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_241/CWLPs_1649383162648bCG4I_JPEG/1649383138016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 학폭 가해자들의 보스였던 학생회장의 진심 어린 사죄 | 8화 클립]]></title>
-            <link>https://tv.naver.com/v/26108962</link>
-            <guid>https://tv.naver.com/v/26108962</guid>
-            <pubDate>Fri, 08 Apr 2022 09:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_51/uZVWz_1649383129853BNDSE_JPEG/1649383092609.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
