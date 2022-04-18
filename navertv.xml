@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 02:56:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 03:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_124/AbxWN_1650010979292EQa2r_JPEG/1650010564213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[돼지의 왕] 다크웹 범죄자의 비밀하드 몽땅 턴 김동욱 | 9화 클립]]></title>
-            <link>https://tv.naver.com/v/26249691</link>
-            <guid>https://tv.naver.com/v/26249691</guid>
-            <pubDate>Fri, 15 Apr 2022 09:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_294/Et1Rp_165001097167996WS2_JPEG/1650010558703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[돼지의 왕] 영화관 린치?! 묻지마 폭행 사주한 남자의 정체;; | 9화 클립]]></title>
             <link>https://tv.naver.com/v/26249687</link>
             <guid>https://tv.naver.com/v/26249687</guid>
@@ -118,6 +110,14 @@
             <pubDate>Fri, 15 Apr 2022 09:11:35 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_86/YqNPi_1650010944383OjYd7_JPEG/1650010543392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돼지의 왕] 다크웹 범죄자의 비밀하드 몽땅 턴 김동욱 | 9화 클립]]></title>
+            <link>https://tv.naver.com/v/26249691</link>
+            <guid>https://tv.naver.com/v/26249691</guid>
+            <pubDate>Fri, 15 Apr 2022 09:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_134/vm2H5_1650252186574hMbjB_JPEG/1650252183608.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울체크인] "언니가 왜 거기?" 나래 잡는 화사의 등장!? | 1화 미공개 영상]]></title>
