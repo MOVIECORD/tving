@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 01:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 03:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 내가 보고 싶었던 조합 이거잖아! 다시 뭉친 댄스가수 유랑단🎙 | 3화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26304337</link>
+            <guid>https://tv.naver.com/v/26304337</guid>
+            <pubDate>Tue, 19 Apr 2022 03:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_28/TzyXq_16502844182790gFrH_JPEG/1650284231439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 힘들었던 그 시절 효리를 버티게 해준 것은? | 2화 하이라이트 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26253098</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Apr 2022 09:11:49 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_33/jizr8_1649383211554cXaBz_JPEG/1649383169090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 20년 전 일을 암시하는 김동욱 X 김성규의 의미심장한 통화 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26108973</link>
-            <guid>https://tv.naver.com/v/26108973</guid>
-            <pubDate>Fri, 08 Apr 2022 09:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_241/CWLPs_1649383162648bCG4I_JPEG/1649383138016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
