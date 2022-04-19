@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 10:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 11:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#서울체크인 본격 덕질터뷰 | 프로그램에 항상 진심인 편✨ 김태호PD가 말하는 넥스트 체]]></title>
+            <link>https://tv.naver.com/v/26324448</link>
+            <guid>https://tv.naver.com/v/26324448</guid>
+            <pubDate>Tue, 19 Apr 2022 11:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_148/mNaIc_1650364833185RNSer_JPEG/1650364728541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 내가 보고 싶었던 조합 이거잖아! 다시 뭉친 댄스가수 유랑단🎙 | 3화 예고]]></title>
             <link>https://tv.naver.com/v/26304337</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Apr 2022 06:14:33 GMT</pubDate>
             <content:encoded><![CDATA[1:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_296/0DjYv_1649389541808RqSsk_JPEG/1649389432186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 드디어 공개되는 20년 전 그날의 기억]]></title>
-            <link>https://tv.naver.com/v/26108993</link>
-            <guid>https://tv.naver.com/v/26108993</guid>
-            <pubDate>Fri, 08 Apr 2022 09:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_33/jizr8_1649383211554cXaBz_JPEG/1649383169090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
