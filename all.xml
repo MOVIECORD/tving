@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 00:58:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 03:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 슈퍼스타 효리를 위협하는 넥스트 디바는? with 보아X화사 | 3화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26378373</link>
+            <guid>https://tv.naver.com/v/26378373</guid>
+            <pubDate>Fri, 22 Apr 2022 03:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_68/2SPh3_16505968404146r2NH_JPEG/1650596758111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[괴이] 구교환 구푼젤된 사연(?) 그런데 이제 잔망을 곁들인.. ❤ | 3D 스페셜 예고 메이킹 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26341102</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Apr 2022 23:11:24 GMT</pubDate>
             <content:encoded><![CDATA[4:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_43/Kmxlf_1649406043690EmKjJ_JPEG/1649406033828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] "선택해 살릴지 죽일지" 폭주하는 황경민, 정종석 | 9화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26117036</link>
-            <guid>https://tv.naver.com/v/26117036</guid>
-            <pubDate>Sat, 09 Apr 2022 07:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_191/emqwj_1649403073476l56yj_JPEG/1649403030405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
