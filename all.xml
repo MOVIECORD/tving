@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 04:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 05:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 유랑단 완전체 in 완선네! 불타는 밤🔥 | 3화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26397449</link>
+            <guid>https://tv.naver.com/v/26397449</guid>
+            <pubDate>Sat, 23 Apr 2022 05:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_269/h1yGA_16506725359559sQxF_JPEG/1650672429454.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울체크인] '이효리=스모키로 성공하신 분' 근데 피부 비결이...? | 3화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26397432</link>
+            <guid>https://tv.naver.com/v/26397432</guid>
+            <pubDate>Sat, 23 Apr 2022 05:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_207/SohZb_1650672413411egOK5_JPEG/1650672335529.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울체크인] "젊넘다일" 스키 타다가도 명언 투척하는 효리 | 3화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26397426</link>
+            <guid>https://tv.naver.com/v/26397426</guid>
+            <pubDate>Sat, 23 Apr 2022 05:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_97/S9plZ_1650672314596H04IR_JPEG/1650672105484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돼지의 왕] 황경민-정종석, 20년 전 그곳에서 다시 대면하다 | 최종화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26389183</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 15 Apr 2022 09:11:35 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_86/YqNPi_1650010944383OjYd7_JPEG/1650010543392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 다크웹 범죄자의 비밀하드 몽땅 턴 김동욱 | 9화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26249691</link>
-            <guid>https://tv.naver.com/v/26249691</guid>
-            <pubDate>Fri, 15 Apr 2022 09:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_134/vm2H5_1650252186574hMbjB_JPEG/1650252183608.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] "언니가 왜 거기?" 나래 잡는 화사의 등장!? | 1화 미공개 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26239922</link>
-            <guid>https://tv.naver.com/v/26239922</guid>
-            <pubDate>Fri, 15 Apr 2022 05:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_26/4NTNr_1649986695257qARbS_JPEG/1649986106052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[장미맨션] 언니가 사라지고 지옥 같은 집에 다시 돌아왔다 | 티저 예고편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26230404</link>
-            <guid>https://tv.naver.com/v/26230404</guid>
-            <pubDate>Fri, 15 Apr 2022 02:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_93/pJ5cW_1649931196360Wtgno_JPEG/1649931108604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
