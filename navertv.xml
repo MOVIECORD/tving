@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 22:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 23:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[떴수다] 소문난 떡상에 먹을 것이 많다😎 장도연과 '괴이'한 첫 번째 손님? | 공식 예고]]></title>
+            <link>https://tv.naver.com/v/26419091</link>
+            <guid>https://tv.naver.com/v/26419091</guid>
+            <pubDate>Sun, 24 Apr 2022 23:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_47/X7HGM_1650816106876XGqI3_JPEG/1650816003106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 유랑단 완전체 in 완선네! 불타는 밤🔥 | 3화 하이라이트]]></title>
             <link>https://tv.naver.com/v/26397449</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Apr 2022 09:11:35 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_140/6iRV5_1650010956133k4UYe_JPEG/1650010549091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 철이의 존재 숨기려는 김성규...진실 쫓는 채정안과 격돌 | 9화 클립]]></title>
-            <link>https://tv.naver.com/v/26249675</link>
-            <guid>https://tv.naver.com/v/26249675</guid>
-            <pubDate>Fri, 15 Apr 2022 09:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_86/YqNPi_1650010944383OjYd7_JPEG/1650010543392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
