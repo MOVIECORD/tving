@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 23:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 00:56:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[장미맨션] 임지연x윤균상, 사라진 언니 대신 발견된 그것....😨| 메인 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26434258</link>
+            <guid>https://tv.naver.com/v/26434258</guid>
+            <pubDate>Tue, 26 Apr 2022 00:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_238/i0uvI_1650880092228Sa9ve_JPEG/1650880064356.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 이게 된다고?! 신체나이 측정하는 효리와 친구들🔥 | 3화 미공개 영상 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26429554</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Apr 2022 09:11:35 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_261/jtXHF_1650010987072aFVwe_JPEG/1650010570424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 김동욱, 또 다른 연쇄살인의 시작? | 9화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26249698</link>
-            <guid>https://tv.naver.com/v/26249698</guid>
-            <pubDate>Fri, 15 Apr 2022 09:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_124/AbxWN_1650010979292EQa2r_JPEG/1650010564213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
