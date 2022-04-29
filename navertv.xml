@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 00:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 03:01:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전체관람가+: 숏버스터] 첫 판부터 마라맛 가득 홍신소 프로덕션✨ | 0화 풀버전]]></title>
+            <link>https://tv.naver.com/v/26502934</link>
+            <guid>https://tv.naver.com/v/26502934</guid>
+            <pubDate>Fri, 29 Apr 2022 03:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[31:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_174/wAAiH_1651148754157AKNoA_JPEG/1651148664545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돼지의 왕] 어떻게 잘 맞고 잘 화낼까(?) 연구하는 이곳 | 9-10화 메이킹]]></title>
             <link>https://tv.naver.com/v/26479860</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Apr 2022 03:19:31 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220418_28/TzyXq_16502844182790gFrH_JPEG/1650284231439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 힘들었던 그 시절 효리를 버티게 해준 것은? | 2화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/26253098</link>
-            <guid>https://tv.naver.com/v/26253098</guid>
-            <pubDate>Sat, 16 Apr 2022 05:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_14/RC4Fk_1650019018030TKzkr_JPEG/1650018946578.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
