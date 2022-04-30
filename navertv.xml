@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 06:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 07:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 29 Apr 2022 11:10:28 GMT</pubDate>
             <content:encoded><![CDATA[5:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220429_236/H1mqQ_1651227300646jssuJ_JPEG/1651227097695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[떴수다][Full] EP.1 '괴이' 구교환X신현빈 | 떡상 제대로 받고 간 쿵짝듀오 신현빛과 구스타✨]]></title>
+            <link>https://tv.naver.com/v/26515260</link>
+            <guid>https://tv.naver.com/v/26515260</guid>
+            <pubDate>Sat, 30 Apr 2022 07:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[20:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_198/5O6eC_1651213330649LGErB_JPEG/1651213209040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[전체관람가+: 숏버스터] 첫 판부터 마라맛 가득 홍신소 프로덕션✨ | 0화 풀버전]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Apr 2022 10:13:48 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_253/DuNBV_1650620597483Eik7W_JPEG/1650620333509.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 기자들 앞 살인 자백하는 김동욱 | 11화 클립]]></title>
-            <link>https://tv.naver.com/v/26389166</link>
-            <guid>https://tv.naver.com/v/26389166</guid>
-            <pubDate>Fri, 22 Apr 2022 10:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_273/bvCq0_1650620593135ueM2f_JPEG/1650620301164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
