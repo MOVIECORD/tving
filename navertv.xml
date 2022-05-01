@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 10:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 11:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Wed, 27 Apr 2022 11:10:30 GMT</pubDate>
             <content:encoded><![CDATA[4:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220427_234/i5Chu_1651056669999ba45U_JPEG/1651056629872.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5월 TVING NOW] 얼굴 바뀐 티빙, 콘텐츠도 풍년이래요~🎉]]></title>
+            <link>https://tv.naver.com/v/26474093</link>
+            <guid>https://tv.naver.com/v/26474093</guid>
+            <pubDate>Sun, 01 May 2022 11:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_106/4eOHZ_1651042412098yeehV_JPEG/1651042369341.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[괴이] 구교환X신현빈 불상의 저주가 시작된다🦅 | 캐릭터 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Apr 2022 10:13:48 GMT</pubDate>
             <content:encoded><![CDATA[5:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_231/g6Kmd_1650620618904cSAAm_JPEG/1650620492340.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 황경민에게 꼼짝없이 당하는 담임 선생 최석기(이경영)의 최후 | 최종화 클립]]></title>
-            <link>https://tv.naver.com/v/26389180</link>
-            <guid>https://tv.naver.com/v/26389180</guid>
-            <pubDate>Fri, 22 Apr 2022 10:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_231/JLAnd_1650620616055N1iG1_JPEG/1650620465749.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
