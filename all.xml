@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 00:56:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 03:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전체관람가+: 숏버스터] 는 복도 많지🎀 보고싶다 만옥과 여명 | '우라까이 하루키' 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26553090</link>
+            <guid>https://tv.naver.com/v/26553090</guid>
+            <pubDate>Mon, 02 May 2022 03:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_224/tQCTG_1651454344258p1iDV_JPEG/1651454262592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] "너희도 힘든 때가 있었어? "올타임 레전드들의 속마음 토크 | 4화 하이라이트 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26532130</link>
@@ -120,6 +128,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220427_234/i5Chu_1651056669999ba45U_JPEG/1651056629872.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[돼지의 왕] 카메라가 꺼지면 순둥한 배우들 제법 귀여워요🎬 | 7-8화 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26479842</link>
+            <guid>https://tv.naver.com/v/26479842</guid>
+            <pubDate>Mon, 02 May 2022 03:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_261/jmTrN_1651056617628XRSJc_JPEG/1651056587512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[5월 TVING NOW] 얼굴 바뀐 티빙, 콘텐츠도 풍년이래요~🎉 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26474093</link>
             <guid>https://tv.naver.com/v/26474093</guid>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 05:10:23 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220423_207/SohZb_1650672413411egOK5_JPEG/1650672335529.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] "젊넘다일" 스키 타다가도 명언 투척하는 효리 | 3화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26397426</link>
-            <guid>https://tv.naver.com/v/26397426</guid>
-            <pubDate>Sat, 23 Apr 2022 05:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_97/S9plZ_1650672314596H04IR_JPEG/1650672105484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 황경민-정종석, 20년 전 그곳에서 다시 대면하다 | 최종화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26389183</link>
-            <guid>https://tv.naver.com/v/26389183</guid>
-            <pubDate>Fri, 22 Apr 2022 10:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[5:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_231/g6Kmd_1650620618904cSAAm_JPEG/1650620492340.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
