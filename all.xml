@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 04:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[돼지의 왕] 그동안 돼지의 왕을 사랑해주셔서 감사합니다 | 최종화 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26557066</link>
+            <guid>https://tv.naver.com/v/26557066</guid>
+            <pubDate>Mon, 02 May 2022 05:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[6:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_29/9LBVf_16514675376703oyLG_JPEG/1651467483046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전체관람가+: 숏버스터] 는 복도 많지🎀 보고싶다 만옥과 여명 | '우라까이 하루키' 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26553090</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 05:10:23 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220423_269/h1yGA_16506725359559sQxF_JPEG/1650672429454.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] '이효리=스모키로 성공하신 분' 근데 피부 비결이...? | 3화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26397432</link>
-            <guid>https://tv.naver.com/v/26397432</guid>
-            <pubDate>Sat, 23 Apr 2022 05:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_207/SohZb_1650672413411egOK5_JPEG/1650672335529.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
