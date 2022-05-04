@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 07:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 08:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,7 +141,7 @@
             <guid>https://tv.naver.com/v/26515260</guid>
             <pubDate>Sat, 30 Apr 2022 07:11:55 GMT</pubDate>
             <content:encoded><![CDATA[20:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_198/5O6eC_1651213330649LGErB_JPEG/1651213209040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_51/bDMXL_1651650402666mXqSL_JPEG/1651650398386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[전체관람가+: 숏버스터] 첫 판부터 마라맛 가득 홍신소 프로덕션✨ | 0화 풀버전 (TVING ─ NAVER TV)]]></title>
