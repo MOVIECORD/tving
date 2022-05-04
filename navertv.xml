@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 08:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 09:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이] MC들 단체 과몰입+입틀막하게 만든 매콤한 결혼생활ㅣ1차 티저]]></title>
+            <link>https://tv.naver.com/v/26602580</link>
+            <guid>https://tv.naver.com/v/26602580</guid>
+            <pubDate>Wed, 04 May 2022 09:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_261/XR19E_1651650911056568jL_JPEG/1651650887516.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전체관람가+: 숏버스터] 만난 지 3일 만에 로맨스를 어떻게 찍어요? 여기요👍|1화 선공개]]></title>
             <link>https://tv.naver.com/v/26593856</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Apr 2022 00:55:51 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220425_238/i0uvI_1650880092228Sa9ve_JPEG/1650880064356.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 이게 된다고?! 신체나이 측정하는 효리와 친구들🔥 | 3화 미공개 영상]]></title>
-            <link>https://tv.naver.com/v/26429554</link>
-            <guid>https://tv.naver.com/v/26429554</guid>
-            <pubDate>Mon, 25 Apr 2022 07:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_193/wSaxs_1650870191439TU1y3_JPEG/1650870081733.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
