@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 06:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 07:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 저게 남산? 여기가 양화대교? 효리 혼란하게 하는 제주 찐친들✨ | 5화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26632926</link>
+            <guid>https://tv.naver.com/v/26632926</guid>
+            <pubDate>Fri, 06 May 2022 07:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_191/4xrCV_16518196677033lbw9_JPEG/1651819524680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이] MC들 단체 과몰입+입틀막하게 만든 매콤한 결혼생활ㅣ1차 티저 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26627998</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Apr 2022 05:15:15 GMT</pubDate>
             <content:encoded><![CDATA[2:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220426_193/Rgv3S_165093875083634Hgx_JPEG/1650938661368.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[장미맨션] 임지연x윤균상, 사라진 언니 대신 발견된 그것....😨| 메인 예고편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26434258</link>
-            <guid>https://tv.naver.com/v/26434258</guid>
-            <pubDate>Tue, 26 Apr 2022 00:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_238/i0uvI_1650880092228Sa9ve_JPEG/1650880064356.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
