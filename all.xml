@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 23:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 00:57:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 07 May 2022 07:12:11 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_3/hLozm_1651887770903of9LW_JPEG/1651887604347.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[전체관람가+: 숏버스터] 5차 팬데믹 앞에 선 인간들 | 주동민 감독 'It's Alright' 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26644615</link>
+            <guid>https://tv.naver.com/v/26644615</guid>
+            <pubDate>Mon, 09 May 2022 00:57:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_258/MdnGe_1651886054603IxqUs_JPEG/1651885986607.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울체크인] 욕조 하나에 몇 명이..? 옹기종기 반신욕 타임🛁 | 5화 하이라이트 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 02 May 2022 03:24:19 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220427_261/jmTrN_1651056617628XRSJc_JPEG/1651056587512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[5월 TVING NOW] 얼굴 바뀐 티빙, 콘텐츠도 풍년이래요~🎉 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26474093</link>
-            <guid>https://tv.naver.com/v/26474093</guid>
-            <pubDate>Sun, 01 May 2022 11:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_106/4eOHZ_1651042412098yeehV_JPEG/1651042369341.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
