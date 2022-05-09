@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 09:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 10:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[UFC Fight Nigth] 얀 블라코비치 VS 알렉산다르 라키치 라이트 헤비급 매치🥊 | 프로모 영상]]></title>
+            <link>https://tv.naver.com/v/26676471</link>
+            <guid>https://tv.naver.com/v/26676471</guid>
+            <pubDate>Mon, 09 May 2022 10:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_142/fHc3V_1652090773302JxpET_JPEG/1652090745616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전체관람가+: 숏버스터] 띵작을 위한 김초희 감독의 KEY는?🗝 | 2화 하이라이트]]></title>
             <link>https://tv.naver.com/v/26644845</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Apr 2022 11:10:30 GMT</pubDate>
             <content:encoded><![CDATA[4:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220427_234/i5Chu_1651056669999ba45U_JPEG/1651056629872.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돼지의 왕] 카메라가 꺼지면 순둥한 배우들 제법 귀여워요🎬 | 7-8화 메이킹]]></title>
-            <link>https://tv.naver.com/v/26479842</link>
-            <guid>https://tv.naver.com/v/26479842</guid>
-            <pubDate>Mon, 02 May 2022 03:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_261/jmTrN_1651056617628XRSJc_JPEG/1651056587512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
