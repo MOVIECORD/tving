@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 05:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 06:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[장미맨션] 모두가 수상하다! 사라진 언니는 아직 장미맨션🏠  안에 있다! | 하이라이트]]></title>
+            <link>https://tv.naver.com/v/26685762</link>
+            <guid>https://tv.naver.com/v/26685762</guid>
+            <pubDate>Tue, 10 May 2022 06:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_4/S2we1_1652148385015bdunb_JPEG/1652148382264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 여행 둘째 날도 풀파워업✊ 눈뜬 순간부터 찐친 모먼트 쉴 틈 없음 | 6화 예고]]></title>
             <link>https://tv.naver.com/v/26685230</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Apr 2022 07:11:55 GMT</pubDate>
             <content:encoded><![CDATA[20:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_51/bDMXL_1651650402666mXqSL_JPEG/1651650398386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전체관람가+: 숏버스터] 첫 판부터 마라맛 가득 홍신소 프로덕션✨ | 0화 풀버전]]></title>
-            <link>https://tv.naver.com/v/26502934</link>
-            <guid>https://tv.naver.com/v/26502934</guid>
-            <pubDate>Fri, 29 Apr 2022 03:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[31:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_174/wAAiH_1651148754157AKNoA_JPEG/1651148664545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
