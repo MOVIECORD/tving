@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 05:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 06:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전체관람가+: 숏버스터] 홍신소 3MC가 뽑은 킹 오브 킹 영화는?👑 | 스티커 추천 인터뷰]]></title>
+            <link>https://tv.naver.com/v/26712516</link>
+            <guid>https://tv.naver.com/v/26712516</guid>
+            <pubDate>Wed, 11 May 2022 06:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[6:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_130/urjlx_1652249158921n5PdQ_JPEG/1652249156967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전체관람가+: 숏버스터] 액션 소리 한 번에 살벌해지는 찐배우 김소연 | 3화 선공개]]></title>
             <link>https://tv.naver.com/v/26700490</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 01 May 2022 01:08:10 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220429_91/OXPZk_1651228195614L8RIY_JPEG/1651228045373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인]파워E 효리가 처음 본 친구와 하는 것✌ 해장 그리고 네컷사진📸|4화 미공개]]></title>
-            <link>https://tv.naver.com/v/26522134</link>
-            <guid>https://tv.naver.com/v/26522134</guid>
-            <pubDate>Fri, 29 Apr 2022 11:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_236/H1mqQ_1651227300646jssuJ_JPEG/1651227097695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
