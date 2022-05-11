@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 23:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 01:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전체관람가+: 숏버스터] 액션 소리 한 번에 살벌해지는 찐배우 김소연 | 3화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26700490</link>
+            <guid>https://tv.naver.com/v/26700490</guid>
+            <pubDate>Wed, 11 May 2022 01:02:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_98/ikL5A_1652185711586qJO0W_JPEG/1652185636128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[장미맨션] 모두가 수상하다! 사라진 언니는 아직 장미맨션🏠  안에 있다! | 하이라이트 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26685762</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Apr 2022 11:10:28 GMT</pubDate>
             <content:encoded><![CDATA[5:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220429_236/H1mqQ_1651227300646jssuJ_JPEG/1651227097695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[떴수다][Full] EP.1 '괴이' 구교환X신현빈 | 떡상 제대로 받고 간 쿵짝듀오 신현빛과 구스타✨ (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26515260</link>
-            <guid>https://tv.naver.com/v/26515260</guid>
-            <pubDate>Sat, 30 Apr 2022 07:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[20:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_51/bDMXL_1651650402666mXqSL_JPEG/1651650398386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
