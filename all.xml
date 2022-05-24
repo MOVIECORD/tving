@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 07:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 08:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 술이 곧 사람이야🍷 술꾼 서울 여자 효리.ZIP | 파트1 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26955725</link>
+            <guid>https://tv.naver.com/v/26955725</guid>
+            <pubDate>Tue, 24 May 2022 08:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[10:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220524_200/xnJTr_1653379624062RXSIb_JPEG/1653379545146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🔴LIVE🔴 티빙 오리지널 [결혼과 이혼 사이] 온라인 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26951558</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
             <content:encoded><![CDATA[0:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220517_214/Iw3l5_1652790393867I4oL8_JPEG/1652790297752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 이혼쪽으로 굴러가요..계속되는 남편의 분노조절장애ㅣ정환-사랑 티저 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26832500</link>
-            <guid>https://tv.naver.com/v/26832500</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_202/bA5lN_1652786629360aYg0h_JPEG/1652786575034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
