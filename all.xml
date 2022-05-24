@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 09:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 24 May 2022 08:16:03 GMT</pubDate>
             <content:encoded><![CDATA[10:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220524_200/xnJTr_1653379624062RXSIb_JPEG/1653379545146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ING터뷰] 승부욕 폭발🔥 현실 짱친 바이브 임지연X윤균상의 집🏠 만들기 대결! | 장미 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26954451</link>
+            <guid>https://tv.naver.com/v/26954451</guid>
+            <pubDate>Tue, 24 May 2022 09:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[6:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220524_270/NEqVh_1653376353756kKwoo_JPEG/1653376267523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🔴LIVE🔴 티빙 오리지널 [결혼과 이혼 사이] 온라인 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
             <content:encoded><![CDATA[0:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220517_202/QcNU4_1652790438201o9iJ1_JPEG/1652790427677.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플라이 투 더 댄스] 미국 장악력 MAX 대한민국 보깅 레전드 떴다🤜 | 러브란(Love Ran) 편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26833747</link>
-            <guid>https://tv.naver.com/v/26833747</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[0:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_214/Iw3l5_1652790393867I4oL8_JPEG/1652790297752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
