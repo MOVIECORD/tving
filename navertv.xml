@@ -4,16 +4,48 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 03:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 04:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[헤일로] 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26990690</link>
-            <guid>https://tv.naver.com/v/26990690</guid>
-            <pubDate>Thu, 26 May 2022 03:05:26 GMT</pubDate>
+            <title><![CDATA[[파라마운트+] [1883] 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/26991642</link>
+            <guid>https://tv.naver.com/v/26991642</guid>
+            <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_181/oSQbh_1653537591824GBgQr_JPEG/1653537555446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [옐로우재킷] 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/26991628</link>
+            <guid>https://tv.naver.com/v/26991628</guid>
+            <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_145/2EIEf_1653537540341oVDjG_JPEG/1653537505190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [메이어 오브 킹스타운] 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/26991616</link>
+            <guid>https://tv.naver.com/v/26991616</guid>
+            <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_280/pT9a1_16535374893138B3mM_JPEG/1653537449034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [슈퍼 펌프드: 우버 전쟁] 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/26991602</link>
+            <guid>https://tv.naver.com/v/26991602</guid>
+            <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_246/SNv5n_1653537428673xjKmY_JPEG/1653537385907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [헤일로] 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/26991589</link>
+            <guid>https://tv.naver.com/v/26991589</guid>
+            <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_255/k5aeI_1653534213805XA27B_JPEG/1653534124451.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_106/exeLs_1653537369530It69F_JPEG/1653537262456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#장미맨션 본격 덕질터뷰 | 윤균상피셜 깻잎논쟁은 에티튜드의 차이다]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
             <content:encoded><![CDATA[4:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220520_158/iCyHw_1653038955369ou673_JPEG/1653038929821.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 분노 조절 때문에 약도 먹어봤어요ㅣ1화 클립]]></title>
-            <link>https://tv.naver.com/v/26897747</link>
-            <guid>https://tv.naver.com/v/26897747</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220520_190/r0fEV_1653038884144FQ5SN_JPEG/1653038846693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 이혼을 생각해본 적 있어요? MC들의 사전 토크ㅣ1화 클립]]></title>
-            <link>https://tv.naver.com/v/26897720</link>
-            <guid>https://tv.naver.com/v/26897720</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220520_66/0xjbV_1653038792887HrvAh_JPEG/1653038767459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] "이혼 전문 변호사를 만나세요" 부부들에게 찾아온 위기ㅣ2화 예고]]></title>
-            <link>https://tv.naver.com/v/26896574</link>
-            <guid>https://tv.naver.com/v/26896574</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220520_256/0HYkL_1653035239119bpCkJ_JPEG/1653035192031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나의 별에게] 나 친구하잔 말 안 했는데? 이상한 동거의 끝은 어디?!]]></title>
-            <link>https://tv.naver.com/v/26851920</link>
-            <guid>https://tv.naver.com/v/26851920</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_96/nvZpI_1652865885204Lw8cS_JPEG/1652865681708.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
