@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 01:01:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 03:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[헤일로] 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/26990690</link>
+            <guid>https://tv.naver.com/v/26990690</guid>
+            <pubDate>Thu, 26 May 2022 03:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_255/k5aeI_1653534213805XA27B_JPEG/1653534124451.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#장미맨션 본격 덕질터뷰 | 윤균상피셜 깻잎논쟁은 에티튜드의 차이다]]></title>
             <link>https://tv.naver.com/v/26979700</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220518_96/nvZpI_1652865885204Lw8cS_JPEG/1652865681708.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나의 별에게] 한류스타 강서준과 훈남 셰프 한지우의 단짠단짠 동거💕 │공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26851856</link>
-            <guid>https://tv.naver.com/v/26851856</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_201/DHvoo_1652865711307uKYcM_PNG/1652865567633.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
