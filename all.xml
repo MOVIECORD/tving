@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 04:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 05:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_106/exeLs_1653537369530It69F_JPEG/1653537262456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울체크인] 효리언니의 인생띵언.ZIP 나도 같이 눈물 나는 감동 모먼트💧 | 파트1 하이 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26988779</link>
+            <guid>https://tv.naver.com/v/26988779</guid>
+            <pubDate>Thu, 26 May 2022 05:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[11:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_59/zmS4v_16535280306169VeiJ_JPEG/1653527944988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#장미맨션 본격 덕질터뷰 | 윤균상피셜 깻잎논쟁은 에티튜드의 차이다 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220520_176/Mz6Gm_1653039050498VKUAf_JPEG/1653039035089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 입 조심해🤬말 한 마디에 시작된 싸움ㅣ1화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26897764</link>
-            <guid>https://tv.naver.com/v/26897764</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220520_158/iCyHw_1653038955369ou673_JPEG/1653038929821.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
