@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 07:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 08:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이] "제 명의로 된 게 1도 없어요" 자산 공개에 엇갈리는 희비ㅣ2화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26991939</link>
+            <guid>https://tv.naver.com/v/26991939</guid>
+            <pubDate>Thu, 26 May 2022 08:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_69/bRm5r_1653538872299PMcph_JPEG/1653538862971.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] [1883] 공식 예고편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26991642</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
             <content:encoded><![CDATA[4:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220520_37/zTxFk_1653039000765VkxIK_JPEG/1653038986018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 첫만남에 결혼 토크로 절친됐습니다ㅣ1화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26897787</link>
-            <guid>https://tv.naver.com/v/26897787</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220520_176/Mz6Gm_1653039050498VKUAf_JPEG/1653039035089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
