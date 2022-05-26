@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 12:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 13:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#장미맨션 본격 덕질터뷰 | ㄲㅐ..깻잎🍃논쟁? 김도윤이 패스를 외친 이유]]></title>
+            <link>https://tv.naver.com/v/26998338</link>
+            <guid>https://tv.naver.com/v/26998338</guid>
+            <pubDate>Thu, 26 May 2022 13:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_1/hZ8mL_1653553796311qsUg1_JPEG/1653553744433.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#장미맨션 본격 덕질터뷰 | ENFP지만 혼자만의 시간이 간절한 이미도🤣]]></title>
+            <link>https://tv.naver.com/v/26998317</link>
+            <guid>https://tv.naver.com/v/26998317</guid>
+            <pubDate>Thu, 26 May 2022 13:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_81/ypFt7_1653553737277OPUQe_JPEG/1653553729394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이] "제 명의로 된 게 1도 없어요" 자산 공개에 엇갈리는 희비ㅣ2화 선공개]]></title>
             <link>https://tv.naver.com/v/26991939</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
             <content:encoded><![CDATA[4:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220520_264/Zv4si_1653039143807HUcF3_JPEG/1653039133267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 내가 너랑 연애하냐? 주원의 말넘심 모먼트ㅣ1화 클립]]></title>
-            <link>https://tv.naver.com/v/26897804</link>
-            <guid>https://tv.naver.com/v/26897804</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[4:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220520_175/mLikJ_1653039107625adzI7_JPEG/1653039094578.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] “그럼 니가 키워” 아이 앞에서도 멈추지 않는 싸움ㅣ1화 클립]]></title>
-            <link>https://tv.naver.com/v/26897775</link>
-            <guid>https://tv.naver.com/v/26897775</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[4:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220520_37/zTxFk_1653039000765VkxIK_JPEG/1653038986018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
