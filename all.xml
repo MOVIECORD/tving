@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 08:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 09:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이] "당신이랑 대화하기 싫어" 자꾸 어긋나는 우리 관계ㅣ3화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27019112</link>
+            <guid>https://tv.naver.com/v/27019112</guid>
+            <pubDate>Fri, 27 May 2022 09:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_96/9XH2w_1653638468754wu1Kw_JPEG/1653638414008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[장미맨션] 의심하는 형사와 숨막히는 기싸움 하는 지나. 정말 범인일까? | 9-12화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26998699</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
             <content:encoded><![CDATA[4:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220521_118/IoQ1Z_16531035776084vaNg_JPEG/1653103012568.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전체관람가+: 숏버스터] 결말에 할 말 잃은 와중에 샤이윤종신의 등장?♥ | 6화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26905425</link>
-            <guid>https://tv.naver.com/v/26905425</guid>
-            <pubDate>Tue, 24 May 2022 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_61/Y0ptm_16531031450188K6a5_JPEG/1653102833903.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
