@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 06:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 07:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[플라이 투 더 댄스] K-댄스 바이브로 미국 기강 잡고 옴🤘 | 메인 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27060942</link>
+            <guid>https://tv.naver.com/v/27060942</guid>
+            <pubDate>Mon, 30 May 2022 07:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_145/VP3CY_1653891767695caCCJ_JPEG/1653891760494.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전체관람가+: 숏버스터] 나 류테일, 완벽한 영화 위해 오늘도 발로 뛰지 | 8화 하이라이트 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27031048</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 May 2022 13:35:21 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_264/ORd1a_1653474363922sUXsj_JPEG/1653474195385.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#장미맨션 본격 덕질터뷰 | 환승연애 출연하고 싶은 확신의 E 임지연 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26979621</link>
-            <guid>https://tv.naver.com/v/26979621</guid>
-            <pubDate>Wed, 25 May 2022 13:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_77/yxKyy_1653474185790CfNx6_JPEG/1653474179086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
