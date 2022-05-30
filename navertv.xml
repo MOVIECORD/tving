@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 01:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 28 May 2022 07:11:48 GMT</pubDate>
             <content:encoded><![CDATA[2:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_102/VMTeL_1653718322643FPsWE_JPEG/1653718095141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[전체관람가+: 숏버스터] 지뢰를 밟아버린 소년?! 😱 | 김곡&김선 감독 '지뢰' 예고]]></title>
+            <link>https://tv.naver.com/v/27024705</link>
+            <guid>https://tv.naver.com/v/27024705</guid>
+            <pubDate>Mon, 30 May 2022 01:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_213/vJAvf_165365713904464wyD_JPEG/1653656913278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이] 난 왜 널 좋아하는걸까..? 지혜-성욱 부부의 선택은?ㅣ2화 클립]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 May 2022 13:35:21 GMT</pubDate>
             <content:encoded><![CDATA[2:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_77/yxKyy_1653474185790CfNx6_JPEG/1653474179086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나의 별에게 시즌 2] 톱스타 강서준X훈남셰프 한지우 단짠 러브 스토리💜│티저 예고편]]></title>
-            <link>https://tv.naver.com/v/26976178</link>
-            <guid>https://tv.naver.com/v/26976178</guid>
-            <pubDate>Fri, 27 May 2022 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_181/sRC4g_1653465463229bz3Q6_JPEG/1653465394591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
