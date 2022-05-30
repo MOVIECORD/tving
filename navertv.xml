@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 22:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 23:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[UFC Fight Nigth] 볼코프 VS 로젠스트루이크 헤비급 매치 커밍쑨🥊 | 프로모 영상]]></title>
+            <link>https://tv.naver.com/v/27067950</link>
+            <guid>https://tv.naver.com/v/27067950</guid>
+            <pubDate>Mon, 30 May 2022 23:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_158/lh9wI_1653912184967UweTO_JPEG/1653912176780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 제주효리 VS 서울효리! 출구❌ 반전매력 | 하이라이트 모음]]></title>
             <link>https://tv.naver.com/v/27065638</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_246/SNv5n_1653537428673xjKmY_JPEG/1653537385907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] [헤일로] 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26991589</link>
-            <guid>https://tv.naver.com/v/26991589</guid>
-            <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_106/exeLs_1653537369530It69F_JPEG/1653537262456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
