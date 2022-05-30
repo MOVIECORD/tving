@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 09:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 10:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 제주효리 VS 서울효리! 출구❌ 반전매력 | 하이라이트 모음]]></title>
+            <link>https://tv.naver.com/v/27065638</link>
+            <guid>https://tv.naver.com/v/27065638</guid>
+            <pubDate>Mon, 30 May 2022 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[10:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_111/LNZ6i_1653904029682l6dml_JPEG/1653903990432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울체크인] Part1 역대 조회수 TOP 10🏆 재밌는 것만 모아모아 드려요 | 하이라이트 모음]]></title>
+            <link>https://tv.naver.com/v/27065618</link>
+            <guid>https://tv.naver.com/v/27065618</guid>
+            <pubDate>Mon, 30 May 2022 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[32:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_263/Rri3P_1653903978035szhoX_JPEG/1653903966662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[플라이 투 더 댄스] K-댄스 바이브로 미국 기강 잡고 옴🤘 | 메인 예고]]></title>
             <link>https://tv.naver.com/v/27060942</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_106/exeLs_1653537369530It69F_JPEG/1653537262456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 효리언니의 인생띵언.ZIP 나도 같이 눈물 나는 감동 모먼트💧 | 파트1 하이]]></title>
-            <link>https://tv.naver.com/v/26988779</link>
-            <guid>https://tv.naver.com/v/26988779</guid>
-            <pubDate>Thu, 26 May 2022 05:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[11:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_59/zmS4v_16535280306169VeiJ_JPEG/1653527944988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#장미맨션 본격 덕질터뷰 | 윤균상피셜 깻잎논쟁은 에티튜드의 차이다]]></title>
-            <link>https://tv.naver.com/v/26979700</link>
-            <guid>https://tv.naver.com/v/26979700</guid>
-            <pubDate>Wed, 25 May 2022 13:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_264/ORd1a_1653474363922sUXsj_JPEG/1653474195385.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
