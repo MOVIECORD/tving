@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 04:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 이효리가 이효리했다💜최강 라인업과 함께 더 소울-풀하게 돌아옵니다]]></title>
+            <link>https://tv.naver.com/v/27077466</link>
+            <guid>https://tv.naver.com/v/27077466</guid>
+            <pubDate>Tue, 31 May 2022 05:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_174/5Mi1l_1653971887553e1qi7_JPEG/1653971770166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] [슈퍼 펌프드: 우버 전쟁] 공식 예고편]]></title>
             <link>https://tv.naver.com/v/27075578</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 May 2022 08:16:28 GMT</pubDate>
             <content:encoded><![CDATA[2:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_69/bRm5r_1653538872299PMcph_JPEG/1653538862971.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] [1883] 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26991642</link>
-            <guid>https://tv.naver.com/v/26991642</guid>
-            <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_181/oSQbh_1653537591824GBgQr_JPEG/1653537555446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
