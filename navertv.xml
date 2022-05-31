@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 23:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 00:59:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 30 May 2022 10:13:01 GMT</pubDate>
             <content:encoded><![CDATA[32:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_263/Rri3P_1653903978035szhoX_JPEG/1653903966662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 좋은데요, 기다려줘서 | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/27065304</link>
+            <guid>https://tv.naver.com/v/27065304</guid>
+            <pubDate>Tue, 31 May 2022 00:59:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_78/8VRSJ_1653902684882aH3a3_JPEG/1653902533676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[플라이 투 더 댄스] K-댄스 바이브로 미국 기강 잡고 옴🤘 | 메인 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_280/pT9a1_16535374893138B3mM_JPEG/1653537449034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] [슈퍼 펌프드: 우버 전쟁] 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26991602</link>
-            <guid>https://tv.naver.com/v/26991602</guid>
-            <pubDate>Thu, 26 May 2022 04:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_246/SNv5n_1653537428673xjKmY_JPEG/1653537385907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
