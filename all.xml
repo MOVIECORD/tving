@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 10:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 11:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 31 May 2022 00:59:30 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_78/8VRSJ_1653902684882aH3a3_JPEG/1653902533676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [슈퍼 펌프드: 우버 전쟁] 논란의 CEO (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27061537</link>
+            <guid>https://tv.naver.com/v/27061537</guid>
+            <pubDate>Tue, 31 May 2022 11:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_154/0c4NP_1653980332469LvIu0_JPEG/1653980319908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[나의 별에게 시즌 2] 강서준X한지우의 우여곡절 그 두 번째 로맨스💞│메인 티저 예고편 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 May 2022 13:31:59 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_81/ypFt7_1653553737277OPUQe_JPEG/1653553729394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워커홀릭 최연소 편집장 [뉴노멀진] 송로지 티저 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26998050</link>
-            <guid>https://tv.naver.com/v/26998050</guid>
-            <pubDate>Fri, 27 May 2022 03:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_128/NCJiM_1653553072861O0CKx_JPEG/1653553061867.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
