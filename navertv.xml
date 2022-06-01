@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 09:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 10:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 01 Jun 2022 01:06:20 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_124/VHNll_1653995263876mCTlM_JPEG/1653995067727.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴노멀진] 혐관 친구가 하루 아침에 직장 상사 됨; | 티저 예고편 1]]></title>
+            <link>https://tv.naver.com/v/27085772</link>
+            <guid>https://tv.naver.com/v/27085772</guid>
+            <pubDate>Wed, 01 Jun 2022 10:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_263/AQpWY_1653994614021Izpdd_PNG/1653994611507.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[파라마운트+] [메이어 오브 킹스타운] 공식 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 May 2022 09:13:14 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_96/9XH2w_1653638468754wu1Kw_JPEG/1653638414008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[장미맨션] 의심하는 형사와 숨막히는 기싸움 하는 지나. 정말 범인일까? | 9-12화 선공개]]></title>
-            <link>https://tv.naver.com/v/26998699</link>
-            <guid>https://tv.naver.com/v/26998699</guid>
-            <pubDate>Thu, 26 May 2022 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[6:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_44/Xq3T7_1653554632594X4R6y_JPEG/1653554564755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
