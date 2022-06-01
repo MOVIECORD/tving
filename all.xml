@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 06:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 07:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[티빙 파라마운트+] 캠페인 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27086731</link>
+            <guid>https://tv.naver.com/v/27086731</guid>
+            <pubDate>Wed, 01 Jun 2022 07:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_33/O96WG_1653998112397YS0fT_JPEG/1653998104350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 효리&상순의 서울 데이트! 홍쓴부부가 효리를 위해 준비한 것은? | 7화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27085989</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 May 2022 15:14:26 GMT</pubDate>
             <content:encoded><![CDATA[6:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_44/Xq3T7_1653554632594X4R6y_JPEG/1653554564755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#장미맨션 본격 덕질터뷰 | ㄲㅐ..깻잎🍃논쟁? 김도윤이 패스를 외친 이유 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26998338</link>
-            <guid>https://tv.naver.com/v/26998338</guid>
-            <pubDate>Thu, 26 May 2022 13:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_1/hZ8mL_1653553796311qsUg1_JPEG/1653553744433.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
