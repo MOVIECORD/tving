@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 09:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 10:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] [옐로우재킷] 공식 예고편 2 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27137494</link>
+            <guid>https://tv.naver.com/v/27137494</guid>
+            <pubDate>Fri, 03 Jun 2022 10:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_208/uKm1Y_1654236158693F6BCU_JPEG/1654235970710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴노멀진] 악명 높은 팀으로 쫓겨났다 | 티저 예고편 2 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27118844</link>
+            <guid>https://tv.naver.com/v/27118844</guid>
+            <pubDate>Fri, 03 Jun 2022 10:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_128/teHP7_1654165722792pw1uM_PNG/1654165675284.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[유미의 세포들 시즌2] "괜찮으시죠?" 세포마을 덮친 후폭풍🌪️ | 1화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27118227</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 27 May 2022 13:34:15 GMT</pubDate>
             <content:encoded><![CDATA[4:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_119/IRLki_1653639783222cmMct_JPEG/1653639741113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[장미맨션] 싸움구경 팝콘각🍿 경찰서에서 대판 싸우는 정웅인x이문식 | 12화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27019498</link>
-            <guid>https://tv.naver.com/v/27019498</guid>
-            <pubDate>Sun, 29 May 2022 11:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_215/aNtCx_1653639318697E81FK_JPEG/1653639282628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[장미맨션] 마침내 찾아낸 범인의 아지트! 그곳에 있는 지나의 남친..? | 11화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27019474</link>
-            <guid>https://tv.naver.com/v/27019474</guid>
-            <pubDate>Sat, 28 May 2022 11:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_242/hDr29_16536392734701bhtD_JPEG/1653639231470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
