@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 22:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 23:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_291/vxREm_1653962594303kV94y_JPEG/1653962582933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[티빙 라인업] 6월 TVING NOW🔥]]></title>
+            <link>https://tv.naver.com/v/27074624</link>
+            <guid>https://tv.naver.com/v/27074624</guid>
+            <pubDate>Sat, 04 Jun 2022 23:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_172/OhrFc_1653961679900F8u4W_JPEG/1653961604754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[UFC Fight Nigth] 볼코프 VS 로젠스트루이크 헤비급 매치 커밍쑨🥊 | 프로모 영상]]></title>
             <link>https://tv.naver.com/v/27067950</link>
             <guid>https://tv.naver.com/v/27067950</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 May 2022 10:13:01 GMT</pubDate>
             <content:encoded><![CDATA[32:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_263/Rri3P_1653903978035szhoX_JPEG/1653903966662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 좋은데요, 기다려줘서 | 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/27065304</link>
-            <guid>https://tv.naver.com/v/27065304</guid>
-            <pubDate>Tue, 31 May 2022 00:59:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_78/8VRSJ_1653902684882aH3a3_JPEG/1653902533676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
