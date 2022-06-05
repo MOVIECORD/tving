@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 22:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 23:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 04 Jun 2022 07:11:34 GMT</pubDate>
             <content:encoded><![CDATA[4:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220604_275/eokvd_1654278966142PHMRd_JPEG/1654278775171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UFC275] 6월 12일, 꼭 봐야할 2개의 타이틀 매치전🥊 | 프로모 영상]]></title>
+            <link>https://tv.naver.com/v/27149796</link>
+            <guid>https://tv.naver.com/v/27149796</guid>
+            <pubDate>Sun, 05 Jun 2022 23:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_250/URQFq_1654270789965VmRY7_JPEG/1654270745023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울체크인] 서울숲+커피+효리? 이건 찍어야 돼! 효리&상순의 성수동 카페 데이트 | 7화 하]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 May 2022 10:13:01 GMT</pubDate>
             <content:encoded><![CDATA[10:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_111/LNZ6i_1653904029682l6dml_JPEG/1653903990432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] Part1 역대 조회수 TOP 10🏆 재밌는 것만 모아모아 드려요 | 하이라이트 모음]]></title>
-            <link>https://tv.naver.com/v/27065618</link>
-            <guid>https://tv.naver.com/v/27065618</guid>
-            <pubDate>Mon, 30 May 2022 10:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[32:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_263/Rri3P_1653903978035szhoX_JPEG/1653903966662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
