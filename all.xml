@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 23:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 00:48:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전체관람가+: 숏버스터] 멈추지 않는 교육열📚 | 홍석재 감독 '평행관측은 6살부터' 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27151138</link>
+            <guid>https://tv.naver.com/v/27151138</guid>
+            <pubDate>Tue, 07 Jun 2022 00:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_139/1vKo4_16542803909983qbjH_JPEG/1654280131390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전체관람가+: 숏버스터] 재난급 추위에도 식지 않는 열정🔥 | 10화 하이라이트 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27151136</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 May 2022 23:13:14 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_158/lh9wI_1653912184967UweTO_JPEG/1653912176780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 제주효리 VS 서울효리! 출구❌ 반전매력 | 하이라이트 모음 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27065638</link>
-            <guid>https://tv.naver.com/v/27065638</guid>
-            <pubDate>Mon, 30 May 2022 10:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[10:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_111/LNZ6i_1653904029682l6dml_JPEG/1653903990432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
