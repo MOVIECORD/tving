@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 06:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 07:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[UFC275] 6월 12일, 꼭 봐야할 2개의 타이틀 매치전🥊 | 프로모 영상]]></title>
+            <link>https://tv.naver.com/v/27208199</link>
+            <guid>https://tv.naver.com/v/27208199</guid>
+            <pubDate>Tue, 07 Jun 2022 07:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_100/948L6_1654583442675Sv1S7_JPEG/1654583440035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전체관람가+: 숏버스터] 멈추지 않는 교육열📚 | 홍석재 감독 '평행관측은 6살부터' 예고]]></title>
             <link>https://tv.naver.com/v/27151138</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 04 Jun 2022 07:11:34 GMT</pubDate>
             <content:encoded><![CDATA[4:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220604_275/eokvd_1654278966142PHMRd_JPEG/1654278775171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UFC275] 6월 12일, 꼭 봐야할 2개의 타이틀 매치전🥊 | 프로모 영상]]></title>
-            <link>https://tv.naver.com/v/27149796</link>
-            <guid>https://tv.naver.com/v/27149796</guid>
-            <pubDate>Sun, 05 Jun 2022 23:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_250/URQFq_1654270789965VmRY7_JPEG/1654270745023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울체크인] 서울숲+커피+효리? 이건 찍어야 돼! 효리&상순의 성수동 카페 데이트 | 7화 하]]></title>
