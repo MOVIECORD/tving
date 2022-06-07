@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 07:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 08:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 유미와 세포들의 두 번째 이야기! | 하이라이트]]></title>
+            <link>https://tv.naver.com/v/27209439</link>
+            <guid>https://tv.naver.com/v/27209439</guid>
+            <pubDate>Tue, 07 Jun 2022 08:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_36/2zcYo_1654587400370fTSAW_JPEG/1654587395238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[UFC275] 6월 12일, 꼭 봐야할 2개의 타이틀 매치전🥊 | 프로모 영상]]></title>
             <link>https://tv.naver.com/v/27208199</link>
@@ -14,6 +22,14 @@
             <pubDate>Tue, 07 Jun 2022 07:11:52 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220607_100/948L6_1654583442675Sv1S7_JPEG/1654583440035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [스타트렉: 스트레인지 뉴 월드] 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/27205067</link>
+            <guid>https://tv.naver.com/v/27205067</guid>
+            <pubDate>Tue, 07 Jun 2022 08:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_222/70lwD_1654574392977EipF9_JPEG/1654574290645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[전체관람가+: 숏버스터] 멈추지 않는 교육열📚 | 홍석재 감독 '평행관측은 6살부터' 예고]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 31 May 2022 03:02:26 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_291/vxREm_1653962594303kV94y_JPEG/1653962582933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙 라인업] 6월 TVING NOW🔥]]></title>
-            <link>https://tv.naver.com/v/27074624</link>
-            <guid>https://tv.naver.com/v/27074624</guid>
-            <pubDate>Sat, 04 Jun 2022 23:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_172/OhrFc_1653961679900F8u4W_JPEG/1653961604754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UFC Fight Nigth] 볼코프 VS 로젠스트루이크 헤비급 매치 커밍쑨🥊 | 프로모 영상]]></title>
-            <link>https://tv.naver.com/v/27067950</link>
-            <guid>https://tv.naver.com/v/27067950</guid>
-            <pubDate>Mon, 30 May 2022 23:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_158/lh9wI_1653912184967UweTO_JPEG/1653912176780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
