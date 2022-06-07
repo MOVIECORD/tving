@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 08:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 09:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 이효리의 다음 프로젝트는? 초특급 콜라보에 설렘주의🌼 | 8화 예고]]></title>
+            <link>https://tv.naver.com/v/27212257</link>
+            <guid>https://tv.naver.com/v/27212257</guid>
+            <pubDate>Tue, 07 Jun 2022 09:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_230/CVExG_165459296231370fvo_JPEG/1654592820939.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유미의 세포들 시즌2] 유미와 세포들의 두 번째 이야기! | 하이라이트]]></title>
             <link>https://tv.naver.com/v/27209439</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 May 2022 03:02:26 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_26/sc0yM_1653964595692hblul_JPEG/1653964519136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] "그리야 ㄱ나니..?" 이혼 전 떠난 제주도 여행썰 푼다ㅣ미공개 클립]]></title>
-            <link>https://tv.naver.com/v/27074914</link>
-            <guid>https://tv.naver.com/v/27074914</guid>
-            <pubDate>Tue, 31 May 2022 03:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_291/vxREm_1653962594303kV94y_JPEG/1653962582933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
