@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 08:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 09:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] [헤일로] 인류의 희망 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27223385</link>
+            <guid>https://tv.naver.com/v/27223385</guid>
+            <pubDate>Wed, 08 Jun 2022 09:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_105/izQFt_1654653526554fSyab_JPEG/1654653489609.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 이효리의 다음 프로젝트는? 초특급 콜라보에 설렘주의🌼 | 8화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27212257</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 10:18:09 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_263/AQpWY_1653994614021Izpdd_PNG/1653994611507.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] [메이어 오브 킹스타운] 공식 예고편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27082912</link>
-            <guid>https://tv.naver.com/v/27082912</guid>
-            <pubDate>Tue, 31 May 2022 09:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_89/FKhJ9_1653985286461OFMMw_JPEG/1653985248928.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
