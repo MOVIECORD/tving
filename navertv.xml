@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 04:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 05:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] (효리둥절😶) 어딘가 특이점이 와버린(?) AKMU 찬혁 디렉팅 | 8화 선공개]]></title>
+            <link>https://tv.naver.com/v/27246210</link>
+            <guid>https://tv.naver.com/v/27246210</guid>
+            <pubDate>Thu, 09 Jun 2022 05:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_157/TaFSe_1654737701981xR0sn_JPEG/1654737595282.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] [헤일로] 인류의 희망]]></title>
             <link>https://tv.naver.com/v/27223385</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 01:06:20 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_124/VHNll_1653995263876mCTlM_JPEG/1653995067727.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴노멀진] 혐관 친구가 하루 아침에 직장 상사 됨; | 티저 예고편 1]]></title>
-            <link>https://tv.naver.com/v/27085772</link>
-            <guid>https://tv.naver.com/v/27085772</guid>
-            <pubDate>Wed, 01 Jun 2022 10:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_263/AQpWY_1653994614021Izpdd_PNG/1653994611507.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
