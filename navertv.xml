@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 00:59:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 03:01:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 유미의 세포들 시즌2 [선공개] 이별 후폭풍에 시달리는 유미에게 내려진 치료는?]]></title>
+            <link>https://tv.naver.com/v/27258926</link>
+            <guid>https://tv.naver.com/v/27258926</guid>
+            <pubDate>Fri, 10 Jun 2022 03:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_191/tKcIe_16547721195297f2H9_JPEG/1654772116107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[플라이 투 더 댄스] 뉴욕에서의 첫 아침🌞 댄스로 시작해서 댄스로 끝남 | 2화 미리보기]]></title>
+            <link>https://tv.naver.com/v/27258527</link>
+            <guid>https://tv.naver.com/v/27258527</guid>
+            <pubDate>Fri, 10 Jun 2022 03:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_284/W15bG_1654768520181Yl1xw_JPEG/1654768506823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이] 파를 썰어야 요리지(?) 깻잎, 새우에 이은 밀키트 논쟁ㅣ4화 선공개]]></title>
             <link>https://tv.naver.com/v/27257782</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 03 Jun 2022 00:54:51 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220602_40/3b1kt_16541632901336TtxA_JPEG/1654163208594.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 상담 후 깨달음을 얻은 주원😮 바뀐 모습을 보여줄까?ㅣ3화 선공개]]></title>
-            <link>https://tv.naver.com/v/27108028</link>
-            <guid>https://tv.naver.com/v/27108028</guid>
-            <pubDate>Thu, 02 Jun 2022 05:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_290/6afNq_1654136938203jUxz8_JPEG/1654136760823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙 파라마운트+] 캠페인 영상]]></title>
-            <link>https://tv.naver.com/v/27086731</link>
-            <guid>https://tv.naver.com/v/27086731</guid>
-            <pubDate>Wed, 01 Jun 2022 07:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_33/O96WG_1653998112397YS0fT_JPEG/1653998104350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
