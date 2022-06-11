@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 00:55:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 02:54:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Fri, 10 Jun 2022 13:30:34 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_251/fc0vO_1654842308121KgA7G_JPEG/1654842239111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 유바비 소개팅? 감성세포 결국 폭발했다😠🔥 | 3화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27270172</link>
+            <guid>https://tv.naver.com/v/27270172</guid>
+            <pubDate>Sat, 11 Jun 2022 02:53:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_59/8Nqnc_165483065591769f7F_JPEG/1654830595295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 유미의 세포들 시즌2 [선공개] 이별 후폭풍에 시달리는 유미에게 내려진 치료는? (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Jun 2022 05:10:10 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220603_280/nXyr9_1654267904013xLM0k_JPEG/1654267864739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] #파워연예인 효리의 놀라운 운명?! feat.타로카드 | 7화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27149179</link>
-            <guid>https://tv.naver.com/v/27149179</guid>
-            <pubDate>Sat, 04 Jun 2022 05:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_300/wE4qW_1654282925826AsGdB_JPEG/1654282918068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
