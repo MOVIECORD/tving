@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 03:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 04:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Sat, 11 Jun 2022 05:10:15 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_63/4Vkas_1654856029025UtFna_JPEG/1654855918538.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 윰밥 헤이마마부터 불량 유미까지 최초 공개합니다 | 1-2화 비하인드 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27279497</link>
+            <guid>https://tv.naver.com/v/27279497</guid>
+            <pubDate>Sun, 12 Jun 2022 04:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[8:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_262/zzJBq_1654853210176JcvQE_JPEG/1654853146319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[유미의 세포들 시즌2] 아니!!! 박진영이 소개팅을 한다고?! (feat.루비네이뇬) | 2화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Jun 2022 03:00:53 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220609_284/W15bG_1654768520181Yl1xw_JPEG/1654768506823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 파를 썰어야 요리지(?) 깻잎, 새우에 이은 밀키트 논쟁ㅣ4화 선공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27257782</link>
-            <guid>https://tv.naver.com/v/27257782</guid>
-            <pubDate>Thu, 09 Jun 2022 09:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_229/NeOJJ_16547660745792cwqI_JPEG/1654765995462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
