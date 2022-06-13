@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 23:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 01:00:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
             <pubDate>Sat, 11 Jun 2022 07:10:42 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_127/oG3cs_1654860614984sUKuN_JPEG/1654860476429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 땀 터지고💧 살 떨리는🙄 치열한 심리게임이 시작된다ㅣ1차 티저 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27281311</link>
+            <guid>https://tv.naver.com/v/27281311</guid>
+            <pubDate>Mon, 13 Jun 2022 01:00:14 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_191/eVL0b_1654857413228DlEsF_JPEG/1654857407639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[전체관람가+: 숏버스터] 학교에 존재하는 다섯 개의 계급 | 곽경택 감독 '스쿨카스트' 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27281281</link>
+            <guid>https://tv.naver.com/v/27281281</guid>
+            <pubDate>Mon, 13 Jun 2022 01:00:14 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_271/ZQVXT_1654857326377rzsFY_JPEG/1654856949999.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울체크인] 효리X찬혁 Free Smile 녹음 현장! 꽤나 신나보이는 아웅다웅 듀오 | 8화 하이라이 (TVING ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 11 Jun 2022 02:53:50 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_59/8Nqnc_165483065591769f7F_JPEG/1654830595295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 유미의 세포들 시즌2 [선공개] 이별 후폭풍에 시달리는 유미에게 내려진 치료는? (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27258926</link>
-            <guid>https://tv.naver.com/v/27258926</guid>
-            <pubDate>Fri, 10 Jun 2022 03:00:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_191/tKcIe_16547721195297f2H9_JPEG/1654772116107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플라이 투 더 댄스] 뉴욕에서의 첫 아침🌞 댄스로 시작해서 댄스로 끝남 | 2화 미리보기 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27258527</link>
-            <guid>https://tv.naver.com/v/27258527</guid>
-            <pubDate>Fri, 10 Jun 2022 03:00:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_284/W15bG_1654768520181Yl1xw_JPEG/1654768506823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
