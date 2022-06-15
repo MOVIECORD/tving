@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 01:00:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 우리들의 블루스의 현실화? 찐친케미 드릉드릉하는 효리와 친구들✨ | 9화 예 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27347969</link>
+            <guid>https://tv.naver.com/v/27347969</guid>
+            <pubDate>Wed, 15 Jun 2022 03:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_98/K9D0U_1655204291887w1WI4_JPEG/1655204246728.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] [헤일로] 공식 예고편 2 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27315845</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Jun 2022 13:30:34 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_81/8eOEK_1654842403083IVRTb_JPEG/1654842321227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 달라진 김고은, 몰아치는 '후폭풍'에 대비하는 세포들 | 1화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27274715</link>
-            <guid>https://tv.naver.com/v/27274715</guid>
-            <pubDate>Fri, 10 Jun 2022 13:30:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_251/fc0vO_1654842308121KgA7G_JPEG/1654842239111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
