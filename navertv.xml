@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 06:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 07:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이] 카메라 앞에서 이렇게 취한다고? 취한 성욱의 선넘은 발언ㅣ5화 선공개]]></title>
+            <link>https://tv.naver.com/v/27377194</link>
+            <guid>https://tv.naver.com/v/27377194</guid>
+            <pubDate>Thu, 16 Jun 2022 07:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_121/LVmug_1655346057094YAdYC_JPEG/1655345993644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[떴수다] 요즘 우정 테스트법? 자신만만한 아이키 VS 미궁에 빠진 사람들 | 3화 클립 #6]]></title>
             <link>https://tv.naver.com/v/27364624</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Jun 2022 04:15:55 GMT</pubDate>
             <content:encoded><![CDATA[5:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_164/TtWLJ_1654844620541Pv2Yi_JPEG/1654844596187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] “아내한테 덤비고 싶을 때가 있어요” 뜻밖의 상하관계(?)ㅣ4화 클립]]></title>
-            <link>https://tv.naver.com/v/27275734</link>
-            <guid>https://tv.naver.com/v/27275734</guid>
-            <pubDate>Sat, 11 Jun 2022 04:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_65/xgf5p_1654844570295tEK78_JPEG/1654844554542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
