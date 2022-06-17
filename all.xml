@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 08:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 16 Jun 2022 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[25:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_64/Y8ein_1655372722890CtpJQ_JPEG/1655372557103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이] 처음으로 털어놓는 고민. 우리 다시 가까워질 수 있을까?ㅣ6화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27387479</link>
+            <guid>https://tv.naver.com/v/27387479</guid>
+            <pubDate>Fri, 17 Jun 2022 09:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_275/CozE5_1655370753243kd0XH_JPEG/1655370699819.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울체크인] 어제의 친구가 오늘 팬🥰 효리는 우리들의 블루스 팬미팅 중 | 9화 선공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Jun 2022 04:15:55 GMT</pubDate>
             <content:encoded><![CDATA[5:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_2/BWN6f_1654844788424fGjrE_JPEG/1654844771042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 용기 내 건넨 진심 어린 속마음에 터져버린 눈물ㅣ4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27275804</link>
-            <guid>https://tv.naver.com/v/27275804</guid>
-            <pubDate>Sat, 11 Jun 2022 04:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_32/zdecO_1654844751044EC2mX_JPEG/1654844748392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
