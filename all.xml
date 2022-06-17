@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 00:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 03:01:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 16 Jun 2022 09:12:20 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_275/WUUsA_1655367794366T3bP2_JPEG/1655367702251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독 선공개] [유미의 세포들 시즌2] 바비가 집 앞으로 온다고? 난리난 바비 소모임 | 3화 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27383296</link>
+            <guid>https://tv.naver.com/v/27383296</guid>
+            <pubDate>Fri, 17 Jun 2022 03:00:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_278/FMZ9m_1655361784835dAKIc_JPEG/1655361662037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이] 카메라 앞에서 이렇게 취한다고? 취한 성욱의 선넘은 발언ㅣ5화 선공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Jun 2022 04:15:55 GMT</pubDate>
             <content:encoded><![CDATA[4:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_32/zdecO_1654844751044EC2mX_JPEG/1654844748392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] “아이를 뺏길까봐 무서웠어요” 부부에게 전이된 우울ㅣ4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27275788</link>
-            <guid>https://tv.naver.com/v/27275788</guid>
-            <pubDate>Sat, 11 Jun 2022 04:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_174/LSQ1K_1654844706111Ufv5j_JPEG/1654844697773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
