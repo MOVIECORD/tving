@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 00:59:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 02:59:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_121/LVmug_1655346057094YAdYC_JPEG/1655345993644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 자존심 못 버린 이별에 후회하는 웅, 유미의 선택은? | 5화 예고]]></title>
+            <link>https://tv.naver.com/v/27365675</link>
+            <guid>https://tv.naver.com/v/27365675</guid>
+            <pubDate>Sat, 18 Jun 2022 02:59:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_86/xHqYo_1655282021607P7vIQ_JPEG/1655281935245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[떴수다] 요즘 우정 테스트법? 자신만만한 아이키 VS 미궁에 빠진 사람들 | 3화 클립 #6]]></title>
             <link>https://tv.naver.com/v/27364624</link>
             <guid>https://tv.naver.com/v/27364624</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Jun 2022 01:00:14 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_191/eVL0b_1654857413228DlEsF_JPEG/1654857407639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전체관람가+: 숏버스터] 학교에 존재하는 다섯 개의 계급 | 곽경택 감독 '스쿨카스트' 예고]]></title>
-            <link>https://tv.naver.com/v/27281281</link>
-            <guid>https://tv.naver.com/v/27281281</guid>
-            <pubDate>Mon, 13 Jun 2022 01:00:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_271/ZQVXT_1654857326377rzsFY_JPEG/1654856949999.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
