@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 03:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 04:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,6 +152,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_196/qmpGu_1655387491542TEFQs_JPEG/1655387389710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 키스신부터 사투리 세포까지 여기 다 있다❤  | 3-4화 비하인드 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27388496</link>
+            <guid>https://tv.naver.com/v/27388496</guid>
+            <pubDate>Sun, 19 Jun 2022 04:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[9:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_146/4CYkH_16553735970489mtM3_JPEG/1655373592672.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[떴수다] EP.3 '플라이 투 더 댄스' 편 | K-댄스가 왜 떡상했냐고요? 우리가 너무 잘하니까 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27388224</link>
             <guid>https://tv.naver.com/v/27388224</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 13:32:09 GMT</pubDate>
             <content:encoded><![CDATA[4:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_45/Q0gj1_1655362448222gUJNy_JPEG/1655362390400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 박진영이 김고은 세포마을을 통과하는 법 | 3화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27383539</link>
-            <guid>https://tv.naver.com/v/27383539</guid>
-            <pubDate>Fri, 17 Jun 2022 13:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_108/XO4Uu_1655362496102gwUUi_JPEG/1655362493800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
