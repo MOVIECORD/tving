@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 23:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 01:00:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 18 Jun 2022 05:09:46 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220618_219/Uvo0o_1655508684207nk39L_JPEG/1655508665254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[전체관람가+] 내 남편이 나와 바람을 핀다? | 윤성호 감독 '미지의세계 시즌투에피원' 예고]]></title>
+            <link>https://tv.naver.com/v/27410643</link>
+            <guid>https://tv.naver.com/v/27410643</guid>
+            <pubDate>Mon, 20 Jun 2022 01:00:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_44/EIEs7_1655466063822eLyus_JPEG/1655465988599.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[전체관람가+: 숏버스터] 첫 촬영부터 최대 인원 등장, 난리 난 연출부 | 14화 하이라이트]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 13:32:09 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_244/4bC4q_1655362546479S8aCN_JPEG/1655362520093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 용기 낸 김고은, 박진영에 솔직한 마음 고백❤ | 3화 클립]]></title>
-            <link>https://tv.naver.com/v/27383524</link>
-            <guid>https://tv.naver.com/v/27383524</guid>
-            <pubDate>Fri, 17 Jun 2022 13:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[4:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_45/Q0gj1_1655362448222gUJNy_JPEG/1655362390400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
