@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 23:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 00:59:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제로섬게임] 연맹과 배신의 연속! MC들을 충격에 빠지게 한 유지어터의 반전 정체는?ㅣ2차]]></title>
+            <link>https://tv.naver.com/v/27452194</link>
+            <guid>https://tv.naver.com/v/27452194</guid>
+            <pubDate>Tue, 21 Jun 2022 00:59:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_210/DUuIC_1655720263808RRhyf_JPEG/1655720261810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[떴수다] 가히 경외롭다… 고요 속의 외침을 뒤집어놓은 김고은✨ | 4화 클립 #6]]></title>
             <link>https://tv.naver.com/v/27444117</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Jun 2022 09:12:20 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_275/WUUsA_1655367794366T3bP2_JPEG/1655367702251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] [재회 엔딩] 김고은 당근 거래 중 구남친 안보현 만나다! | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/27383798</link>
-            <guid>https://tv.naver.com/v/27383798</guid>
-            <pubDate>Fri, 17 Jun 2022 13:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_243/41I8l_1655363138509GRKpG_JPEG/1655363067641.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
