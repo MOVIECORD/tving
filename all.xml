@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 22:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 23:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[UFC FightNight] 사루키안VS감롯 라이트급 판도를 바꿀 승자는? 6/26(일) 오전 11시 | 프로모 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27475202</link>
+            <guid>https://tv.naver.com/v/27475202</guid>
+            <pubDate>Tue, 21 Jun 2022 23:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_173/jfr3R_1655807088524Bhg4D_JPEG/1655807079331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울체크인] 배우 이효리는 오랜만이지? 이옥섭X구교환(2X9)와 함께한 영화? | 10화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27471838</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 19 Jun 2022 04:25:32 GMT</pubDate>
             <content:encoded><![CDATA[9:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_146/4CYkH_16553735970489mtM3_JPEG/1655373592672.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[떴수다] EP.3 '플라이 투 더 댄스' 편 | K-댄스가 왜 떡상했냐고요? 우리가 너무 잘하니까 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27388224</link>
-            <guid>https://tv.naver.com/v/27388224</guid>
-            <pubDate>Thu, 16 Jun 2022 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[25:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_64/Y8ein_1655372722890CtpJQ_JPEG/1655372557103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
