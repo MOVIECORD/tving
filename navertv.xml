@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 00:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 03:05:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[나를 사랑하지 않는 X에게] 한지효X도영｜사랑이 이뤄지는 작사노트를 만나다 | 티저 예고]]></title>
+            <link>https://tv.naver.com/v/27500967</link>
+            <guid>https://tv.naver.com/v/27500967</guid>
+            <pubDate>Thu, 23 Jun 2022 03:05:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_92/DS6lY_1655896197713p0sxP_JPEG/1655895977984.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이] "내 말이 어렵니? 대화하는 법을 배워" 다시 시작된 말싸움ㅣ6화 선공개]]></title>
+            <link>https://tv.naver.com/v/27497603</link>
+            <guid>https://tv.naver.com/v/27497603</guid>
+            <pubDate>Thu, 23 Jun 2022 03:05:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_33/PhwhR_1655886925681dX1sf_JPEG/1655886891007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[UFC FightNight] 사루키안VS감롯 라이트급 판도를 바꿀 승자는? 6/26(일) 오전 11시 | 프로모 영상]]></title>
             <link>https://tv.naver.com/v/27475202</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 18 Jun 2022 03:46:09 GMT</pubDate>
             <content:encoded><![CDATA[5:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_78/8s2eO_16553876692275Bxgj_JPEG/1655387664840.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] “말 참 밉게 한다” 자꾸만 어긋나는 둘의 대화ㅣ5화 클립]]></title>
-            <link>https://tv.naver.com/v/27393443</link>
-            <guid>https://tv.naver.com/v/27393443</guid>
-            <pubDate>Sat, 18 Jun 2022 03:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_196/qmpGu_1655387491542TEFQs_JPEG/1655387389710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 키스신부터 사투리 세포까지 여기 다 있다❤  | 3-4화 비하인드]]></title>
-            <link>https://tv.naver.com/v/27388496</link>
-            <guid>https://tv.naver.com/v/27388496</guid>
-            <pubDate>Sun, 19 Jun 2022 04:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[9:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_146/4CYkH_16553735970489mtM3_JPEG/1655373592672.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
