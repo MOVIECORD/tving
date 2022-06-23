@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 22:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 23:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 23 Jun 2022 07:11:08 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_196/q3nLl_1655891285394SOjKr_JPEG/1655891273868.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아임 히어로(IM HERO) – 서울] 임영웅 콘서트 8/14(일) 오후 5시 티빙 생중계 | 티저]]></title>
+            <link>https://tv.naver.com/v/27498654</link>
+            <guid>https://tv.naver.com/v/27498654</guid>
+            <pubDate>Thu, 23 Jun 2022 23:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_7/YYatJ_1655889219447MseTp_JPEG/1655888947707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이] "내 말이 어렵니? 대화하는 법을 배워" 다시 시작된 말싸움ㅣ6화 선공개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Jun 2022 03:46:09 GMT</pubDate>
             <content:encoded><![CDATA[6:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_239/cV8SE_1655388135556fu7rN_JPEG/1655388109095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 성욱이는 자유에요! 행복은 PC방에 있어ㅣ5화 클립]]></title>
-            <link>https://tv.naver.com/v/27393570</link>
-            <guid>https://tv.naver.com/v/27393570</guid>
-            <pubDate>Sat, 18 Jun 2022 03:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_8/PL7sZ_1655388015508oRhVj_JPEG/1655387994243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
