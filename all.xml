@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 09:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 10:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] [스타트렉: 스트레인지 뉴 월드] 공식 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27523325</link>
+            <guid>https://tv.naver.com/v/27523325</guid>
+            <pubDate>Thu, 23 Jun 2022 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_48/bnaFV_1655976916059Nvouy_JPEG/1655976781771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[플라이 투 더 댄스] 브루클린에서 런웨이하고 브루어리 찢는 뉴욕투어! | 4화 미리보기 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27519110</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Jun 2022 03:46:09 GMT</pubDate>
             <content:encoded><![CDATA[4:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_8/PL7sZ_1655388015508oRhVj_JPEG/1655387994243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 서로 다른 화법에 다시 불붙은 싸움ㅣ5화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27393547</link>
-            <guid>https://tv.naver.com/v/27393547</guid>
-            <pubDate>Sat, 18 Jun 2022 03:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[6:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_142/Br9zq_1655387920763vHrif_JPEG/1655387882977.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
