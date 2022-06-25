@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 00:59:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 03:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 24 Jun 2022 11:09:58 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220624_240/a2Gey_1656055000982J27bI_JPEG/1656054996372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 모르는 여자가 바비 차에서 내렸다!? 불안세포 발동🤯 | 7화 예고]]></title>
+            <link>https://tv.naver.com/v/27540540</link>
+            <guid>https://tv.naver.com/v/27540540</guid>
+            <pubDate>Sat, 25 Jun 2022 03:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_28/9xqEb_16560474249636h57X_JPEG/1656047323109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울체크인] 나 슈퍼스타 이효리야🌹 범상치 않은 '사람냄새 이효리' 촬영 | 10화 선공개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Jun 2022 05:11:36 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220620_123/zqtg4_1655699052348zrWE8_JPEG/1655699049813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 찐친케미 이효리-윤혜진🤣 깜짝 아침 라방 비하인드 | 9화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/27415167</link>
-            <guid>https://tv.naver.com/v/27415167</guid>
-            <pubDate>Sat, 18 Jun 2022 05:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_124/QfBlo_1655508986673i9THA_JPEG/1655508934456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
