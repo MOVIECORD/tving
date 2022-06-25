@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 05:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 06:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 24 Jun 2022 11:09:58 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220624_240/a2Gey_1656055000982J27bI_JPEG/1656054996372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ING터뷰] 이렇게 잘 맞는다고? 김고은X박진영의 폴꾸까지…♨️ | 유미의 세포들 시즌2 편]]></title>
+            <link>https://tv.naver.com/v/27541082</link>
+            <guid>https://tv.naver.com/v/27541082</guid>
+            <pubDate>Sat, 25 Jun 2022 06:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[6:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_6/nVuEv_1656048690999OnxFP_JPEG/1656048625262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[유미의 세포들 시즌2] 모르는 여자가 바비 차에서 내렸다!? 불안세포 발동🤯 | 7화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Jun 2022 05:11:36 GMT</pubDate>
             <content:encoded><![CDATA[1:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220620_94/NbeWT_1655699205121NNIX1_JPEG/1655699196489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[떴수다] 김고은X박진영 레전드 듀엣 라이브🎶 (여기가 진짜 Best Part) | 4화 클립 #4]]></title>
-            <link>https://tv.naver.com/v/27444079</link>
-            <guid>https://tv.naver.com/v/27444079</guid>
-            <pubDate>Mon, 20 Jun 2022 05:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_48/Zu6St_1655699161598g03iC_JPEG/1655699152440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
