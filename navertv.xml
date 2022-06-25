@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 04:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 05:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울체크인] 길은ズl 전øłl ○l효己lㄱr 있었⊂ト★ | 10화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/27551316</link>
+            <guid>https://tv.naver.com/v/27551316</guid>
+            <pubDate>Sat, 25 Jun 2022 05:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_47/EgWGj_1656074063057bvm74_JPEG/1656074010853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울체크인] 근 20년을 함께한 섭매니저와의 추억열차 타기🚂 | 10화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/27551295</link>
+            <guid>https://tv.naver.com/v/27551295</guid>
+            <pubDate>Sat, 25 Jun 2022 05:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_271/EbQ6A_1656074005587D8usw_JPEG/1656073942916.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울체크인] 열쩡열쩡 연기도전! 애드립과 트림으로 완성된 현장(?) | 10화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/27551272</link>
+            <guid>https://tv.naver.com/v/27551272</guid>
+            <pubDate>Sat, 25 Jun 2022 05:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_272/mF20a_1656073938423IgQ3x_JPEG/1656073869914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이] "추억 여행을 떠나세요" 좋았던 그 때로 돌아갈 수 있을까?ㅣ7화 예고]]></title>
             <link>https://tv.naver.com/v/27543742</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 20 Jun 2022 05:11:36 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220620_48/Zu6St_1655699161598g03iC_JPEG/1655699152440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[떴수다] 김고은 최대의 난제;;🙄 구웅이냐 VS 바비냐 선택의 순간 | 4화 클립 #3]]></title>
-            <link>https://tv.naver.com/v/27444069</link>
-            <guid>https://tv.naver.com/v/27444069</guid>
-            <pubDate>Mon, 20 Jun 2022 05:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_71/nKGbb_1655699123541I0eYk_JPEG/1655699113552.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[떴수다] 김고은X박진영 마음 설왕설래하게 만드는 세포의 정체👅 | 4화 클립 #2]]></title>
-            <link>https://tv.naver.com/v/27444056</link>
-            <guid>https://tv.naver.com/v/27444056</guid>
-            <pubDate>Mon, 20 Jun 2022 05:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_187/49ans_1655699088304prgwp_JPEG/1655699058752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[떴수다] "보면 아실 거예요" 장도연 창🗡과 김고은X박진영 방패🛡 인터뷰 | 4화 클립 #1]]></title>
-            <link>https://tv.naver.com/v/27444048</link>
-            <guid>https://tv.naver.com/v/27444048</guid>
-            <pubDate>Mon, 20 Jun 2022 05:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_123/zqtg4_1655699052348zrWE8_JPEG/1655699049813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
