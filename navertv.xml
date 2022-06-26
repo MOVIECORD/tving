@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 01:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 03:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sat, 25 Jun 2022 05:10:36 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220624_272/mF20a_1656073938423IgQ3x_JPEG/1656073869914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 윰밥 꽁냥 순항 중❤ 냉정윰 서럽웅 등판한 사연은? | 5-6화 비하인드]]></title>
+            <link>https://tv.naver.com/v/27545049</link>
+            <guid>https://tv.naver.com/v/27545049</guid>
+            <pubDate>Sun, 26 Jun 2022 03:29:26 GMT</pubDate>
+            <content:encoded><![CDATA[9:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_18/xVyzI_1656057682274wMxQs_JPEG/1656057581657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이] "추억 여행을 떠나세요" 좋았던 그 때로 돌아갈 수 있을까?ㅣ7화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Jun 2022 00:58:20 GMT</pubDate>
             <content:encoded><![CDATA[2:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_266/46IHG_1655976929524H7wvg_JPEG/1655976762296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] [스타트렉: 스트레인지 뉴 월드] 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/27523325</link>
-            <guid>https://tv.naver.com/v/27523325</guid>
-            <pubDate>Thu, 23 Jun 2022 10:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_48/bnaFV_1655976916059Nvouy_JPEG/1655976781771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
