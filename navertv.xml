@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 06:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 07:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#유미의세포들시즌2 본격 덕질터뷰 | 김고은 보면 기분 좋아지는 사람 세상천지 너무 많아!]]></title>
+            <link>https://tv.naver.com/v/27670624</link>
+            <guid>https://tv.naver.com/v/27670624</guid>
+            <pubDate>Thu, 30 Jun 2022 07:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_155/sztIc_1656564192622scuWA_JPEG/1656564113233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이] "사랑해서 한 결혼이 아니야" 유빈의 충격 고백ㅣ7화 선공개]]></title>
             <link>https://tv.naver.com/v/27670240</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Jun 2022 13:34:25 GMT</pubDate>
             <content:encoded><![CDATA[5:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220624_47/hZJ91_16560410945371TSG8_JPEG/1656041048603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 왜 이혼이지…? 자꾸 안 좋은 상상을 하게 되네ㅣ6화 클립]]></title>
-            <link>https://tv.naver.com/v/27523709</link>
-            <guid>https://tv.naver.com/v/27523709</guid>
-            <pubDate>Sat, 25 Jun 2022 07:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_161/QFRg5_16559780281048vs4H_JPEG/1655978024852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
