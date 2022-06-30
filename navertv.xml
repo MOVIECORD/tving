@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 05:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이] "사랑해서 한 결혼이 아니야" 유빈의 충격 고백ㅣ7화 선공개]]></title>
+            <link>https://tv.naver.com/v/27670240</link>
+            <guid>https://tv.naver.com/v/27670240</guid>
+            <pubDate>Thu, 30 Jun 2022 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_115/cBim8_1656563162626IJQ7b_JPEG/1656559084071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이] 같은 장소, 다른 마음. 좋았던 그 때로 돌아갈 수 있을까?ㅣ7화 선공개]]></title>
             <link>https://tv.naver.com/v/27667807</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Jun 2022 07:10:35 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_161/QFRg5_16559780281048vs4H_JPEG/1655978024852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] “아내가 힘들었겠다…” 친구들의 조언에 깨달은 정환ㅣ6화 클립]]></title>
-            <link>https://tv.naver.com/v/27523661</link>
-            <guid>https://tv.naver.com/v/27523661</guid>
-            <pubDate>Sat, 25 Jun 2022 07:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_260/mB9yW_1655977887759GdveS_JPEG/1655977854057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
