@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 00:57:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이] 같은 장소, 다른 마음. 좋았던 그 때로 돌아갈 수 있을까?ㅣ7화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27667807</link>
+            <guid>https://tv.naver.com/v/27667807</guid>
+            <pubDate>Thu, 30 Jun 2022 03:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_54/FryRm_1656556426964uSIKH_JPEG/1656556412322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제로섬게임] 무게 줄이려고 ㅇㅇ까지 벗었다? 혼돈의 카오스 그 잡채ㅣ하이라이트 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27650225</link>
@@ -14,6 +22,14 @@
             <pubDate>Wed, 29 Jun 2022 09:11:29 GMT</pubDate>
             <content:encoded><![CDATA[4:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_73/mnuAo_1656492757937jXRgg_JPEG/1656492747135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[나를 사랑하지 않는 X에게] 한지효X도영 | 갑자기 인기 많아진 비결 궁금해? | 메인 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27643610</link>
+            <guid>https://tv.naver.com/v/27643610</guid>
+            <pubDate>Thu, 30 Jun 2022 03:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_212/BWgIJ_1656479864694GYB9c_JPEG/1656479721390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울체크인] 이효리X구교환X홍시영X심달기 영화로 체크인 | 사람냄새 이효리 티저 (TVING ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 25 Jun 2022 07:10:35 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_260/mB9yW_1655977887759GdveS_JPEG/1655977854057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 친구들이 준비해준 파티에 찐웃음 장착한 사랑ㅣ6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27523633</link>
-            <guid>https://tv.naver.com/v/27523633</guid>
-            <pubDate>Sat, 25 Jun 2022 07:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_81/wsgsx_1655977804623qlWwx_JPEG/1655977785886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 이런 자아가 있었어..? 숨겨둔 흥 대방출에 현웃 파티 열림ㅣ6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27523599</link>
-            <guid>https://tv.naver.com/v/27523599</guid>
-            <pubDate>Sat, 25 Jun 2022 07:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_101/C7Z21_1655977683587yeDmB_JPEG/1655977652941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
