@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 22:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 23:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Thu, 30 Jun 2022 08:16:21 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220630_87/fD1u6_1656575372895eA9Tt_JPEG/1656575315448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 라인업] 7월 TVING NOW]]></title>
+            <link>https://tv.naver.com/v/27671267</link>
+            <guid>https://tv.naver.com/v/27671267</guid>
+            <pubDate>Fri, 01 Jul 2022 23:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_52/326aO_1656565688448duaib_JPEG/1656565622714.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#유미의세포들시즌2 본격 덕질터뷰 | 김고은 보면 기분 좋아지는 사람 세상천지 너무 많아!]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Jun 2022 05:10:36 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220624_271/EbQ6A_1656074005587D8usw_JPEG/1656073942916.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 열쩡열쩡 연기도전! 애드립과 트림으로 완성된 현장(?) | 10화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/27551272</link>
-            <guid>https://tv.naver.com/v/27551272</guid>
-            <pubDate>Sat, 25 Jun 2022 05:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_272/mF20a_1656073938423IgQ3x_JPEG/1656073869914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
