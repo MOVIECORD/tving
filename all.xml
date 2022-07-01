@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 12:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 13:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,86 @@
             <pubDate>Fri, 01 Jul 2022 08:15:52 GMT</pubDate>
             <content:encoded><![CDATA[1:30:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_124/HTZgG_1656649730361SCX5B_JPEG/1656649710495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] [비상엔딩] 신예은의 간접고백에 박진영 세포마을 지진발생 | 8화 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27696071</link>
+            <guid>https://tv.naver.com/v/27696071</guid>
+            <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_123/EhJUH_1656649579519odl3r_JPEG/1656649543669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 전석호, 김고은에게 도넛 선물. 이를 알게된 박진영의 반응은? | 8화 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27696055</link>
+            <guid>https://tv.naver.com/v/27696055</guid>
+            <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_272/0c1CS_1656649538559ciNMl_JPEG/1656649496611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 전석호, 김고은과 운명적인 재회 (feat.안대용세포즈) | 8화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27696039</link>
+            <guid>https://tv.naver.com/v/27696039</guid>
+            <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_68/79MNh_1656649491866SBHqI_JPEG/1656649462031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 언제부터 좋았냐는 김고은 질문에 박진영의 대답은? | 8화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27696026</link>
+            <guid>https://tv.naver.com/v/27696026</guid>
+            <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_191/5IHIf_1656649452490A6e9B_JPEG/1656649428872.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 팀장 박진영에게 반한 금사빠 인턴 신예은 | 8화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27696017</link>
+            <guid>https://tv.naver.com/v/27696017</guid>
+            <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_181/vCXir_1656649423705o6Bay_JPEG/1656649391133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] [엔딩] 김고은, 신예은에게 옷을 준 박진영을 보고 느낀 기시감 | 7화 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27695973</link>
+            <guid>https://tv.naver.com/v/27695973</guid>
+            <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_26/eYOe1_16566492596797TVi2_JPEG/1656649235466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 박진영 앞 해맑은 신예은이 신경쓰이는 김고은 | 7화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27695966</link>
+            <guid>https://tv.naver.com/v/27695966</guid>
+            <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_186/mkIiM_1656649229823gvsNO_JPEG/1656649202191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] [달달주의] 김고은❤️박진영 바다에서 완벽한 1주년 | 7화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27695954</link>
+            <guid>https://tv.naver.com/v/27695954</guid>
+            <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_140/gyUh8_16566491974874NdoI_JPEG/1656649176241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 축하파티하는 김고은X박진영X이유비X미람 (feat.공개연애❤️) | 7화 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27695944</link>
+            <guid>https://tv.naver.com/v/27695944</guid>
+            <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_89/9y1Ay_1656649171292q4FnL_JPEG/1656649129691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 김고은, 책 출간을 제안받다! (장하다 우리 유미!) | 7화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27695925</link>
+            <guid>https://tv.naver.com/v/27695925</guid>
+            <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_4/9FrM8_1656649124407v2awL_JPEG/1656649083147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독 선공개] [유미의 세포들 시즌2] 서울-제주 장거리 연애 시작한 윰X밥😢 | 7화 클립 (TVING ─ NAVER TV)]]></title>
@@ -166,86 +246,6 @@
             <pubDate>Sat, 25 Jun 2022 05:10:36 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220624_272/mF20a_1656073938423IgQ3x_JPEG/1656073869914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 윰밥 꽁냥 순항 중❤ 냉정윰 서럽웅 등판한 사연은? | 5-6화 비하인드 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27545049</link>
-            <guid>https://tv.naver.com/v/27545049</guid>
-            <pubDate>Sun, 26 Jun 2022 03:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[9:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_18/xVyzI_1656057682274wMxQs_JPEG/1656057581657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] "추억 여행을 떠나세요" 좋았던 그 때로 돌아갈 수 있을까?ㅣ7화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27543742</link>
-            <guid>https://tv.naver.com/v/27543742</guid>
-            <pubDate>Fri, 24 Jun 2022 11:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_240/a2Gey_1656055000982J27bI_JPEG/1656054996372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ING터뷰] 이렇게 잘 맞는다고? 김고은X박진영의 폴꾸까지…♨️ | 유미의 세포들 시즌2 편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27541082</link>
-            <guid>https://tv.naver.com/v/27541082</guid>
-            <pubDate>Sat, 25 Jun 2022 06:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[6:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_6/nVuEv_1656048690999OnxFP_JPEG/1656048625262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 모르는 여자가 바비 차에서 내렸다!? 불안세포 발동🤯 | 7화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27540540</link>
-            <guid>https://tv.naver.com/v/27540540</guid>
-            <pubDate>Sat, 25 Jun 2022 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_28/9xqEb_16560474249636h57X_JPEG/1656047323109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 나 슈퍼스타 이효리야🌹 범상치 않은 '사람냄새 이효리' 촬영 | 10화 선공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27539939</link>
-            <guid>https://tv.naver.com/v/27539939</guid>
-            <pubDate>Fri, 24 Jun 2022 05:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_103/F1F7Y_1656045877892V9BIH_JPEG/1656045804482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 김고은X박진영 연애사에 길이 남을 역사적인 순간 | 6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27538542</link>
-            <guid>https://tv.naver.com/v/27538542</guid>
-            <pubDate>Fri, 24 Jun 2022 13:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_109/pAkbg_1656041605912LgEmG_JPEG/1656041574057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] [막장주의] 가업을 이을 후계자 '박진영'의 정체는? | 6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27538530</link>
-            <guid>https://tv.naver.com/v/27538530</guid>
-            <pubDate>Fri, 24 Jun 2022 13:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[4:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_82/D1sHY_16560415685851Hvah_JPEG/1656041542497.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 박진영, 김고은 아빠&엄마와의 식사자리 (feat.아빠의 경계) | 6화 클 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27538518</link>
-            <guid>https://tv.naver.com/v/27538518</guid>
-            <pubDate>Fri, 24 Jun 2022 13:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[5:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_90/4YZLG_1656041537674BYhL9_JPEG/1656041517931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 공모전 떨어진 김고은을 위로하는 박진영 (덮밥❤️) | 6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27538503</link>
-            <guid>https://tv.naver.com/v/27538503</guid>
-            <pubDate>Fri, 24 Jun 2022 13:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_44/59XiD_16560415107297OI2i_JPEG/1656041480295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 김고은X박진영 여전히 비밀연애 중 | 6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27538492</link>
-            <guid>https://tv.naver.com/v/27538492</guid>
-            <pubDate>Fri, 24 Jun 2022 13:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_15/gj2qa_16560414748527mxiR_JPEG/1656041430030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
