@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 06:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 07:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,62 @@
             <pubDate>Sat, 02 Jul 2022 05:14:39 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_100/KCLP6_1656675509809zdmR8_JPEG/1656675506321.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] “엿 같죠?^^” 한 마디로 전세역전한 딕헌터ㅣ2화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27703176</link>
+            <guid>https://tv.naver.com/v/27703176</guid>
+            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_123/9eXJb_1656665547651qWY2Q_JPEG/1656665522645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] “형 제끼려는 것 같아” 충격 소식에 말잇못된 사연은? | 2화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27703100</link>
+            <guid>https://tv.naver.com/v/27703100</guid>
+            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_51/J1Z1T_1656665429508fxDf6_JPEG/1656665418721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 순수 아니고 선수네;; 갑자기 분위기 유주얼 서스펙트 | 2화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27702992</link>
+            <guid>https://tv.naver.com/v/27702992</guid>
+            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_194/xUKhY_16566652423853AoXA_JPEG/1656665230522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 유지어터가 한 명이 아니야? 혼돈의 카오스 그 잡채 | 2화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27702856</link>
+            <guid>https://tv.naver.com/v/27702856</guid>
+            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_74/fynMf_1656665023552GV0yl_JPEG/1656664994099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 그렇게 먹고 유지한 사람이 있다? 스튜디오 뒤집은 유지어터 등장ㅣ1화 하이 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27702777</link>
+            <guid>https://tv.naver.com/v/27702777</guid>
+            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_150/IXHQN_1656664868346Af0MP_JPEG/1656664855014.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 과로사 일생 최대 과로! 딕헌터는 화기애애해서 더 불안해..?|1화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27702705</link>
+            <guid>https://tv.naver.com/v/27702705</guid>
+            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_227/VWUuz_1656664765493NYKjA_JPEG/1656664744807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 1kg당 상금 천 만원! 방광도 포기한 상금 획득 그 결과는?ㅣ1화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27702668</link>
+            <guid>https://tv.naver.com/v/27702668</guid>
+            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_288/RNfSK_1656664691125XWWzd_JPEG/1656664652295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이] 태교여행으로 왔던 제주도에 다시 오게됐네ㅣ7화 클립 (TVING ─ NAVER TV)]]></title>
@@ -190,62 +246,6 @@
             <pubDate>Fri, 01 Jul 2022 08:15:52 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220630_107/holOW_1656576991480lBpYm_JPEG/1656576935811.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울체크인] 혹시 작품...? 지금 찍었다고 해도 믿기 가능한 효리 사진전 | 최종화 선공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27676147</link>
-            <guid>https://tv.naver.com/v/27676147</guid>
-            <pubDate>Thu, 30 Jun 2022 08:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_87/fD1u6_1656575372895eA9Tt_JPEG/1656575315448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙 라인업] 7월 TVING NOW (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27671267</link>
-            <guid>https://tv.naver.com/v/27671267</guid>
-            <pubDate>Fri, 01 Jul 2022 23:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_52/326aO_1656565688448duaib_JPEG/1656565622714.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#유미의세포들시즌2 본격 덕질터뷰 | 김고은 보면 기분 좋아지는 사람 세상천지 너무 많아! (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27670624</link>
-            <guid>https://tv.naver.com/v/27670624</guid>
-            <pubDate>Thu, 30 Jun 2022 07:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[5:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_155/sztIc_1656564192622scuWA_JPEG/1656564113233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#유미의세포들시즌2 본격 덕질터뷰 | 박진영 깻잎논쟁 소신발언 합니다(BUT 아가새는 안돼) (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27670590</link>
-            <guid>https://tv.naver.com/v/27670590</guid>
-            <pubDate>Thu, 30 Jun 2022 08:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[6:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_19/Vps9X_1656564103731ug7jw_JPEG/1656564015182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] "사랑해서 한 결혼이 아니야" 유빈의 충격 고백ㅣ7화 선공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27670240</link>
-            <guid>https://tv.naver.com/v/27670240</guid>
-            <pubDate>Thu, 30 Jun 2022 05:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_115/cBim8_1656563162626IJQ7b_JPEG/1656559084071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이] 같은 장소, 다른 마음. 좋았던 그 때로 돌아갈 수 있을까?ㅣ7화 선공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27667807</link>
-            <guid>https://tv.naver.com/v/27667807</guid>
-            <pubDate>Thu, 30 Jun 2022 03:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_54/FryRm_1656556426964uSIKH_JPEG/1656556412322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] 무게 줄이려고 ㅇㅇ까지 벗었다? 혼돈의 카오스 그 잡채ㅣ하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27650225</link>
-            <guid>https://tv.naver.com/v/27650225</guid>
-            <pubDate>Wed, 29 Jun 2022 09:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_73/mnuAo_1656492757937jXRgg_JPEG/1656492747135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
