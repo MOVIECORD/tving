@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 01:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 03:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_24/TtK3H_1656659748550AL5RT_JPEG/1656659732771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 제주도에 꿀 흘린 윰밥🍯 새 얼굴도 대거 등장!? | 7-8화 비하인드 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27699681</link>
+            <guid>https://tv.naver.com/v/27699681</guid>
+            <pubDate>Sun, 03 Jul 2022 03:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[10:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_211/Z6GhS_1656658876899etghg_JPEG/1656658725242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[유미의 세포들 시즌2] 말도 없이 집을 내놓은 바비, 그게 다은이 때문이라고...? | 9화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27699182</link>
             <guid>https://tv.naver.com/v/27699182</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_4/9FrM8_1656649124407v2awL_JPEG/1656649083147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독 선공개] [유미의 세포들 시즌2] 서울-제주 장거리 연애 시작한 윰X밥😢 | 7화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27676963</link>
-            <guid>https://tv.naver.com/v/27676963</guid>
-            <pubDate>Fri, 01 Jul 2022 08:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_107/holOW_1656576991480lBpYm_JPEG/1656576935811.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
