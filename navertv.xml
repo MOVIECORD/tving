@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 04:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 05:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[나를 사랑하지 않는 X에게] 한지효X도영X권아름X방재민X손현우X김지훈 미리 엿보기😉]]></title>
+            <link>https://tv.naver.com/v/27800201</link>
+            <guid>https://tv.naver.com/v/27800201</guid>
+            <pubDate>Thu, 07 Jul 2022 05:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_190/BJdaS_1657160134323X7AsF_JPEG/1657160122189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] 한지은X홍종현, 주식 떡상 도전?!🐜 | 대본리딩 메이킹]]></title>
             <link>https://tv.naver.com/v/27791567</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_181/vCXir_1656649423705o6Bay_JPEG/1656649391133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] [엔딩] 김고은, 신예은에게 옷을 준 박진영을 보고 느낀 기시감 | 7화]]></title>
-            <link>https://tv.naver.com/v/27695973</link>
-            <guid>https://tv.naver.com/v/27695973</guid>
-            <pubDate>Fri, 01 Jul 2022 13:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_26/eYOe1_16566492596797TVi2_JPEG/1656649235466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
