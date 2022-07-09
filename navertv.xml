@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 03:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 04:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제로섬게임] 이게 되네? 0kg를 만든 참가자들🙊 찐 제로섬게임 시작ㅣ4화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/27830872</link>
+            <guid>https://tv.naver.com/v/27830872</guid>
+            <pubDate>Sat, 09 Jul 2022 04:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_249/UtfQk_1657272597246zFUEB_JPEG/1657272587723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유미의 세포들 시즌2] [엔딩] 김고은 이별소식에 들뜬 안보현과 서울 컴백한 박진영 | 10화]]></title>
             <link>https://tv.naver.com/v/27830834</link>
@@ -24,12 +32,36 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_132/lHOj7_1657272459976R0p7H_JPEG/1657272422880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[제로섬게임] 소맥 싹 말아먹었던 내가 이 세계에선 유지어터?ㅣ4화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/27830782</link>
+            <guid>https://tv.naver.com/v/27830782</guid>
+            <pubDate>Sat, 09 Jul 2022 04:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_36/iV6Ed_1657272420593VaYjY_JPEG/1657272416814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[유미의 세포들 시즌2] 김고은의 책을 모두 사간 대표님 안보현 | 10화 클립]]></title>
             <link>https://tv.naver.com/v/27830775</link>
             <guid>https://tv.naver.com/v/27830775</guid>
             <pubDate>Fri, 08 Jul 2022 13:41:23 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_72/R706U_1657272409165gjVtB_JPEG/1657272059588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 모두를 충격에 빠뜨린 첫 탈락자의 정체 ㄴㅇㄱ| 4화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/27830704</link>
+            <guid>https://tv.naver.com/v/27830704</guid>
+            <pubDate>Sat, 09 Jul 2022 04:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_101/cKqxq_1657272270304ep1B4_JPEG/1657272261320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 이간질에 극대노💢 관우VS한슬 본격 기싸움ㅣ3화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/27830615</link>
+            <guid>https://tv.naver.com/v/27830615</guid>
+            <pubDate>Sat, 09 Jul 2022 04:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_63/QtA7U_1657272116622tiQzv_JPEG/1657272105921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[유미의 세포들 시즌2] [맴찢] 안보현이 대표로 성공한 원동력은 김.고.은 | 10화 클립]]></title>
@@ -46,6 +78,22 @@
             <pubDate>Fri, 08 Jul 2022 13:41:23 GMT</pubDate>
             <content:encoded><![CDATA[4:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_253/5jrfi_1657271970714DLB4M_JPEG/1657271880394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 눈치는 내가 보는 중;; 파국의 양념게장 먹방 ㅣ3화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/27830492</link>
+            <guid>https://tv.naver.com/v/27830492</guid>
+            <pubDate>Sat, 09 Jul 2022 04:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_134/8UYr4_1657271847262B717e_JPEG/1657270413182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 알고 보니 모두가 과로사 손바닥 안?!ㅣ3화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/27830463</link>
+            <guid>https://tv.naver.com/v/27830463</guid>
+            <pubDate>Sat, 09 Jul 2022 04:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_160/GAm78_1657271773823hmK7X_JPEG/1657271749466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[유미의 세포들 시즌2] [뭉클] 분노에 찬 사랑세포를 찾아 온 김고은 "너 애쓴 거 알아" | 9화]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Sat, 02 Jul 2022 05:14:39 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_100/KCLP6_1656675509809zdmR8_JPEG/1656675506321.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] “엿 같죠?^^” 한 마디로 전세역전한 딕헌터ㅣ2화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/27703176</link>
-            <guid>https://tv.naver.com/v/27703176</guid>
-            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_123/9eXJb_1656665547651qWY2Q_JPEG/1656665522645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] “형 제끼려는 것 같아” 충격 소식에 말잇못된 사연은? | 2화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/27703100</link>
-            <guid>https://tv.naver.com/v/27703100</guid>
-            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_51/J1Z1T_1656665429508fxDf6_JPEG/1656665418721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] 순수 아니고 선수네;; 갑자기 분위기 유주얼 서스펙트 | 2화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/27702992</link>
-            <guid>https://tv.naver.com/v/27702992</guid>
-            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_194/xUKhY_16566652423853AoXA_JPEG/1656665230522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] 유지어터가 한 명이 아니야? 혼돈의 카오스 그 잡채 | 2화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/27702856</link>
-            <guid>https://tv.naver.com/v/27702856</guid>
-            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_74/fynMf_1656665023552GV0yl_JPEG/1656664994099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] 그렇게 먹고 유지한 사람이 있다? 스튜디오 뒤집은 유지어터 등장ㅣ1화 하이]]></title>
-            <link>https://tv.naver.com/v/27702777</link>
-            <guid>https://tv.naver.com/v/27702777</guid>
-            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_150/IXHQN_1656664868346Af0MP_JPEG/1656664855014.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] 과로사 일생 최대 과로! 딕헌터는 화기애애해서 더 불안해..?|1화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/27702705</link>
-            <guid>https://tv.naver.com/v/27702705</guid>
-            <pubDate>Sat, 02 Jul 2022 07:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_227/VWUuz_1656664765493NYKjA_JPEG/1656664744807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
