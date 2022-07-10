@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 22:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 23:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sat, 09 Jul 2022 04:17:21 GMT</pubDate>
             <content:encoded><![CDATA[4:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_63/QtA7U_1657272116622tiQzv_JPEG/1657272105921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아임 히어로(IM HERO) – 서울] 임영웅 콘서트의 생생한 감동을 티빙 생중계에서 | 실황 스팟]]></title>
+            <link>https://tv.naver.com/v/27830568</link>
+            <guid>https://tv.naver.com/v/27830568</guid>
+            <pubDate>Sun, 10 Jul 2022 23:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_104/uJ2Ux_1657272263078R9Lju_JPEG/1657272259740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[유미의 세포들 시즌2] [맴찢] 안보현이 대표로 성공한 원동력은 김.고.은 | 10화 클립]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Jul 2022 03:43:44 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_284/ZCvHM_1657104526197wUd1A_JPEG/1657104516823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 새로운 사랑을 시작하시겠습니까?ㅣ60초 예고]]></title>
-            <link>https://tv.naver.com/v/27787432</link>
-            <guid>https://tv.naver.com/v/27787432</guid>
-            <pubDate>Thu, 07 Jul 2022 01:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_126/Tl3u0_1657094954953pnQJf_JPEG/1657094949437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
