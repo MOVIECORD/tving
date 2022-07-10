@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 01:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 03:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_76/hSGAM_1657255549210u1Kfa_JPEG/1657255475886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[유미의 세포들 시즌2] (맴찢) 눈물의 윰밥, CEO 웅과 재회한 유미?! (+ 컨Z와 미공개!) | 9-10화]]></title>
+            <link>https://tv.naver.com/v/27823261</link>
+            <guid>https://tv.naver.com/v/27823261</guid>
+            <pubDate>Sun, 10 Jul 2022 03:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[10:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_237/HVxC2_1657254664906bcYpU_JPEG/1657254556743.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스우파: 리유니언] 본업하는 스우파 콘서트 못 참지❤ 안방 1열 관람 가보자고 | 2차 티저]]></title>
             <link>https://tv.naver.com/v/27821134</link>
             <guid>https://tv.naver.com/v/27821134</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Jul 2022 01:04:30 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_126/Tl3u0_1657094954953pnQJf_JPEG/1657094949437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스우파: 리유니언] 잘 봐, 언니들은 이제 시작이다💃 7/10 마지막 공연 티빙 독점 생중계]]></title>
-            <link>https://tv.naver.com/v/27779246</link>
-            <guid>https://tv.naver.com/v/27779246</guid>
-            <pubDate>Wed, 06 Jul 2022 03:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_191/fgFqB_1657073655920dPcRk_JPEG/1657073562558.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
