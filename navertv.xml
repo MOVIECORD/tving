@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 09:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 10:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ING터뷰] 이미 과몰입 했습니다💕 원조 과몰입러들의 환승토크ㅣ환승연애2 편]]></title>
+            <link>https://tv.naver.com/v/27946674</link>
+            <guid>https://tv.naver.com/v/27946674</guid>
+            <pubDate>Thu, 14 Jul 2022 10:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[10:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_158/DtN6d_1657791582059g5tr5_JPEG/1657791555840.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] 그동안 잘 지냈어? 보고싶었어 궁금하기도 했고ㅣ하이라이트]]></title>
             <link>https://tv.naver.com/v/27920925</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Jul 2022 01:04:35 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_75/unbsL_1657187084013IPui3_JPEG/1657187003164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] 한지효X도영X권아름X방재민X손현우X김지훈 미리 엿보기😉]]></title>
-            <link>https://tv.naver.com/v/27800201</link>
-            <guid>https://tv.naver.com/v/27800201</guid>
-            <pubDate>Thu, 07 Jul 2022 05:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[4:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_190/BJdaS_1657160134323X7AsF_JPEG/1657160122189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
