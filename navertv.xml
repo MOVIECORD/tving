@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 20:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 21:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애2] 그동안 잘 지냈어? 보고싶었어 궁금하기도 했고ㅣ하이라이트]]></title>
+            <link>https://tv.naver.com/v/27989047</link>
+            <guid>https://tv.naver.com/v/27989047</guid>
+            <pubDate>Sat, 16 Jul 2022 21:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220717_121/lgqd8_1658005882662rSuOX_JPEG/1658005526616.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[나를 사랑하지 않는 X에게] 웃음만발 한지효X도영X권아름X손현우X김지훈 | 1-3화  비하인드]]></title>
             <link>https://tv.naver.com/v/27970233</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Jul 2022 13:41:28 GMT</pubDate>
             <content:encoded><![CDATA[4:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_132/cThfq_1657870440850vTFD3_JPEG/1657870384972.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 박진영과 안보현, 김고은 사이에 둔 불꽃 기싸움 (ft. 가시 돋힌 말)]]></title>
-            <link>https://tv.naver.com/v/27966674</link>
-            <guid>https://tv.naver.com/v/27966674</guid>
-            <pubDate>Fri, 15 Jul 2022 13:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_230/zXRmx_1657870373836Jbq8d_JPEG/1657870280112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
