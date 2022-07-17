@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 06:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 07:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 16 Jul 2022 21:13:35 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220717_121/lgqd8_1658005882662rSuOX_JPEG/1658005526616.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[#나를사랑하지않는X에게 본격 덕질터뷰 | X에게 희수 VS 술도녀 세진 한지효의 선택?! (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27970919</link>
+            <guid>https://tv.naver.com/v/27970919</guid>
+            <pubDate>Sun, 17 Jul 2022 07:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_154/s8fYP_1657880452921duOeM_JPEG/1657880351395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[나를 사랑하지 않는 X에게] 웃음만발 한지효X도영X권아름X손현우X김지훈 | 1-3화  비하인드 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Jul 2022 13:41:28 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_238/UnZoS_1657870536467BtsST_JPEG/1657870489574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] 한 명당 몸값 1억? 악랄한👿 제작진놈들ㅣ6화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27966745</link>
-            <guid>https://tv.naver.com/v/27966745</guid>
-            <pubDate>Sat, 16 Jul 2022 04:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_129/5p7af_16578704975641dj9W_JPEG/1657870458178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
