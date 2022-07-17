@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 01:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 03:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_82/52DE9_1657884290090QM6EJ_JPEG/1657884287490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 웅이의 도발에 찐으로 화난 바비🤬 (+컨Z♥루비) | 11-12화 비하인드]]></title>
+            <link>https://tv.naver.com/v/27967425</link>
+            <guid>https://tv.naver.com/v/27967425</guid>
+            <pubDate>Sun, 17 Jul 2022 03:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[9:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_36/F56Xu_1657871820275wsgt3_JPEG/1657871744972.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[유미의 세포들 시즌2] [청혼엔딩] 김고은X박진영 불안 속 눈물키스&프로포즈 | 12화 클립]]></title>
             <link>https://tv.naver.com/v/27966834</link>
             <guid>https://tv.naver.com/v/27966834</guid>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Jul 2022 04:23:34 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_129/5p7af_16578704975641dj9W_JPEG/1657870458178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 박진영VS안보현 신경전을 지켜보던 김고은의 결정은?! | 12화 클립]]></title>
-            <link>https://tv.naver.com/v/27966717</link>
-            <guid>https://tv.naver.com/v/27966717</guid>
-            <pubDate>Fri, 15 Jul 2022 13:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_132/cThfq_1657870440850vTFD3_JPEG/1657870384972.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
