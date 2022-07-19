@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 03:54:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 05:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[나를 사랑하지 않는 X에게] 도영이 어려워한 포즈는?! | 포스터 촬영 비하인드]]></title>
+            <link>https://tv.naver.com/v/28026767</link>
+            <guid>https://tv.naver.com/v/28026767</guid>
+            <pubDate>Tue, 19 Jul 2022 05:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_3/UPyoO_1658198506715rscXe_JPEG/1658198473509.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[보물찾기] 먼저 찾는 사람이 임자💰 어른들의 기묘한 소풍 시작 | 티저 예고편]]></title>
             <link>https://tv.naver.com/v/28005720</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Jul 2022 13:41:28 GMT</pubDate>
             <content:encoded><![CDATA[4:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_5/C6Nve_1657870660531CRhSL_JPEG/1657870624691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 미국 간 박진영이 왜 한국에?! 의심이 커진 김고은 | 12화 클립]]></title>
-            <link>https://tv.naver.com/v/27966805</link>
-            <guid>https://tv.naver.com/v/27966805</guid>
-            <pubDate>Fri, 15 Jul 2022 13:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_274/eIvk7_1657870612407ipgk9_JPEG/1657870576169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
