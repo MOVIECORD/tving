@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 00:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 03:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 오리지널 [환승연애2] 온라인 제작발표회]]></title>
+            <link>https://tv.naver.com/v/28049002</link>
+            <guid>https://tv.naver.com/v/28049002</guid>
+            <pubDate>Wed, 20 Jul 2022 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[44:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_143/2Lnkz_1658281971608mRhDH_JPEG/1658281681401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] 직업 공개부터 X와 추억의 장소에서 데이트까지 본격 마라맛 시작ㅣ3화 예고]]></title>
             <link>https://tv.naver.com/v/28032058</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Jul 2022 05:11:52 GMT</pubDate>
             <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_82/52DE9_1657884290090QM6EJ_JPEG/1657884287490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 웅이의 도발에 찐으로 화난 바비🤬 (+컨Z♥루비) | 11-12화 비하인드]]></title>
-            <link>https://tv.naver.com/v/27967425</link>
-            <guid>https://tv.naver.com/v/27967425</guid>
-            <pubDate>Sun, 17 Jul 2022 03:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[9:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_36/F56Xu_1657871820275wsgt3_JPEG/1657871744972.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
