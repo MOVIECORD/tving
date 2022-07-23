@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 01:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 03:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[나를 사랑하지 않는 X에게] 한지효, 도영 촬영을 방해한 정체?! | 4-6화 비하인드]]></title>
+            <link>https://tv.naver.com/v/28106313</link>
+            <guid>https://tv.naver.com/v/28106313</guid>
+            <pubDate>Sat, 23 Jul 2022 03:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[7:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_12/44l9y_1658480525864FWBix_JPEG/1658480070529.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유미의 세포들 시즌2] 크리스마스이브에, 김고은의 사랑세포가 돌아왔다 | 14화 클립]]></title>
             <link>https://tv.naver.com/v/28104137</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Jul 2022 21:13:35 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220717_121/lgqd8_1658005882662rSuOX_JPEG/1658005526616.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[#나를사랑하지않는X에게 본격 덕질터뷰 | X에게 희수 VS 술도녀 세진 한지효의 선택?!]]></title>
-            <link>https://tv.naver.com/v/27970919</link>
-            <guid>https://tv.naver.com/v/27970919</guid>
-            <pubDate>Sun, 17 Jul 2022 07:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_154/s8fYP_1657880452921duOeM_JPEG/1657880351395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
