@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 06:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 07:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 24 Jul 2022 03:30:11 GMT</pubDate>
             <content:encoded><![CDATA[8:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_110/H7QKG_1658482505428czywW_JPEG/1658482441169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ING터뷰] 한지효X도영의 가사만 듣고 노래 맞히기 +귀호강 | 나를 사랑하지 않는 X에게 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28106320</link>
+            <guid>https://tv.naver.com/v/28106320</guid>
+            <pubDate>Sun, 24 Jul 2022 07:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[10:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_202/Jme5l_1658480542923UNGNt_JPEG/1658480508434.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[나를 사랑하지 않는 X에게] 한지효, 도영 촬영을 방해한 정체?! | 4-6화 비하인드 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Jul 2022 13:36:00 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220721_211/vNoX5_165839568973961GX6_JPEG/1658395466975.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] 도영에게 돌직구 날리는 권아름 |  5화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28084807</link>
-            <guid>https://tv.naver.com/v/28084807</guid>
-            <pubDate>Thu, 21 Jul 2022 13:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_286/FAw9h_16583956794797FKbs_JPEG/1658395432265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
