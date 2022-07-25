@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 09:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 10:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] [스타트렉: 프로디지] 공식 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28155298</link>
+            <guid>https://tv.naver.com/v/28155298</guid>
+            <pubDate>Mon, 25 Jul 2022 10:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_277/NWN5V_1658743955393nGPKv_JPEG/1658743717427.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[보물찾기] #참가자공개모집 이곳에서 여러분을 기다리겠습니다 | 2차 모집 티저 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28143616</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Jul 2022 13:36:00 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220721_171/3QsjU_1658395730991q1cRi_JPEG/1658395602873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] 에타에 한지효를 저격하는 글이 올라왔다 | 6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28084823</link>
-            <guid>https://tv.naver.com/v/28084823</guid>
-            <pubDate>Thu, 21 Jul 2022 13:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_96/3dkSh_1658395718528TbnVP_JPEG/1658395597055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
