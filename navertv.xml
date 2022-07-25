@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 06:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 07:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 25 Jul 2022 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_5/S9zTm_1658716369725VntD3_JPEG/1658716252930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 팀윰세가 전하는 마지막 인사, 유미 안녕👋 | 마지막 인사]]></title>
+            <link>https://tv.naver.com/v/28143000</link>
+            <guid>https://tv.naver.com/v/28143000</guid>
+            <pubDate>Mon, 25 Jul 2022 07:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[7:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_17/M3T0f_1658714517949xWDpA_JPEG/1658714514160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[유미의 세포들 시즌2] 유미 못보내! 마지막 샴페인 터뜨리는 팀윰세💝 | 13-14화 비하인드]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Jul 2022 13:36:00 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220721_96/3dkSh_1658395718528TbnVP_JPEG/1658395597055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] 한지효와 헤어지지 않는 김지훈의 충격적 실체 | 5화 클립]]></title>
-            <link>https://tv.naver.com/v/28084818</link>
-            <guid>https://tv.naver.com/v/28084818</guid>
-            <pubDate>Thu, 21 Jul 2022 13:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_94/VqqJe_16583957109438hJy5_JPEG/1658395504255.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
