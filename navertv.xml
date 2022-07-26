@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:00:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 24 Jul 2022 03:30:11 GMT</pubDate>
             <content:encoded><![CDATA[8:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_110/H7QKG_1658482505428czywW_JPEG/1658482441169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] 개미의 소원은 성투🔥 내 주식 절대지켜!(feat. 슈카) | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/28106821</link>
+            <guid>https://tv.naver.com/v/28106821</guid>
+            <pubDate>Tue, 26 Jul 2022 04:00:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_256/Xqvf2_1658482060289JAnEk_JPEG/1658481871538.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ING터뷰] 한지효X도영의 가사만 듣고 노래 맞히기 +귀호강 | 나를 사랑하지 않는 X에게 편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Jul 2022 13:36:00 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220721_248/Qh4ap_1658395743509nsqct_JPEG/1658395608240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] 한지효X도영이 사귀지 않는 이유 | 6화 클립]]></title>
-            <link>https://tv.naver.com/v/28084828</link>
-            <guid>https://tv.naver.com/v/28084828</guid>
-            <pubDate>Thu, 21 Jul 2022 13:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_171/3QsjU_1658395730991q1cRi_JPEG/1658395602873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
