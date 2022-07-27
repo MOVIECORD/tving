@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 22:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 23:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[나를 사랑하지 않는 X에게] 간질간질💓 한지효X도영 사이에 방재민 등장 | 7-10화 선공개]]></title>
+            <link>https://tv.naver.com/v/28196199</link>
+            <guid>https://tv.naver.com/v/28196199</guid>
+            <pubDate>Wed, 27 Jul 2022 23:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_63/gyGiF_16589098354041CVXE_JPEG/1658909677610.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[나를 사랑하지 않는 X에게] 도영의 말때문에 속상한 한지효😭 | 7-10화 선공개]]></title>
             <link>https://tv.naver.com/v/28196193</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Jul 2022 06:16:01 GMT</pubDate>
             <content:encoded><![CDATA[40:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_26/dqSRI_1658467495467fm6Hi_JPEG/1658467354385.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 저녁 만들기부터 알람 대란(?) 해명까지 찐 불금 시작!🔥ㅣ3화 선공개]]></title>
-            <link>https://tv.naver.com/v/28086671</link>
-            <guid>https://tv.naver.com/v/28086671</guid>
-            <pubDate>Fri, 22 Jul 2022 01:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[8:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_18/2pEaI_1658401479548hjahL_JPEG/1658401046931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
