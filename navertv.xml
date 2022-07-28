@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 23:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 01:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 더, 더, 더! 더 대담하고 솔직하게 💚그린라이트 ON💚| 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/28199256</link>
+            <guid>https://tv.naver.com/v/28199256</guid>
+            <pubDate>Thu, 28 Jul 2022 01:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_29/EuP8E_1658918522720n6bEu_JPEG/1658918479177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[나를 사랑하지 않는 X에게] 간질간질💓 한지효X도영 사이에 방재민 등장 | 7-10화 선공개]]></title>
             <link>https://tv.naver.com/v/28196199</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Jul 2022 04:26:01 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_84/oR74e_1658472483098FS9i5_JPEG/1658472470692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 비하인드에 게임까지 다 털었다! 윰세 성우 코멘터리❤️‍🔥]]></title>
-            <link>https://tv.naver.com/v/28099698</link>
-            <guid>https://tv.naver.com/v/28099698</guid>
-            <pubDate>Fri, 22 Jul 2022 06:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[40:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_26/dqSRI_1658467495467fm6Hi_JPEG/1658467354385.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
