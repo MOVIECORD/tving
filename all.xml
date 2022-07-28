@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 08:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 09:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 윰세를 빛낸 13인의 성우님 마지막 녹음👏✨ | 성우 스페셜 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28212713</link>
+            <guid>https://tv.naver.com/v/28212713</guid>
+            <pubDate>Thu, 28 Jul 2022 09:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[16:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_2/ifvT3_1658987103217SRXoI_JPEG/1658987074957.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2022] 더, 더, 더! 더 대담하고 솔직하게 💚그린라이트 ON💚| 메인 예고편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28199256</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Jul 2022 04:26:01 GMT</pubDate>
             <content:encoded><![CDATA[4:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_172/o0EeK_1658472576747Da7PC_JPEG/1658472531628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] 과로사VS리안 자강두천 소식좌 배틀ㅣ7화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28102058</link>
-            <guid>https://tv.naver.com/v/28102058</guid>
-            <pubDate>Sat, 23 Jul 2022 04:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_84/oR74e_1658472483098FS9i5_JPEG/1658472470692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
