@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 08:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 09:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[나를 사랑하지 않는 X에게] 절대 못 잊어💦 X에게의 마지막 인사 | 7-10화 비하인드 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28240678</link>
+            <guid>https://tv.naver.com/v/28240678</guid>
+            <pubDate>Fri, 29 Jul 2022 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[13:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_36/JEkYw_1659072570473QxGGw_JPEG/1659072567507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] 서프라이즈 파티인데 안서프라이즈입니다(?) 뭔가 잘못된 파티 준비ㅣ4화 선공 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28236957</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Jul 2022 13:31:49 GMT</pubDate>
             <content:encoded><![CDATA[4:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_14/xC6i2_1658475769101HutGu_JPEG/1658475696444.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 이별한 김고은과 박진영, 그리고 공항에서의 재회 | 14화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28103621</link>
-            <guid>https://tv.naver.com/v/28103621</guid>
-            <pubDate>Fri, 22 Jul 2022 13:31:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_225/YARyP_1658475553168YDzqg_JPEG/1658475509970.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
