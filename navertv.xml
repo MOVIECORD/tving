@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애2] 6년 4개월의 연애❤ 서로가 첫사랑이던 두 사람의 재회| 5화 클립]]></title>
+            <link>https://tv.naver.com/v/28296024</link>
+            <guid>https://tv.naver.com/v/28296024</guid>
+            <pubDate>Mon, 01 Aug 2022 07:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[11:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_43/xaEEv_1659336455015Xk3Er_JPEG/1659336400099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] [지구에 떨어진 사나이] 공식 예고편]]></title>
             <link>https://tv.naver.com/v/28289833</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 28 Jul 2022 13:37:34 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_250/NeHEE_1659005805156k8ifL_JPEG/1659005734385.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] 다시는 사랑할 수 없다. 한지효의 선택은? | 10화 클립]]></title>
-            <link>https://tv.naver.com/v/28222939</link>
-            <guid>https://tv.naver.com/v/28222939</guid>
-            <pubDate>Mon, 01 Aug 2022 06:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_57/NZBWq_16590058001425iy0j_JPEG/1659005729120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
