@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 04:00:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 05:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Sat, 30 Jul 2022 23:12:04 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_176/46CDH_1659096819268AEwzu_JPEG/1659096770677.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 6년 4개월의 연애❤ 서로가 첫사랑이던 두 사람의 재회| 5화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28252438</link>
+            <guid>https://tv.naver.com/v/28252438</guid>
+            <pubDate>Mon, 01 Aug 2022 05:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[11:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_161/ewzd1_1659091245352C36ds_JPEG/1659091147457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 처음부터 X가 없었어? 충격 반전에 혼돈의 카오스 그 잡채ㅣ5화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28252383</link>
+            <guid>https://tv.naver.com/v/28252383</guid>
+            <pubDate>Mon, 01 Aug 2022 05:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_273/WBTHC_1659091112568JHvPD_JPEG/1659091094112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[환승연애2] 필름카메라에 추억을 담아📷 꿀 뚝뚝 창경궁 데이트ㅣ5화 클립 (TVING ─ NAVER TV)]]></title>
@@ -110,6 +126,14 @@
             <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_287/KPtCA_16590897787096ng84_JPEG/1659089765982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 둘이 X라고? 상상도 못한 정체ㄴㅇㄱ 충격과 혼돈의 스튜디오;; | 4화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28251790</link>
+            <guid>https://tv.naver.com/v/28251790</guid>
+            <pubDate>Mon, 01 Aug 2022 05:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[4:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_129/xehmw_1659089731064y2yOK_JPEG/1659089727393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[환승연애2] "X가 상처 받을까봐 걱정 돼" X의 진심어린 속마음 | 4화 클립 (TVING ─ NAVER TV)]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 28 Jul 2022 13:37:34 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_250/NeHEE_1659005805156k8ifL_JPEG/1659005734385.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] 다시는 사랑할 수 없다. 한지효의 선택은? | 10화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28222939</link>
-            <guid>https://tv.naver.com/v/28222939</guid>
-            <pubDate>Thu, 28 Jul 2022 13:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_57/NZBWq_16590058001425iy0j_JPEG/1659005729120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] 권아름을 위해 희생하려는 한지효와 말리는 도영 | 9화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28222935</link>
-            <guid>https://tv.naver.com/v/28222935</guid>
-            <pubDate>Thu, 28 Jul 2022 13:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_155/1HKwh_1659005796440LayMs_JPEG/1659005701831.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] "이제 날 좀 봐주네" 아픈 권아름을 간호하는 도영 | 9화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28222933</link>
-            <guid>https://tv.naver.com/v/28222933</guid>
-            <pubDate>Thu, 28 Jul 2022 13:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_172/BsbtS_1659005792912ty94x_JPEG/1659005690597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
