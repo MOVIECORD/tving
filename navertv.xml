@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 01:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 04:00:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] [지구에 떨어진 사나이] 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/28289833</link>
+            <guid>https://tv.naver.com/v/28289833</guid>
+            <pubDate>Mon, 01 Aug 2022 04:00:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_145/dVM0V_1659317339534Yf1bL_JPEG/1659317024986.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[티빙 라인업] 8월 TVING NOW]]></title>
             <link>https://tv.naver.com/v/28254786</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 28 Jul 2022 13:37:34 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_172/BsbtS_1659005792912ty94x_JPEG/1659005690597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] 도영에게 사실을 말하고 겁에 질린 권아름. 피 뚝뚝| 8화 클]]></title>
-            <link>https://tv.naver.com/v/28222929</link>
-            <guid>https://tv.naver.com/v/28222929</guid>
-            <pubDate>Thu, 28 Jul 2022 13:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_203/wCSkQ_1659005787659LhaYf_JPEG/1659005649008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
