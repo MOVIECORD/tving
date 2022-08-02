@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 08:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
             <content:encoded><![CDATA[5:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_29/LPNHQ_1659090685741lISun_JPEG/1659090664391.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 잠이 오지 않는 첫날 밤, 뜬눈으로 지새운 해은ㅣ5화 클립]]></title>
-            <link>https://tv.naver.com/v/28252115</link>
-            <guid>https://tv.naver.com/v/28252115</guid>
-            <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[5:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_52/6zoGd_16590904655131uqFj_JPEG/1659090443084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[환승연애2] 난 나쁜 여자도 좋아하는데❤ 수다로 가득 채운 걸스나잇ㅣ5화 클립]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 30 Jul 2022 04:33:01 GMT</pubDate>
             <content:encoded><![CDATA[4:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_299/QTfzq_1659071933747AoqPW_JPEG/1659071872752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 서프라이즈 파티인데 안서프라이즈입니다(?) 뭔가 잘못된 파티 준비ㅣ4화 선공]]></title>
+            <link>https://tv.naver.com/v/28236957</link>
+            <guid>https://tv.naver.com/v/28236957</guid>
+            <pubDate>Tue, 02 Aug 2022 08:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[10:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_224/jUDcL_16590657993294akli_JPEG/1659065707181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
