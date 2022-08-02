@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 23:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 01:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] 떡상 가자🔥 개미타 5인방의 화기애애 촬영현장 | 포스터 비하인드]]></title>
+            <link>https://tv.naver.com/v/28301108</link>
+            <guid>https://tv.naver.com/v/28301108</guid>
+            <pubDate>Tue, 02 Aug 2022 01:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[9:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_256/S6sQy_1659347664876Pr8nb_JPEG/1659347570336.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] 6년 4개월의 연애❤ 서로가 첫사랑이던 두 사람의 재회| 5화 클립]]></title>
             <link>https://tv.naver.com/v/28296024</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Jul 2022 01:05:47 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_111/iTZ5x_1659056403422ipOnf_JPEG/1659056275395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] 한지효에게 충격발언을 하는 도영 | 10화 클립]]></title>
-            <link>https://tv.naver.com/v/28222940</link>
-            <guid>https://tv.naver.com/v/28222940</guid>
-            <pubDate>Thu, 28 Jul 2022 13:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_250/NeHEE_1659005805156k8ifL_JPEG/1659005734385.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
