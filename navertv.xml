@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 22:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 23:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IM HERO(2022 임영웅 콘서트)] 임영웅이 알려주는 8/14(일) 티빙 생중계 관람 꿀팁 | ID 영상]]></title>
+            <link>https://tv.naver.com/v/28351018</link>
+            <guid>https://tv.naver.com/v/28351018</guid>
+            <pubDate>Wed, 03 Aug 2022 23:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_135/RQvKy_1659530727098qgaU8_JPEG/1659530699950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IM HERO] 티빙으로 임영웅 콘서트 VIP석 생중계 보는 법!]]></title>
             <link>https://tv.naver.com/v/28343611</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Jul 2022 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[13:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_36/JEkYw_1659072570473QxGGw_JPEG/1659072567507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] 숨겨놓고 뭐 먹는 거 아니죠? 리안 인간 다람쥐설🐿 | 8화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/28240275</link>
-            <guid>https://tv.naver.com/v/28240275</guid>
-            <pubDate>Sat, 30 Jul 2022 04:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_211/pGS9i_1659071990168DwqKJ_JPEG/1659071966886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
