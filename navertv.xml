@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 01:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] 대환장 동학 개미가 온다📈 (ft. 슈카, 나태주) | 하이라이트]]></title>
+            <link>https://tv.naver.com/v/28351587</link>
+            <guid>https://tv.naver.com/v/28351587</guid>
+            <pubDate>Thu, 04 Aug 2022 03:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_128/bwbcp_1659532620296RnjvT_JPEG/1659532547592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IM HERO(2022 임영웅 콘서트)] 임영웅이 알려주는 8/14(일) 티빙 생중계 관람 꿀팁 | ID 영상]]></title>
             <link>https://tv.naver.com/v/28351018</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 04:33:01 GMT</pubDate>
             <content:encoded><![CDATA[4:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_241/T5nla_1659073015627bBxhP_JPEG/1659072992884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나를 사랑하지 않는 X에게] 절대 못 잊어💦 X에게의 마지막 인사 | 7-10화 비하인드]]></title>
-            <link>https://tv.naver.com/v/28240678</link>
-            <guid>https://tv.naver.com/v/28240678</guid>
-            <pubDate>Fri, 29 Jul 2022 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[13:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_36/JEkYw_1659072570473QxGGw_JPEG/1659072567507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
