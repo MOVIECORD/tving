@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 06:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 07:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Wed, 03 Aug 2022 08:16:33 GMT</pubDate>
             <content:encoded><![CDATA[12:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_16/J5cKV_1659512793113jQ5Nr_JPEG/1659512631361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[롯폰기 클라쓰] 전학 가자마자 퇴학이라고요?!😱│1화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28320326</link>
+            <guid>https://tv.naver.com/v/28320326</guid>
+            <pubDate>Thu, 04 Aug 2022 07:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_20/7Fmlf_1659424743138Xfd69_PNG/1659424664106.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[롯폰기 클라쓰] 우리는 사랑일까 우정일까?💓│1화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28320271</link>
+            <guid>https://tv.naver.com/v/28320271</guid>
+            <pubDate>Thu, 04 Aug 2022 07:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_188/C900j_1659424605221g5sG0_PNG/1659424528860.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[롯폰기 클라쓰] 이태원 클라쓰, 롯폰기에서 다시 시작한다💥│티저 예고편 (TVING ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
             <content:encoded><![CDATA[2:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_147/GtszJ_1659088788772tB1Wq_JPEG/1659088776146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 숙취해소제에 앞치마까지 챙겨주는 쏘 서윗가이 | 4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28251347</link>
-            <guid>https://tv.naver.com/v/28251347</guid>
-            <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_251/ThbAO_1659088729420xOgPQ_JPEG/1659088625472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] 4:3 팀 대결 시작! 규호팀, 시작부터 탈락위기?😨| 8화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28241008</link>
-            <guid>https://tv.naver.com/v/28241008</guid>
-            <pubDate>Sat, 30 Jul 2022 04:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_241/T5nla_1659073015627bBxhP_JPEG/1659072992884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
