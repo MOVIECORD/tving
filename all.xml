@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 23:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 01:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 04 Aug 2022 09:11:24 GMT</pubDate>
             <content:encoded><![CDATA[53:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220804_76/sIaNR_1659603053885nwzQD_JPEG/1659602908437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 똑똑똑똑똑똑 지금이야!!! 극P VS 극J 섹텐도 MBTI? | 1화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28365328</link>
+            <guid>https://tv.naver.com/v/28365328</guid>
+            <pubDate>Fri, 05 Aug 2022 01:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_117/oanZl_1659590092015VINa1_JPEG/1659590080673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] 대환장 동학 개미가 온다📈 (ft. 슈카, 나태주) | 하이라이트 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_45/jpNRJ_1659088960582cyJ56_JPEG/1659088942407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 노트에 그림까지 그려 분석한 '촉'유라의 예측은? | 4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28251428</link>
-            <guid>https://tv.naver.com/v/28251428</guid>
-            <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_129/n9kPS_1659088919486LM4gW_JPEG/1659088907602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
