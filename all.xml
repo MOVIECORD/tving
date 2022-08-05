@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 04:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 05:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애2] 5화 무료공개 | 당신의 X는 당신을 선택했습니다 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28387586</link>
+            <guid>https://tv.naver.com/v/28387586</guid>
+            <pubDate>Fri, 05 Aug 2022 05:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:38:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_215/1A2f1_1659674249552iqzzM_JPEG/1659674236603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] 울다😢 웃다😆 감수성 폭발해버린 원빈X지연 첫 데이트 | 6화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28385805</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_58/xQDai_1659089607529qIdEW_JPEG/1659089592820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] "아 뭘 이런걸 다ㅎ" 연기력 만렙 서프라이즈 파티 | 4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28251653</link>
-            <guid>https://tv.naver.com/v/28251653</guid>
-            <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_267/tASIg_1659089436847bkSJt_JPEG/1659089395842.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
