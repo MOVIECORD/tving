@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 03:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 04:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애2] 울다😢 웃다😆 감수성 폭발해버린 원빈X지연 첫 데이트 | 6화 선공개]]></title>
+            <link>https://tv.naver.com/v/28385805</link>
+            <guid>https://tv.naver.com/v/28385805</guid>
+            <pubDate>Fri, 05 Aug 2022 04:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[10:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_265/kwRQ7_1659668800768E6kAj_JPEG/1659668775693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🔴LIVE🔴 티빙 오리지널 [마녀사냥 2022] 온라인 제작발표회]]></title>
             <link>https://tv.naver.com/v/28371187</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_267/tASIg_1659089436847bkSJt_JPEG/1659089395842.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 칭찬요정 등판🧚🏻‍♀ 어디서 본 건 많은 요리 시간 | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/28251455</link>
-            <guid>https://tv.naver.com/v/28251455</guid>
-            <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_45/jpNRJ_1659088960582cyJ56_JPEG/1659088942407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
