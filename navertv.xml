@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애2] 8인 무빙 포스터]]></title>
+            <link>https://tv.naver.com/v/28391478</link>
+            <guid>https://tv.naver.com/v/28391478</guid>
+            <pubDate>Fri, 05 Aug 2022 09:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_286/4BEM5_1659689182138hJ4jV_JPEG/1659689178485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] 5화 무료공개 | 당신의 X는 당신을 선택했습니다]]></title>
             <link>https://tv.naver.com/v/28387586</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 Aug 2022 05:18:29 GMT</pubDate>
             <content:encoded><![CDATA[4:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_129/xehmw_1659089731064y2yOK_JPEG/1659089727393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] "X가 상처 받을까봐 걱정 돼" X의 진심어린 속마음 | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/28251767</link>
-            <guid>https://tv.naver.com/v/28251767</guid>
-            <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_206/muKVK_1659089666025BnUsK_JPEG/1659089651815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
