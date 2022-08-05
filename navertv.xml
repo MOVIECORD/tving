@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 07:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 08:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 05 Aug 2022 04:40:11 GMT</pubDate>
             <content:encoded><![CDATA[10:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_265/kwRQ7_1659668800768E6kAj_JPEG/1659668775693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] 현실판 🦊닉&주디🐰 한지은X홍종현 장꾸 케미 | 분석 토크]]></title>
+            <link>https://tv.naver.com/v/28373027</link>
+            <guid>https://tv.naver.com/v/28373027</guid>
+            <pubDate>Fri, 05 Aug 2022 08:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[12:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_45/7LFoX_1659608825650IsGSA_JPEG/1659608610177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🔴LIVE🔴 티빙 오리지널 [마녀사냥 2022] 온라인 제작발표회]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
             <content:encoded><![CDATA[2:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_206/muKVK_1659089666025BnUsK_JPEG/1659089651815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] X 추측 정확도 0% 다 틀리는 확신의 💩촉 | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/28251739</link>
-            <guid>https://tv.naver.com/v/28251739</guid>
-            <pubDate>Sat, 30 Jul 2022 05:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_58/xQDai_1659089607529qIdEW_JPEG/1659089592820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
