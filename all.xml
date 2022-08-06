@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 07:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 08:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,14 +160,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220804_76/sIaNR_1659603053885nwzQD_JPEG/1659602908437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[마녀사냥 2022] "뭐야 여기😲" 플러팅 1타 강사 아이키도 찐당황한 이곳 | 2화 선공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28369458</link>
-            <guid>https://tv.naver.com/v/28369458</guid>
-            <pubDate>Sat, 06 Aug 2022 07:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[5:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_186/0f5Tv_1659599473419tnEHG_JPEG/1659599462213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[마녀사냥 2022] 똑똑똑똑똑똑 지금이야!!! 극P VS 극J 섹텐도 MBTI? | 1화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28365328</link>
             <guid>https://tv.naver.com/v/28365328</guid>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 02 Aug 2022 01:09:17 GMT</pubDate>
             <content:encoded><![CDATA[9:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_256/S6sQy_1659347664876Pr8nb_JPEG/1659347570336.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 6년 4개월의 연애❤ 서로가 첫사랑이던 두 사람의 재회| 5화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28296024</link>
+            <guid>https://tv.naver.com/v/28296024</guid>
+            <pubDate>Sat, 06 Aug 2022 08:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[11:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_43/xaEEv_1659336455015Xk3Er_JPEG/1659336400099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
