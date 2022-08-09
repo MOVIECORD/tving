@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 23:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 01:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애2] 나도 설레놓고 이 섭섭한 마음은 뭐지...? 요동치는 감정들 | 7화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28440888</link>
+            <guid>https://tv.naver.com/v/28440888</guid>
+            <pubDate>Tue, 09 Aug 2022 01:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_159/EuaSg_1659953153149XN6V9_JPEG/1659953149330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] [지구에 떨어진 사나이] 공식 예고편 2 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28429993</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 Aug 2022 04:00:01 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_66/XMC4I_1659406910313JCWHN_JPEG/1659406905254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개미가 타고 있어요] 떡상 가자🔥 개미타 5인방의 화기애애 촬영현장 | 포스터 비하인드 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28301108</link>
-            <guid>https://tv.naver.com/v/28301108</guid>
-            <pubDate>Tue, 02 Aug 2022 01:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[9:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_256/S6sQy_1659347664876Pr8nb_JPEG/1659347570336.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
