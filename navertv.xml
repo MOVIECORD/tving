@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 04:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 05:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 방지턱에서 왜 굳이? 모든 수작의 시작은 차(car) | 1화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/28454961</link>
+            <guid>https://tv.naver.com/v/28454961</guid>
+            <pubDate>Tue, 09 Aug 2022 05:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_78/WkmSb_1660019269868o0Igt_JPEG/1660019250133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 나름 과학적인 증거로 만든 사찰 수준의 19금 테스트 | 1화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/28454946</link>
+            <guid>https://tv.naver.com/v/28454946</guid>
+            <pubDate>Tue, 09 Aug 2022 05:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_149/8vjjQ_1660019240668szfCe_JPEG/1660019224372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 행쇼 위해 가장 중요한 것은 💚 마무리는 따뜻하게(?) | 1화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/28454907</link>
+            <guid>https://tv.naver.com/v/28454907</guid>
+            <pubDate>Tue, 09 Aug 2022 05:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_218/coAl5_16600191676517QMAV_JPEG/1660019153811.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] 나도 설레놓고 이 섭섭한 마음은 뭐지...? 요동치는 감정들 | 7화 예고]]></title>
             <link>https://tv.naver.com/v/28440888</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 04 Aug 2022 07:11:52 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_188/C900j_1659424605221g5sG0_PNG/1659424528860.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[롯폰기 클라쓰] 이태원 클라쓰, 롯폰기에서 다시 시작한다💥│티저 예고편]]></title>
-            <link>https://tv.naver.com/v/28320003</link>
-            <guid>https://tv.naver.com/v/28320003</guid>
-            <pubDate>Wed, 03 Aug 2022 07:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_237/xbKDw_16594239484438q0Yl_PNG/1659423895274.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 행복설렘 가득한 데이트 중 홀로 남은 해은에게 온 편지!? | 6화 예고]]></title>
-            <link>https://tv.naver.com/v/28317849</link>
-            <guid>https://tv.naver.com/v/28317849</guid>
-            <pubDate>Tue, 02 Aug 2022 07:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_238/40a9Q_16594185505682mmey_JPEG/1659418439606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2022] 위험한 고인물부터 연애 추리반까지! 모든 고민 여기 털어봐 | 순한맛 예고]]></title>
-            <link>https://tv.naver.com/v/28313813</link>
-            <guid>https://tv.naver.com/v/28313813</guid>
-            <pubDate>Tue, 02 Aug 2022 04:00:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_66/XMC4I_1659406910313JCWHN_JPEG/1659406905254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
