@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 08:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 09:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 아이키 꿀팁방출! 이것만 알면 비트랑 놀 수 있다ㅋㅋㅋ | 2화 선공개]]></title>
+            <link>https://tv.naver.com/v/28480967</link>
+            <guid>https://tv.naver.com/v/28480967</guid>
+            <pubDate>Wed, 10 Aug 2022 09:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_296/zivMT_1660113166369YUz6t_JPEG/1660113145297.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2022] "뭐야 여기😲" 플러팅 1타 강사 아이키도 찐당황한 이곳 | 2화 선공개]]></title>
             <link>https://tv.naver.com/v/28480913</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 Aug 2022 08:16:33 GMT</pubDate>
             <content:encoded><![CDATA[12:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_16/J5cKV_1659512793113jQ5Nr_JPEG/1659512631361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[롯폰기 클라쓰] 전학 가자마자 퇴학이라고요?!😱│1화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/28320326</link>
-            <guid>https://tv.naver.com/v/28320326</guid>
-            <pubDate>Thu, 04 Aug 2022 07:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_20/7Fmlf_1659424743138Xfd69_PNG/1659424664106.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
