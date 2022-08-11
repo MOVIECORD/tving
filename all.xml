@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 11 Aug 2022 00:59:55 GMT</pubDate>
             <content:encoded><![CDATA[0:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220810_294/pmU5F_16601269673026MPM4_JPEG/1660126957152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] 판매 스킬 만랩 한지은, 주식으로 돈 번 친구 앞에 솔깃 | 1화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28487359</link>
+            <guid>https://tv.naver.com/v/28487359</guid>
+            <pubDate>Thu, 11 Aug 2022 07:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_147/6Gdoc_1660125704521Hm2Bu_JPEG/1660125504276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마녀사냥 2022] 아이키 꿀팁방출! 이것만 알면 비트랑 놀 수 있다ㅋㅋㅋ | 2화 선공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 Aug 2022 03:22:26 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_128/bwbcp_1659532620296RnjvT_JPEG/1659532547592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[IM HERO(2022 임영웅 콘서트)] 임영웅이 알려주는 8/14(일) 티빙 생중계 관람 꿀팁 | ID 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28351018</link>
-            <guid>https://tv.naver.com/v/28351018</guid>
-            <pubDate>Wed, 03 Aug 2022 23:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_135/RQvKy_1659530727098qgaU8_JPEG/1659530699950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
