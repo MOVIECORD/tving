@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 05:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 06:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애2] 또 다른 시작, 또 다른 선택 💿강승식(빅톤)-WHAT IF | 뮤직비디오 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28526933</link>
+            <guid>https://tv.naver.com/v/28526933</guid>
+            <pubDate>Fri, 12 Aug 2022 06:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_228/FpQlu_16602729215508Xfqu_JPEG/1660272899145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] "마음을 열었던 처음이자 마지막 사람이에요" 나연의 X를 공개합니다ㅣ7화 선 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28525694</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 05 Aug 2022 08:15:35 GMT</pubDate>
             <content:encoded><![CDATA[12:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220804_45/7LFoX_1659608825650IsGSA_JPEG/1659608610177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🔴LIVE🔴 티빙 오리지널 [마녀사냥 2022] 온라인 제작발표회 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28371187</link>
-            <guid>https://tv.naver.com/v/28371187</guid>
-            <pubDate>Thu, 04 Aug 2022 09:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[53:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_76/sIaNR_1659603053885nwzQD_JPEG/1659602908437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
