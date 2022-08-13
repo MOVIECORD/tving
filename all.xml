@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 02:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 03:44:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] 뺨 잃고 재미 GET! 다소 과격(?)한 촬영 현장💗 | 1,2화 비하인드 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28539409</link>
+            <guid>https://tv.naver.com/v/28539409</guid>
+            <pubDate>Sat, 13 Aug 2022 03:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[8:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_272/nN5Ca_16603016837790bq2t_JPEG/1660301365826.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] 사채까지 쓴 한지은 X 트라우마와 마주한 홍종현?! | 3화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28537382</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 06 Aug 2022 07:11:19 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_287/qsBhm_1659688463526NCU1W_JPEG/1659688449596.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2022] 카시트 없으면 연애 못함. 암튼 못함. 노하우 대방출🔥 | 1화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28393957</link>
-            <guid>https://tv.naver.com/v/28393957</guid>
-            <pubDate>Sat, 06 Aug 2022 07:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[5:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_97/vUlVw_1659688412324aTrl1_JPEG/1659688410173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
