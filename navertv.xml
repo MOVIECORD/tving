@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 05:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 06:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 내 연인의 립밤만 바르는 너? 이건 논쟁이 아니지| 3화 선공개]]></title>
+            <link>https://tv.naver.com/v/28591231</link>
+            <guid>https://tv.naver.com/v/28591231</guid>
+            <pubDate>Tue, 16 Aug 2022 06:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_259/fVLjt_1660629908376MrTLB_JPEG/1660629878707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] "마음을 열었던 처음이자 마지막 사람이에요" 나연의 X를 공개합니다ㅣ7화]]></title>
             <link>https://tv.naver.com/v/28571367</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 Aug 2022 06:15:09 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_228/FpQlu_16602729215508Xfqu_JPEG/1660272899145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] [고스트] 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/28512876</link>
-            <guid>https://tv.naver.com/v/28512876</guid>
-            <pubDate>Fri, 12 Aug 2022 03:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_129/WpTTw_1660210920906WCyTc_JPEG/1660210581158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
