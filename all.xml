@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 23:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 01:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[청춘MT] 구르미 그린 달빛+이태원 클라쓰+안나라수마나라 다 모인 연합 예능 | 15초 티저 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28619163</link>
+            <guid>https://tv.naver.com/v/28619163</guid>
+            <pubDate>Thu, 18 Aug 2022 01:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_249/F71SB_1660726772532jvxGk_JPEG/1660726732935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2022] 내 연인의 립밤만 바르는 너? 이건 논쟁이 아니지| 3화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28591231</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 Aug 2022 04:20:48 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_25/Wn8uj_1660287458063YyRCw_JPEG/1660287445025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 또 다른 시작, 또 다른 선택 💿강승식(빅톤)-WHAT IF | 뮤직비디오 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28526933</link>
-            <guid>https://tv.naver.com/v/28526933</guid>
-            <pubDate>Fri, 12 Aug 2022 06:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_228/FpQlu_16602729215508Xfqu_JPEG/1660272899145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
