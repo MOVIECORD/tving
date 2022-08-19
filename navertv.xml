@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 01:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 03:46:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[선공개][개미가 타고 있어요] 기영이 차트분석→기도매매법(?) 대환장 초보개미들ㅜㅜ]]></title>
+            <link>https://tv.naver.com/v/28650861</link>
+            <guid>https://tv.naver.com/v/28650861</guid>
+            <pubDate>Fri, 19 Aug 2022 03:46:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_228/mMEKc_16608226168386nfPh_JPEG/1660822465728.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] "내가 니 마음을 어떻게 알아?" 솔직한 마음을 털어놓는 희두ㅣ9화 예고]]></title>
             <link>https://tv.naver.com/v/28641119</link>
@@ -173,7 +181,7 @@
             <guid>https://tv.naver.com/v/28536530</guid>
             <pubDate>Sat, 13 Aug 2022 05:10:40 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_213/bqgch_1660293398017cX6HP_JPEG/c1a84b83-1a19-11ed-9fd4-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_230/Fm808_1660878399942whrYY_JPEG/1660878397154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[환승연애2] "너무 질투났어요" 맞X 데이트한 룸메즈의 속마음 | 7화 클립]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 Aug 2022 04:20:48 GMT</pubDate>
             <content:encoded><![CDATA[4:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_244/aUjzF_1660287915944efJOh_JPEG/1660287902792.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] 어쩐지 그리운 한슬, 알고 보니 천재였다는 게 학계의 정설| 10화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/28533365</link>
-            <guid>https://tv.naver.com/v/28533365</guid>
-            <pubDate>Sat, 13 Aug 2022 04:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_75/fs5Za_1660287583740UQLOk_JPEG/1660287573159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
