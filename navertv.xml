@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 03:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 04:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애2] "나가서 둘이 얘기 좀 해" 솔직한 감정을 말하고 싶은 희두ㅣ9화 선공개]]></title>
+            <link>https://tv.naver.com/v/28662744</link>
+            <guid>https://tv.naver.com/v/28662744</guid>
+            <pubDate>Fri, 19 Aug 2022 04:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[11:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_234/IFXP3_1660878213342XgLe2_JPEG/1660877864089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개][개미가 타고 있어요] 기영이 차트분석→기도매매법(?) 대환장 초보개미들ㅜㅜ]]></title>
             <link>https://tv.naver.com/v/28650861</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 Aug 2022 07:11:42 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220813_95/U4IWz_1660362200714InBoG_JPEG/1660362197340.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제로섬게임] 연기력 포텐 터지자마자 바로 들통나버린 유지어터😲| 10화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/28533535</link>
-            <guid>https://tv.naver.com/v/28533535</guid>
-            <pubDate>Sat, 13 Aug 2022 04:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_244/aUjzF_1660287915944efJOh_JPEG/1660287902792.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
