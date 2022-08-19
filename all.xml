@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 05:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 06:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IM HERO(2022 임영웅 콘서트)] 사랑아 영웅해💙 콘서트의 감동을 다시 만나자! | VOD 티저 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28667388</link>
+            <guid>https://tv.naver.com/v/28667388</guid>
+            <pubDate>Fri, 19 Aug 2022 06:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_291/AS6V5_16608890330405hCUR_JPEG/1660889025707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] "나가서 둘이 얘기 좀 해" 솔직한 감정을 말하고 싶은 희두ㅣ9화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28662744</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 Aug 2022 07:11:42 GMT</pubDate>
             <content:encoded><![CDATA[4:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220813_40/9vKh9_1660362010155V8fic_JPEG/1660362007723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2022]아이키가 요즘 팔고 있는 것? 너에게 한눈 팔기( ͡~ ͜ʖ ͡°) | 2화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28534819</link>
-            <guid>https://tv.naver.com/v/28534819</guid>
-            <pubDate>Sat, 13 Aug 2022 07:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[4:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220813_95/U4IWz_1660362200714InBoG_JPEG/1660362197340.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
