@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 03:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 04:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Sat, 20 Aug 2022 03:11:56 GMT</pubDate>
             <content:encoded><![CDATA[10:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_180/yDc3B_16608971217317uIRP_JPEG/1660896747952.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 리안 여왕님 저희의 재롱을 봐주시겠습니까? | 11화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/28669071</link>
+            <guid>https://tv.naver.com/v/28669071</guid>
+            <pubDate>Sat, 20 Aug 2022 04:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[5:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_169/d6NQa_1660892270222dwdl7_JPEG/1660892260453.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 끝까지 악랄한 히든 룰👿 개인 상금이야 투표권이야?| 11화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/28668988</link>
+            <guid>https://tv.naver.com/v/28668988</guid>
+            <pubDate>Sat, 20 Aug 2022 04:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[4:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_44/e5U6R_1660892091773gvefM_JPEG/1660892080993.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제로섬게임] 영업 뛰는(?) 병선과 엿듣기 전략을 택한 딕헌터&리안 | 11화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/28668903</link>
+            <guid>https://tv.naver.com/v/28668903</guid>
+            <pubDate>Sat, 20 Aug 2022 04:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_81/mjtgF_1660891920370vtzDp_JPEG/1660891907710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] (슈카 인강) 마통 뚫은 뒤 하락장 직격 맞은 ssul. | 4화 클립]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 13 Aug 2022 05:10:40 GMT</pubDate>
             <content:encoded><![CDATA[4:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_81/WyLgb_1660294966004SXw02_JPEG/1660294951498.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 용리단길에서 즐기는 지수X규민의 와인바 데이트🍷ㅣ8화 클립]]></title>
-            <link>https://tv.naver.com/v/28537271</link>
-            <guid>https://tv.naver.com/v/28537271</guid>
-            <pubDate>Sat, 13 Aug 2022 05:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[6:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_101/UjMtk_1660294883318kXc2e_JPEG/1660294859113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 커피 마시려고 카페 빌렸다! 본업 잘알 태이에게 반한 나연ㅣ8화 클립]]></title>
-            <link>https://tv.naver.com/v/28537200</link>
-            <guid>https://tv.naver.com/v/28537200</guid>
-            <pubDate>Sat, 13 Aug 2022 05:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_168/L6ZNS_16602947260697a6Ek_JPEG/1660294717620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 마음을 숨기고 시작된 우정에 마음이 불편한 해은ㅣ8화 클립]]></title>
-            <link>https://tv.naver.com/v/28537151</link>
-            <guid>https://tv.naver.com/v/28537151</guid>
-            <pubDate>Sat, 13 Aug 2022 05:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_86/N15o0_1660294597787SACPE_JPEG/1660294575808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
