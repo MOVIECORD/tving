@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 09:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 10:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애2] "우리 잘 어울린다" 비밀 데이트와 함께 싹트는 감정ㅣ10화 예고]]></title>
+            <link>https://tv.naver.com/v/28716193</link>
+            <guid>https://tv.naver.com/v/28716193</guid>
+            <pubDate>Mon, 22 Aug 2022 10:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_3/DjkQM_1661150033914ihfxd_JPEG/1661149997205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2022] 기강 잡으러 왔습니다 #카더가든 #풍자 | 3화 하이라이트]]></title>
             <link>https://tv.naver.com/v/28677627</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 15 Aug 2022 03:52:49 GMT</pubDate>
             <content:encoded><![CDATA[11:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220815_51/Uqsyl_1660528858755F3Irl_JPEG/1660528849076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개미가 타고 있어요] 뺨 잃고 재미 GET! 다소 과격(?)한 촬영 현장💗 | 1,2화 비하인드]]></title>
-            <link>https://tv.naver.com/v/28539409</link>
-            <guid>https://tv.naver.com/v/28539409</guid>
-            <pubDate>Sat, 13 Aug 2022 03:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[8:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_272/nN5Ca_16603016837790bq2t_JPEG/1660301365826.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
