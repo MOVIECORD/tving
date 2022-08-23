@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 04:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 05:50:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 반려동물 앞에서는 안되겠더라고요😺🐶| 4화 선공개]]></title>
+            <link>https://tv.naver.com/v/28735766</link>
+            <guid>https://tv.naver.com/v/28735766</guid>
+            <pubDate>Tue, 23 Aug 2022 05:50:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_132/U6yPk_16612284799607zfxm_JPEG/1661228433810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] "우리 잘 어울린다" 비밀 데이트와 함께 싹트는 감정ㅣ10화 예고]]></title>
             <link>https://tv.naver.com/v/28716193</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 Aug 2022 06:14:57 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_259/fVLjt_1660629908376MrTLB_JPEG/1660629878707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] "마음을 열었던 처음이자 마지막 사람이에요" 나연의 X를 공개합니다ㅣ7화]]></title>
-            <link>https://tv.naver.com/v/28571367</link>
-            <guid>https://tv.naver.com/v/28571367</guid>
-            <pubDate>Mon, 15 Aug 2022 03:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[11:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220815_51/Uqsyl_1660528858755F3Irl_JPEG/1660528849076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
