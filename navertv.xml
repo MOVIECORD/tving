@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 01:06:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 04:03:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 나도 모르게 자꾸 X의 이름을 부르는데 어떡하죠😥 | 4화 선공개]]></title>
+            <link>https://tv.naver.com/v/28756428</link>
+            <guid>https://tv.naver.com/v/28756428</guid>
+            <pubDate>Wed, 24 Aug 2022 04:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[5:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_262/g77sQ_1661307485033p8KnD_JPEG/1661307432444.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2022] 반려동물 앞에서는 안되겠더라고요😺🐶| 4화 선공개]]></title>
             <link>https://tv.naver.com/v/28735766</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 01:10:55 GMT</pubDate>
             <content:encoded><![CDATA[0:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220817_249/F71SB_1660726772532jvxGk_JPEG/1660726732935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2022] 내 연인의 립밤만 바르는 너? 이건 논쟁이 아니지| 3화 선공개]]></title>
-            <link>https://tv.naver.com/v/28591231</link>
-            <guid>https://tv.naver.com/v/28591231</guid>
-            <pubDate>Tue, 16 Aug 2022 06:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_259/fVLjt_1660629908376MrTLB_JPEG/1660629878707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
