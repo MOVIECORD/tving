@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 04:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 05:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유미의 세포들 시즌2] 김고은X박진영X이상엽 감독님이 뭉친 이유는!?🎁 | 코멘터리 예고]]></title>
+            <link>https://tv.naver.com/v/28781886</link>
+            <guid>https://tv.naver.com/v/28781886</guid>
+            <pubDate>Thu, 25 Aug 2022 05:50:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220825_205/UviXh_1661390924080mBw8E_JPEG/1661390820141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] 나태주 팬미팅에서 주식 스터디?! | 6화 선공개]]></title>
             <link>https://tv.naver.com/v/28766703</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 19 Aug 2022 03:46:16 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220818_228/mMEKc_16608226168386nfPh_JPEG/1660822465728.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] "내가 니 마음을 어떻게 알아?" 솔직한 마음을 털어놓는 희두ㅣ9화 예고]]></title>
-            <link>https://tv.naver.com/v/28641119</link>
-            <guid>https://tv.naver.com/v/28641119</guid>
-            <pubDate>Thu, 18 Aug 2022 06:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_63/DNAq3_1660799674244Ty8Mw_JPEG/1660799659815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
