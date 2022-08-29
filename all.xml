@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 01:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 04:06:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] [빌리언스] 시즌 6 공식 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28864640</link>
+            <guid>https://tv.naver.com/v/28864640</guid>
+            <pubDate>Mon, 29 Aug 2022 04:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_292/K6HMF_1661735557458UWdWg_JPEG/1661735479085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] [플레이어스] 공식 예고편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28864565</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Aug 2022 12:25:16 GMT</pubDate>
             <content:encoded><![CDATA[1:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_3/DjkQM_1661150033914ihfxd_JPEG/1661149997205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2022] 기강 잡으러 왔습니다 #카더가든 #풍자 | 3화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28677627</link>
-            <guid>https://tv.naver.com/v/28677627</guid>
-            <pubDate>Thu, 25 Aug 2022 12:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_25/5lEjN_1660915045515YhhAB_JPEG/1660914996322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
