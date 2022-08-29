@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 23:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 01:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] [플레이어스] 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/28864565</link>
+            <guid>https://tv.naver.com/v/28864565</guid>
+            <pubDate>Mon, 29 Aug 2022 01:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_71/gRcXv_1661735342179htAw3_JPEG/1661735177008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] 의식의 흐름으로 이어지는 흥 폭발 현장(ft. 나태주) | 5,6화 비하인드]]></title>
             <link>https://tv.naver.com/v/28826242</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 Aug 2022 07:11:15 GMT</pubDate>
             <content:encoded><![CDATA[2:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_25/5lEjN_1660915045515YhhAB_JPEG/1660914996322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2022] 킹받주의🤬 이별하자마자 내 여친에게 연락한 선배 | 3화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/28677626</link>
-            <guid>https://tv.naver.com/v/28677626</guid>
-            <pubDate>Sat, 20 Aug 2022 07:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_155/PakEQ_1660915040067d951I_JPEG/1660914910892.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
