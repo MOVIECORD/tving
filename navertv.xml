@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 08:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 09:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] 🐰: 저는 차분하지 않아요? 🐜: ???????? | 1-4부 코멘터리]]></title>
+            <link>https://tv.naver.com/v/28926031</link>
+            <guid>https://tv.naver.com/v/28926031</guid>
+            <pubDate>Wed, 31 Aug 2022 09:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[13:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_300/2TnCI_1661932188627RzzWV_JPEG/1661932078354.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] X or NEW? 애틋함과 설렘 사이에서 혼란스런 지연ㅣ11화 예고]]></title>
             <link>https://tv.naver.com/v/28917487</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 Aug 2022 10:14:01 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_264/Vfc1P_1661327819238S5Gs4_JPEG/1661327686237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개미가 타고 있어요] 애런 머스크의 트윗이 부른 티슬라 참사?! (왓더 개소리) | 5화 클립]]></title>
-            <link>https://tv.naver.com/v/28768082</link>
-            <guid>https://tv.naver.com/v/28768082</guid>
-            <pubDate>Fri, 26 Aug 2022 10:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[6:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_213/1RUH0_1661327637739cLdC4_JPEG/1661327535267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
