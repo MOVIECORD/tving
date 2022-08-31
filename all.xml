@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 09:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 10:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 31 Aug 2022 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[13:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220831_300/2TnCI_1661932188627RzzWV_JPEG/1661932078354.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#환승연애2 본격 덕질터뷰ㅣ이진주 PD가 궁금해요 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28925583</link>
+            <guid>https://tv.naver.com/v/28925583</guid>
+            <pubDate>Wed, 31 Aug 2022 10:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_261/xsRmE_1661931397223SQkq4_JPEG/1661931182401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[환승연애2] X or NEW? 애틋함과 설렘 사이에서 혼란스런 지연ㅣ11화 예고 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 Aug 2022 10:14:01 GMT</pubDate>
             <content:encoded><![CDATA[7:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_46/tgVVz_1661327960149RDKXq_JPEG/1661327825441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개미가 타고 있어요] 애런..트윗 그만해줄 수 있겠어..? | 5화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28768176</link>
-            <guid>https://tv.naver.com/v/28768176</guid>
-            <pubDate>Fri, 26 Aug 2022 10:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_264/Vfc1P_1661327819238S5Gs4_JPEG/1661327686237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
