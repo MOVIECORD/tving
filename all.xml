@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 04:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 06:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 31 Aug 2022 04:26:39 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220831_38/bfigv_1661914860732ispP3_JPEG/1661914842280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 진짜 좋으면 굵은 목소리가 난대(?) 성대를 버린 연기 열정 | 5화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28916926</link>
+            <guid>https://tv.naver.com/v/28916926</guid>
+            <pubDate>Wed, 31 Aug 2022 06:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[5:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_112/G6DIC_1661913594252kg2aK_JPEG/1661913562260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마녀사냥 2022] 찐전문가 등판! 꽈추형피셜 두 사람중 하나는 꽈부심 인정? | 5화 선공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 Aug 2022 10:14:01 GMT</pubDate>
             <content:encoded><![CDATA[6:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_213/1RUH0_1661327637739cLdC4_JPEG/1661327535267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개미가 타고 있어요] 산스장에서 뽐내는 정문성의 랄라레몬(?) 레깅스핏 | 5화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28768025</link>
-            <guid>https://tv.naver.com/v/28768025</guid>
-            <pubDate>Fri, 26 Aug 2022 10:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_216/f55P5_1661327530065oRApi_JPEG/1661327467005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
