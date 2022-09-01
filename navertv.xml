@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 10:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 11:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 01 Sep 2022 04:02:25 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220831_278/XBNbu_1661940331411FEw34_JPEG/1661940252208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 라인업] 9월 TVING NOW]]></title>
+            <link>https://tv.naver.com/v/28926348</link>
+            <guid>https://tv.naver.com/v/28926348</guid>
+            <pubDate>Thu, 01 Sep 2022 11:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_246/fc3ty_1661932708129wDW7n_JPEG/1661932645562.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] 🐰: 저는 차분하지 않아요? 🐜: ???????? | 1-4부 코멘터리]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Aug 2022 05:50:24 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220825_205/UviXh_1661390924080mBw8E_JPEG/1661390820141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개미가 타고 있어요] (슈카 인강) 공모주는 위험하다? 무조건 따상이다?! | 6화 클립]]></title>
-            <link>https://tv.naver.com/v/28768469</link>
-            <guid>https://tv.naver.com/v/28768469</guid>
-            <pubDate>Fri, 26 Aug 2022 10:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[6:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_203/HQfxL_16613283255932jV1g_JPEG/1661328216113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
