@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 01:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 04:02:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] ♥만능사원 선우짱♥ 에~엣? 홍종현 연기변신 스고이~☆ | 7화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28930154</link>
+            <guid>https://tv.naver.com/v/28930154</guid>
+            <pubDate>Thu, 01 Sep 2022 04:02:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_278/XBNbu_1661940331411FEw34_JPEG/1661940252208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] 🐰: 저는 차분하지 않아요? 🐜: ???????? | 1-4부 코멘터리 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28926031</link>
@@ -14,6 +22,14 @@
             <pubDate>Wed, 31 Aug 2022 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[13:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220831_300/2TnCI_1661932188627RzzWV_JPEG/1661932078354.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 사랑하는 사람을 만날 수 있는 마지막 공간, 욘더ㅣ티저 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28925708</link>
+            <guid>https://tv.naver.com/v/28925708</guid>
+            <pubDate>Thu, 01 Sep 2022 04:02:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_279/I3fag_1661931596748wK114_JPEG/1661931546775.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#환승연애2 본격 덕질터뷰ㅣ이진주 PD가 궁금해요 (TVING ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 26 Aug 2022 10:14:01 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_263/OexKZ_16613282037214Y5To_JPEG/1661328126161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개미가 타고 있어요] 공모주 청약으로 따따상?! IPO대어 투자하기! | 6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28768354</link>
-            <guid>https://tv.naver.com/v/28768354</guid>
-            <pubDate>Fri, 26 Aug 2022 10:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[5:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_16/nPmBu_1661328116780s0tav_JPEG/1661327972505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개미가 타고 있어요] (슈카 인강) 미국 주식은 상한가 하한가가 없다?! | 5화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28768250</link>
-            <guid>https://tv.naver.com/v/28768250</guid>
-            <pubDate>Fri, 26 Aug 2022 10:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[7:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_46/tgVVz_1661327960149RDKXq_JPEG/1661327825441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
