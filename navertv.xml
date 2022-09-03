@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 01:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 03:59:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] 그냥 간다고요?ㅠㅠ 황당 그 잡채 키스신 비하인드 | 7,8화 비하인드]]></title>
+            <link>https://tv.naver.com/v/28979732</link>
+            <guid>https://tv.naver.com/v/28979732</guid>
+            <pubDate>Sat, 03 Sep 2022 03:59:29 GMT</pubDate>
+            <content:encoded><![CDATA[9:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_39/iqHU4_1662111321153TLx1s_JPEG/1662111153187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] (슈카 인강) 주식고수가 말하는 ★매매일지★의 중요성 | 8화 클립]]></title>
             <link>https://tv.naver.com/v/28974927</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Aug 2022 05:27:05 GMT</pubDate>
             <content:encoded><![CDATA[5:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_38/dloIj_1661506375457uHhDI_JPEG/1661506364046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 잠자던 태이 난데없이 팩트로 뼈 때려버린 뱀뱀 | 10화 클립]]></title>
-            <link>https://tv.naver.com/v/28824745</link>
-            <guid>https://tv.naver.com/v/28824745</guid>
-            <pubDate>Sat, 27 Aug 2022 05:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_242/idiGj_1661506318169Uvm0w_JPEG/1661506282509.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
