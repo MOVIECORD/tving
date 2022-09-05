@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Sat, 03 Sep 2022 07:15:11 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220902_119/xtAWA_1662111487793MmBYW_JPEG/1662111471525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 연하의 매력이 이런 거야🥰 설렘 가득 스파 데이트 | 11화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28979752</link>
-            <guid>https://tv.naver.com/v/28979752</guid>
-            <pubDate>Sat, 03 Sep 2022 05:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[16:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_216/3OwHd_1662111393179FVfp9_JPEG/1662111111917.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] 그냥 간다고요?ㅠㅠ 황당 그 잡채 키스신 비하인드 | 7,8화 비하인드 (TVING ─ NAVER TV)]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 30 Aug 2022 06:08:03 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220830_8/XZbz2_1661836288802WPLep_JPEG/1661836256361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#개미가타고있어요 본격 덕질터뷰 | 인터뷰하다 영업하고 간 진이 아부지 홍종현🦊 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28875280</link>
+            <guid>https://tv.naver.com/v/28875280</guid>
+            <pubDate>Mon, 05 Sep 2022 09:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[6:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_286/F4v3I_1661759164147IiwrV_JPEG/1661759075918.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
