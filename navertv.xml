@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 01:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 04:00:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애2] 대화를 통해 풀어가는 오해와 진실ㅣ12화 선공개]]></title>
+            <link>https://tv.naver.com/v/29103427</link>
+            <guid>https://tv.naver.com/v/29103427</guid>
+            <pubDate>Fri, 09 Sep 2022 04:00:28 GMT</pubDate>
+            <content:encoded><![CDATA[9:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_182/OwE4T_16626322059236B5qy_JPEG/1662632050759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] 우리를 울고 웃긴 단짠 모먼트 모음.zip (웃음ver)ㅣ1~11화 하이라이트]]></title>
             <link>https://tv.naver.com/v/29100918</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Sep 2022 10:14:16 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220902_215/1q085_1662099852700DxQ9w_JPEG/1662099794215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 돌직구가 답! 쪽지로 몰래 데이트 신청하기✉ㅣ11화 선공개]]></title>
-            <link>https://tv.naver.com/v/28969040</link>
-            <guid>https://tv.naver.com/v/28969040</guid>
-            <pubDate>Fri, 02 Sep 2022 04:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[10:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_126/sCeoH_1662087521936a4Xlf_JPEG/1662087505080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
