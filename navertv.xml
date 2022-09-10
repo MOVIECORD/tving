@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 01:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 04:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Fri, 09 Sep 2022 04:00:28 GMT</pubDate>
             <content:encoded><![CDATA[9:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_182/OwE4T_16626322059236B5qy_JPEG/1662632050759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] 잔망미 MAX🔥 쉬는 시간이 더 시끄러운 드라마 | 9,10화 비하인드]]></title>
+            <link>https://tv.naver.com/v/29101091</link>
+            <guid>https://tv.naver.com/v/29101091</guid>
+            <pubDate>Sat, 10 Sep 2022 04:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[9:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_100/cpNXw_1662625345919Ir9NK_JPEG/1662625217990.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[환승연애2] 우리를 울고 웃긴 단짠 모먼트 모음.zip (웃음ver)ㅣ1~11화 하이라이트]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Sep 2022 07:15:11 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220902_119/xtAWA_1662111487793MmBYW_JPEG/1662111471525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개미가 타고 있어요] 그냥 간다고요?ㅠㅠ 황당 그 잡채 키스신 비하인드 | 7,8화 비하인드]]></title>
-            <link>https://tv.naver.com/v/28979732</link>
-            <guid>https://tv.naver.com/v/28979732</guid>
-            <pubDate>Sat, 03 Sep 2022 03:59:29 GMT</pubDate>
-            <content:encoded><![CDATA[9:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_39/iqHU4_1662111321153TLx1s_JPEG/1662111153187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
