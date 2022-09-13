@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 04:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 눈 오는 날로 보는 성향 테스트! OOO하면 S 성향? | 7화 선공개]]></title>
+            <link>https://tv.naver.com/v/29164048</link>
+            <guid>https://tv.naver.com/v/29164048</guid>
+            <pubDate>Tue, 13 Sep 2022 06:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_256/dpa6c_1663046935219gIUpI_JPEG/1663046903820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] 홍종현, 템플스테이 중 한지은에 마음 고백 "좋아해요"♥ | 10화 클립]]></title>
             <link>https://tv.naver.com/v/29107441</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 10 Sep 2022 07:14:04 GMT</pubDate>
             <content:encoded><![CDATA[4:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_58/fQr7R_1662621762673gjGMl_JPEG/1662621679664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2022] 장거리연애, 장기연애, 장신 게스트 let's go | 6화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/29099444</link>
-            <guid>https://tv.naver.com/v/29099444</guid>
-            <pubDate>Sat, 10 Sep 2022 07:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_69/hoaXC_1662621755938OH9Hr_JPEG/1662621710123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
