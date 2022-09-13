@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 01:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 04:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 09 Sep 2022 10:15:10 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_62/P0icM_16626453217959b3GA_JPEG/1662645279692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] (슈카인강) 주식 투자 실패하는 사람특 | 10화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29107261</link>
+            <guid>https://tv.naver.com/v/29107261</guid>
+            <pubDate>Tue, 13 Sep 2022 04:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[6:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_247/ydhOR_1662645273643b71Kq_JPEG/1662645253217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[개미가 타고 있어요] "주식, 다 팔았어요" 주식과 손절한 개미즈?!🐜 | 11화 예고 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 10 Sep 2022 07:14:04 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_69/hoaXC_1662621755938OH9Hr_JPEG/1662621710123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[욘더] 사랑하는 사람을 만날 수 있는 마지막 공간, 욘더ㅣ티저 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/29098721</link>
-            <guid>https://tv.naver.com/v/29098721</guid>
-            <pubDate>Thu, 08 Sep 2022 07:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_41/Sn6OZ_166262028875521F6p_JPEG/1662620258549.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
