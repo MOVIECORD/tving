@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 08:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 09:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 연설 듣고 대흥분 상태? 세상에 이런 페티쉬도 있다  | 7화 선공개]]></title>
+            <link>https://tv.naver.com/v/29191278</link>
+            <guid>https://tv.naver.com/v/29191278</guid>
+            <pubDate>Wed, 14 Sep 2022 09:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_257/XAAue_1663139356086xlW5z_JPEG/1663139343284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애2] 청량미 터지는 서핑 데이트와 뜻밖의 눈물ㅣ14화 예고]]></title>
             <link>https://tv.naver.com/v/29183456</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 10 Sep 2022 09:12:32 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_177/gB3s7_1662631061676iQicI_JPEG/1662630807208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[청춘MT] 네고는 불허한다. 속전속결 구르미팀 스피드 퀴즈 | 1화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/29103060</link>
-            <guid>https://tv.naver.com/v/29103060</guid>
-            <pubDate>Sat, 10 Sep 2022 09:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[6:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_286/oN5tc_1662631044236jyxTk_JPEG/1662630761071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
