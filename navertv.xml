@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 06:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 07:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Fri, 16 Sep 2022 10:15:14 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220916_276/SEvkV_16633210424493Y5ra_JPEG/1663320995264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] 은은한 광기! 도른좌 주우재& 세계관 충돌 허영지 | 7화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/29247359</link>
+            <guid>https://tv.naver.com/v/29247359</guid>
+            <pubDate>Sat, 17 Sep 2022 07:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_76/WuYMt_16633152045200m46W_JPEG/1663315151043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] "나 운동 마니아네" 동안 비결&그린라이트 후기 도착!? | 7화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/29247356</link>
+            <guid>https://tv.naver.com/v/29247356</guid>
+            <pubDate>Sat, 17 Sep 2022 07:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_170/RUoFI_1663315201372pfF9w_JPEG/1663315065276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[환승연애2] 지수를 위해 소중한 일기장 깜짝 공개ㅣ14화 선공개]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 13 Sep 2022 10:14:42 GMT</pubDate>
             <content:encoded><![CDATA[16:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220913_249/PQ4d8_1663060260083A02b8_JPEG/1663060243477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2022] 눈 오는 날로 보는 성향 테스트! OOO하면 S 성향? | 7화 선공개]]></title>
-            <link>https://tv.naver.com/v/29164048</link>
-            <guid>https://tv.naver.com/v/29164048</guid>
-            <pubDate>Tue, 13 Sep 2022 06:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_256/dpa6c_1663046935219gIUpI_JPEG/1663046903820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개미가 타고 있어요] 홍종현, 템플스테이 중 한지은에 마음 고백 "좋아해요"♥ | 10화 클립]]></title>
-            <link>https://tv.naver.com/v/29107441</link>
-            <guid>https://tv.naver.com/v/29107441</guid>
-            <pubDate>Fri, 09 Sep 2022 10:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_10/OSNRn_1662645921243dturT_JPEG/1662645852743.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
