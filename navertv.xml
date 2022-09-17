@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 01:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 03:56:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[개미가 타고 있어요] 떡상완료♥ 두근두근 키스신부터 마지막 인사까지 | 11,12화 비하인드]]></title>
+            <link>https://tv.naver.com/v/29250430</link>
+            <guid>https://tv.naver.com/v/29250430</guid>
+            <pubDate>Sat, 17 Sep 2022 03:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[10:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_113/gQb2M_1663321824796LVohA_JPEG/1663321593115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[청춘MT] 마침내, 완전체. 우정도 쌓고, 추억도 쌓고💚 우리 같이 떠날래요? | 4화 예고]]></title>
             <link>https://tv.naver.com/v/29250138</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Sep 2022 10:15:10 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_10/OSNRn_1662645921243dturT_JPEG/1662645852743.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개미가 타고 있어요] 김선영, 임종체험 속 딸에게 남긴 유언 | 10화 클립]]></title>
-            <link>https://tv.naver.com/v/29107421</link>
-            <guid>https://tv.naver.com/v/29107421</guid>
-            <pubDate>Fri, 09 Sep 2022 10:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_2/4ePJj_16626458422502xUPK_JPEG/1662645738303.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
