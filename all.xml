@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 01:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 04:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] [사우스 파크: 스트리밍 전쟁] NOW STREAMING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29313931</link>
+            <guid>https://tv.naver.com/v/29313931</guid>
+            <pubDate>Tue, 20 Sep 2022 04:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_252/8yeQp_16636381206065Fk0v_JPEG/1663638093853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[푸드 크로니클]다큐멘터리의 대가 이욱정 PD의 신작🍽 | 티저 예고편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/29301400</link>
@@ -14,6 +22,14 @@
             <pubDate>Tue, 20 Sep 2022 01:12:53 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220919_255/OWC5l_1663582264696iMgAh_JPEG/1663582038535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 제주도로 여행을 떠납니다✈✈ㅣ15화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29300163</link>
+            <guid>https://tv.naver.com/v/29300163</guid>
+            <pubDate>Tue, 20 Sep 2022 04:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220919_237/SklT9_1663578933823Q6Iub_JPEG/1663578731788.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[환승연애2] 제주도 여행을 함께 떠날 상대를 고르세요 | 14화 클립 (TVING ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 14 Sep 2022 10:14:53 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220914_285/bhwrR_1663135168865soFv0_JPEG/1663135164991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 청량미 터지는 서핑 데이트와 뜻밖의 눈물ㅣ14화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/29183456</link>
-            <guid>https://tv.naver.com/v/29183456</guid>
-            <pubDate>Wed, 14 Sep 2022 04:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_189/CSC8f_1663120487353Gbb8J_JPEG/1663120473570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애2] 한번에 세개는 거뜬한 희두와 오이 골라주는 쏘스윗 원빈 | 13화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/29169991</link>
-            <guid>https://tv.naver.com/v/29169991</guid>
-            <pubDate>Tue, 13 Sep 2022 10:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_237/WziLF_1663061402158FrQ0W_JPEG/1663061390859.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
