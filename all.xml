@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 07:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2022] "헤어지고 올게" 눈 앞에서 환승 VS 살아는 있니..? 잠수이별  | 8화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29317445</link>
+            <guid>https://tv.naver.com/v/29317445</guid>
+            <pubDate>Tue, 20 Sep 2022 07:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[4:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_45/ecpXq_1663647640959qVlYQ_JPEG/1663647638152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] [사우스 파크: 스트리밍 전쟁] NOW STREAMING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/29313931</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 14 Sep 2022 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220914_257/XAAue_1663139356086xlW5z_JPEG/1663139343284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미의 세포들 시즌2] 세포 영업비밀 푼다🤫 감독님 등판! | 감독판 코멘터리 미리보기 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/29189137</link>
-            <guid>https://tv.naver.com/v/29189137</guid>
-            <pubDate>Wed, 14 Sep 2022 10:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_285/bhwrR_1663135168865soFv0_JPEG/1663135164991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
