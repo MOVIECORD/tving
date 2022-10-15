@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/tvingofficial/clips</id>
-    <title>TVING ─ NAVER TV</title>
-    <updated>2022-10-15T04:10:08.397Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/tvingofficial/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TVING ─ NAVER TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 15 Oct 2022 05:43:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 술도녀 시즌2🍻 로 돌아왔다! | 대본리딩 비하인드 메이킹]]></title>
+            <link>https://tv.naver.com/v/29934218</link>
+            <guid>https://tv.naver.com/v/29934218</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[6:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_168/DvNGG_1665747113713XC9Wu_JPEG/1665746872564.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 이 눈빛은 반칙이지; 직진밖에 모르는 유죄인간 | 18화 클립]]></title>
+            <link>https://tv.naver.com/v/29931404</link>
+            <guid>https://tv.naver.com/v/29931404</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_112/zKkS8_1665740263686ChhxO_JPEG/1665740239044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 육지 원해요? 네.. 간절히 원해요.. 멀미 호소 데이트 | 18화 클립]]></title>
+            <link>https://tv.naver.com/v/29931375</link>
+            <guid>https://tv.naver.com/v/29931375</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_75/hglb5_1665740219887bt5In_JPEG/1665740195005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] "난 해은 누나랑 계속 할 거야." 노빠꾸 헝거의 직진 | 18화 클립]]></title>
+            <link>https://tv.naver.com/v/29931357</link>
+            <guid>https://tv.naver.com/v/29931357</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[6:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_289/wDmEA_1665740175355YoDmV_JPEG/1665740146070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 둘이 뭐야 뭐야🙊 귓속말을 이렇게 한다고? | 18화 클립]]></title>
+            <link>https://tv.naver.com/v/29931337</link>
+            <guid>https://tv.naver.com/v/29931337</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_76/YKfUc_1665740128841bjYA8_JPEG/5898ba32-4ba3-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 쌍방 아니면 쫑? 뜻밖의 1차임에 혼돈의 카오스 | 18화 클립]]></title>
+            <link>https://tv.naver.com/v/29931286</link>
+            <guid>https://tv.naver.com/v/29931286</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_30/hJiYX_1665739999675KbYiw_JPEG/1665739965989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 너와 함께한 시간들이 내게는 잊을 수 없는 시간이야 | 3화 클립]]></title>
+            <link>https://tv.naver.com/v/29927979</link>
+            <guid>https://tv.naver.com/v/29927979</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_196/AQ9DJ_1665734444705GT5xQ_JPEG/1665734405021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 기억을 다운로드해서 영원히 살 수 있다고? | 3화 클립]]></title>
+            <link>https://tv.naver.com/v/29927907</link>
+            <guid>https://tv.naver.com/v/29927907</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_222/C4Dzl_1665734341707n2iYS_JPEG/1665734306700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 보고도 믿을 수 없는 가상 세계로의 첫 발걸음 | 2화 클립]]></title>
+            <link>https://tv.naver.com/v/29927868</link>
+            <guid>https://tv.naver.com/v/29927868</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_41/TXj3J_1665734464949jSwF1_JPEG/1665734459510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] "메일은 죽은 아내분이 직접 보냈습니다" 세이렌과의 만남 | 2화 클립]]></title>
+            <link>https://tv.naver.com/v/29927828</link>
+            <guid>https://tv.naver.com/v/29927828</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_67/vl1n9_1665734230818laWxp_JPEG/1665734189295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] "날 만나고 싶으면 여기로 와줘" 죽은 이후에게 온 초대장 | 2화 클립]]></title>
+            <link>https://tv.naver.com/v/29927777</link>
+            <guid>https://tv.naver.com/v/29927777</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_259/SqglQ_16657341525186t4Rp_JPEG/1665734109418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 남편인 제가 모르는 게 있다고요? 이후에게 발견된 의문의 물체 | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/29927730</link>
+            <guid>https://tv.naver.com/v/29927730</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_86/qcDZQ_1665734085194RGQj6_JPEG/1665734030672.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘MT] 바쁜 와중에도 서로를 챙기며, 청춘포차는 영업 중! | 8화 예고]]></title>
+            <link>https://tv.naver.com/v/29921535</link>
+            <guid>https://tv.naver.com/v/29921535</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_135/uOxgP_16657257670238vmni_JPEG/1665725712501.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 원하는 사람과 데이트를 합니다❤ 단, 쌍방일 경우에만ㅣ18화 선공개]]></title>
+            <link>https://tv.naver.com/v/29917026</link>
+            <guid>https://tv.naver.com/v/29917026</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[8:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_35/bHL7Y_1665717857661wOUFc_JPEG/1665717739524.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘MT] 괜찮겠어? 난 가만히 앉아있을 줄 모르는 플라잉체언데 | 플라잉체어 모음.zip]]></title>
+            <link>https://tv.naver.com/v/29907185</link>
+            <guid>https://tv.naver.com/v/29907185</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[11:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_130/WHbk1_16656683474857e7eG_JPEG/1665668301314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스트릿맨파이터 두번째 탈락팀 비하인드] 권씨 가문 절대 지켜🔥 양(?)스러워도 선한 YGX]]></title>
+            <link>https://tv.naver.com/v/29885829</link>
+            <guid>https://tv.naver.com/v/29885829</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_215/9iVBt_1665629088335L8fYz_JPEG/1665629072413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 부국제 호평 폭발🔥 신들린 연기, 압도적 몰입감 | 리뷰 예고편]]></title>
+            <link>https://tv.naver.com/v/29870614</link>
+            <guid>https://tv.naver.com/v/29870614</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_168/CAZOq_1665570666887lqWpA_JPEG/1665570619995.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘MT] 예능신은 떠나지 않았다🧙‍ 웃수저들 비하인드 | 안나라수마나라팀 코멘터리]]></title>
+            <link>https://tv.naver.com/v/29860603</link>
+            <guid>https://tv.naver.com/v/29860603</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_81/vXRIM_1665553164862kGXBm_JPEG/1665553145632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 최종 선택을 앞두고 진실게임을 시작합니다ㅣ18화 예고]]></title>
+            <link>https://tv.naver.com/v/29853787</link>
+            <guid>https://tv.naver.com/v/29853787</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_220/9oQX4_1665539421007XntJg_JPEG/1665539372467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [프롬] 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/29853495</link>
+            <guid>https://tv.naver.com/v/29853495</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_119/URq2u_1665538847830nUhSS_JPEG/1665538754965.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 몰입감 최고였던 현장부터 이준익 감독님 눈물 광광 사연까지 전격 공개 (´；ω；`)]]></title>
+            <link>https://tv.naver.com/v/29835168</link>
+            <guid>https://tv.naver.com/v/29835168</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_217/MMiqG_1665476082789XPebP_JPEG/1665476049689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘MT] 스타가 되고 싶으면 연락햇! 경수 만나 완전 물 오른 동연(?)🐟 | 6화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/29760153</link>
+            <guid>https://tv.naver.com/v/29760153</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_168/yYOCB_1665137034938G6jbW_JPEG/1665136903342.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘MT] 본격 룰 파괴💣 텐션 난리난 배우들의 고요 속의 외침 | 6화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/29760104</link>
+            <guid>https://tv.naver.com/v/29760104</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[17:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_118/XwDO1_1665136895266JWilD_JPEG/1665136814243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘MT] 보검 저하 질투를 불러일으킨🔥 세계관 대혼동이란 이런 것..! | 6화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/29760081</link>
+            <guid>https://tv.naver.com/v/29760081</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_1/uJk5c_1665136805876L2h4t_JPEG/1665136632526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 내 장점이 뭔줄 알아 바로 연기력이야~ 리딩만으로도 연기력 폭발ㅣ대본 리딩 영상]]></title>
+            <link>https://tv.naver.com/v/29759960</link>
+            <guid>https://tv.naver.com/v/29759960</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_197/1Zgno_1665136386303AEOf1_JPEG/1665136287703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘MT] 세상에 이런 극강 비주얼이!! 사상 최초 청춘포차 영업 개시🍲🍻 | 7화 예고]]></title>
+            <link>https://tv.naver.com/v/29756728</link>
+            <guid>https://tv.naver.com/v/29756728</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_235/PBmty_1665129758382aIXin_JPEG/1665129703044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 나만 놓으면 끝날 관계인가…? 알 수 없는 희두의 마음 | 17화 클립]]></title>
+            <link>https://tv.naver.com/v/29755526</link>
+            <guid>https://tv.naver.com/v/29755526</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_23/9khph_1665127571516ALnum_JPEG/1665127379546.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 가족만큼 소중한 사이가 된 나언X현규의 아련한 과거ㅣ17화 클립]]></title>
+            <link>https://tv.naver.com/v/29755375</link>
+            <guid>https://tv.naver.com/v/29755375</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_180/AUu16_1665127308444snuJV_JPEG/1665127298051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 오늘도 직진하는 현규와 규민VS태이 사이 나언의 선택 | 17화 클립]]></title>
+            <link>https://tv.naver.com/v/29755341</link>
+            <guid>https://tv.naver.com/v/29755341</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_268/1XqYd_1665127250998gYdNc_JPEG/1665127241165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 우리 현규는요…★ 명예 현규 영업사원 나언| 17화 클립]]></title>
+            <link>https://tv.naver.com/v/29755217</link>
+            <guid>https://tv.naver.com/v/29755217</guid>
+            <pubDate>Sat, 15 Oct 2022 05:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_60/x4OXA_1665126959852gG69N_JPEG/1665126947034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
