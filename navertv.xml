@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/tvingofficial/clips</id>
-    <title>TVING ─ NAVER TV</title>
-    <updated>2022-10-28T11:12:50.911Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/tvingofficial/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TVING ─ NAVER TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 28 Oct 2022 12:28:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] [렛미인] 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/30319874</link>
+            <guid>https://tv.naver.com/v/30319874</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_5/dTEhB_1666948564643fFPVh_JPEG/1666948557135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 진선규X전종서X장률 삼자대면! 건물이 무너져도 멈추지 않는 욕망🔥 | 2화 클립]]></title>
+            <link>https://tv.naver.com/v/30308407</link>
+            <guid>https://tv.naver.com/v/30308407</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_15/GXApj_1666930590838MyAVQ_JPEG/1666930587021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 장률이 진선규를 구한 진짜 이유는 | 2화 클립]]></title>
+            <link>https://tv.naver.com/v/30308380</link>
+            <guid>https://tv.naver.com/v/30308380</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_119/Kjs7L_1666930520567QC9x8_JPEG/1666930496202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 누가 죽어도 안 이상한 이곳, 전종서의 큰그림 | 2화 클립]]></title>
+            <link>https://tv.naver.com/v/30308362</link>
+            <guid>https://tv.naver.com/v/30308362</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_13/RI316_1666930475176U2yw2_JPEG/1666930450682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] "제발 돈 더 올리지 마세요" 장률 콩팥 집착의 시작 | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/30308341</link>
+            <guid>https://tv.naver.com/v/30308341</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_68/mDUHV_1666930444607J8zAz_JPEG/1666930415744.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 진선규의 골반댄스에 정색하는 전종서 | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/30308330</link>
+            <guid>https://tv.naver.com/v/30308330</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_82/l7wGP_1666930410653PsBCT_JPEG/1666930386288.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 싸늘하다..벌써부터 묘한 긴장이 느껴지는 진선규X전종서 첫 만남 | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/30308312</link>
+            <guid>https://tv.naver.com/v/30308312</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_198/JUlFW_1666930379789ej8oy_JPEG/1666930358620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스트릿맨파이터 ON THE STAGE] 콘서트 소개로 이미 심장 박동수 MAX..(둑흔)💕 | 리더즈 영상]]></title>
+            <link>https://tv.naver.com/v/30287517</link>
+            <guid>https://tv.naver.com/v/30287517</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_254/aKAfc_1666864678032Jet87_JPEG/1666864613119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 구경하는 재미가 쏠쏠한 푸드 다큐멘터리 맛집 | 이원일 셰프 추천 영상]]></title>
+            <link>https://tv.naver.com/v/30280619</link>
+            <guid>https://tv.naver.com/v/30280619</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_198/mNE5I_16668539193478ftAm_JPEG/1666853911542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아워게임] 모두가 기다려온 LG트윈스의 2022년 시즌 스토리! 📣 | 티저 예고]]></title>
+            <link>https://tv.naver.com/v/30255243</link>
+            <guid>https://tv.naver.com/v/30255243</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_85/EIKsB_16667783466854EvkG_JPEG/1666778322861.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 이 게임 우리 드라마 같네….끝을 보게 만들어!!🔥 | 몸값 미니게임 플레이 영상]]></title>
+            <link>https://tv.naver.com/v/30245891</link>
+            <guid>https://tv.naver.com/v/30245891</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_33/pZmeR_1666762651179cReaU_JPEG/1666762603070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[환승연애2] 최종선택 D-DAY! X와 NEW 사이 마지막 선택은?ㅣ20화 예고]]></title>
+            <link>https://tv.naver.com/v/30241231</link>
+            <guid>https://tv.naver.com/v/30241231</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_236/hfW32_1666752026168MdeIm_JPEG/1666751995658.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[떴수다] MC 신하균? 스릴러하는 한지민? 욘더 하고 싶은 거 다해욘💛 | EP6. 욘더 편]]></title>
+            <link>https://tv.naver.com/v/30192140</link>
+            <guid>https://tv.naver.com/v/30192140</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_217/oOSg7_1666614963222fF3yJ_JPEG/1666614929466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[떴수다] 누가 봐도 이건...?! 엉망진창 신하균 VS 한지민 기억력 테스트 | EP6. 욘더 편]]></title>
+            <link>https://tv.naver.com/v/30192105</link>
+            <guid>https://tv.naver.com/v/30192105</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_207/taAqr_16666149043803Ecgt_JPEG/1666614851604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[떴수다] 아니 이걸로도 연기를 한다고? 점막마저 열일해버리는 하균신😱 | EP6. 욘더 편]]></title>
+            <link>https://tv.naver.com/v/30191989</link>
+            <guid>https://tv.naver.com/v/30191989</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_49/dpaCS_1666614719054dTeDA_JPEG/1666614675266.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[떴수다] 인터넷 쇼핑하는 신하균? 왜 컴퓨터 잘한다는데 괜히 눈물나; | EP6. 욘더 편]]></title>
+            <link>https://tv.naver.com/v/30191943</link>
+            <guid>https://tv.naver.com/v/30191943</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_89/Uzaqv_1666614638194NUUbX_JPEG/1666614552156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[떴수다] 아쉬운 부분도 있고 보람찬 부분도 있는(?) 신하균X한지민 밸런스게임 | EP6. 욘더]]></title>
+            <link>https://tv.naver.com/v/30191858</link>
+            <guid>https://tv.naver.com/v/30191858</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_81/ynLjG_1666614469483HyXrI_JPEG/1666614309135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 서로의 몸값 흥정하던 주영x형수 불신 가득한 공조? | 선공개]]></title>
+            <link>https://tv.naver.com/v/30178849</link>
+            <guid>https://tv.naver.com/v/30178849</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_202/Cdf77_1666595243172wgQVv_JPEG/1666595236773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 극한 상황에서도 얼굴이 제일 소중한 진선규 | 선공개 2]]></title>
+            <link>https://tv.naver.com/v/30178827</link>
+            <guid>https://tv.naver.com/v/30178827</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_3/v51Ap_1666595267767eihGF_JPEG/1666595255420.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 이런 거까지 비하인드로?! 오히려 좋아~ 꿀욘더 등극🍯 | 1~3화 비하인드 메이킹]]></title>
+            <link>https://tv.naver.com/v/30173540</link>
+            <guid>https://tv.naver.com/v/30173540</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[8:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_235/Pe1fU_1666586920420BMukx_JPEG/1666586803538.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[떴수다] EP.6 '욘더' 편│신하균X한지민 모두 욘더해요🎁 (Full ver)]]></title>
+            <link>https://tv.naver.com/v/30132135</link>
+            <guid>https://tv.naver.com/v/30132135</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[26:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221022_167/N9hzC_1666394439103XXadd_JPEG/1666394266699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 한입에 와앙- 더 맛있고 아름다운 이 세상 쌈들의 세계 | 2화 예고]]></title>
+            <link>https://tv.naver.com/v/30125021</link>
+            <guid>https://tv.naver.com/v/30125021</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_140/4NmYe_1666351576444jXRA3_JPEG/1666351365195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘MT] 구르미, 이태원, 안나라 외전 아니냐구.. 반가운 게스트들의 등장! | 8화 하이라이]]></title>
+            <link>https://tv.naver.com/v/30124665</link>
+            <guid>https://tv.naver.com/v/30124665</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[6:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_238/nM18n_1666350638070j4c19_JPEG/1666350612606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘MT] 이제 호흡도 척척 맞는 치킨 왕자 창욱🤴X치킨 공주 성은👸 | 8화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/30124645</link>
+            <guid>https://tv.naver.com/v/30124645</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_27/WnStM_1666350564818JVLtn_JPEG/1666350539011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘MT] "실수해도 괜찮아" 일보다 직원이 우선인 참된 사장님 서준 | 8화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/30124632</link>
+            <guid>https://tv.naver.com/v/30124632</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_16/ZJOih_1666350534469CqGld_JPEG/1666350496999.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘MT] "걱정하지 말라니까요!" 추가 주문에 걱정이 사르르 녹은 보검 | 8화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/30124630</link>
+            <guid>https://tv.naver.com/v/30124630</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_189/ku9rC_1666350524398ndIWn_JPEG/1666350444169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 한중일 같은 만두 다른 느낌🥟 만두는 어떻게 전파됐을까? | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/30121473</link>
+            <guid>https://tv.naver.com/v/30121473</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[5:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_146/O5gxa_1666341948369AvJLy_PNG/1666341711563.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 음식에 진심인 이욱정PD 픽📍 만두장인의 침샘자극 만두🥟 | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/30121467</link>
+            <guid>https://tv.naver.com/v/30121467</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[9:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_198/EzmMa_16663419396686Or4Q_PNG/1666341788807.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 아빠왔어 지호야, 신하균과 아이의 첫 눈맞춤 | 5화 클립]]></title>
+            <link>https://tv.naver.com/v/30120685</link>
+            <guid>https://tv.naver.com/v/30120685</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[8:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_280/sHXHs_1666340472008XoUCY_JPEG/1666340439345.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 기억을 잊을까 두려운 신하균과 안심시키는 한지민 | 4화 클립]]></title>
+            <link>https://tv.naver.com/v/30120649</link>
+            <guid>https://tv.naver.com/v/30120649</guid>
+            <pubDate>Fri, 28 Oct 2022 12:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[6:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_234/ftlRL_1666340420025wHlzm_JPEG/1666340395206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
