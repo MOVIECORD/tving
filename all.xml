@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MOVIECORD.github.io/tving/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-11-09T12:29:02.043Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 09 Nov 2022 13:41:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] 우정과 사랑, 사랑과 우정😍💔😡 당신의 선택은? | 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30593115</link>
+            <guid>https://tv.naver.com/v/30593115</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_65/RJKbh_166790239458428G9L_JPEG/1667902350299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 라인업] 11월 TVING NOW💙 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30591259</link>
+            <guid>https://tv.naver.com/v/30591259</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_292/AvRcd_1667898451844enQMc_JPEG/1667898392437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 빵터졌던 애드립부터 촬영썰까지! 시원시원하게 풀어드립니다 | 코멘터리 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30556170</link>
+            <guid>https://tv.naver.com/v/30556170</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[15:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_116/KnT1u_1667806813917s0zqy_JPEG/1667806760706.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 이번엔 발리다! 더 뜨거워진 캐처들의 등장❤💰 | 메인 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30544517</link>
+            <guid>https://tv.naver.com/v/30544517</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_12/pONJb_1667785386692SMOTQ_JPEG/1667785219201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [트랜스포머: 어스스파크] 공식 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30494240</link>
+            <guid>https://tv.naver.com/v/30494240</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_197/A6qww_1667549174145kxImY_JPEG/1667548916524.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 동글납작한 매력으로 전세계를 매혹시킨 피자🍕 | 4화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30492926</link>
+            <guid>https://tv.naver.com/v/30492926</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_278/ZWSHt_1667547012142l9gKB_JPEG/1667546984464.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] SNS에 올리기만 해도 완판🎉 줄 서서 먹는 타코 트럭🚛 | 3화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30492425</link>
+            <guid>https://tv.naver.com/v/30492425</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_53/NXiP0_1667546208461IUIYF_JPEG/1667546155035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 멕시코가 낳은 타코🌮 부리토와 다른 음식인 거 아는 사람? | 3화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30492418</link>
+            <guid>https://tv.naver.com/v/30492418</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_183/t6PvK_1667546197539Ie69y_JPEG/1667546076772.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 방에서 잔뜩 쇼핑(?)하고 나온 진선규, 좀비 장률 만나고 줄행랑? | 4화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30484083</link>
+            <guid>https://tv.naver.com/v/30484083</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_298/5Ef05_1667530510079k1DfP_JPEG/1667530496449.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] "책임져요" 콩팥 하나밖에 안 남은 장률과 그렇게 될 예정인 진선규 | 4화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30484063</link>
+            <guid>https://tv.naver.com/v/30484063</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_66/EJbxn_1667530477947Jg7Wb_JPEG/1667530468468.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 드디어 사장방 입성한 진선규X전종서, 광기 끝판왕 5자 대면! | 5화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30484030</link>
+            <guid>https://tv.naver.com/v/30484030</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_103/kKhYw_1667530415279ifjbc_JPEG/1667530400302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 진선규의 돌아온 골반춤, 준비성 철저한 노빠꾸 전종서 | 5화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30484018</link>
+            <guid>https://tv.naver.com/v/30484018</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_85/uN1gG_16675303926693Wods_JPEG/1667530371405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 🔥역대급 레전드 또드의 귀환🔥 | 티저 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30464649</link>
+            <guid>https://tv.naver.com/v/30464649</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_39/eLYTB_1667463940880pL6Nx_PNG/1667463817328.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] "더 재밌어요" 이욱정 PD가 말하는 푸클의 매력😍 | 이욱정 PD 스페셜 Q&A (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30458803</link>
+            <guid>https://tv.naver.com/v/30458803</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_37/URdsj_1667453182838a7iJ6_JPEG/1667453163833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시선ZIP] 하균神이 눈 뜨자마자 보는 것은 과연 무엇?👀 | 시선ZIP 인터뷰 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30453395</link>
+            <guid>https://tv.naver.com/v/30453395</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[6:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_28/VXlmO_1667443582150Uq05C_JPEG/1667443533286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 토르티야로 모든 것을 감싸는 포용의 음식 타코🌮| 3화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30437644</link>
+            <guid>https://tv.naver.com/v/30437644</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221102_120/U81Ti_1667382838945PQ0su_JPEG/1667382825742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 저만 아쉬운 거 아니죠?😭 아쉬움 뚝뚝 흘러 넘치는 마지막 촬영 | 크랭크업 인터 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30434560</link>
+            <guid>https://tv.naver.com/v/30434560</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221102_158/KWXYr_1667376811983qSYid_JPEG/1667376714990.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 신하균X한지민 INFP즈의 정신없는 티격태격 빙고게임 🎮 | 러빙터뷰 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30429438</link>
+            <guid>https://tv.naver.com/v/30429438</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221102_213/kfc7b_16673699777139PKob_JPEG/1667369946351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 본성이 드러난 진선규X전종서X장률, 그리고 끝을 향해 달려가는 광기 | 4-6화 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30399629</link>
+            <guid>https://tv.naver.com/v/30399629</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221101_147/CS1ym_1667282767830DnFlJ_JPEG/1667282727782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 신하균X한지민 쀼 저만 아쉬운 거 아니잖아욘? 달달했던 현장 | 4~6화 비하인드 메이 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30323580</link>
+            <guid>https://tv.naver.com/v/30323580</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[6:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_121/xryqi_16669575066865yCuk_JPEG/1666957480774.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [렛미인] 티저 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30319874</link>
+            <guid>https://tv.naver.com/v/30319874</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_5/dTEhB_1666948564643fFPVh_JPEG/1666948557135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [렛미인] 공식 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30319637</link>
+            <guid>https://tv.naver.com/v/30319637</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_219/JEgHB_1666948136541j6z9M_JPEG/1666948127670.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 진선규X전종서X장률 삼자대면! 건물이 무너져도 멈추지 않는 욕망🔥 | 2화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30308407</link>
+            <guid>https://tv.naver.com/v/30308407</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_287/CygcX_1667193862470EtK5N_JPEG/1667193854244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 장률이 진선규를 구한 진짜 이유는 | 2화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30308380</link>
+            <guid>https://tv.naver.com/v/30308380</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_81/fZihg_1667193899129tcNS5_JPEG/1667193896841.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 누가 죽어도 안 이상한 이곳, 전종서의 큰그림 | 2화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30308362</link>
+            <guid>https://tv.naver.com/v/30308362</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_217/3aX0R_1667193915712Q4Liy_JPEG/1667193913336.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] "제발 돈 더 올리지 마세요" 장률 콩팥 집착의 시작 | 1화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30308341</link>
+            <guid>https://tv.naver.com/v/30308341</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_266/ZTtdz_1667193933969nySkO_JPEG/1667193926875.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 진선규의 골반댄스에 정색하는 전종서 | 1화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30308330</link>
+            <guid>https://tv.naver.com/v/30308330</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_197/OZCHT_1667193950967K1FOO_JPEG/1667193944691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 싸늘하다..벌써부터 묘한 긴장이 느껴지는 진선규X전종서 첫 만남 | 1화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30308312</link>
+            <guid>https://tv.naver.com/v/30308312</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_198/KMjOV_1667193965924jD2dt_JPEG/1667193960257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 이건 꼭 먹어야지! 베트남에서 꼭 먹어야 할 '쌈' 알려드림 | 2화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30306113</link>
+            <guid>https://tv.naver.com/v/30306113</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_193/JIPC0_1666925992719jrdGy_PNG/1666925909861.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 천으로 싸인 프랑스의 랜드마크 개선문과 쌈요리의 공통점 | 2화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30306077</link>
+            <guid>https://tv.naver.com/v/30306077</guid>
+            <pubDate>Wed, 09 Nov 2022 13:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_278/vcU2s_1666925922859Gc3jg_JPEG/1666925892831.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
