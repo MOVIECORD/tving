@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/tvingofficial/clips</id>
-    <title>TVING ─ NAVER TV</title>
-    <updated>2022-11-16T16:25:29.190Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/tvingofficial/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TVING ─ NAVER TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:22:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 설레는 첫만남과 함께 찾아온 정체 선택의 시간..😨❤ㅣ1화 선공개]]></title>
+            <link>https://tv.naver.com/v/30794854</link>
+            <guid>https://tv.naver.com/v/30794854</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[21:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_61/vTjIr_1668513609492YfG9j_JPEG/1668513571986.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 나는 자연인이다(?) '도시'를 떠난 술꾼'도시'여자들⛰🔥 | 메인 예고]]></title>
+            <link>https://tv.naver.com/v/30790346</link>
+            <guid>https://tv.naver.com/v/30790346</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_180/8nV4W_1668503751240JxTkV_JPEG/1668503621730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 미스터리한 초대장과 함께 새로운 룰의 등장?!🎲ㅣ1화 예고]]></title>
+            <link>https://tv.naver.com/v/30777839</link>
+            <guid>https://tv.naver.com/v/30777839</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_265/xuJhM_1668480754595wujPc_JPEG/1668480641123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#몸값 본격 덕질터뷰 | 한번 보면 사랑할 수밖에 없는 유죄인간 장률💕]]></title>
+            <link>https://tv.naver.com/v/30698096</link>
+            <guid>https://tv.naver.com/v/30698096</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_103/safNO_1668171158551w1nRr_JPEG/1668171155748.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] "여자친구가 친한 형이랑.." 성현이 마음을 열지 못했던 건?ㅣ6화 클립]]></title>
+            <link>https://tv.naver.com/v/30697048</link>
+            <guid>https://tv.naver.com/v/30697048</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_251/6ugkr_16681681410508shFI_JPEG/1668168108285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] 데이트 결정 속 오가는 감정들😭 혼돈의 카오스가 온 재이 | 5화 클립]]></title>
+            <link>https://tv.naver.com/v/30697033</link>
+            <guid>https://tv.naver.com/v/30697033</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[11:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_253/2drWB_1668168099130pyhzG_JPEG/1668168044346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] 흔들리는 동공, 신경 쓰는 마음들😨 대혼돈 속 속마음게임 | 2화 클립]]></title>
+            <link>https://tv.naver.com/v/30696881</link>
+            <guid>https://tv.naver.com/v/30696881</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_3/9xrUV_1668167776733bghb0_JPEG/1668167699584.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] 사랑이냐 우정이냐 그것이 문제로다! 6년차 찐친의 선택은?ㅣ4화 클립]]></title>
+            <link>https://tv.naver.com/v/30696786</link>
+            <guid>https://tv.naver.com/v/30696786</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[7:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_67/JK47R_1668167536976Y5i84_JPEG/1668167502865.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] 고조되는 남자들의 언쟁에 풀어보려는 여자들 | 4화 클립]]></title>
+            <link>https://tv.naver.com/v/30696758</link>
+            <guid>https://tv.naver.com/v/30696758</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[9:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_151/PXsFm_166816749671315mpV_JPEG/1668167454800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] 내 뇌는 온통 너로 가득 차 있어😍 답정너 시크릿 부스ㅣ3화 클립]]></title>
+            <link>https://tv.naver.com/v/30696730</link>
+            <guid>https://tv.naver.com/v/30696730</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[6:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_110/43sq8_1668167446255GGvBF_JPEG/1668167399667.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] 두 남자의 시선이 주어지지 않는 더블데이트, 미묘한 관계들 | 3화 클립]]></title>
+            <link>https://tv.naver.com/v/30696703</link>
+            <guid>https://tv.naver.com/v/30696703</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[10:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_300/2s7d9_1668167372207zAH7r_JPEG/1668167326954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] "왜 이러지 우리?" 혜정이 매칭한 첫 데이트 매칭 결과는? | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/30696637</link>
+            <guid>https://tv.naver.com/v/30696637</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[11:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_263/2N5ZT_1668167223072MgQcu_JPEG/1668167195218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] 첫 데이트 후 세 남자의 계속되는 눈치싸움 | 2화 클립]]></title>
+            <link>https://tv.naver.com/v/30696577</link>
+            <guid>https://tv.naver.com/v/30696577</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_193/67bPA_1668167079027mLdKE_JPEG/1668167051860.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] 돌직구 성현과 재훈의 비타민 전략 중, 재이가 한 선택은? | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/30696558</link>
+            <guid>https://tv.naver.com/v/30696558</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[8:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_79/ybyyA_1668167024260TEsqT_JPEG/1668166989652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 화려한 맛💫 피자장인이 한자리에 모인 피자 월드컵의 승자는?! | 5화 예]]></title>
+            <link>https://tv.naver.com/v/30695143</link>
+            <guid>https://tv.naver.com/v/30695143</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_20/jxzUA_16681637398304MoBu_JPEG/1668163686778.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 나폴리 vs 아르헨티나 vs 뉴욕 피자 이 중에 취향 저격은?🍕 | 4화 클립]]></title>
+            <link>https://tv.naver.com/v/30692429</link>
+            <guid>https://tv.naver.com/v/30692429</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_23/AP29H_1668157452067AN8Jj_JPEG/1668157335135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 음식 접시에서 빵으로 변신?! 파타고니아 피자로 이해 완료 | 4화 클립]]></title>
+            <link>https://tv.naver.com/v/30692420</link>
+            <guid>https://tv.naver.com/v/30692420</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[6:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_20/fLGuC_1668157426494fJjeC_JPEG/1668157330237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#몸값 본격 덕질터뷰 | 기부니가 조은 전종서는 인터뷰도 재밌주영💕]]></title>
+            <link>https://tv.naver.com/v/30691427</link>
+            <guid>https://tv.naver.com/v/30691427</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_286/Y7Z6y_1668155531868DY5Xd_JPEG/1668155527267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보물찾기] 동심파괴! 5억을 향한 피도 눈물도 없는 어른들의 보물 쟁탈전 | 1분 하이라이트]]></title>
+            <link>https://tv.naver.com/v/30662826</link>
+            <guid>https://tv.naver.com/v/30662826</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_197/aaMZr_16680742466401jIoD_JPEG/1668074096956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#몸값 본격 덕질터뷰 | 배우 진선규의 TMI와 버킷리스트💕]]></title>
+            <link>https://tv.naver.com/v/30656903</link>
+            <guid>https://tv.naver.com/v/30656903</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_99/8Frvq_1668065198803jRAuU_JPEG/1668065197029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[욘더] 이준익 감독님 센스에 빵 터진 배우즈 신하균X한지민X정진영😄 | 코멘터리 영상]]></title>
+            <link>https://tv.naver.com/v/30644156</link>
+            <guid>https://tv.naver.com/v/30644156</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_226/6ll6j_1668045697714T5XUY_JPEG/1668045644559.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보물찾기] 돈의, 돈에 의한, 돈을 위한 치열한 생존게임 | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/30628315</link>
+            <guid>https://tv.naver.com/v/30628315</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221109_201/lMzeI_1667993773827obi6b_JPEG/1667993742830.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[각자의 본능대로2] 우정과 사랑, 사랑과 우정😍💔😡 당신의 선택은? | 예고]]></title>
+            <link>https://tv.naver.com/v/30593115</link>
+            <guid>https://tv.naver.com/v/30593115</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_65/RJKbh_166790239458428G9L_JPEG/1667902350299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 라인업] 11월 TVING NOW💙]]></title>
+            <link>https://tv.naver.com/v/30591259</link>
+            <guid>https://tv.naver.com/v/30591259</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_292/AvRcd_1667898451844enQMc_JPEG/1667898392437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몸값] 빵터졌던 애드립부터 촬영썰까지! 시원시원하게 풀어드립니다 | 코멘터리]]></title>
+            <link>https://tv.naver.com/v/30556170</link>
+            <guid>https://tv.naver.com/v/30556170</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[15:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_116/KnT1u_1667806813917s0zqy_JPEG/1667806760706.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 이번엔 발리다! 더 뜨거워진 캐처들의 등장❤💰 | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/30544517</link>
+            <guid>https://tv.naver.com/v/30544517</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_12/pONJb_1667785386692SMOTQ_JPEG/1667785219201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [트랜스포머: 어스스파크] 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/30494240</link>
+            <guid>https://tv.naver.com/v/30494240</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_197/A6qww_1667549174145kxImY_JPEG/1667548916524.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 동글납작한 매력으로 전세계를 매혹시킨 피자🍕 | 4화 예고]]></title>
+            <link>https://tv.naver.com/v/30492926</link>
+            <guid>https://tv.naver.com/v/30492926</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_278/ZWSHt_1667547012142l9gKB_JPEG/1667546984464.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] SNS에 올리기만 해도 완판🎉 줄 서서 먹는 타코 트럭🚛 | 3화 클립]]></title>
+            <link>https://tv.naver.com/v/30492425</link>
+            <guid>https://tv.naver.com/v/30492425</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_53/NXiP0_1667546208461IUIYF_JPEG/1667546155035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 멕시코가 낳은 타코🌮 부리토와 다른 음식인 거 아는 사람? | 3화 클립]]></title>
+            <link>https://tv.naver.com/v/30492418</link>
+            <guid>https://tv.naver.com/v/30492418</guid>
+            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_183/t6PvK_1667546197539Ie69y_JPEG/1667546076772.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
