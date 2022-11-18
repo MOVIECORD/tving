@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 05:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 06:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] <아메리칸 지골로> 공식 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30873722</link>
+            <guid>https://tv.naver.com/v/30873722</guid>
+            <pubDate>Fri, 18 Nov 2022 06:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_35/sNoO9_1668740154092Yoo5d_JPEG/1668738054283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 발리] 설레는 첫만남과 함께 찾아온 정체 선택의 시간..😨❤ㅣ1화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/30794854</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
             <content:encoded><![CDATA[5:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221104_53/NXiP0_1667546208461IUIYF_JPEG/1667546155035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[푸드 크로니클] 멕시코가 낳은 타코🌮 부리토와 다른 음식인 거 아는 사람? | 3화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30492418</link>
-            <guid>https://tv.naver.com/v/30492418</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[5:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_183/t6PvK_1667546197539Ie69y_JPEG/1667546076772.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
