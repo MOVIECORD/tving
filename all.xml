@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 04:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 05:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sat, 19 Nov 2022 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[2:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_37/aYXKV_1668768490068YHO11_JPEG/1668768302007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 나라별 이름도 맛도 제각각! 나라별 고유의 팬케이크는?🥞 | 6화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30882080</link>
+            <guid>https://tv.naver.com/v/30882080</guid>
+            <pubDate>Mon, 21 Nov 2022 05:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_51/g6xMA_1668756267543wQ1rk_JPEG/1668755873554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[푸드 크로니클] 이게 가능? 도우를 늘리고 던지고 월드 피자 챔피언십 엿보기 | 5화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
             <content:encoded><![CDATA[4:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_99/8Frvq_1668065198803jRAuU_JPEG/1668065197029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[욘더] 이준익 감독님 센스에 빵 터진 배우즈 신하균X한지민X정진영😄 | 코멘터리 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30644156</link>
-            <guid>https://tv.naver.com/v/30644156</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_226/6ll6j_1668045697714T5XUY_JPEG/1668045644559.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
