@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 03:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 04:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 짜릿하고 새로워진 커플화보 촬영! 3배로 설렘...😍ㅣ2화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30970322</link>
+            <guid>https://tv.naver.com/v/30970322</guid>
+            <pubDate>Tue, 22 Nov 2022 04:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_187/K1IpI_1669079859439eAr21_JPEG/1669079732173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 발리] "아우 왜 이래애~" 과몰입 LV.100 달성한 MC들😲ㅣ왓처 과몰입 모음ZIP (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/30939409</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221111_286/Y7Z6y_1668155531868DY5Xd_JPEG/1668155527267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보물찾기] 동심파괴! 5억을 향한 피도 눈물도 없는 어른들의 보물 쟁탈전 | 1분 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30662826</link>
-            <guid>https://tv.naver.com/v/30662826</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_197/aaMZr_16680742466401jIoD_JPEG/1668074096956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
