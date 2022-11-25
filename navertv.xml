@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 07:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 08:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[보물찾기] “전 자본주의라서 뒷통수 치거나 죽여야죠” 의리보다 5억💰 | 1화 예고]]></title>
+            <link>https://tv.naver.com/v/31083121</link>
+            <guid>https://tv.naver.com/v/31083121</guid>
+            <pubDate>Fri, 25 Nov 2022 08:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_166/hXdH2_1669361550046fPxWV_JPEG/1669361513377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 발리] ※설렘주의보※ 보는 사람이 더 설레는 화보 촬영💑ㅣ2화 선공개]]></title>
             <link>https://tv.naver.com/v/31056915</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
             <content:encoded><![CDATA[5:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221111_193/67bPA_1668167079027mLdKE_JPEG/1668167051860.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[각자의 본능대로2] 돌직구 성현과 재훈의 비타민 전략 중, 재이가 한 선택은? | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/30696558</link>
-            <guid>https://tv.naver.com/v/30696558</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[8:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_79/ybyyA_1668167024260TEsqT_JPEG/1668166989652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
