@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 00:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 02:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] ※설렘주의보※ 보는 사람이 더 설레는 화보 촬영💑ㅣ2화 선공개]]></title>
+            <link>https://tv.naver.com/v/31056915</link>
+            <guid>https://tv.naver.com/v/31056915</guid>
+            <pubDate>Fri, 25 Nov 2022 02:29:16 GMT</pubDate>
+            <content:encoded><![CDATA[5:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_46/VEFtL_1669279134795Bn3f3_JPEG/1669278966207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들2] 이선빈X한선화X정은지X최시원과 술도녀 복습하기🔥 | 본격 해장 토크]]></title>
             <link>https://tv.naver.com/v/31023512</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
             <content:encoded><![CDATA[8:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221111_79/ybyyA_1668167024260TEsqT_JPEG/1668166989652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[푸드 크로니클] 화려한 맛💫 피자장인이 한자리에 모인 피자 월드컵의 승자는?! | 5화 예]]></title>
-            <link>https://tv.naver.com/v/30695143</link>
-            <guid>https://tv.naver.com/v/30695143</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_20/jxzUA_16681637398304MoBu_JPEG/1668163686778.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
