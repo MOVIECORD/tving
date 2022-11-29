@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 02:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 03:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 캐처들의 속마음 토크 그리고 NEW 캐처의 등장🙊ㅣ3화 예고]]></title>
+            <link>https://tv.naver.com/v/31165519</link>
+            <guid>https://tv.naver.com/v/31165519</guid>
+            <pubDate>Tue, 29 Nov 2022 03:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_238/SeZXk_1669684510155XM7T9_JPEG/1669684446929.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[보물찾기] “전 자본주의라서 뒷통수 치거나 죽여야죠” 의리보다 5억💰 | 1화 예고]]></title>
             <link>https://tv.naver.com/v/31140639</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221115_265/xuJhM_1668480754595wujPc_JPEG/1668480641123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#몸값 본격 덕질터뷰 | 한번 보면 사랑할 수밖에 없는 유죄인간 장률💕]]></title>
-            <link>https://tv.naver.com/v/30698096</link>
-            <guid>https://tv.naver.com/v/30698096</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_103/safNO_1668171158551w1nRr_JPEG/1668171155748.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
