@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 00:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 02:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 잔망 케미 가득 포스터 촬영 현장📸 | 포스터 비하인드]]></title>
+            <link>https://tv.naver.com/v/31255431</link>
+            <guid>https://tv.naver.com/v/31255431</guid>
+            <pubDate>Fri, 02 Dec 2022 02:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[7:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_60/TjAmi_1669888852118ai7sr_JPEG/1669888662267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 발리] 허세가.. 아니네? 자꾸만 수로가 신경쓰이는 승연 | 3화 선공개]]></title>
             <link>https://tv.naver.com/v/31254297</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 06:15:45 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_35/sNoO9_1668740154092Yoo5d_JPEG/1668738054283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 설레는 첫만남과 함께 찾아온 정체 선택의 시간..😨❤ㅣ1화 선공개]]></title>
-            <link>https://tv.naver.com/v/30794854</link>
-            <guid>https://tv.naver.com/v/30794854</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[21:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_61/vTjIr_1668513609492YfG9j_JPEG/1668513571986.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
