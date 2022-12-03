@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 08:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 09:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_14/SM8bs_1669986784547Plg4p_JPEG/1669986776707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[푸드 크로니클] 샌드위치를 향한 열정🔥 맛잘알들의 샌드위치 성공기🥪 | 7화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31290017</link>
+            <guid>https://tv.naver.com/v/31290017</guid>
+            <pubDate>Sat, 03 Dec 2022 09:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[8:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_247/NE0WI_1669984635291dygzy_JPEG/1669984466890.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[푸드 크로니클] 쿠반 샌드위치를 눌러먹게된 이유가 시가때문이라고?| 7화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31289864</link>
+            <guid>https://tv.naver.com/v/31289864</guid>
+            <pubDate>Sat, 03 Dec 2022 09:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_143/Byyby_1669984167676ijeAz_JPEG/1669984126972.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[보물찾기] 5억을 차지하는 우승자는? 참가자 정보와 능력치 알려줌 | 참가자 라인업 영상 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31282001</link>
             <guid>https://tv.naver.com/v/31282001</guid>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 26 Nov 2022 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_130/EN90d_1669373285208iGa8y_JPEG/1669373251436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 자자~ 다들 탑승하세요~ 정현X효진 코인 탑승이요❤ㅣ2화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31089692</link>
-            <guid>https://tv.naver.com/v/31089692</guid>
-            <pubDate>Sat, 26 Nov 2022 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[5:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_17/a6wvE_1669373329128RNpsJ_JPEG/1669373299378.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 승연X용호X유정의 떨리는 화보 촬영과 우재의 디렉팅?ㅣ2화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31089638</link>
-            <guid>https://tv.naver.com/v/31089638</guid>
-            <pubDate>Sat, 26 Nov 2022 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[6:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_43/513zF_166937323903341vpe_JPEG/1669373087805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
