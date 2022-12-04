@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 22:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 23:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_65/JpBhs_16699661131574jwFi_JPEG/1669966059920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[티빙 라인업] 12월 TVING NOW]]></title>
+            <link>https://tv.naver.com/v/31269669</link>
+            <guid>https://tv.naver.com/v/31269669</guid>
+            <pubDate>Sun, 04 Dec 2022 23:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_194/U97L9_1669943171823XMlju_JPEG/1669943119697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[술꾼도시여자들2] 잔망 케미 가득 포스터 촬영 현장📸 | 포스터 비하인드]]></title>
             <link>https://tv.naver.com/v/31255431</link>
             <guid>https://tv.naver.com/v/31255431</guid>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Nov 2022 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[10:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_213/s24nx_1669373372014xxiSl_JPEG/1669373343578.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 호감 표출과 함께하는 화보 파트너 지목 타임💞ㅣ2화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/31089669</link>
-            <guid>https://tv.naver.com/v/31089669</guid>
-            <pubDate>Sat, 26 Nov 2022 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_130/EN90d_1669373285208iGa8y_JPEG/1669373251436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
