@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 00:52:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] <아이칼리 (2021)> 공식 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31336257</link>
+            <guid>https://tv.naver.com/v/31336257</guid>
+            <pubDate>Mon, 05 Dec 2022 02:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_156/D8JcB_16702056058753K3gB_JPEG/1670205485094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 발리] "이건 고백이다!" 출연진보다 도파민 폭발한 스튜디오 | 3화 하이라이트 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31298332</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Nov 2022 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_108/yQQyj_1669373443221QOiwk_JPEG/1669373383906.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 태은X수로 화보 데이트 거기에 직진을 곁들인..😍ㅣ2화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31089717</link>
-            <guid>https://tv.naver.com/v/31089717</guid>
-            <pubDate>Sat, 26 Nov 2022 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[10:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_213/s24nx_1669373372014xxiSl_JPEG/1669373343578.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
