@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 21:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 22:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 05 Dec 2022 08:14:31 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_280/BfZz9_1670225324826wv9tP_PNG/1670225204636.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] <털사 킹> 공식 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31337646</link>
+            <guid>https://tv.naver.com/v/31337646</guid>
+            <pubDate>Mon, 05 Dec 2022 22:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_289/5TMGa_16702085125002vuwP_JPEG/1670208440877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파라마운트+] <아이칼리 (2021)> 공식 예고편 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Nov 2022 05:11:38 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221128_250/3P71i_1669603824731JI1td_JPEG/1669603817563.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 궁금증이 풀리는 캐처들의 자기소개 타임🧐ㅣ2화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31089784</link>
-            <guid>https://tv.naver.com/v/31089784</guid>
-            <pubDate>Sat, 26 Nov 2022 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[15:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_43/FS6R6_1669373482806bK3gg_JPEG/1669373453138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
