@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 04:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 05:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[보물찾기] 돈가방을 차지하는 아주 간단한 세 가지 방법 | 튜토리얼 영상]]></title>
+            <link>https://tv.naver.com/v/31372891</link>
+            <guid>https://tv.naver.com/v/31372891</guid>
+            <pubDate>Tue, 06 Dec 2022 05:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_271/nwGq0_1670296576476DKJYK_JPEG/1670296506801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들2] 🔊속보🔊 술도녀 술 끊다? #술끊도시여자들 | 하이라이트]]></title>
             <link>https://tv.naver.com/v/31347183</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Nov 2022 05:11:38 GMT</pubDate>
             <content:encoded><![CDATA[1:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221128_122/qOLzv_166961190984720wlE_JPEG/1669611875975.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[푸드 크로니클] 단순하지만 든든해👍 세계인의 소울푸드 #샌드위치🥪 | 7화 예고]]></title>
-            <link>https://tv.naver.com/v/31136997</link>
-            <guid>https://tv.naver.com/v/31136997</guid>
-            <pubDate>Mon, 28 Nov 2022 05:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221128_250/3P71i_1669603824731JI1td_JPEG/1669603817563.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
