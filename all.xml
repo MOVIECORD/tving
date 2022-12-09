@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 11:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 12:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 자연 치유 성공 후 속세(?)로 돌아온 술꾼들의 현생 적응기  | 3화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31474763</link>
+            <guid>https://tv.naver.com/v/31474763</guid>
+            <pubDate>Fri, 09 Dec 2022 12:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_162/e8OyV_16705654070616wMn5_JPEG/1670565209481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[보물찾기] 먼저 찾지 못하면 빼앗긴다. 돈가방을 차지할 팀은?💵ㅣ2화 예고편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31415810</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Dec 2022 07:11:18 GMT</pubDate>
             <content:encoded><![CDATA[1:19:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_286/rsFkp_1669801131170jqAgg_JPEG/1669801122124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 캐처들의 속마음 토크 그리고 NEW 캐처의 등장🙊ㅣ3화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31165519</link>
-            <guid>https://tv.naver.com/v/31165519</guid>
-            <pubDate>Tue, 29 Nov 2022 03:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_238/SeZXk_1669684510155XM7T9_JPEG/1669684446929.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
