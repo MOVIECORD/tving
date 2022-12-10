@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 23:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 00:49:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 이선빈X한선화X정은지 날다?🪂 변함없는 케미의 술꾼들 | 1화 메이킹]]></title>
+            <link>https://tv.naver.com/v/31483271</link>
+            <guid>https://tv.naver.com/v/31483271</guid>
+            <pubDate>Sat, 10 Dec 2022 00:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[16:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_71/Fzpdj_1670579271912TGztP_JPEG/1670579085123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들2] 자연 치유 성공 후 속세(?)로 돌아온 술꾼들의 현생 적응기  | 3화 예고]]></title>
             <link>https://tv.naver.com/v/31474763</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Dec 2022 10:13:26 GMT</pubDate>
             <content:encoded><![CDATA[9:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221201_266/bvLlW_1669886470915KkoG2_JPEG/1669886407013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[푸드 크로니클] 7화 무료공개 | 인생을 품은 겹 샌드위치🥪]]></title>
-            <link>https://tv.naver.com/v/31219534</link>
-            <guid>https://tv.naver.com/v/31219534</guid>
-            <pubDate>Thu, 01 Dec 2022 07:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:19:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_286/rsFkp_1669801131170jqAgg_JPEG/1669801122124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
