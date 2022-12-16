@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 11:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 12:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 위태로운 지구와, 우리들의 '엄마' | 5화 예고]]></title>
+            <link>https://tv.naver.com/v/31670996</link>
+            <guid>https://tv.naver.com/v/31670996</guid>
+            <pubDate>Fri, 16 Dec 2022 12:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_235/naA5i_1671189395374nJ455_JPEG/1671188737392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[보물찾기] 팀워크 붕괴 각? 기여도 최하 팀원을 뽑으세요💵ㅣ3화 예고]]></title>
             <link>https://tv.naver.com/v/31605437</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Dec 2022 08:14:31 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_280/BfZz9_1670225324826wv9tP_PNG/1670225204636.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] <털사 킹> 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/31337646</link>
-            <guid>https://tv.naver.com/v/31337646</guid>
-            <pubDate>Mon, 05 Dec 2022 22:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_289/5TMGa_16702085125002vuwP_JPEG/1670208440877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
