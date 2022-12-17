@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 02:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 03:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 16 Dec 2022 12:17:49 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_235/naA5i_1671189395374nJ455_JPEG/1671188737392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 노 저으랬더니 바로 엔진달고 유정에게 직진해버리는 태혁🌊 ㅣ 4화 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31669342</link>
+            <guid>https://tv.naver.com/v/31669342</guid>
+            <pubDate>Sat, 17 Dec 2022 03:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[6:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_248/LCBIE_167118415820711hGH_JPEG/1671184005437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[보물찾기] 팀워크 붕괴 각? 기여도 최하 팀원을 뽑으세요💵ㅣ3화 예고 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Dec 2022 08:14:53 GMT</pubDate>
             <content:encoded><![CDATA[1:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_61/LxHn3_1670398929342da8jx_JPEG/1670398905968.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보물찾기] 돈가방을 차지하는 아주 간단한 세 가지 방법 | 튜토리얼 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31372891</link>
-            <guid>https://tv.naver.com/v/31372891</guid>
-            <pubDate>Tue, 06 Dec 2022 05:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_271/nwGq0_1670296576476DKJYK_JPEG/1670296506801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
