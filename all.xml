@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 23:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 00:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 반가운 종이씨 윤시윤과, 뉴페이스 원장님 유인영까지! | 3화 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31671593</link>
+            <guid>https://tv.naver.com/v/31671593</guid>
+            <pubDate>Sat, 17 Dec 2022 00:48:06 GMT</pubDate>
+            <content:encoded><![CDATA[12:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_121/xENYB_1671191292095F6c4u_JPEG/1671191151920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들2] 위태로운 지구와, 우리들의 '엄마' | 5화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31670996</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Dec 2022 05:11:02 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_271/nwGq0_1670296576476DKJYK_JPEG/1670296506801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 🔊속보🔊 술도녀 술 끊다? #술끊도시여자들 | 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31347183</link>
-            <guid>https://tv.naver.com/v/31347183</guid>
-            <pubDate>Mon, 05 Dec 2022 08:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_280/BfZz9_1670225324826wv9tP_PNG/1670225204636.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
