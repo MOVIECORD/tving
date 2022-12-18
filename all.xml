@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 22:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 23:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 16 Dec 2022 12:17:49 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_235/naA5i_1671189395374nJ455_JPEG/1671188737392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] <스타트렉: 프로디지> 우주 Z세대들의 모험 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31670158</link>
+            <guid>https://tv.naver.com/v/31670158</guid>
+            <pubDate>Sun, 18 Dec 2022 23:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_64/yJf8a_1671186831100k3QOY_JPEG/1671186676891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[푸드 크로니클] 디저트로 세계여행 가능✈ 전세계가 즐기는 케이크🎂 | 9화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 10 Dec 2022 09:09:57 GMT</pubDate>
             <content:encoded><![CDATA[16:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_68/1ihMM_1670580654949RB6K9_JPEG/1670580431663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[푸드 크로니클] 프렌치 스타일 스시부터 뉴욕 캐주얼 스시까지! 다양한 스시들 | 8화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31483677</link>
-            <guid>https://tv.naver.com/v/31483677</guid>
-            <pubDate>Sat, 10 Dec 2022 09:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[9:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_190/Rgs8T_1670580530585AdbGM_JPEG/1670580347952.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
