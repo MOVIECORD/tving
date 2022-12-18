@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 23:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 00:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 소희X북구의 조정치 참교육(?)씬과 골목씬 비하인드까지 | 4화 메이킹]]></title>
+            <link>https://tv.naver.com/v/31671677</link>
+            <guid>https://tv.naver.com/v/31671677</guid>
+            <pubDate>Sun, 18 Dec 2022 00:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[11:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_106/GTx3X_1671191599832OoOsg_JPEG/1671191372196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들2] 반가운 종이씨 윤시윤과, 뉴페이스 원장님 유인영까지! | 3화 메이킹]]></title>
             <link>https://tv.naver.com/v/31671593</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 10 Dec 2022 09:09:57 GMT</pubDate>
             <content:encoded><![CDATA[9:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_190/Rgs8T_1670580530585AdbGM_JPEG/1670580347952.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 이선빈X한선화X정은지 날다?🪂 변함없는 케미의 술꾼들 | 1화 메이킹]]></title>
-            <link>https://tv.naver.com/v/31483271</link>
-            <guid>https://tv.naver.com/v/31483271</guid>
-            <pubDate>Sat, 10 Dec 2022 00:49:44 GMT</pubDate>
-            <content:encoded><![CDATA[16:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_71/Fzpdj_1670579271912TGztP_JPEG/1670579085123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
