@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 07:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 08:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[보물찾기] 다잉 메시지가 가리키는 것은? 좌대부터 물 속까지 고군분투ㅣ4화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31782266</link>
+            <guid>https://tv.naver.com/v/31782266</guid>
+            <pubDate>Wed, 21 Dec 2022 08:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_282/x1gti_167160277103917C2s_JPEG/1671602760565.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들2] 정은지 '친절한 종이씨' 윤시윤의 직진 고백에 당황 | 4화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31716340</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 13 Dec 2022 02:23:57 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221213_56/n8I0o_1670893654790ESmwa_JPEG/1670893559314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 술, 담배, 거울 끊은 자연인 술도녀, 막걸리에 잠시 이성 잃다 | 2화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31560701</link>
-            <guid>https://tv.naver.com/v/31560701</guid>
-            <pubDate>Tue, 13 Dec 2022 02:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_216/ZZSwY_1670893554035HRaUw_JPEG/1670893497252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
