@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 04:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 05:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아일랜드] 12월 29일(목) 9PM! 반묘좐탄이 여러분을 찾아갑니다!💕ㅣ네이버 NOW. 스페셜 쇼]]></title>
+            <link>https://tv.naver.com/v/31944346</link>
+            <guid>https://tv.naver.com/v/31944346</guid>
+            <pubDate>Wed, 28 Dec 2022 05:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_14/0A0GL_1672194510649Fzcz1_JPEG/1672194472765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] [아너 소사이어티] 공식 예고편]]></title>
             <link>https://tv.naver.com/v/31932106</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 03:11:33 GMT</pubDate>
             <content:encoded><![CDATA[6:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_58/79NS5_1671417179617BADuN_JPEG/1671417176372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 수련원에 취직한 예쁜 또라이 한선화, 유인영과 기싸움 시작? | 3화 클립]]></title>
-            <link>https://tv.naver.com/v/31716099</link>
-            <guid>https://tv.naver.com/v/31716099</guid>
-            <pubDate>Mon, 19 Dec 2022 03:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[5:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_70/509MQ_1671417107932PkLnk_JPEG/1671417045169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
