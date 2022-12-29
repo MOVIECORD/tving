@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 08:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 09:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 29 Dec 2022 05:10:02 GMT</pubDate>
             <content:encoded><![CDATA[19:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221229_297/SozW5_1672289458779bmo0S_JPEG/1672289364031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 최종선택 직전! 살얼음판을 걷는 지목 진실게임ㅣ6화 선공개]]></title>
+            <link>https://tv.naver.com/v/31970639</link>
+            <guid>https://tv.naver.com/v/31970639</guid>
+            <pubDate>Thu, 29 Dec 2022 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[5:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_179/PQxGI_1672274993805sVtfU_JPEG/1672274892939.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아일랜드] 12월 29일(목) 9PM! 반묘좐탄이 여러분을 찾아갑니다!💕ㅣ네이버 NOW. 스페셜 쇼]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 03:11:33 GMT</pubDate>
             <content:encoded><![CDATA[2:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_155/687V3_1671417508076GDXq2_JPEG/1671417294332.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 이선빈의 변태 전남친 참교육 하는 최시원🔥 | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/31716197</link>
-            <guid>https://tv.naver.com/v/31716197</guid>
-            <pubDate>Mon, 19 Dec 2022 03:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_14/hqngc_1671417290586i9MmS_JPEG/1671417245418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
