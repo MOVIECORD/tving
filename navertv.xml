@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 04:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 05:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[술꾼도시여자들2 본격 덕질터뷰 | 이선빈x한선화x정은지의 은밀한 취향 대공개💕]]></title>
+            <link>https://tv.naver.com/v/31976949</link>
+            <guid>https://tv.naver.com/v/31976949</guid>
+            <pubDate>Thu, 29 Dec 2022 05:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[19:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_281/UHedz_1672289904659zsIEK_JPEG/1672289838362.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[술꾼도시여자들2 본격 덕질터뷰 | 이선빈x한선화x정은지의 은밀한 취향 대공개💕]]></title>
+            <link>https://tv.naver.com/v/31976730</link>
+            <guid>https://tv.naver.com/v/31976730</guid>
+            <pubDate>Thu, 29 Dec 2022 05:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[19:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_297/SozW5_1672289458779bmo0S_JPEG/1672289364031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아일랜드] 12월 29일(목) 9PM! 반묘좐탄이 여러분을 찾아갑니다!💕ㅣ네이버 NOW. 스페셜 쇼]]></title>
             <link>https://tv.naver.com/v/31944346</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 03:11:33 GMT</pubDate>
             <content:encoded><![CDATA[4:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_14/hqngc_1671417290586i9MmS_JPEG/1671417245418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 기 센 한선화의 절대 꺾이지 않는 마음^^ | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/31716172</link>
-            <guid>https://tv.naver.com/v/31716172</guid>
-            <pubDate>Mon, 19 Dec 2022 03:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_256/MslGx_1671417241208WSfJl_JPEG/1671417189391.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 배달원 정은지, 불륜 진상 손님에 어금니 꽉 문 사연🔥 | 3화 클립]]></title>
-            <link>https://tv.naver.com/v/31716133</link>
-            <guid>https://tv.naver.com/v/31716133</guid>
-            <pubDate>Mon, 19 Dec 2022 03:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[6:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_58/79NS5_1671417179617BADuN_JPEG/1671417176372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
