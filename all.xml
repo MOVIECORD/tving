@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 08:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 09:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,46 @@
             <pubDate>Sat, 31 Dec 2022 03:11:13 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221230_76/9MO7K_1672380362031LNWMo_JPEG/1672380267610.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보물찾기] 철단(?) 기술 발견! 짜릿한 덕자 하드캐리 | 5화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32000780</link>
+            <guid>https://tv.naver.com/v/32000780</guid>
+            <pubDate>Sat, 31 Dec 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[10:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_189/vXvNA_1672374579700cyqgh_JPEG/1672374519849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보물찾기] "먹으라고 해도 먹었을 거에요" 구더기도 품는(?) 열정의 참가자들 | 5화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32000776</link>
+            <guid>https://tv.naver.com/v/32000776</guid>
+            <pubDate>Sat, 31 Dec 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_182/Pg8Ef_1672374575210RwIrP_JPEG/55d8f95d-87fa-11ed-8298-a0369ffda310_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보물찾기] 해질때까지 낚시터에서 벗어나지 못한 지능캐 임현서팀ㅣ5화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32000745</link>
+            <guid>https://tv.naver.com/v/32000745</guid>
+            <pubDate>Sat, 31 Dec 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_186/uAAO6_1672374471318OvvBF_JPEG/1672374459980.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보물찾기] 단 0.001g도 용납할 수 없는 저울의 소수점 무게 맞추기ㅣ5화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32000728</link>
+            <guid>https://tv.naver.com/v/32000728</guid>
+            <pubDate>Sat, 31 Dec 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_260/oLg5N_1672374405889jtGHa_JPEG/1672374393393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보물찾기] 돈가방을 눈앞에 두고 탈락 위기🖐️ 한껏 예민폭발하는 장지수팀ㅣ5화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32000710</link>
+            <guid>https://tv.naver.com/v/32000710</guid>
+            <pubDate>Sat, 31 Dec 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_22/Mv9yV_167237435192884rWp_JPEG/1672374338742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[술꾼도시여자들2 본격 덕질터뷰 | 이선빈x한선화x정은지의 은밀한 취향 대공개💕 (TVING ─ NAVER TV)]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Sat, 24 Dec 2022 03:11:11 GMT</pubDate>
             <content:encoded><![CDATA[6:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_213/NLHdW_1671782434373RWgwF_JPEG/1671782351010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 승연X수로, 태은X성범의 극과 극 데이트 반응💘ㅣ5화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31844486</link>
-            <guid>https://tv.naver.com/v/31844486</guid>
-            <pubDate>Sat, 24 Dec 2022 03:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[10:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_295/acEC8_1671782337009uAW72_JPEG/1671782221248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 희비가 교차하는 선택의 순간! 그녀들의 운명은?ㅣ5화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31844436</link>
-            <guid>https://tv.naver.com/v/31844436</guid>
-            <pubDate>Sat, 24 Dec 2022 03:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_230/QF7Il_1671782205464orDar_JPEG/1671782111256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 심쿵 하게 만드는 용호의 직진💓ㅣ5화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31844192</link>
-            <guid>https://tv.naver.com/v/31844192</guid>
-            <pubDate>Sat, 24 Dec 2022 03:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_56/4nnqU_16717817138474JLpz_JPEG/1671781454804.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보물찾기] 이제 나가볼까? 응 못 나가~ 갑자기 분위기 방탈출 장지수팀ㅣ4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31837293</link>
-            <guid>https://tv.naver.com/v/31837293</guid>
-            <pubDate>Sat, 24 Dec 2022 09:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[6:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_19/wND6f_1671769066436DSTFW_JPEG/1671769054571.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보물찾기] "???: 나는 겁을 몰라"는 오늘부터 알았습니다 최용준도 놀란 스케일ㅣ4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31837278</link>
-            <guid>https://tv.naver.com/v/31837278</guid>
-            <pubDate>Sat, 24 Dec 2022 09:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_120/ieh3Y_1671769038782X5SmV_JPEG/1671768954134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 [ 술꾼도시여자들 ] 온라인 제작발표회 (TVING ─ V LIVE)]]></title>
