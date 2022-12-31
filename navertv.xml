@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 23:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 00:49:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 술도녀 🚀로켓단 출동부터 최시원의 분장 투혼 | 7화 메이킹]]></title>
+            <link>https://tv.naver.com/v/32004697</link>
+            <guid>https://tv.naver.com/v/32004697</guid>
+            <pubDate>Sat, 31 Dec 2022 00:48:52 GMT</pubDate>
+            <content:encoded><![CDATA[14:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_124/EbwVy_16723835176412uzKc_JPEG/1672383376971.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들2] 싼티 나는 남자 욕심 때문에, 우리 우정 끝이야. | 9화 예고]]></title>
             <link>https://tv.naver.com/v/32004039</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 21 Dec 2022 08:13:26 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221221_282/x1gti_167160277103917C2s_JPEG/1671602760565.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 정은지 '친절한 종이씨' 윤시윤의 직진 고백에 당황 | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/31716340</link>
-            <guid>https://tv.naver.com/v/31716340</guid>
-            <pubDate>Mon, 19 Dec 2022 03:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_168/UR6Qk_1671417558097Wjx6Y_JPEG/1671417516866.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
