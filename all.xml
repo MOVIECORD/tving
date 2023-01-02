@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 00:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 02:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 시작부터 마지막까지 끈질긴 삼각관계👨👩👨ㅣ7화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32006041</link>
+            <guid>https://tv.naver.com/v/32006041</guid>
+            <pubDate>Mon, 02 Jan 2023 02:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_276/L7JAP_1672386282080jEONu_JPEG/1672386229603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들2] 👶아기보다 더 귀여운 술도녀의 우당탕탕 육아일기💗 | 8화 메이킹 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32004747</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 23 Dec 2022 11:09:44 GMT</pubDate>
             <content:encoded><![CDATA[4:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_50/pEw9B_1671785878422EfhDa_JPEG/1671785813081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 심부름 알바하는 정은지가 창피한 엄마 | 5화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31846265</link>
-            <guid>https://tv.naver.com/v/31846265</guid>
-            <pubDate>Fri, 23 Dec 2022 11:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_169/sLIdP_1671785807961qnsHd_JPEG/1671785747259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
