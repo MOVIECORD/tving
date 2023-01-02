@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 23:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 00:51:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Sat, 31 Dec 2022 09:10:01 GMT</pubDate>
             <content:encoded><![CDATA[5:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221230_22/Mv9yV_167237435192884rWp_JPEG/1672374338742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] [고스트 시즌2] 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/31984291</link>
+            <guid>https://tv.naver.com/v/31984291</guid>
+            <pubDate>Mon, 02 Jan 2023 00:51:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_293/tOmLF_1672304864412DGb1V_JPEG/1672304624310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[술꾼도시여자들2 본격 덕질터뷰 | 이선빈x한선화x정은지의 은밀한 취향 대공개💕]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 23 Dec 2022 11:09:44 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_169/sLIdP_1671785807961qnsHd_JPEG/1671785747259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 캐처들의 심란한 메시지 확인 타임💌ㅣ5화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/31844680</link>
-            <guid>https://tv.naver.com/v/31844680</guid>
-            <pubDate>Sat, 24 Dec 2022 03:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[6:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_258/lRSgN_1671782722065hMMC4_JPEG/1671782549431.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
