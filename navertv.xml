@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 05:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 06:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221229_281/UHedz_1672289904659zsIEK_JPEG/1672289838362.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[술꾼도시여자들2 본격 덕질터뷰 | 이선빈x한선화x정은지의 은밀한 취향 대공개💕]]></title>
-            <link>https://tv.naver.com/v/31976730</link>
-            <guid>https://tv.naver.com/v/31976730</guid>
-            <pubDate>Thu, 29 Dec 2022 05:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[19:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_297/SozW5_1672289458779bmo0S_JPEG/1672289364031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[러브캐처 인 발리] 최종선택 직전! 살얼음판을 걷는 지목 진실게임ㅣ6화 선공개]]></title>
             <link>https://tv.naver.com/v/31970639</link>
             <guid>https://tv.naver.com/v/31970639</guid>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 28 Dec 2022 00:50:18 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221227_181/S2jq0_1672142850482hdgN4_JPEG/1672142680655.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 하정우X주지훈X최민호X여진구 이렇게까지 한다고?ㅣ티저 예고]]></title>
+            <link>https://tv.naver.com/v/31899547</link>
+            <guid>https://tv.naver.com/v/31899547</guid>
+            <pubDate>Tue, 03 Jan 2023 06:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_215/O2EP3_1672043951199GrBQ2_JPEG/1672043878425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
