@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 07:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 08:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 선물 주고 받으며 더욱 더 견고해지는 태은X수로ㅣ7화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32105657</link>
+            <guid>https://tv.naver.com/v/32105657</guid>
+            <pubDate>Wed, 04 Jan 2023 08:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_141/gudrG_1672799142623H5oFx_JPEG/1672799085290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[만찢남] 눈 떠보니 무인도?🖼️ 만화를 찢고 들어가 버린 침펄기주 | 1차 티저 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32089051</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 28 Dec 2022 05:10:14 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_14/0A0GL_1672194510649Fzcz1_JPEG/1672194472765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] [아너 소사이어티] 공식 예고편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31932106</link>
-            <guid>https://tv.naver.com/v/31932106</guid>
-            <pubDate>Wed, 28 Dec 2022 00:50:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_181/S2jq0_1672142850482hdgN4_JPEG/1672142680655.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
