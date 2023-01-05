@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 04:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 05:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ING터뷰] 집중X의욕 MAX! 팬들에게 선물을 주기 위한 반묘좐탄의 노력🔥 | 아일랜드]]></title>
+            <link>https://tv.naver.com/v/32138412</link>
+            <guid>https://tv.naver.com/v/32138412</guid>
+            <pubDate>Thu, 05 Jan 2023 05:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[6:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_133/DqcHc_1672888580406WC6TJ_JPEG/1672888533945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[두발로 티켓팅]  혹독한 예능 신고식 치르는 두켓팅 멤버들🫠 | 메인 예고]]></title>
             <link>https://tv.naver.com/v/32123414</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 02 Jan 2023 00:51:36 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221229_293/tOmLF_1672304864412DGb1V_JPEG/1672304624310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술꾼도시여자들2 본격 덕질터뷰 | 이선빈x한선화x정은지의 은밀한 취향 대공개💕]]></title>
-            <link>https://tv.naver.com/v/31976949</link>
-            <guid>https://tv.naver.com/v/31976949</guid>
-            <pubDate>Thu, 29 Dec 2022 05:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[19:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_281/UHedz_1672289904659zsIEK_JPEG/1672289838362.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
