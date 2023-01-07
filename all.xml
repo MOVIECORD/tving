@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 23:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 00:51:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 흥 폭발🔥 회식인지 촬영인지 알 수 없는 촬영 현장 | 9화 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32185672</link>
+            <guid>https://tv.naver.com/v/32185672</guid>
+            <pubDate>Sat, 07 Jan 2023 00:50:51 GMT</pubDate>
+            <content:encoded><![CDATA[12:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_166/LCjqw_1673004773795pi44k_JPEG/1673004728443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ING터뷰] 집중X의욕 MAX! 팬들에게 선물을 주기 위한 반묘좐탄의 노력🔥 | 아일랜드 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32138412</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 31 Dec 2022 09:10:01 GMT</pubDate>
             <content:encoded><![CDATA[5:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221230_260/oLg5N_1672374405889jtGHa_JPEG/1672374393393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보물찾기] 돈가방을 눈앞에 두고 탈락 위기🖐️ 한껏 예민폭발하는 장지수팀ㅣ5화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32000710</link>
-            <guid>https://tv.naver.com/v/32000710</guid>
-            <pubDate>Sat, 31 Dec 2022 09:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[5:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_22/Mv9yV_167237435192884rWp_JPEG/1672374338742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
