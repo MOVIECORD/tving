@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 08:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 09:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Sat, 07 Jan 2023 00:50:51 GMT</pubDate>
             <content:encoded><![CDATA[12:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_166/LCjqw_1673004773795pi44k_JPEG/1673004728443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보물찾기] "꼴 보기 정말로 싫었어요"  배신감에 칼가는  참가자들 | 6화 클립]]></title>
+            <link>https://tv.naver.com/v/32183718</link>
+            <guid>https://tv.naver.com/v/32183718</guid>
+            <pubDate>Sat, 07 Jan 2023 09:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_159/CMrQe_1672999770566PYyu4_JPEG/1672999732068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보물찾기] 덕자의 충격적 선언🔥 뒤틀린 관계 속 폭발하는 배신감과 눈물샘 | 6화 클립]]></title>
+            <link>https://tv.naver.com/v/32183715</link>
+            <guid>https://tv.naver.com/v/32183715</guid>
+            <pubDate>Sat, 07 Jan 2023 09:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[7:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_56/zHEom_1672999764310tknNW_JPEG/1672999632824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보물찾기] 너는 4천만원 중에 백만원만 받아라💸 팀마다 다른 돈 분배 방법ㅣ6화 클립]]></title>
+            <link>https://tv.naver.com/v/32183701</link>
+            <guid>https://tv.naver.com/v/32183701</guid>
+            <pubDate>Sat, 07 Jan 2023 09:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[7:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_188/GMaRS_1672999749404I6cyp_JPEG/1672998267852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[러브캐처 인 발리] 말 돌리는 태은과 추궁하는 수로 그리고 울리는 전화📞 | 7화 하이라]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 31 Dec 2022 03:11:13 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221230_37/qEI9W_1672380701150Fu5m8_JPEG/1672380664345.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 썸네일도 미어터지는 복잡한 N각 관계 | 6화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/32003345</link>
-            <guid>https://tv.naver.com/v/32003345</guid>
-            <pubDate>Sat, 31 Dec 2022 03:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[5:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_88/pdbfo_1672380659629EGrbP_JPEG/1672380627275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 유정이 절대 지켜~! 흔들리는 정현에게 경고하는 태혁 | 6화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/32003305</link>
-            <guid>https://tv.naver.com/v/32003305</guid>
-            <pubDate>Sat, 31 Dec 2022 03:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_226/n4uRa_1672380582066yqI3E_JPEG/1672380528765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 마피아 대신 머니캐처를 찾는 진실게임! 정체가 밝혀질 캐처는?🤔 | 6]]></title>
-            <link>https://tv.naver.com/v/32003240</link>
-            <guid>https://tv.naver.com/v/32003240</guid>
-            <pubDate>Sat, 31 Dec 2022 03:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[14:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_234/Xq8y7_1672380464459Kkt4Q_JPEG/1672380421989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
