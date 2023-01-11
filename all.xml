@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 06:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 07:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 11 Jan 2023 00:53:01 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230110_41/5iF9Y_1673344137834qkMdO_JPEG/1673343896880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 아쉬움 맘과 행복함이 동시에 물드는 발리의 마지막 밤ㅣ8화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32268235</link>
+            <guid>https://tv.naver.com/v/32268235</guid>
+            <pubDate>Wed, 11 Jan 2023 07:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_212/cDM9u_1673335251341iTRNY_JPEG/1673335176561.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[술꾼도시여자들2] 한선화가 정은지의 연애를 막고 싶은 진짜 이유 | 10화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 05:09:53 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_295/yPurb_16727196552559F957_JPEG/1672719606321.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 독박 육아에 시달리던 엄마, 아기를 버리다 | 8화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32078575</link>
-            <guid>https://tv.naver.com/v/32078575</guid>
-            <pubDate>Tue, 03 Jan 2023 05:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_222/vjevq_16727196010991AWYV_JPEG/1672719510211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
