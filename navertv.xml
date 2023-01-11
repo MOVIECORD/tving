@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 22:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 00:53:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 단 한 번도 꺼낸 적 없는 K-POP의 '진짜' 이야기🤫 | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/32275990</link>
+            <guid>https://tv.naver.com/v/32275990</guid>
+            <pubDate>Wed, 11 Jan 2023 00:53:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_18/ECJPn_16733515040775cxfY_JPEG/1673351460931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만찢남] 침펄기주 킹받는 자기소개 타임(feat. 환연2 이나연 아나운서) | 2차 티저 예고]]></title>
+            <link>https://tv.naver.com/v/32272970</link>
+            <guid>https://tv.naver.com/v/32272970</guid>
+            <pubDate>Wed, 11 Jan 2023 00:53:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_41/5iF9Y_1673344137834qkMdO_JPEG/1673343896880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들2] 한선화가 정은지의 연애를 막고 싶은 진짜 이유 | 10화 클립]]></title>
             <link>https://tv.naver.com/v/32266103</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 05:09:53 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_222/vjevq_16727196010991AWYV_JPEG/1672719510211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 술도녀 홀린 윤시윤의 육아스킬 | 8화 클립]]></title>
-            <link>https://tv.naver.com/v/32078528</link>
-            <guid>https://tv.naver.com/v/32078528</guid>
-            <pubDate>Tue, 03 Jan 2023 05:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[5:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_72/SDYwb_16727195059830eg0K_JPEG/1672719444606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 육아 1일차에 뻗어버린 술도녀, 육퇴 후 맥주 한잔 실패 | 8화 클립]]></title>
-            <link>https://tv.naver.com/v/32078488</link>
-            <guid>https://tv.naver.com/v/32078488</guid>
-            <pubDate>Tue, 03 Jan 2023 05:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[5:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_26/w0M49_1672719438716NjV06_JPEG/1672719386930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
