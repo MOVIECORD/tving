@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 06:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 07:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 11 Jan 2023 00:53:01 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230110_41/5iF9Y_1673344137834qkMdO_JPEG/1673343896880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 이제는 진짜 확인해야하는 정체, 태은과 수로의 정체는?❤️💎ㅣ8화 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32268308</link>
+            <guid>https://tv.naver.com/v/32268308</guid>
+            <pubDate>Thu, 12 Jan 2023 07:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_295/n6esk_1673335388804QrKu1_JPEG/1673335218619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[러브캐처 인 발리] 아쉬움 맘과 행복함이 동시에 물드는 발리의 마지막 밤ㅣ8화 선공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 Jan 2023 23:11:01 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_211/z3Sfb_1672835257260S2E4J_JPEG/1672835158024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보물찾기] 믿을 사람이 하나도 없는 오늘도 평화로운 보물찾기💰 | 6화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32119302</link>
-            <guid>https://tv.naver.com/v/32119302</guid>
-            <pubDate>Wed, 04 Jan 2023 10:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_153/2fST9_16728255270746cmIP_JPEG/1672825520450.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
