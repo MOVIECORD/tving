@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 04:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 05:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#아일랜드 본격 덕질터뷰 | 기승전 아일랜드 사랑💕 김남길X이다희 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32305256</link>
+            <guid>https://tv.naver.com/v/32305256</guid>
+            <pubDate>Thu, 12 Jan 2023 05:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[11:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_34/BBkZO_1673437166845NpPHM_JPEG/1673436984410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이거잖아 내가 찾던 예능❤️[두발로 티켓팅] | 하이라이트 선공개 영상 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32301421</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 Jan 2023 10:12:23 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_153/2fST9_16728255270746cmIP_JPEG/1672825520450.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 선물 주고 받으며 더욱 더 견고해지는 태은X수로ㅣ7화 선공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32105657</link>
-            <guid>https://tv.naver.com/v/32105657</guid>
-            <pubDate>Wed, 04 Jan 2023 08:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_141/gudrG_1672799142623H5oFx_JPEG/1672799085290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
