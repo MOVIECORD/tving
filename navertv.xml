@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 02:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 03:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 무슨 전화인지 물어보는 태은에게 거짓말하는 수로| 8화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/32363595</link>
+            <guid>https://tv.naver.com/v/32363595</guid>
+            <pubDate>Sat, 14 Jan 2023 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[5:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_130/d0zeL_1673611186508nef4b_JPEG/1673611146873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 마주서서 정체를 교환하는 태은과 수로, 과연 해피인딩일까 | 8화 하이]]></title>
+            <link>https://tv.naver.com/v/32363567</link>
+            <guid>https://tv.naver.com/v/32363567</guid>
+            <pubDate>Sat, 14 Jan 2023 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_177/WGLSg_1673611130888268Ur_JPEG/1673610959618.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[러브캐처 인 발리] 유정만 바라보는 태혁은 과연 반지를 받을 수 있을까💍ㅣ 8화 하이라]]></title>
+            <link>https://tv.naver.com/v/32363486</link>
+            <guid>https://tv.naver.com/v/32363486</guid>
+            <pubDate>Sat, 14 Jan 2023 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[6:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_37/371Wi_1673610951097t0gxq_JPEG/1673610904639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] [탑건: 매버릭] 무제한 스트리밍의 시작]]></title>
             <link>https://tv.naver.com/v/32333363</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 07 Jan 2023 03:11:20 GMT</pubDate>
             <content:encoded><![CDATA[4:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_214/kIrQZ_16729986939704cAtw_JPEG/1672998665817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 태혁의 질문에도 여유로운 정현과 궁금한 유정 | 7화 하이라이]]></title>
-            <link>https://tv.naver.com/v/32183306</link>
-            <guid>https://tv.naver.com/v/32183306</guid>
-            <pubDate>Sat, 07 Jan 2023 03:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[4:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_155/bgKr4_1672998661190bjXCX_JPEG/1672998582624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 상대의 정체를 알 수 있는 전화를 받은 수로와 수지📞 | 8화 예고]]></title>
-            <link>https://tv.naver.com/v/32183258</link>
-            <guid>https://tv.naver.com/v/32183258</guid>
-            <pubDate>Mon, 09 Jan 2023 02:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_167/p3JPk_1672998572960muxWz_JPEG/1672998511869.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ING터뷰] 집중X의욕 MAX! 팬들에게 선물을 주기 위한 반묘좐탄의 노력🔥 | 아일랜드]]></title>
-            <link>https://tv.naver.com/v/32138412</link>
-            <guid>https://tv.naver.com/v/32138412</guid>
-            <pubDate>Thu, 05 Jan 2023 05:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[6:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_133/DqcHc_1672888580406WC6TJ_JPEG/1672888533945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
