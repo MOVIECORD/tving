@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 04:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 05:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#아일랜드 본격 덕질터뷰 | 차은우X성준을 한 단어로 정리하면?🤔]]></title>
+            <link>https://tv.naver.com/v/32364399</link>
+            <guid>https://tv.naver.com/v/32364399</guid>
+            <pubDate>Sat, 14 Jan 2023 05:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[7:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_272/CyqLN_1673613136110NRv4A_JPEG/1673613081041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[러브캐처 인 발리] 무슨 전화인지 물어보는 태은에게 거짓말하는 수로| 8화 하이라이트]]></title>
             <link>https://tv.naver.com/v/32363595</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 Jan 2023 03:11:20 GMT</pubDate>
             <content:encoded><![CDATA[4:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_170/5m7aA_1672999174876SJ71S_JPEG/1672999167977.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 용호가 시집을 들고다니는 이유가 있었네…📕 | 7화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/32183332</link>
-            <guid>https://tv.naver.com/v/32183332</guid>
-            <pubDate>Sat, 07 Jan 2023 03:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[4:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_214/kIrQZ_16729986939704cAtw_JPEG/1672998665817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
