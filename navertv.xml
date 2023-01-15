@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 23:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 00:56:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[술꾼도시여자들2] 마지막까지 화기애애한 촬영 현장❤ | 최종화 메이킹]]></title>
+            <link>https://tv.naver.com/v/32386259</link>
+            <guid>https://tv.naver.com/v/32386259</guid>
+            <pubDate>Sun, 15 Jan 2023 00:56:45 GMT</pubDate>
+            <content:encoded><![CDATA[18:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230115_125/s6GLn_1673716002959q7Voe_JPEG/1673715749821.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[술꾼도시여자들2] 키스신 촬영부터 술도녀의 교복 촬영현장까지! | 11화 메이킹]]></title>
             <link>https://tv.naver.com/v/32377516</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 Jan 2023 00:50:51 GMT</pubDate>
             <content:encoded><![CDATA[12:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_166/LCjqw_1673004773795pi44k_JPEG/1673004728443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보물찾기] "꼴 보기 정말로 싫었어요"  배신감에 칼가는  참가자들 | 6화 클립]]></title>
-            <link>https://tv.naver.com/v/32183718</link>
-            <guid>https://tv.naver.com/v/32183718</guid>
-            <pubDate>Sat, 07 Jan 2023 09:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_159/CMrQe_1672999770566PYyu4_JPEG/1672999732068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
