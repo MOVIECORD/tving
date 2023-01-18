@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 00:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 02:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_101/DN0U5_1673955293485sEfi5_JPEG/1673955183754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[케이팝 제너레이션] K-POP의, K-POP에 의한, K-POP을 위한 모든 것🌟 궁금하면 드루와 | 메인 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32450942</link>
+            <guid>https://tv.naver.com/v/32450942</guid>
+            <pubDate>Wed, 18 Jan 2023 02:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_22/LsF6j_1673950081310bfYVG_JPEG/1673949943290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스트릿맨파이터 ON THE STAGE-서울] 이렇게 귀여우면 춤싸움 못해🌸 | Man On A Mission 영상 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32435622</link>
             <guid>https://tv.naver.com/v/32435622</guid>
@@ -112,7 +120,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_227/8VnB6_1673920282516XMd8m_JPEG/1673920268762.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[두발로 티켓팅] ???: 안녕하세요~ 아 모르시는구나😅ㅣ2화 예고 (TVING ─ NAVER TV)]]></title>
+            <title><![CDATA[[두발로 티켓팅] ???: 안녕하세요~ 아 모르시는구나😅ㅣ1,2화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32411085</link>
             <guid>https://tv.naver.com/v/32411085</guid>
             <pubDate>Mon, 16 Jan 2023 05:10:25 GMT</pubDate>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 12 Jan 2023 08:14:50 GMT</pubDate>
             <content:encoded><![CDATA[5:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_4/1VDEw_1673433441746trvTX_JPEG/1673433397857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거잖아 내가 찾던 예능❤️[두발로 티켓팅] | 하이라이트 선공개 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32301421</link>
-            <guid>https://tv.naver.com/v/32301421</guid>
-            <pubDate>Wed, 11 Jan 2023 10:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_101/sS2jR_16734284547903b9uX_JPEG/1673428312541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
