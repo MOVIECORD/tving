@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 04:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 05:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,12 +240,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_34/BBkZO_1673437166845NpPHM_JPEG/1673436984410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[두발로 티켓팅] 짧은 영상 안에 킬포구간 수십개…💕 | 하이라이트 선공개 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32303593</link>
-            <guid>https://tv.naver.com/v/32303593</guid>
-            <pubDate>Wed, 18 Jan 2023 15:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[5:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_4/1VDEw_1673433441746trvTX_JPEG/1673433397857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[두발로 티켓팅] 그냥 하트 크게 한 사람 되어버린 민호😆 | 하이라이트 선공개 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32303608</link>
+            <guid>https://tv.naver.com/v/32303608</guid>
+            <pubDate>Thu, 19 Jan 2023 05:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_24/53Sp6_167343347683397UCr_JPEG/1673433446166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
