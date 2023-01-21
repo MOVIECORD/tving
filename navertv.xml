@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 04:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 05:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 오늘의 궁금증: 과연 주지훈은 얼마나 물을 마셨을까?🤔 | 2화 하이라이]]></title>
+            <link>https://tv.naver.com/v/32530173</link>
+            <guid>https://tv.naver.com/v/32530173</guid>
+            <pubDate>Sat, 21 Jan 2023 05:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_210/rMKKL_16742011658889Fd50_JPEG/1674201124212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 편하게 담기에는 조금 벅찬 하저씨의 머리..🪖 | 1화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/32530141</link>
+            <guid>https://tv.naver.com/v/32530141</guid>
+            <pubDate>Sat, 21 Jan 2023 05:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_78/4hW2n_1674201090731cXaUS_JPEG/1674201040772.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 장보다가 날벼락 맞은 하정우X주지훈X최민호X여진구⚡ | 1화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/32530104</link>
+            <guid>https://tv.naver.com/v/32530104</guid>
+            <pubDate>Sat, 21 Jan 2023 05:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_67/9w5ve_1674201025964DMWOS_JPEG/1674200895229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[보물찾기] 6명 중 마지막 남은 돈 가방의 주인은 단 한 사람! | 8화 예고]]></title>
             <link>https://tv.naver.com/v/32470026</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 15 Jan 2023 23:10:41 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_251/hprQ9_1673576108309y3s4x_JPEG/1673576016200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] [탑건: 매버릭] 무제한 스트리밍의 시작]]></title>
-            <link>https://tv.naver.com/v/32333363</link>
-            <guid>https://tv.naver.com/v/32333363</guid>
-            <pubDate>Thu, 12 Jan 2023 23:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_269/D5xJA_1673521481798nfTuT_JPEG/1673521478860.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#아일랜드 본격 덕질터뷰 | 기승전 아일랜드 사랑💕 김남길X이다희]]></title>
-            <link>https://tv.naver.com/v/32305256</link>
-            <guid>https://tv.naver.com/v/32305256</guid>
-            <pubDate>Thu, 12 Jan 2023 05:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[11:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_34/BBkZO_1673437166845NpPHM_JPEG/1673436984410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 그냥 하트 크게 한 사람 되어버린 민호😆 | 하이라이트 선공개 영상]]></title>
-            <link>https://tv.naver.com/v/32303608</link>
-            <guid>https://tv.naver.com/v/32303608</guid>
-            <pubDate>Thu, 19 Jan 2023 05:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_24/53Sp6_167343347683397UCr_JPEG/1673433446166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
