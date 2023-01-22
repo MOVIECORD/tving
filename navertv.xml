@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 05:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 06:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 항공권 주면서 장난치는 두켓팅 멤버들 꽤 커엽ㅣ2화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/32532245</link>
+            <guid>https://tv.naver.com/v/32532245</guid>
+            <pubDate>Sun, 22 Jan 2023 06:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_61/Ue9D9_1674205651977HWWTL_JPEG/1674205565277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 이거 보고 치킨을 안 시킬거라고?🍗 | 2화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/32532222</link>
+            <guid>https://tv.naver.com/v/32532222</guid>
+            <pubDate>Sun, 22 Jan 2023 06:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_119/dmNc5_167426605244266o7R_JPEG/1674266043768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 자전거파와 걷기파 마중의 동상이몽🚴‍♂️ | 2화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/32532171</link>
+            <guid>https://tv.naver.com/v/32532171</guid>
+            <pubDate>Sun, 22 Jan 2023 06:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_234/kOVbH_1674205444795FbUyS_JPEG/1674205283978.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[두발로 티켓팅] 오늘의 궁금증: 과연 주지훈은 얼마나 물을 마셨을까?🤔 | 2화 하이라이]]></title>
             <link>https://tv.naver.com/v/32530173</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 14 Jan 2023 03:11:22 GMT</pubDate>
             <content:encoded><![CDATA[5:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_130/d0zeL_1673611186508nef4b_JPEG/1673611146873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 마주서서 정체를 교환하는 태은과 수로, 과연 해피인딩일까 | 8화 하이]]></title>
-            <link>https://tv.naver.com/v/32363567</link>
-            <guid>https://tv.naver.com/v/32363567</guid>
-            <pubDate>Sat, 14 Jan 2023 03:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[4:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_177/WGLSg_1673611130888268Ur_JPEG/1673610959618.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 유정만 바라보는 태혁은 과연 반지를 받을 수 있을까💍ㅣ 8화 하이라]]></title>
-            <link>https://tv.naver.com/v/32363486</link>
-            <guid>https://tv.naver.com/v/32363486</guid>
-            <pubDate>Sat, 14 Jan 2023 03:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[6:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_37/371Wi_1673610951097t0gxq_JPEG/1673610904639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보물찾기] 1억 5천 돈가방은 절대 못 참지😠 점점 험악해지는 장지수 VS 챔보 | 7화 클립]]></title>
-            <link>https://tv.naver.com/v/32359565</link>
-            <guid>https://tv.naver.com/v/32359565</guid>
-            <pubDate>Sat, 14 Jan 2023 09:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[7:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_163/EiYHL_1673600315457BTkoi_JPEG/1673600235780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
