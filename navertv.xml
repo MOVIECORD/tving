@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 00:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 02:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sat, 21 Jan 2023 05:09:28 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_67/9w5ve_1674201025964DMWOS_JPEG/1674200895229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 덕질할 땐 누구나 전문가가 된다🕶️ | 1화 예고]]></title>
+            <link>https://tv.naver.com/v/32508310</link>
+            <guid>https://tv.naver.com/v/32508310</guid>
+            <pubDate>Mon, 23 Jan 2023 02:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_117/rH0DG_1674124525246rpL5M_JPEG/1674124456520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[보물찾기] 맹민호의 거친 생각과 김태용의 불안한 눈빛과 그걸 지켜보는 송영재 | 7화 클]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 14 Jan 2023 09:10:40 GMT</pubDate>
             <content:encoded><![CDATA[16:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230114_120/Ag2fv_1673684363131J6S0x_JPEG/1673683233436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브캐처 인 발리] 무슨 전화인지 물어보는 태은에게 거짓말하는 수로| 8화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/32363595</link>
-            <guid>https://tv.naver.com/v/32363595</guid>
-            <pubDate>Sat, 14 Jan 2023 03:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[5:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_130/d0zeL_1673611186508nef4b_JPEG/1673611146873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
