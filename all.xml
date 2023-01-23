@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 02:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 03:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 흰 줄과 바람만 있으면 어디든 떨어질 수 있어(?) | 3화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32532582</link>
+            <guid>https://tv.naver.com/v/32532582</guid>
+            <pubDate>Mon, 23 Jan 2023 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_57/D6oep_1674206706206duwG1_JPEG/1674206643060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[두발로 티켓팅] 항공권 주면서 장난치는 두켓팅 멤버들 꽤 커엽ㅣ2화 하이라이트 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32532245</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 15 Jan 2023 00:56:45 GMT</pubDate>
             <content:encoded><![CDATA[18:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230115_125/s6GLn_1673716002959q7Voe_JPEG/1673715749821.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 키스신 촬영부터 술도녀의 교복 촬영현장까지! | 11화 메이킹 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32377516</link>
-            <guid>https://tv.naver.com/v/32377516</guid>
-            <pubDate>Sat, 14 Jan 2023 09:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[16:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_120/Ag2fv_1673684363131J6S0x_JPEG/1673683233436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
