@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 22:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 23:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 24 Jan 2023 03:11:46 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_124/0Fpyw_1674141534024gXIWL_JPEG/1674141467453.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] <1923> 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/32514756</link>
+            <guid>https://tv.naver.com/v/32514756</guid>
+            <pubDate>Tue, 24 Jan 2023 23:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_11/2n3qD_167414145001112XQf_JPEG/1674141236784.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] 덕질할 땐 누구나 전문가가 된다🕶️ | 1화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 16 Jan 2023 05:10:25 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_128/HVRqQ_1673958081054tLUQv_JPEG/1673958074503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#아일랜드 본격 덕질터뷰 | 차은우X성준을 한 단어로 정리하면?🤔]]></title>
-            <link>https://tv.naver.com/v/32410047</link>
-            <guid>https://tv.naver.com/v/32410047</guid>
-            <pubDate>Mon, 16 Jan 2023 04:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[7:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_135/s1qmq_1673838034597aYUM3_JPEG/1673837916584.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
