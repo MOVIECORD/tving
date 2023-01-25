@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 04:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 05:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[만찢남] 이거 맞아..? #침펄기주 만화 속에서도 마감에 쫓기는 중?✏  | 3차 티저 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32603445</link>
+            <guid>https://tv.naver.com/v/32603445</guid>
+            <pubDate>Wed, 25 Jan 2023 05:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_190/rwAEJ_16746169324009XMcB_JPEG/1674616722839.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[두발로 티켓팅] 흰 줄과 바람만 있으면 어디든 떨어질 수 있어(?) | 3화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32532582</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 17 Jan 2023 02:13:31 GMT</pubDate>
             <content:encoded><![CDATA[4:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_227/8VnB6_1673920282516XMd8m_JPEG/1673920268762.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] ???: 안녕하세요~ 아 모르시는구나😅ㅣ1,2화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32411085</link>
-            <guid>https://tv.naver.com/v/32411085</guid>
-            <pubDate>Mon, 16 Jan 2023 05:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_128/HVRqQ_1673958081054tLUQv_JPEG/1673958074503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
