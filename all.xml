@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 09:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 10:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 27 Jan 2023 08:13:27 GMT</pubDate>
             <content:encoded><![CDATA[10:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_237/PalXh_1674800482419ky1jb_JPEG/1674800318279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 📸하정우 Vlog 뉴질랜드 산정 호수 다녀왔어요🏞 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32663880</link>
+            <guid>https://tv.naver.com/v/32663880</guid>
+            <pubDate>Fri, 27 Jan 2023 10:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_230/HgSbd_1674794031617GkOmh_JPEG/1674793980680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] ※눈물주의※ 서로에게 가장 특별한 존재인 사이..♥ | 1화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 17 Jan 2023 15:11:19 GMT</pubDate>
             <content:encoded><![CDATA[2:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_14/Rvx7S_1673966736886sEN1s_JPEG/1673966697351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 서로가 그리웠던 술도녀, 제 자리로 돌아오다 | 11화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32457510</link>
-            <guid>https://tv.naver.com/v/32457510</guid>
-            <pubDate>Tue, 17 Jan 2023 15:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_66/CZbyp_1673966693335ymk7w_JPEG/1673966649710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
