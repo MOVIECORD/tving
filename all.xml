@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 07:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 08:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시선ZIP.] 꽃길? 나는 김.남.길만 걷는다(뚜벅) 대상배우 김남길 단독 인터뷰 | 김남길 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32667619</link>
+            <guid>https://tv.naver.com/v/32667619</guid>
+            <pubDate>Fri, 27 Jan 2023 08:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[10:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_237/PalXh_1674800482419ky1jb_JPEG/1674800318279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] ※눈물주의※ 서로에게 가장 특별한 존재인 사이..♥ | 1화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32663809</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 17 Jan 2023 15:11:19 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_66/CZbyp_1673966693335ymk7w_JPEG/1673966649710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 윤시윤, 정은지에 "내가 어떡해야 친구를 넘을 수 있지?" | 11화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32457489</link>
-            <guid>https://tv.naver.com/v/32457489</guid>
-            <pubDate>Tue, 17 Jan 2023 15:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_84/gL8tP_1673966643075f7eJQ_JPEG/1673966592618.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
