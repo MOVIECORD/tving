@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 12:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 13:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[만찢남] 내 이름은 유난, 청정하죠! "다들 자연인 그 이상…" | 제작발표회 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32678575</link>
+            <guid>https://tv.naver.com/v/32678575</guid>
+            <pubDate>Fri, 27 Jan 2023 13:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_206/HTD7u_1674821413828x9Bex_JPEG/1674821363963.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만찢남] 뛰는 제작진 발 거는 출연진?🤣🤣  | 제작발표회 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32678545</link>
+            <guid>https://tv.naver.com/v/32678545</guid>
+            <pubDate>Fri, 27 Jan 2023 13:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_96/ABto7_1674821357792WHr8Y_JPEG/1674821297587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만찢남] 무인도에서 가장 필요 없던 물건은? | 제작발표회 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32678514</link>
+            <guid>https://tv.naver.com/v/32678514</guid>
+            <pubDate>Fri, 27 Jan 2023 13:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_56/C5T2c_1674821290982Il7gy_JPEG/1674821279537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[시선ZIP.] 꽃길? 나는 김.남.길만 걷는다(뚜벅) 대상배우 김남길 단독 인터뷰 | 김남길 편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32667619</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 17 Jan 2023 15:11:19 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_146/83ve9_16739669713411aJQA_JPEG/1673966902601.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 가족의 소중함을 아는 한선화, 유인영 남매를 화해시키다 | 12화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32457575</link>
-            <guid>https://tv.naver.com/v/32457575</guid>
-            <pubDate>Tue, 17 Jan 2023 15:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_242/u07mu_1673966897475tuiAT_JPEG/1673966857876.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] "같이 런던 갈래요?" 꿈 이룬 윤시윤, 정은지에게 프로포즈♥ | 12화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32457541</link>
-            <guid>https://tv.naver.com/v/32457541</guid>
-            <pubDate>Tue, 17 Jan 2023 15:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_112/WXn8n_1673966792542Skhhw_JPEG/1673966742363.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 이선빈, 최시원에 "할래요? 이익을 함께 나누는 사이..?" | 12화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32457529</link>
-            <guid>https://tv.naver.com/v/32457529</guid>
-            <pubDate>Tue, 17 Jan 2023 15:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_14/Rvx7S_1673966736886sEN1s_JPEG/1673966697351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
