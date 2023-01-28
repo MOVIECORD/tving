@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 08:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 09:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,6 +176,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_46/mx9wK_1674820958500OiuLo_JPEG/1674820687674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[두발로 티켓팅] 항공권 주는 #두발로챌린지 참여할말? 아묻따 참여 가야지✈ (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32677813</link>
+            <guid>https://tv.naver.com/v/32677813</guid>
+            <pubDate>Sat, 28 Jan 2023 09:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_166/z5p20_1674819603812SRmsP_JPEG/1674819507590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[시선ZIP.] 꽃길? 나는 김.남.길만 걷는다(뚜벅) 대상배우 김남길 단독 인터뷰 | 김남길 편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32667619</link>
             <guid>https://tv.naver.com/v/32667619</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 05:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_190/rwAEJ_16746169324009XMcB_JPEG/1674616722839.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 흰 줄과 바람만 있으면 어디든 떨어질 수 있어(?) | 3화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32532582</link>
-            <guid>https://tv.naver.com/v/32532582</guid>
-            <pubDate>Mon, 23 Jan 2023 03:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_57/D6oep_1674206706206duwG1_JPEG/1674206643060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
