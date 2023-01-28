@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 04:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 05:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,30 @@
             <pubDate>Fri, 27 Jan 2023 13:17:38 GMT</pubDate>
             <content:encoded><![CDATA[2:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_56/C5T2c_1674821290982Il7gy_JPEG/1674821279537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 마침내 이뤘노라🙏 하정우의 집념과 기적 | 3화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/32678408</link>
+            <guid>https://tv.naver.com/v/32678408</guid>
+            <pubDate>Sat, 28 Jan 2023 05:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_2/cVmsx_1674821067634zUvVg_JPEG/1674821010085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 지금 무슨 요리하세요? 주지훈맘표 느낌이요 탈탈탈🥄 | 3화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/32678387</link>
+            <guid>https://tv.naver.com/v/32678387</guid>
+            <pubDate>Sat, 28 Jan 2023 05:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_110/mZL6A_1674821002989LpEnA_JPEG/1674820963939.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] K-양념잘알 쩝쩝박사 주지훈 | 3화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/32678373</link>
+            <guid>https://tv.naver.com/v/32678373</guid>
+            <pubDate>Sat, 28 Jan 2023 05:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_46/mx9wK_1674820958500OiuLo_JPEG/1674820687674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시선ZIP.] 꽃길? 나는 김.남.길만 걷는다(뚜벅) 대상배우 김남길 단독 인터뷰 | 김남길 편]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 18 Jan 2023 07:10:45 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230118_57/k4mrP_1674020242591xBMok_JPEG/1674020181396.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 서로의 성장을 위해, 이별을 마주하는 술도녀 | 12화 클립]]></title>
-            <link>https://tv.naver.com/v/32457634</link>
-            <guid>https://tv.naver.com/v/32457634</guid>
-            <pubDate>Tue, 17 Jan 2023 15:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_63/7dPPv_1673967078318feRTU_JPEG/1673967035353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 친구의 가족이 부러운 한선화, 아빠를 만나러 가다 | 12화 클립]]></title>
-            <link>https://tv.naver.com/v/32457615</link>
-            <guid>https://tv.naver.com/v/32457615</guid>
-            <pubDate>Tue, 17 Jan 2023 15:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_130/gmWBx_1673967027000myfGm_JPEG/1673966975937.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[술꾼도시여자들2] 이선빈, "돌아가신 울 아빠처럼 모실게요" | 12화 클립]]></title>
-            <link>https://tv.naver.com/v/32457599</link>
-            <guid>https://tv.naver.com/v/32457599</guid>
-            <pubDate>Tue, 17 Jan 2023 15:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_146/83ve9_16739669713411aJQA_JPEG/1673966902601.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
