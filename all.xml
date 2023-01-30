@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 00:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 02:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 수많은 땀방울이 만들어낸 아름다운 혼종, K-POP의 모든 것! | 2화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32722274</link>
+            <guid>https://tv.naver.com/v/32722274</guid>
+            <pubDate>Mon, 30 Jan 2023 02:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_184/r7MVK_1675040820969a4wV1_JPEG/1675040788717.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[만찢남] 진지한 광신도 84 덕에 여기저기 피해자 속출😫 | 2화 하이라이트 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32680767</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 09:11:44 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_70/lXe3t_1674632259387jRomB_JPEG/1674632170928.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 이거 맞아..? #침펄기주 만화 속에서도 마감에 쫓기는 중?✏  | 3차 티저 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32603445</link>
-            <guid>https://tv.naver.com/v/32603445</guid>
-            <pubDate>Wed, 25 Jan 2023 05:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_190/rwAEJ_16746169324009XMcB_JPEG/1674616722839.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
