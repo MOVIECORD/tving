@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 22:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 23:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 30 Jan 2023 08:14:49 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_240/yuCSR_1675065006863AFoSD_JPEG/1675064847807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] <래빗홀> 티저 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32733363</link>
+            <guid>https://tv.naver.com/v/32733363</guid>
+            <pubDate>Mon, 30 Jan 2023 23:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_290/rGdwr_1675064862789Syh6D_JPEG/1675064783018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] 수많은 땀방울이 만들어낸 아름다운 혼종, K-POP의 모든 것! | 2화 예고 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Jan 2023 07:10:09 GMT</pubDate>
             <content:encoded><![CDATA[2:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_230/AFjMQ_1674793837190gKjHW_JPEG/1674793805677.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] K-웹툰과 K-POP의 만남! 신세계에 두 눈이 번쩍👁️👁️ | 메인 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32646357</link>
-            <guid>https://tv.naver.com/v/32646357</guid>
-            <pubDate>Thu, 26 Jan 2023 23:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_256/hqm1Y_1674730334134A0Nxt_JPEG/1674730231793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
