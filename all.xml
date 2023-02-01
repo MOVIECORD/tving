@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 10:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 11:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 01 Feb 2023 08:13:57 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_122/g30I6_1675233340109XczzU_JPEG/1675233247239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 아주 극적인 장면 그 깊은 곳에... 진짜 이야기가 있다! | 도영 영업 타 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32785029</link>
+            <guid>https://tv.naver.com/v/32785029</guid>
+            <pubDate>Wed, 01 Feb 2023 11:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_94/kAiY7_1675225892594QmWBo_JPEG/1675225824298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[만찢남] 그리는 대로 다 갖다 준다고? 뜻밖의 플렉스💰에 신난 침펄기주 | 투비컨티뉴 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Jan 2023 10:11:41 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_230/HgSbd_1674794031617GkOmh_JPEG/1674793980680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] ※눈물주의※ 서로에게 가장 특별한 존재인 사이..♥ | 1화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32663809</link>
-            <guid>https://tv.naver.com/v/32663809</guid>
-            <pubDate>Fri, 27 Jan 2023 07:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_140/otwht_1674793882317K6pOx_JPEG/1674793730300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
