@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 04:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 05:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[만찢남] #추성훈 #이민혁 손님맞이가 기안84의 트림 참기라 죄송합니다😂 | 3화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32811327</link>
+            <guid>https://tv.naver.com/v/32811327</guid>
+            <pubDate>Thu, 02 Feb 2023 05:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_253/D6nvn_1675300890696lPIi8_JPEG/1675300879976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[두발로 티켓팅] 하정우X주지훈이 청춘들에게 전하는 우리의 이야기ㅣ4화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32788745</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Jan 2023 08:13:27 GMT</pubDate>
             <content:encoded><![CDATA[10:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_237/PalXh_1674800482419ky1jb_JPEG/1674800318279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 📸하정우 Vlog 뉴질랜드 산정 호수 다녀왔어요🏞 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32663880</link>
-            <guid>https://tv.naver.com/v/32663880</guid>
-            <pubDate>Fri, 27 Jan 2023 10:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_230/HgSbd_1674794031617GkOmh_JPEG/1674793980680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
