@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 23:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 00:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] <옐로우재킷> 시즌2 티저 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32822157</link>
+            <guid>https://tv.naver.com/v/32822157</guid>
+            <pubDate>Fri, 03 Feb 2023 00:56:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_67/LyduG_1675321344367SebHN_JPEG/1675321269235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#두발로티켓팅 본격 덕질터뷰ㅣ디테일 장인과 열정가이의 만남 주지훈X최민호🔥 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32821186</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 Jan 2023 05:09:58 GMT</pubDate>
             <content:encoded><![CDATA[1:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_46/mx9wK_1674820958500OiuLo_JPEG/1674820687674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 흔들다리, 흔들린 멘탈... 그래도 끝은 창대하리라 | 4화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32678079</link>
-            <guid>https://tv.naver.com/v/32678079</guid>
-            <pubDate>Mon, 30 Jan 2023 03:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_286/OYn2m_1674820304037DfqEe_JPEG/1674820256967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
