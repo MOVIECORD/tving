@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 22:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 23:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[티빙 라인업] 2월 TVING NOW]]></title>
+            <link>https://tv.naver.com/v/32848840</link>
+            <guid>https://tv.naver.com/v/32848840</guid>
+            <pubDate>Fri, 03 Feb 2023 23:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_225/jDufB_1675400386841EwPbc_JPEG/1675400309397.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] 하나의 무대를 위한 수많은 땀방울💧 최애도 울고 나도 울었다 | 2]]></title>
             <link>https://tv.naver.com/v/32845827</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Jan 2023 13:17:38 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_206/HTD7u_1674821413828x9Bex_JPEG/1674821363963.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 뛰는 제작진 발 거는 출연진?🤣🤣  | 제작발표회 하이라이트]]></title>
-            <link>https://tv.naver.com/v/32678545</link>
-            <guid>https://tv.naver.com/v/32678545</guid>
-            <pubDate>Fri, 27 Jan 2023 13:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_96/ABto7_1674821357792WHr8Y_JPEG/1674821297587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
