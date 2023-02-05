@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 04:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 05:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 아 또 웃었네.. 묘하게 중독성 있는 하정우 아무말 대잔치ㅣ하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32859989</link>
+            <guid>https://tv.naver.com/v/32859989</guid>
+            <pubDate>Sun, 05 Feb 2023 05:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[11:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_150/pPXRj_1675419243113EmnAn_JPEG/1675419148059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[만찢남] 멀리서 보이는 배 한 척!🛥️ 외부 설계자가 보낸 사람이라고? | 투비컨티뉴 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32859860</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 Jan 2023 07:09:25 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_60/6yJTH_1674825693059ibNwG_JPEG/1674825535128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 야생미 넘치는(?) 침펄기주 무인도 #겟레디윗미 | 2화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32680654</link>
-            <guid>https://tv.naver.com/v/32680654</guid>
-            <pubDate>Sat, 28 Jan 2023 07:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_258/7Q6zz_1674825530521u9YCr_JPEG/1674825470411.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
