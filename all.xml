@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 06:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 07:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Mon, 06 Feb 2023 02:11:54 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_27/480rB_1675410171437w8Ihv_JPEG/1675410112575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙 라인업] 2월 TVING NOW (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32848840</link>
-            <guid>https://tv.naver.com/v/32848840</guid>
-            <pubDate>Fri, 03 Feb 2023 23:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_225/jDufB_1675400386841EwPbc_JPEG/1675400309397.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] 하나의 무대를 위한 수많은 땀방울💧 최애도 울고 나도 울었다 | 2 (TVING ─ NAVER TV)]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 28 Jan 2023 07:09:25 GMT</pubDate>
             <content:encoded><![CDATA[4:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_119/zphnN_167482581707646dYH_JPEG/1674825767219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만찢남] 젖은 머리 말리기 미션!🚴 주호민에게 주어진 기회..?  | 2화 하이라이트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32680739</link>
+            <guid>https://tv.naver.com/v/32680739</guid>
+            <pubDate>Mon, 06 Feb 2023 07:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_25/3QLEZ_1674825762300hHdTC_JPEG/1674825723929.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
