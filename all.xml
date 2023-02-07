@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 04:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 05:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[만찢남] 메인 포스터가 되기 위한 침펄기주의 고도의 집중력!✏️ | 4인 4색 포스터 그리기 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32948019</link>
+            <guid>https://tv.naver.com/v/32948019</guid>
+            <pubDate>Tue, 07 Feb 2023 05:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[10:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230207_150/WpMFy_1675744757904Kmm9O_JPEG/1675744605929.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[티빙 라인업] 2월 TVING NOW (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32919142</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 Jan 2023 07:09:25 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_225/8Mave_1674825870625U8kB8_JPEG/1674825823548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 주호민 가고 '주호미' 왔다! 기분 나쁘게 예뻐..🤣 | 2화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32680753</link>
-            <guid>https://tv.naver.com/v/32680753</guid>
-            <pubDate>Sat, 28 Jan 2023 07:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_119/zphnN_167482581707646dYH_JPEG/1674825767219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
