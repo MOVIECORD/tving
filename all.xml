@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 10:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 11:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 08 Feb 2023 08:15:00 GMT</pubDate>
             <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230208_156/eYExb_16758244374906p2yO_JPEG/1675824281652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 두근대는 감각, 그건 3화를 보라는 계시! | 투모로우바이투게더(TXT) 영 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32962655</link>
+            <guid>https://tv.naver.com/v/32962655</guid>
+            <pubDate>Wed, 08 Feb 2023 11:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230207_179/EQgk2_1675769969708UEy8o_JPEG/1675769913617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파라마운트+] <1923> 공식 예고편 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 Jan 2023 08:14:49 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_240/yuCSR_1675065006863AFoSD_JPEG/1675064847807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] <래빗홀> 티저 예고편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32733363</link>
-            <guid>https://tv.naver.com/v/32733363</guid>
-            <pubDate>Mon, 30 Jan 2023 23:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_290/rGdwr_1675064862789Syh6D_JPEG/1675064783018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
