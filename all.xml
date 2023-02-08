@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 23:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 00:54:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] <1923> 공식 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32958727</link>
+            <guid>https://tv.naver.com/v/32958727</guid>
+            <pubDate>Wed, 08 Feb 2023 00:54:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230207_176/KsMhp_1675761005926dDWOb_JPEG/1675760765398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[만찢남] 메인 포스터가 되기 위한 침펄기주의 고도의 집중력!✏️ | 4인 4색 포스터 그리기 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32948019</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 Jan 2023 02:11:14 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_184/r7MVK_1675040820969a4wV1_JPEG/1675040788717.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 진지한 광신도 84 덕에 여기저기 피해자 속출😫 | 2화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32680767</link>
-            <guid>https://tv.naver.com/v/32680767</guid>
-            <pubDate>Sat, 28 Jan 2023 07:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_225/8Mave_1674825870625U8kB8_JPEG/1674825823548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
