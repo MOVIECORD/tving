@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 07:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 08:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 앉아서 박수만 쳤을 뿐인데? 손에 돈이 쥐여져있네💵 | 5화 선공개]]></title>
+            <link>https://tv.naver.com/v/32976722</link>
+            <guid>https://tv.naver.com/v/32976722</guid>
+            <pubDate>Wed, 08 Feb 2023 08:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_156/eYExb_16758244374906p2yO_JPEG/1675824281652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] <1923> 공식 예고편]]></title>
             <link>https://tv.naver.com/v/32958727</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 Jan 2023 23:12:03 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_290/rGdwr_1675064862789Syh6D_JPEG/1675064783018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] 수많은 땀방울이 만들어낸 아름다운 혼종, K-POP의 모든 것! | 2화 예고]]></title>
-            <link>https://tv.naver.com/v/32722274</link>
-            <guid>https://tv.naver.com/v/32722274</guid>
-            <pubDate>Mon, 30 Jan 2023 02:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_184/r7MVK_1675040820969a4wV1_JPEG/1675040788717.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
