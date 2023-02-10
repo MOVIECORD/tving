@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 00:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 02:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] 📍무대맛집 공개 D-7📍 웹툰과 K-POP이 만나면 환상 그잡채 무대 탄생! 지금 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33015838</link>
+            <guid>https://tv.naver.com/v/33015838</guid>
+            <pubDate>Fri, 10 Feb 2023 02:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_82/lNyBs_1675938770710fslb6_JPEG/1675938726038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] <메이어 오브 킹스타운> 시즌2 공식 예고편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32991616</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Feb 2023 08:13:57 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_122/g30I6_1675233340109XczzU_JPEG/1675233247239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] 아주 극적인 장면 그 깊은 곳에... 진짜 이야기가 있다! | 도영 영업 타 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32785029</link>
-            <guid>https://tv.naver.com/v/32785029</guid>
-            <pubDate>Wed, 01 Feb 2023 11:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_94/kAiY7_1675225892594QmWBo_JPEG/1675225824298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
