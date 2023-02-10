@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 02:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 03:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ING터뷰] 여행 다녀오더니 습관화 딜을 하는 건에 대하여... | 두발로 티켓팅 편]]></title>
+            <link>https://tv.naver.com/v/33016167</link>
+            <guid>https://tv.naver.com/v/33016167</guid>
+            <pubDate>Fri, 10 Feb 2023 03:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[5:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_32/EHXY9_1675939874551mSQvl_JPEG/1675939488208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[웹툰싱어] 📍무대맛집 공개 D-7📍 웹툰과 K-POP이 만나면 환상 그잡채 무대 탄생! 지금]]></title>
             <link>https://tv.naver.com/v/33015838</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Feb 2023 05:10:28 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230202_253/D6nvn_1675300890696lPIi8_JPEG/1675300879976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 하정우X주지훈이 청춘들에게 전하는 우리의 이야기ㅣ4화 선공개]]></title>
-            <link>https://tv.naver.com/v/32788745</link>
-            <guid>https://tv.naver.com/v/32788745</guid>
-            <pubDate>Wed, 01 Feb 2023 08:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_122/g30I6_1675233340109XczzU_JPEG/1675233247239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
