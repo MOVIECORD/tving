@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 04:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 05:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Sun, 12 Feb 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_196/vJEgV_1676006490278xKAY6_JPEG/1676006362284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 불꽃 양(띠) 민호🐑🔥도 놀란 양들의 근본 | 5화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/33030968</link>
+            <guid>https://tv.naver.com/v/33030968</guid>
+            <pubDate>Sun, 12 Feb 2023 05:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_64/adaSA_1675996628034EsOWI_JPEG/1675996543467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[두발로 티켓팅] 게임 하나가 사람을 이렇게 만듭니다😂 | 5화 하이라이트]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Feb 2023 07:09:30 GMT</pubDate>
             <content:encoded><![CDATA[5:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_234/FEzcU_1675417731412A2agN_JPEG/1675417411324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 기안이 또.. 강력한 복병 트롤84! 화나는데 웃겨🤣 | 3화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/32859095</link>
-            <guid>https://tv.naver.com/v/32859095</guid>
-            <pubDate>Sat, 04 Feb 2023 07:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_148/bTpCN_1675417170623wGx07_JPEG/1675417126406.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
