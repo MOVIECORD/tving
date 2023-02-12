@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 23:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 00:59:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 11 Feb 2023 07:10:49 GMT</pubDate>
             <content:encoded><![CDATA[2:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_32/mhRFa_1676011763928he2wv_JPEG/1676011761263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만찢남] 주우재는 탈출?! 지옥 같은 만화 속 세상😱 | 투비컨티뉴 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33035821</link>
+            <guid>https://tv.naver.com/v/33035821</guid>
+            <pubDate>Sun, 12 Feb 2023 00:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_196/vJEgV_1676006490278xKAY6_JPEG/1676006362284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[두발로 티켓팅] 게임 하나가 사람을 이렇게 만듭니다😂 | 5화 하이라이트 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Feb 2023 07:09:30 GMT</pubDate>
             <content:encoded><![CDATA[4:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_148/bTpCN_1675417170623wGx07_JPEG/1675417126406.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 마스터 추의 무자비한 훈련에 지쳐 쓰러진 훈련병들🥵 | 3화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32859061</link>
-            <guid>https://tv.naver.com/v/32859061</guid>
-            <pubDate>Sat, 04 Feb 2023 07:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_113/Vg5C1_1675417115325Yf77N_JPEG/1675417074953.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
