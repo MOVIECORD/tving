@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 00:57:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 02:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Fri, 10 Feb 2023 07:11:02 GMT</pubDate>
             <content:encoded><![CDATA[2:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_139/orzk1_1675995353899JIg5D_JPEG/1675995298320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 전세계가 K-POP에 빠진 지금! 당신이 생각하는 K-POP이란? | 4화 예 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33016171</link>
+            <guid>https://tv.naver.com/v/33016171</guid>
+            <pubDate>Mon, 13 Feb 2023 02:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_107/9qZYM_1675939883387DQ4kI_JPEG/1675939778012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ING터뷰] 여행 다녀오더니 습관화 딜을 하는 건에 대하여... | 두발로 티켓팅 편 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Feb 2023 07:09:30 GMT</pubDate>
             <content:encoded><![CDATA[4:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_26/iSTti_1675417786324eQXGc_JPEG/1675417745167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 트림 참기 권위자 #추성훈 X 만찢남들의 도전! 침착할 수 있을까? | 3화 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32859345</link>
-            <guid>https://tv.naver.com/v/32859345</guid>
-            <pubDate>Sat, 04 Feb 2023 07:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_234/FEzcU_1675417731412A2agN_JPEG/1675417411324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
