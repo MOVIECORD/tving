@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 06:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 07:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] 최초공개! 미쳤다,, 무대만 봤는데 머릿속에 웹툰 자동재생▶ | 무대 스포 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33110543</link>
+            <guid>https://tv.naver.com/v/33110543</guid>
+            <pubDate>Tue, 14 Feb 2023 07:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_52/arJxN_16763423500979HgRd_JPEG/1676342201850.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] <그리스: 라이즈 오브 핑크 레이디스> 티저 예고편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33108981</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Feb 2023 05:09:45 GMT</pubDate>
             <content:encoded><![CDATA[5:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_196/rJRXR_1675418228237lzgWL_JPEG/1675418159295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 영통 한 번에 후회에 후회를 더하는 하정우 | 4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32859534</link>
-            <guid>https://tv.naver.com/v/32859534</guid>
-            <pubDate>Sat, 04 Feb 2023 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_16/qeCQ9_1675418219054mzQsO_JPEG/1675418155637.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
