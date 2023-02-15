@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 00:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 02:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] 이 세상 맛이 아니다! K-웹툰 X K-POP의 만남! 장관이고요, 절경이네요 | 1화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33111202</link>
+            <guid>https://tv.naver.com/v/33111202</guid>
+            <pubDate>Wed, 15 Feb 2023 02:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_192/kor00_1676343941907nbpJq_JPEG/1676343879574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[웹툰싱어] 최초공개! 미쳤다,, 무대만 봤는데 머릿속에 웹툰 자동재생▶ | 무대 스포 영상 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33110543</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 05 Feb 2023 00:58:10 GMT</pubDate>
             <content:encoded><![CDATA[0:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230206_45/oG0hf_16756580572606vPte_JPEG/1675658052950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 냉수욕 금지 체질❌ 꺼지는 불꽃🔥하지만 이겨낸다!! | 4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32859537</link>
-            <guid>https://tv.naver.com/v/32859537</guid>
-            <pubDate>Sat, 04 Feb 2023 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[5:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_196/rJRXR_1675418228237lzgWL_JPEG/1675418159295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
