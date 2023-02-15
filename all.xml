@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 10:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 11:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 무슨 말이 더 필요해~ 2월 16일 핌둥이와 함께♥ | 르세라핌 영업 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33160387</link>
+            <guid>https://tv.naver.com/v/33160387</guid>
+            <pubDate>Wed, 15 Feb 2023 11:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_177/m7nbs_1676451410034pcjXU_JPEG/1676451246303.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[두발로 티켓팅] 후배 향한 조언 몸소 실천하는 예능인 하저씨🦷🤣 | 6화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33142538</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Feb 2023 03:12:07 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_276/4u3qV_16754202381432X3zP_JPEG/1675420224026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 아 또 웃었네.. 묘하게 중독성 있는 하정우 아무말 대잔치ㅣ하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32859989</link>
-            <guid>https://tv.naver.com/v/32859989</guid>
-            <pubDate>Sun, 05 Feb 2023 05:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[11:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_150/pPXRj_1675419243113EmnAn_JPEG/1675419148059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
