@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 10:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 11:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 17 Feb 2023 07:10:51 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_175/oRFBb_1676608286970DxeUn_JPEG/1676608224207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웹툰싱어] AB6IX로 가득 채워, 지우학 중심을 세워! 무대맛집 그 첫 번째 '공명' | 1화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33220153</link>
+            <guid>https://tv.naver.com/v/33220153</guid>
+            <pubDate>Fri, 17 Feb 2023 11:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_59/GQWoP_1676608208750yCkYv_JPEG/1676604117846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[만찢남] 김풍과의 뽀뽀에 고장 난 기안84! 우리 친하잖아 응..?🤣 | 5화 선공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Feb 2023 00:53:26 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230208_182/41ZVN_1675850437713TbCGA_JPEG/1675850302087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 앉아서 박수만 쳤을 뿐인데? 손에 돈이 쥐여져있네💵 | 5화 선공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32976722</link>
-            <guid>https://tv.naver.com/v/32976722</guid>
-            <pubDate>Wed, 08 Feb 2023 08:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_156/eYExb_16758244374906p2yO_JPEG/1675824281652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
