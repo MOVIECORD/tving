@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 06:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 07:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 송캠프라고 들어는 봤나? 글로벌 음원 차트 섭렵의 숨은 공신들✨ | 4 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33220329</link>
+            <guid>https://tv.naver.com/v/33220329</guid>
+            <pubDate>Fri, 17 Feb 2023 07:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_276/vDNkk_1676608481144zkelS_JPEG/1676608448587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 전세계적 K-POP 돌풍 이유?! 몸으로 느끼면 되니까~ (ft. 후루야상) | 4화 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33220304</link>
+            <guid>https://tv.naver.com/v/33220304</guid>
+            <pubDate>Fri, 17 Feb 2023 07:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_155/isHnB_1676608436808vL4He_JPEG/1676608300503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 한국 멤버 없는 K-POP 그룹의 탄생?! 새로워진 K-POP의 정의! | 4화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33220208</link>
+            <guid>https://tv.naver.com/v/33220208</guid>
+            <pubDate>Fri, 17 Feb 2023 07:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_175/oRFBb_1676608286970DxeUn_JPEG/1676608224207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[만찢남] 김풍과의 뽀뽀에 고장 난 기안84! 우리 친하잖아 응..?🤣 | 5화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33166369</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 08 Feb 2023 08:15:00 GMT</pubDate>
             <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230208_156/eYExb_16758244374906p2yO_JPEG/1675824281652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] 두근대는 감각, 그건 3화를 보라는 계시! | 투모로우바이투게더(TXT) 영 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32962655</link>
-            <guid>https://tv.naver.com/v/32962655</guid>
-            <pubDate>Wed, 08 Feb 2023 11:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230207_179/EQgk2_1675769969708UEy8o_JPEG/1675769913617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] <1923> 공식 예고편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32958727</link>
-            <guid>https://tv.naver.com/v/32958727</guid>
-            <pubDate>Wed, 08 Feb 2023 00:54:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230207_176/KsMhp_1675761005926dDWOb_JPEG/1675760765398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 메인 포스터가 되기 위한 침펄기주의 고도의 집중력!✏️ | 4인 4색 포스터 그리기 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32948019</link>
-            <guid>https://tv.naver.com/v/32948019</guid>
-            <pubDate>Tue, 07 Feb 2023 05:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[10:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230207_150/WpMFy_1675744757904Kmm9O_JPEG/1675744605929.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
