@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 22:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 23:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sat, 18 Feb 2023 05:10:27 GMT</pubDate>
             <content:encoded><![CDATA[2:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_126/mEYYo_1676629866190DT6KS_JPEG/1676629813517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방과 후 전쟁활동] 수능 D-50, 괴생명체와 싸우기 위해 군인이 된 고3 들🪖 | 티저 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33233700</link>
+            <guid>https://tv.naver.com/v/33233700</guid>
+            <pubDate>Sun, 19 Feb 2023 23:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_201/qKN76_16766290806483qK3S_JPEG/1676628933518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] 송캠프라고 들어는 봤나? 글로벌 음원 차트 섭렵의 숨은 공신들✨ | 4 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Feb 2023 07:11:02 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_147/yb5jM_1675995546676Q3D0U_JPEG/1675995520446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] 떡잎부터 다른 짐승돌 2PM의 시초✨ 기존 아이돌의 이미지를 깨부수다 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33030174</link>
-            <guid>https://tv.naver.com/v/33030174</guid>
-            <pubDate>Fri, 10 Feb 2023 07:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_61/nKYPB_1675995508899sAyYl_JPEG/1675995481879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
