@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 23:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 00:57:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 18 Feb 2023 07:10:14 GMT</pubDate>
             <content:encoded><![CDATA[2:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_99/5PsdW_1676637506498ul3Or_JPEG/1676637487467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만찢남] 불난 집에 부채질하러 온 #윤두준 #조나단 의 등장! | 6화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33236344</link>
+            <guid>https://tv.naver.com/v/33236344</guid>
+            <pubDate>Sun, 19 Feb 2023 00:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_97/UTHfU_16766354575094xx9U_JPEG/1676635346587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[두발로 티켓팅] 힘든 하루의 끝은 역시..! 지붕 있는 숙소가 이렇게 소중합니다🙏 | 6화 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Feb 2023 07:11:02 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_61/nKYPB_1675995508899sAyYl_JPEG/1675995481879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] "야, 샤이니가 뭐야?" 지금의 K-POP 근간이자 근본이 된 '샤이니' 챠밍포 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33030158</link>
-            <guid>https://tv.naver.com/v/33030158</guid>
-            <pubDate>Fri, 10 Feb 2023 07:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_133/IcAUW_1675995477091dKCgE_JPEG/1675995450884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
