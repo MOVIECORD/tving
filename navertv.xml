@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 02:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 03:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sat, 18 Feb 2023 05:10:27 GMT</pubDate>
             <content:encoded><![CDATA[2:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_126/mEYYo_1676629866190DT6KS_JPEG/1676629813517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 협박을 하든, 멱살을 잡든.. 티켓과의 전쟁을 선포한다💣 | 7화 예고]]></title>
+            <link>https://tv.naver.com/v/33233793</link>
+            <guid>https://tv.naver.com/v/33233793</guid>
+            <pubDate>Mon, 20 Feb 2023 03:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_269/87LWa_16766293434154h5bj_JPEG/1676629287703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[방과 후 전쟁활동] 수능 D-50, 괴생명체와 싸우기 위해 군인이 된 고3 들🪖 | 티저 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Feb 2023 07:11:02 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_94/HI5DA_1675995642328aCdca_JPEG/1675995551223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] 눈물 나는 우리 오빠의 비즈니스💧 팬들을 위한 보이그룹의 고군분]]></title>
-            <link>https://tv.naver.com/v/33030194</link>
-            <guid>https://tv.naver.com/v/33030194</guid>
-            <pubDate>Fri, 10 Feb 2023 07:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_147/yb5jM_1675995546676Q3D0U_JPEG/1675995520446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
