@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 06:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 07:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[만찢남] #윤두준 #조나단 무인도 균 생성실에 온 걸 환영해 🙌 | 6화 선공개]]></title>
+            <link>https://tv.naver.com/v/33364710</link>
+            <guid>https://tv.naver.com/v/33364710</guid>
+            <pubDate>Wed, 22 Feb 2023 07:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_299/2plNt_1677043340321fTbGd_JPEG/1677043242148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[웹툰싱어] 고란의 소영배 아니죠, 어란의 고텐션 아앗 아니 소란의 어텐션↗ | 1화 클립]]></title>
             <link>https://tv.naver.com/v/33328921</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 12 Feb 2023 05:10:42 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_64/adaSA_1675996628034EsOWI_JPEG/1675996543467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 게임 하나가 사람을 이렇게 만듭니다😂 | 5화 클립]]></title>
-            <link>https://tv.naver.com/v/33030778</link>
-            <guid>https://tv.naver.com/v/33030778</guid>
-            <pubDate>Fri, 10 Feb 2023 13:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_66/MBtX7_1675996372901h9Dzg_JPEG/1675995910438.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
