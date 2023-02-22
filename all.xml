@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 07:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 08:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 22 Feb 2023 07:11:20 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230222_299/2plNt_1677043340321fTbGd_JPEG/1677043242148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 남자는 역시 핫핑크💗 두켓팅 멤버들의 빈티지샵 방문기 | 7화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33360879</link>
+            <guid>https://tv.naver.com/v/33360879</guid>
+            <pubDate>Wed, 22 Feb 2023 08:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_107/Yvs6M_167703549041342bfN_JPEG/1677035405661.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[웹툰싱어] 고란의 소영배 아니죠, 어란의 고텐션 아앗 아니 소란의 어텐션↗ | 1화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 12 Feb 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_196/vJEgV_1676006490278xKAY6_JPEG/1676006362284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 불꽃 양(띠) 민호🐑🔥도 놀란 양들의 근본 | 5화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33030968</link>
-            <guid>https://tv.naver.com/v/33030968</guid>
-            <pubDate>Sun, 12 Feb 2023 05:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_64/adaSA_1675996628034EsOWI_JPEG/1675996543467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
