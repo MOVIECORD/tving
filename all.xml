@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 00:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 02:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,14 +184,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_135/dUB2S_1676338983632iy2BJ_JPEG/1676338905923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[더 타임 호텔] 시간이 돈이다! 이 말이 현실이 되는 미스터리한 호텔 | 1차 티저 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33099752</link>
-            <guid>https://tv.naver.com/v/33099752</guid>
-            <pubDate>Tue, 14 Feb 2023 02:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_201/4LXTP_16762890262377tVT2_JPEG/1676288888092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[만찢남] 잘 자요...아니 자지 마요(제발)🌙 잠은행 미션 #추성훈 | 4화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33038893</link>
             <guid>https://tv.naver.com/v/33038893</guid>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 10 Feb 2023 13:19:46 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_66/MBtX7_1675996372901h9Dzg_JPEG/1675995910438.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] ✨보이그룹 고민상담소 OPEN✨ 진심 어린 조언에 마음에 홍수쳐🌊 | (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33030262</link>
+            <guid>https://tv.naver.com/v/33030262</guid>
+            <pubDate>Wed, 22 Feb 2023 02:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_94/HI5DA_1675995642328aCdca_JPEG/1675995551223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
