@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 06:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 07:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] 바람 가르랬더니 심장 갈라버린 예나 X 윈드브레이커 무대 'Bicycle' | 2화 선공개]]></title>
+            <link>https://tv.naver.com/v/33399903</link>
+            <guid>https://tv.naver.com/v/33399903</guid>
+            <pubDate>Thu, 23 Feb 2023 07:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_149/tpqmj_1677132961685LDJOU_JPEG/1677132948703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] <헬프 미, 토드> 공식 예고]]></title>
             <link>https://tv.naver.com/v/33376828</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Feb 2023 07:10:49 GMT</pubDate>
             <content:encoded><![CDATA[3:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_136/REiiR_1676011950772QaUDF_JPEG/1676011935590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 파이터의 선물 주인공 주우재! 그런데 이거 선물 맞아?😱🎁 | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/33038725</link>
-            <guid>https://tv.naver.com/v/33038725</guid>
-            <pubDate>Sat, 11 Feb 2023 07:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_32/mhRFa_1676011763928he2wv_JPEG/1676011761263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
