@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 08:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 09:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] 윈드 브레이커 조용석 작가, 이 정도 과몰입은 껌도 아냐... | 2화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33439037</link>
+            <guid>https://tv.naver.com/v/33439037</guid>
+            <pubDate>Fri, 24 Feb 2023 09:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_185/MleCD_16772255971417bSD6_JPEG/1677225545769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웹툰싱어] 닥터 프로스트 이종범 작가, 웹툰 그리다 일타 심리 강사된 썰 | 2화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33438958</link>
+            <guid>https://tv.naver.com/v/33438958</guid>
+            <pubDate>Fri, 24 Feb 2023 09:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_130/nVvrI_16772255362674t5wu_JPEG/1677225518684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웹툰싱어] 나 지금 달리잖아..! 무한반복 X 과몰입 루시(LUCY)의 갓벽 소화력👏 | 2화 클 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33438911</link>
+            <guid>https://tv.naver.com/v/33438911</guid>
+            <pubDate>Fri, 24 Feb 2023 09:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_180/KZFmt_1677225386647xlWlc_JPEG/1677225304122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[만찢남] ※비명 주의※ 의문의 아이스박스에 동굴 속은 아비규환😱 | 6화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33411800</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 15 Feb 2023 02:21:13 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_192/kor00_1676343941907nbpJq_JPEG/1676343879574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 최초공개! 미쳤다,, 무대만 봤는데 머릿속에 웹툰 자동재생▶ | 무대 스포 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33110543</link>
-            <guid>https://tv.naver.com/v/33110543</guid>
-            <pubDate>Tue, 14 Feb 2023 07:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_52/arJxN_16763423500979HgRd_JPEG/1676342201850.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] <그리스: 라이즈 오브 핑크 레이디스> 티저 예고편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33108981</link>
-            <guid>https://tv.naver.com/v/33108981</guid>
-            <pubDate>Tue, 14 Feb 2023 02:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_135/dUB2S_1676338983632iy2BJ_JPEG/1676338905923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 잘 자요...아니 자지 마요(제발)🌙 잠은행 미션 #추성훈 | 4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33038893</link>
-            <guid>https://tv.naver.com/v/33038893</guid>
-            <pubDate>Sat, 11 Feb 2023 07:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_299/0hofu_1676012066458MaUY2_JPEG/1676012015899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
