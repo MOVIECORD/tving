@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 00:55:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 02:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 23 Feb 2023 13:22:14 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230223_49/lnHBp_1677151205803cX0WV_JPEG/1677151186851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웹툰싱어] 샤이니 민호X유세윤X장도연, 말하다 숨 넘어가는 레전드 라인업 소개! | 한숨 챌 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33402315</link>
+            <guid>https://tv.naver.com/v/33402315</guid>
+            <pubDate>Fri, 24 Feb 2023 02:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_250/2HgLx_167713621338522t2H_JPEG/1677136180517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[웹툰싱어] 바람 가르랬더니 심장 갈라버린 예나 X 윈드브레이커 무대 'Bicycle' | 2화 선공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Feb 2023 07:10:49 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_299/0hofu_1676012066458MaUY2_JPEG/1676012015899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 기안84가 스파이..?👤 의심 품고 압박 수사 돌입한 침펄 | 4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33038862</link>
-            <guid>https://tv.naver.com/v/33038862</guid>
-            <pubDate>Sat, 11 Feb 2023 07:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_292/qod8A_1676012010511JcKfb_JPEG/1676011957967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
