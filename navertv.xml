@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 04:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 05:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,30 @@
             <pubDate>Fri, 24 Feb 2023 09:11:46 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_180/KZFmt_1677225386647xlWlc_JPEG/1677225304122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 불꽃 형제가 여행 도중 자유시간을 보내는 방법🔥 | 7화 클립]]></title>
+            <link>https://tv.naver.com/v/33437455</link>
+            <guid>https://tv.naver.com/v/33437455</guid>
+            <pubDate>Sat, 25 Feb 2023 05:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_183/RLi0x_1677223134763Ezu8F_JPEG/1677223078424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 두켓팅 멤버들의 출근 준비 1. 환복 2. 선크림 3.💪???? | 7화 클립]]></title>
+            <link>https://tv.naver.com/v/33437417</link>
+            <guid>https://tv.naver.com/v/33437417</guid>
+            <pubDate>Sat, 25 Feb 2023 05:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_291/FYH5w_1677223074571gX5d5_JPEG/1677222944909.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 하정우 아이돌 폼 미쳤다; 방술과 함께 무르익는 밤🌙 | 7화 클립]]></title>
+            <link>https://tv.naver.com/v/33437141</link>
+            <guid>https://tv.naver.com/v/33437141</guid>
+            <pubDate>Sat, 25 Feb 2023 05:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_120/zSfLM_1677222676455Tvy7w_JPEG/1677222618026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[만찢남] ※비명 주의※ 의문의 아이스박스에 동굴 속은 아비규환😱 | 6화 선공개]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 16 Feb 2023 04:14:24 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230215_197/xyET3_1676451646168cEuUm_JPEG/1676451573376.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] 무슨 말이 더 필요해~ 2월 16일 핌둥이와 함께♥ | 르세라핌 영업 영상]]></title>
-            <link>https://tv.naver.com/v/33160387</link>
-            <guid>https://tv.naver.com/v/33160387</guid>
-            <pubDate>Wed, 15 Feb 2023 11:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_177/m7nbs_1676451410034pcjXU_JPEG/1676451246303.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 후배 향한 조언 몸소 실천하는 예능인 하저씨🦷🤣 | 6화 선공개]]></title>
-            <link>https://tv.naver.com/v/33142538</link>
-            <guid>https://tv.naver.com/v/33142538</guid>
-            <pubDate>Wed, 15 Feb 2023 08:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_76/wn74A_1676425669518knvDM_JPEG/1676425504176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 이 세상 맛이 아니다! K-웹툰 X K-POP의 만남! 장관이고요, 절경이네요 | 1화 예고]]></title>
-            <link>https://tv.naver.com/v/33111202</link>
-            <guid>https://tv.naver.com/v/33111202</guid>
-            <pubDate>Wed, 15 Feb 2023 02:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_192/kor00_1676343941907nbpJq_JPEG/1676343879574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
