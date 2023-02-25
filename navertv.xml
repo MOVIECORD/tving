@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 06:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 07:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,30 @@
             <pubDate>Sat, 25 Feb 2023 05:10:41 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_291/FYH5w_1677223074571gX5d5_JPEG/1677222944909.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만찢남] #윤두준 #조나단 손님들과 기싸움하는 무인도 터줏대감 4인방🤣 | 6화 클립]]></title>
+            <link>https://tv.naver.com/v/33437390</link>
+            <guid>https://tv.naver.com/v/33437390</guid>
+            <pubDate>Sat, 25 Feb 2023 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_252/75JT2_1677223023101SUAks_JPEG/1677222936671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만찢남] ✨우재 무인도 귀환✨ 침펄기가 선사하는 환영의 인디언밥💕 | 6화 클립]]></title>
+            <link>https://tv.naver.com/v/33437420</link>
+            <guid>https://tv.naver.com/v/33437420</guid>
+            <pubDate>Sat, 25 Feb 2023 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_89/8o9Cq_1677223150047xSoQr_JPEG/1677223137441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만찢남] 심기 건드리는 늑대 인간에 독기 풀 충전한 출연진들🐺 | 6화 클립]]></title>
+            <link>https://tv.naver.com/v/33437336</link>
+            <guid>https://tv.naver.com/v/33437336</guid>
+            <pubDate>Sat, 25 Feb 2023 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_251/LYoz9_1677223108863SrbNb_JPEG/1677223095422.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[두발로 티켓팅] 하정우 아이돌 폼 미쳤다; 방술과 함께 무르익는 밤🌙 | 7화 클립]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 18 Feb 2023 05:10:27 GMT</pubDate>
             <content:encoded><![CDATA[5:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_171/rZnSv_1676600582928I2JNl_JPEG/1676599614037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 참을 수 없는 속도의 즐거움(?) | 6화 클립]]></title>
-            <link>https://tv.naver.com/v/33215587</link>
-            <guid>https://tv.naver.com/v/33215587</guid>
-            <pubDate>Sat, 18 Feb 2023 05:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[5:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_6/18SG4_167659960363618RCf_JPEG/1676599538161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 김풍과의 뽀뽀에 고장 난 기안84! 우리 친하잖아 응..?🤣 | 5화 선공개]]></title>
-            <link>https://tv.naver.com/v/33166369</link>
-            <guid>https://tv.naver.com/v/33166369</guid>
-            <pubDate>Thu, 16 Feb 2023 02:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_30/oRARS_1676462885230gr0qK_JPEG/1676462796366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] <조지 앤 태미> 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/33160519</link>
-            <guid>https://tv.naver.com/v/33160519</guid>
-            <pubDate>Thu, 16 Feb 2023 04:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_197/xyET3_1676451646168cEuUm_JPEG/1676451573376.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
