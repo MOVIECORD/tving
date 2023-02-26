@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 23:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 01:01:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Sat, 25 Feb 2023 05:10:41 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_120/zSfLM_1677222676455Tvy7w_JPEG/1677222618026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만찢남] 외부설계자👤 이름이 이미 한번 언급됐다고? | 7화 예고]]></title>
+            <link>https://tv.naver.com/v/33427273</link>
+            <guid>https://tv.naver.com/v/33427273</guid>
+            <pubDate>Sun, 26 Feb 2023 01:01:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_78/gk1Pv_1677205311837hrBfJ_JPEG/1677205104976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[만찢남] ※비명 주의※ 의문의 아이스박스에 동굴 속은 아비규환😱 | 6화 선공개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Feb 2023 11:10:08 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_59/GQWoP_1676608208750yCkYv_JPEG/1676604117846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 아파트 15층 높이에서 만난 민호창과 지훈방패 | 6화 클립]]></title>
-            <link>https://tv.naver.com/v/33216109</link>
-            <guid>https://tv.naver.com/v/33216109</guid>
-            <pubDate>Sat, 18 Feb 2023 05:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[5:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_171/rZnSv_1676600582928I2JNl_JPEG/1676599614037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
