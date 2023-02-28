@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 23:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 00:56:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비의도적 연애담] 차서원X공찬X원태민X도우 신뢰회복 심쿵로맨스❤️ | 티저 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33513159</link>
+            <guid>https://tv.naver.com/v/33513159</guid>
+            <pubDate>Tue, 28 Feb 2023 00:56:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230227_205/mmpDM_1677492079161iI4y8_JPEG/1677491992074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[웹툰싱어] 윈드 브레이커 조용석 작가, 이 정도 과몰입은 껌도 아냐... | 2화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33439037</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Feb 2023 07:10:51 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_155/isHnB_1676608436808vL4He_JPEG/1676608300503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] 한국 멤버 없는 K-POP 그룹의 탄생?! 새로워진 K-POP의 정의! | 4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33220208</link>
-            <guid>https://tv.naver.com/v/33220208</guid>
-            <pubDate>Fri, 17 Feb 2023 07:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_175/oRFBb_1676608286970DxeUn_JPEG/1676608224207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
