@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 02:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 03:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] 내일 VS 연애혁명🎤 온앤원리와 대체불가의 만남!ㄷㄱㄷㄱ | 3화 예고]]></title>
+            <link>https://tv.naver.com/v/33539771</link>
+            <guid>https://tv.naver.com/v/33539771</guid>
+            <pubDate>Wed, 01 Mar 2023 03:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_83/qQfXj_1677570300860SrMr3_JPEG/1677570297525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비의도적 연애담] 차서원X공찬X원태민X도우 신뢰회복 심쿵로맨스❤️ | 티저 영상]]></title>
             <link>https://tv.naver.com/v/33513159</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Feb 2023 07:10:51 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_276/vDNkk_1676608481144zkelS_JPEG/1676608448587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] 전세계적 K-POP 돌풍 이유?! 몸으로 느끼면 되니까~ (ft. 후루야상) | 4화]]></title>
-            <link>https://tv.naver.com/v/33220304</link>
-            <guid>https://tv.naver.com/v/33220304</guid>
-            <pubDate>Fri, 17 Feb 2023 07:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_155/isHnB_1676608436808vL4He_JPEG/1676608300503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
