@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 08:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 09:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[만찢남] 게 먹방에 빠진 무인도 체질 기안84🦀 | 7화 선공개]]></title>
+            <link>https://tv.naver.com/v/33595740</link>
+            <guid>https://tv.naver.com/v/33595740</guid>
+            <pubDate>Thu, 02 Mar 2023 09:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_92/3j031_1677743219371Hq3RX_JPEG/1677743084520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[웹툰싱어] 눈빛, 목소리🥰 이렇게 스윗할 일? 뉴X연애혁명 무대 '예뻤어 | 3화 선공개]]></title>
             <link>https://tv.naver.com/v/33584095</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Feb 2023 07:10:14 GMT</pubDate>
             <content:encoded><![CDATA[2:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_99/5PsdW_1676637506498ul3Or_JPEG/1676637487467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 불난 집에 부채질하러 온 #윤두준 #조나단 의 등장! | 6화 예고]]></title>
-            <link>https://tv.naver.com/v/33236344</link>
-            <guid>https://tv.naver.com/v/33236344</guid>
-            <pubDate>Sun, 19 Feb 2023 00:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_97/UTHfU_16766354575094xx9U_JPEG/1676635346587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
