@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 23:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 01:00:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 01 Mar 2023 08:15:17 GMT</pubDate>
             <content:encoded><![CDATA[3:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230228_122/n3ivX_1677593661420HG3aC_JPEG/1677593583495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] <래빗홀> 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/33544894</link>
+            <guid>https://tv.naver.com/v/33544894</guid>
+            <pubDate>Thu, 02 Mar 2023 00:59:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_116/RC42M_1677578891243o8Pbt_JPEG/1677578794101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비의도적 연애담] 설렌다🌸차서원X공찬&원태민X도우 봄 같은 첫 만남 | 대본리딩 영상]]></title>
+            <link>https://tv.naver.com/v/33543670</link>
+            <guid>https://tv.naver.com/v/33543670</guid>
+            <pubDate>Thu, 02 Mar 2023 00:59:59 GMT</pubDate>
+            <content:encoded><![CDATA[6:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_173/AlCQl_1677575819704x6h63_JPEG/1677575705527.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[웹툰싱어] 내일 VS 연애혁명🎤 온앤원리와 대체불가의 만남!ㄷㄱㄷㄱ | 3화 예고]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 18 Feb 2023 05:10:27 GMT</pubDate>
             <content:encoded><![CDATA[2:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_126/mEYYo_1676629866190DT6KS_JPEG/1676629813517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 협박을 하든, 멱살을 잡든.. 티켓과의 전쟁을 선포한다💣 | 7화 예고]]></title>
-            <link>https://tv.naver.com/v/33233793</link>
-            <guid>https://tv.naver.com/v/33233793</guid>
-            <pubDate>Mon, 20 Feb 2023 03:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_269/87LWa_16766293434154h5bj_JPEG/1676629287703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방과 후 전쟁활동] 수능 D-50, 괴생명체와 싸우기 위해 군인이 된 고3 들🪖 | 티저 예고]]></title>
-            <link>https://tv.naver.com/v/33233700</link>
-            <guid>https://tv.naver.com/v/33233700</guid>
-            <pubDate>Sun, 19 Feb 2023 23:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_201/qKN76_16766290806483qK3S_JPEG/1676628933518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
