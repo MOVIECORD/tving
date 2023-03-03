@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 08:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 09:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] 눈물이 나능겨💧 더보이즈 뉴 무대 후 눈물 폭발한 연애혁명 작가 | 3화 클립]]></title>
+            <link>https://tv.naver.com/v/33632521</link>
+            <guid>https://tv.naver.com/v/33632521</guid>
+            <pubDate>Fri, 03 Mar 2023 09:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_9/GNAeD_1677830865828WcQMH_JPEG/1677830767773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웹툰싱어] 촉촉해지고 싶으세요? '내일' & '연애혁명' 작가가 직접 픽한 명장면 | 3화 클립]]></title>
+            <link>https://tv.naver.com/v/33632438</link>
+            <guid>https://tv.naver.com/v/33632438</guid>
+            <pubDate>Fri, 03 Mar 2023 09:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_25/LjFar_1677830760191bEtyq_JPEG/1677830685591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웹툰싱어] 명중률 200% 설렘 공식♥ 연애혁명 X 옥상달빛 'After Like' 무대♥ | 3화 클립]]></title>
+            <link>https://tv.naver.com/v/33632377</link>
+            <guid>https://tv.naver.com/v/33632377</guid>
+            <pubDate>Fri, 03 Mar 2023 09:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_13/m6zno_16778306715370qz2X_JPEG/1677830610983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] <스타트렉: 피카드> 시즌3 공식 예고편]]></title>
             <link>https://tv.naver.com/v/33600201</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 22 Feb 2023 03:15:43 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_244/TicZ0_1676892452810E6bzp_JPEG/1676892236739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 외부설계자 너냐? 만화 속으로 소환된 #박태준 #김풍 #마인드C 🖼️| 5화 클립]]></title>
-            <link>https://tv.naver.com/v/33237268</link>
-            <guid>https://tv.naver.com/v/33237268</guid>
-            <pubDate>Sat, 18 Feb 2023 07:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_177/ItgBL_1676637441135Bx8w1_JPEG/1676637376238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 컷 수정 타임에 그리고 싶은 것이 팬티?🤣 | 5화 클립]]></title>
-            <link>https://tv.naver.com/v/33237234</link>
-            <guid>https://tv.naver.com/v/33237234</guid>
-            <pubDate>Sat, 18 Feb 2023 07:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_281/yUQQx_1676637371597rghjC_JPEG/1676637299555.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 떠날 자와 남은 자의 비교되는 먹방 타임!🍜🍈 | 5화 클립]]></title>
-            <link>https://tv.naver.com/v/33237200</link>
-            <guid>https://tv.naver.com/v/33237200</guid>
-            <pubDate>Sat, 18 Feb 2023 07:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_63/eSVvL_1676637289314ckhQG_JPEG/1676637237231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
