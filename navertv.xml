@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 04:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 05:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,38 @@
             <pubDate>Fri, 03 Mar 2023 09:11:38 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_13/m6zno_16778306715370qz2X_JPEG/1677830610983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 여행의 마지막 아쉬움을 달래는 하정우의 조언 | 8화 클립]]></title>
+            <link>https://tv.naver.com/v/33629863</link>
+            <guid>https://tv.naver.com/v/33629863</guid>
+            <pubDate>Sat, 04 Mar 2023 05:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_152/GLBlU_1677827370427RSdm5_JPEG/1677827314375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 순식간에 지나간 일주일이 아쉬운 멤버들😢 | 8화 클립]]></title>
+            <link>https://tv.naver.com/v/33629808</link>
+            <guid>https://tv.naver.com/v/33629808</guid>
+            <pubDate>Sat, 04 Mar 2023 05:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_126/8pLIG_1677827309120qwSr6_JPEG/1677827200456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 알고 보면 학구파 여진구의 알쓸진구 #와인편🍷 | 8화 클립]]></title>
+            <link>https://tv.naver.com/v/33629688</link>
+            <guid>https://tv.naver.com/v/33629688</guid>
+            <pubDate>Sat, 04 Mar 2023 05:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_109/TA1jM_1677827196134GXd9M_JPEG/1677827129886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 오케이 세 번이면 트랙터 운전도 하지훈🚜😎 | 8화 클립]]></title>
+            <link>https://tv.naver.com/v/33629604</link>
+            <guid>https://tv.naver.com/v/33629604</guid>
+            <pubDate>Sat, 04 Mar 2023 05:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_40/hGX7I_1677827114929zOTwT_JPEG/1677826924866.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파라마운트+] <스타트렉: 피카드> 시즌3 공식 예고편]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 23 Feb 2023 00:53:51 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230222_47/iJKrp_167706382223367Sv5_JPEG/1677063752124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] #윤두준 #조나단 무인도 균 생성실에 온 걸 환영해 🙌 | 6화 선공개]]></title>
-            <link>https://tv.naver.com/v/33364710</link>
-            <guid>https://tv.naver.com/v/33364710</guid>
-            <pubDate>Wed, 22 Feb 2023 07:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_299/2plNt_1677043340321fTbGd_JPEG/1677043242148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 남자는 역시 핫핑크💗 두켓팅 멤버들의 빈티지샵 방문기 | 7화 선공개]]></title>
-            <link>https://tv.naver.com/v/33360879</link>
-            <guid>https://tv.naver.com/v/33360879</guid>
-            <pubDate>Wed, 22 Feb 2023 08:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_107/Yvs6M_167703549041342bfN_JPEG/1677035405661.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 고란의 소영배 아니죠, 어란의 고텐션 아앗 아니 소란의 어텐션↗ | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/33328921</link>
-            <guid>https://tv.naver.com/v/33328921</guid>
-            <pubDate>Tue, 21 Feb 2023 06:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_165/e18G4_167695527265464PSQ_JPEG/1676955150042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 닥터 프로스트 VS 윈드 브레이커🎵 처음 보는데 궁금한 이 맛! | 2화 예고]]></title>
-            <link>https://tv.naver.com/v/33307618</link>
-            <guid>https://tv.naver.com/v/33307618</guid>
-            <pubDate>Wed, 22 Feb 2023 03:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_244/TicZ0_1676892452810E6bzp_JPEG/1676892236739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
