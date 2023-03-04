@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 22:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 23:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 03 Mar 2023 09:11:38 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_13/m6zno_16778306715370qz2X_JPEG/1677830610983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[두발로 티켓팅] 하저씨가 말하는 주지훈X최민호X여진구🤣 | 미공개 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33629959</link>
+            <guid>https://tv.naver.com/v/33629959</guid>
+            <pubDate>Sat, 04 Mar 2023 23:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_166/4U1ia_167782746900750xqf_JPEG/1677827380888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[두발로 티켓팅] 여행의 마지막 아쉬움을 달래는 하정우의 조언 | 8화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_78/gk1Pv_1677205311837hrBfJ_JPEG/1677205104976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 예능의 매운맛 제대로 맛본 멤버들의 마지막 티켓팅 미션은? | 8화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33416287</link>
-            <guid>https://tv.naver.com/v/33416287</guid>
-            <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_147/Y744U_1677158980549nepQn_JPEG/1677158975729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
