@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 23:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 01:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 04 Mar 2023 07:10:17 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_133/A9swV_1677833914686h4Dl4_JPEG/1677833854967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만찢남] 엔딩컷을 향한 마지막 사투가 시작된다! 침펄기주의 운명은?🤔 | 8화 예고]]></title>
+            <link>https://tv.naver.com/v/33633458</link>
+            <guid>https://tv.naver.com/v/33633458</guid>
+            <pubDate>Sun, 05 Mar 2023 01:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_171/P5ta7_1677832172105wo8mK_JPEG/1677832065934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[웹툰싱어] 눈물이 나능겨💧 더보이즈 뉴 무대 후 눈물 폭발한 연애혁명 작가 | 3화 클립]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Feb 2023 05:10:41 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_120/zSfLM_1677222676455Tvy7w_JPEG/1677222618026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 외부설계자👤 이름이 이미 한번 언급됐다고? | 7화 예고]]></title>
-            <link>https://tv.naver.com/v/33427273</link>
-            <guid>https://tv.naver.com/v/33427273</guid>
-            <pubDate>Sun, 26 Feb 2023 01:01:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_78/gk1Pv_1677205311837hrBfJ_JPEG/1677205104976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
