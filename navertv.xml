@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 08:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 09:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Sat, 04 Mar 2023 05:10:52 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_40/hGX7I_1677827114929zOTwT_JPEG/1677826924866.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 라인업] 3월 TVING NOW]]></title>
+            <link>https://tv.naver.com/v/33628610</link>
+            <guid>https://tv.naver.com/v/33628610</guid>
+            <pubDate>Sun, 05 Mar 2023 09:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_226/r4joH_1677825961777R4Vjy_JPEG/1677825896460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파라마운트+] <스타트렉: 피카드> 시즌3 공식 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Feb 2023 07:10:12 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_251/LYoz9_1677223108863SrbNb_JPEG/1677223095422.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 하정우 아이돌 폼 미쳤다; 방술과 함께 무르익는 밤🌙 | 7화 클립]]></title>
-            <link>https://tv.naver.com/v/33437141</link>
-            <guid>https://tv.naver.com/v/33437141</guid>
-            <pubDate>Sat, 25 Feb 2023 05:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_120/zSfLM_1677222676455Tvy7w_JPEG/1677222618026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
