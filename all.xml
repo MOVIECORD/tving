@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 23:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 00:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비의도적 연애담] 눈부신 비주얼로 수줍게 문을 여는 4인방✨ | 오프닝 타이틀 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33634958</link>
+            <guid>https://tv.naver.com/v/33634958</guid>
+            <pubDate>Mon, 06 Mar 2023 00:56:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_63/igfCK_16778348657797xkqT_JPEG/1677834823753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[만찢남] 조나단 숍 오픈🙌 그런데 손님.. 머리 경계선이 어딜까요? | 7화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33634583</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_89/8o9Cq_1677223150047xSoQr_JPEG/1677223137441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 심기 건드리는 늑대 인간에 독기 풀 충전한 출연진들🐺 | 6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33437336</link>
-            <guid>https://tv.naver.com/v/33437336</guid>
-            <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_251/LYoz9_1677223108863SrbNb_JPEG/1677223095422.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
