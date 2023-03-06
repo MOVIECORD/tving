@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 00:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 02:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] <앳 미드나잇> 공식 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33691242</link>
+            <guid>https://tv.naver.com/v/33691242</guid>
+            <pubDate>Mon, 06 Mar 2023 02:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_172/MDr0o_1678064737504ouyAA_JPEG/1678064616122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 한계 없는 그들의 아직 끝나지 않은 K-POP 이야기! | 파트 2 메인 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33639525</link>
+            <guid>https://tv.naver.com/v/33639525</guid>
+            <pubDate>Mon, 06 Mar 2023 02:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_256/s8H96_1677845022155YnGRs_JPEG/1677844874669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비의도적 연애담] 눈부신 비주얼로 수줍게 문을 여는 4인방✨ | 오프닝 타이틀 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33634958</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_291/FYH5w_1677223074571gX5d5_JPEG/1677222944909.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] #윤두준 #조나단 손님들과 기싸움하는 무인도 터줏대감 4인방🤣 | 6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33437390</link>
-            <guid>https://tv.naver.com/v/33437390</guid>
-            <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_252/75JT2_1677223023101SUAks_JPEG/1677222936671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] ✨우재 무인도 귀환✨ 침펄기가 선사하는 환영의 인디언밥💕 | 6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33437420</link>
-            <guid>https://tv.naver.com/v/33437420</guid>
-            <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_89/8o9Cq_1677223150047xSoQr_JPEG/1677223137441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
