@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 23:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 00:58:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] 보여줄게 완전히 달라진 나ㅣ그리스: 라이즈 오브 핑크 레이디스ㅣ공식 예 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33742653</link>
+            <guid>https://tv.naver.com/v/33742653</guid>
+            <pubDate>Wed, 08 Mar 2023 00:58:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_233/vOSx8_1678180427593EKnjX_JPEG/1678180366986.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] <앳 미드나잇> 공식 예고편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33691242</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
             <content:encoded><![CDATA[3:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_183/RLi0x_1677223134763Ezu8F_JPEG/1677223078424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 두켓팅 멤버들의 출근 준비 1. 환복 2. 선크림 3.💪???? | 7화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33437417</link>
-            <guid>https://tv.naver.com/v/33437417</guid>
-            <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_291/FYH5w_1677223074571gX5d5_JPEG/1677222944909.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
