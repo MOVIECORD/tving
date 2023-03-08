@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 02:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 03:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] 인생 명작의 대결! 고래별 VS 모퉁이 뜨개방🎤 휴지 준비 완료🤧 | 4화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33745100</link>
+            <guid>https://tv.naver.com/v/33745100</guid>
+            <pubDate>Wed, 08 Mar 2023 03:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_281/KfDMe_1678185778439rRYj1_JPEG/1678185636833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] 보여줄게 완전히 달라진 나ㅣ그리스: 라이즈 오브 핑크 레이디스ㅣ공식 예 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33742653</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_180/KZFmt_1677225386647xlWlc_JPEG/1677225304122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 불꽃 형제가 여행 도중 자유시간을 보내는 방법🔥 | 7화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33437455</link>
-            <guid>https://tv.naver.com/v/33437455</guid>
-            <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_183/RLi0x_1677223134763Ezu8F_JPEG/1677223078424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
