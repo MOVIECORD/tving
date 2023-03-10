@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 00:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 02:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 09 Mar 2023 09:12:22 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_259/odleM_1678340853818Wowm1_JPEG/1678340772571.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비의도적 연애담] 회장님의 최애 작가를 꼬셔라! | 하이라이트 영상]]></title>
+            <link>https://tv.naver.com/v/33806127</link>
+            <guid>https://tv.naver.com/v/33806127</guid>
+            <pubDate>Fri, 10 Mar 2023 02:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_266/8D3Fo_1678338395673AKnsY_JPEG/1678338383736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[웹툰싱어] 한국판 인어공주..? '고래별🐋'을 노래한 송소희 '바람이 되어' | 4화 선공개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 00:56:20 GMT</pubDate>
             <content:encoded><![CDATA[0:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230227_205/mmpDM_1677492079161iI4y8_JPEG/1677491992074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 윈드 브레이커 조용석 작가, 이 정도 과몰입은 껌도 아냐... | 2화 클립]]></title>
-            <link>https://tv.naver.com/v/33439037</link>
-            <guid>https://tv.naver.com/v/33439037</guid>
-            <pubDate>Fri, 24 Feb 2023 09:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_185/MleCD_16772255971417bSD6_JPEG/1677225545769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
