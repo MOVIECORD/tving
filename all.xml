@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 22:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 23:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테러맨] 테러맨 COMING SOON | 테러맨 예고 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33827572</link>
+            <guid>https://tv.naver.com/v/33827572</guid>
+            <pubDate>Fri, 10 Mar 2023 23:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_49/Nw3LB_1678368546130pcfEY_JPEG/1678368451656.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[웹툰싱어] '고래별' 분위기 그 자체... 이소정 '사랑이 아니라 말하지 말아요' | 4화 클 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33826526</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Mar 2023 08:15:17 GMT</pubDate>
             <content:encoded><![CDATA[3:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230228_122/n3ivX_1677593661420HG3aC_JPEG/1677593583495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] <래빗홀> 공식 예고편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33544894</link>
-            <guid>https://tv.naver.com/v/33544894</guid>
-            <pubDate>Thu, 02 Mar 2023 00:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_116/RC42M_1677578891243o8Pbt_JPEG/1677578794101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
