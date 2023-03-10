@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 08:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 09:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] '고래별' 분위기 그 자체... 이소정 '사랑이 아니라 말하지 말아요' | 4화 클 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33826526</link>
+            <guid>https://tv.naver.com/v/33826526</guid>
+            <pubDate>Fri, 10 Mar 2023 09:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_66/EsvDc_16783667302707DVI0_JPEG/1678366687064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웹툰싱어] 민호와 '고래별' 의현 조합? 이건 반칙이잖아요🐋💨💨 | 4화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33826504</link>
+            <guid>https://tv.naver.com/v/33826504</guid>
+            <pubDate>Fri, 10 Mar 2023 09:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_74/q32gp_1678366681722cuiCr_JPEG/1678366654062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웹툰싱어] '모퉁이 뜨개방' & '고래별' 작가님이 직접 PICK한 베스트 명장면! | 4화 클 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33826478</link>
+            <guid>https://tv.naver.com/v/33826478</guid>
+            <pubDate>Fri, 10 Mar 2023 09:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_34/DvnEN_16783666466852qXj3_JPEG/1678366568081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[만찢남] 침착하지 못한 노래 실력으로 무대 찢은 이말년🎤 | 8화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33808243</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 02 Mar 2023 00:59:59 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230228_116/RC42M_1677578891243o8Pbt_JPEG/1677578794101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비의도적 연애담] 설렌다🌸차서원X공찬&원태민X도우 봄 같은 첫 만남 | 대본리딩 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33543670</link>
-            <guid>https://tv.naver.com/v/33543670</guid>
-            <pubDate>Thu, 02 Mar 2023 00:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[6:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_173/AlCQl_1677575819704x6h63_JPEG/1677575705527.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 내일 VS 연애혁명🎤 온앤원리와 대체불가의 만남!ㄷㄱㄷㄱ | 3화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33539771</link>
-            <guid>https://tv.naver.com/v/33539771</guid>
-            <pubDate>Wed, 01 Mar 2023 03:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_83/qQfXj_1677570300860SrMr3_JPEG/1677570297525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비의도적 연애담] 차서원X공찬X원태민X도우 신뢰회복 심쿵로맨스❤️ | 티저 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33513159</link>
-            <guid>https://tv.naver.com/v/33513159</guid>
-            <pubDate>Tue, 28 Feb 2023 13:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230227_205/mmpDM_1677492079161iI4y8_JPEG/1677491992074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
