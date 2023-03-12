@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 22:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 23:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방과 후 전쟁활동] 하늘을 뒤덮은 구체🟣와의 전쟁, 그 끝은? | 메인 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33858995</link>
+            <guid>https://tv.naver.com/v/33858995</guid>
+            <pubDate>Sun, 12 Mar 2023 23:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_166/YjPk7_1678445747576KFXI8_JPEG/1678445631353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[만찢남] 거기서 서해가 왜 나와😱 스포하고 마냥 해맑은 기안84 | 8화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33840516</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Mar 2023 05:10:52 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_40/hGX7I_1677827114929zOTwT_JPEG/1677826924866.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙 라인업] 3월 TVING NOW (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33628610</link>
-            <guid>https://tv.naver.com/v/33628610</guid>
-            <pubDate>Sun, 05 Mar 2023 09:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_226/r4joH_1677825961777R4Vjy_JPEG/1677825896460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
