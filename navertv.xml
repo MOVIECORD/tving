@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 23:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 00:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 14 Mar 2023 05:11:00 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230314_33/qb58L_1678763747726Nu3N3_JPEG/1678763744035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] 비밀을 품은 뉴 페이스 등장ㅣ옐로우재킷 시즌2ㅣ공식 예고편]]></title>
+            <link>https://tv.naver.com/v/33932414</link>
+            <guid>https://tv.naver.com/v/33932414</guid>
+            <pubDate>Wed, 15 Mar 2023 00:55:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_274/NdNAS_1678703266944dfARh_JPEG/1678703153060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[방과 후 전쟁활동] 하늘을 뒤덮은 구체🟣와의 전쟁, 그 끝은? | 메인 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Mar 2023 05:10:52 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_126/8pLIG_1677827309120qwSr6_JPEG/1677827200456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두발로 티켓팅] 알고 보면 학구파 여진구의 알쓸진구 #와인편🍷 | 8화 클립]]></title>
-            <link>https://tv.naver.com/v/33629688</link>
-            <guid>https://tv.naver.com/v/33629688</guid>
-            <pubDate>Sat, 04 Mar 2023 05:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_109/TA1jM_1677827196134GXd9M_JPEG/1677827129886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
