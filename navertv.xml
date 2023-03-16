@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 04:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 05:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 16 Mar 2023 00:55:53 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_144/ISdfB_1678887116898XMWHp_JPEG/1678886933758.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웹툰싱어] 우린 이걸 심장폭행이라 부르기로 했어요♡ 정세운 '그녀가 웃잖아' | 5화 클립]]></title>
+            <link>https://tv.naver.com/v/34010838</link>
+            <guid>https://tv.naver.com/v/34010838</guid>
+            <pubDate>Thu, 16 Mar 2023 05:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_59/1am2Z_1678882825320ryRxJ_JPEG/1678882725369.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] 우리가 궁금했던 K-POP! 시원하게 알려드림💫 | EXO 수호 영업 타임]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Mar 2023 09:11:38 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_25/LjFar_1677830760191bEtyq_JPEG/1677830685591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 명중률 200% 설렘 공식♥ 연애혁명 X 옥상달빛 'After Like' 무대♥ | 3화 클립]]></title>
-            <link>https://tv.naver.com/v/33632377</link>
-            <guid>https://tv.naver.com/v/33632377</guid>
-            <pubDate>Fri, 03 Mar 2023 09:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_13/m6zno_16778306715370qz2X_JPEG/1677830610983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
