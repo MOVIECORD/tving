@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 08:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 09:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비의도적 연애담] 차서원x공찬, 아찔한 동거의 시작🏠 | 3화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34080283</link>
+            <guid>https://tv.naver.com/v/34080283</guid>
+            <pubDate>Sat, 18 Mar 2023 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_150/2w8TI_1679049086596S60Ti_JPEG/1679048859083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비의도적 연애담] 차서원 앞에선 전화를 못 받는 공찬의 비밀 | 2화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34071137</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Mar 2023 09:12:22 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_259/odleM_1678340853818Wowm1_JPEG/1678340772571.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비의도적 연애담] 회장님의 최애 작가를 꼬셔라! | 하이라이트 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33806127</link>
-            <guid>https://tv.naver.com/v/33806127</guid>
-            <pubDate>Fri, 10 Mar 2023 02:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_266/8D3Fo_1678338395673AKnsY_JPEG/1678338383736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
