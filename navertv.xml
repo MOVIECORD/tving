@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 00:59:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 02:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비의도적 연애담] 꿀 떨어지는 심쿵 촬영 현장💜 | 1-2화 비하인드 메이킹]]></title>
+            <link>https://tv.naver.com/v/34080295</link>
+            <guid>https://tv.naver.com/v/34080295</guid>
+            <pubDate>Sun, 19 Mar 2023 02:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[8:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_230/8jmBU_1679049108818OB8qv_JPEG/1679048955855.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비의도적 연애담] 차서원x공찬, 아찔한 동거의 시작🏠 | 3화 예고]]></title>
             <link>https://tv.naver.com/v/34080283</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Mar 2023 09:11:54 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_34/DvnEN_16783666466852qXj3_JPEG/1678366568081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 침착하지 못한 노래 실력으로 무대 찢은 이말년🎤 | 8화 선공개]]></title>
-            <link>https://tv.naver.com/v/33808243</link>
-            <guid>https://tv.naver.com/v/33808243</guid>
-            <pubDate>Thu, 09 Mar 2023 09:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_259/odleM_1678340853818Wowm1_JPEG/1678340772571.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
