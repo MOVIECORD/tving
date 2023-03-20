@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 02:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 03:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 아이돌? 유사 연애로 돈 벌잖아, K-POP의 모순덩어리 | 6화 예고]]></title>
+            <link>https://tv.naver.com/v/34084746</link>
+            <guid>https://tv.naver.com/v/34084746</guid>
+            <pubDate>Mon, 20 Mar 2023 03:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_206/Ay5MR_16790589380821J4Hw_JPEG/1679058818323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비의도적 연애담] 꿀 떨어지는 심쿵 촬영 현장💜 | 1-2화 비하인드 메이킹]]></title>
             <link>https://tv.naver.com/v/34080295</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Mar 2023 09:11:54 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_74/q32gp_1678366681722cuiCr_JPEG/1678366654062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] '모퉁이 뜨개방' & '고래별' 작가님이 직접 PICK한 베스트 명장면! | 4화 클]]></title>
-            <link>https://tv.naver.com/v/33826478</link>
-            <guid>https://tv.naver.com/v/33826478</guid>
-            <pubDate>Fri, 10 Mar 2023 09:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_34/DvnEN_16783666466852qXj3_JPEG/1678366568081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
