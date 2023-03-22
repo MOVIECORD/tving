@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 04:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 05:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 21 Mar 2023 10:11:09 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230321_9/3tmTt_1679389564884dyErb_JPEG/1679389425749.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 시간=돈💰 오직 시간으로만 결제하는 미스터리 호텔 | 1차 티저 예고]]></title>
+            <link>https://tv.naver.com/v/34190995</link>
+            <guid>https://tv.naver.com/v/34190995</guid>
+            <pubDate>Wed, 22 Mar 2023 05:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230321_245/1JEKN_1679389557086iXqFn_JPEG/1679389515112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파라마운트+] 북미에서 난리난 레전드 늑대인간 등장 ㅣ울프 팩ㅣ공식 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Mar 2023 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_60/aNSDQ_1678415927086E0DQj_JPEG/1678415878385.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 아프니까 막말이다😭 무인도 6일째! 이젠 정말 나가고 싶다🏝️ | 8화 클립]]></title>
-            <link>https://tv.naver.com/v/33840419</link>
-            <guid>https://tv.naver.com/v/33840419</guid>
-            <pubDate>Sat, 11 Mar 2023 07:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_7/NUHWu_1678415869086LtNMw_JPEG/1678415826326.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
