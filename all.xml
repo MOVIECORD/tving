@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 10:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 11:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 22 Mar 2023 05:11:25 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230321_245/1JEKN_1679389557086iXqFn_JPEG/1679389515112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 케젠으로 K-POP과 커넥트 가보자고✨ | 엔하이픈 영업 타임 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34157382</link>
+            <guid>https://tv.naver.com/v/34157382</guid>
+            <pubDate>Wed, 22 Mar 2023 11:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230320_174/6E5b1_1679312697098UOlzK_JPEG/1679312690127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파라마운트+] 북미에서 난리난 레전드 늑대인간 등장 ㅣ울프 팩ㅣ공식 예고편 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Mar 2023 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_3/LpoXK_1678415984107550Ve_JPEG/1678415932397.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만찢남] 세계 최초 랩하는 미러볼 주호민 등장🎤 무대를 뒤집어 놓으셨다! | 8화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33840460</link>
-            <guid>https://tv.naver.com/v/33840460</guid>
-            <pubDate>Sat, 11 Mar 2023 07:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_60/aNSDQ_1678415927086E0DQj_JPEG/1678415878385.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
