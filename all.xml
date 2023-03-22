@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 02:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 03:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] 정년이 VS 아홉수 우리들🎤 최애 받고 최애 더블로 가! JMT 무대🤤 | 6화 예 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34200835</link>
+            <guid>https://tv.naver.com/v/34200835</guid>
+            <pubDate>Wed, 22 Mar 2023 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230321_284/viVXv_1679406702359opEXv_JPEG/1679406638022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] 화려한 음악이 나를 감싸네ㅣ그리스: 라이즈 오브 핑크 레이디스ㅣMV (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34191003</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Mar 2023 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_7/NUHWu_1678415869086LtNMw_JPEG/1678415826326.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테러맨] 테러맨 COMING SOON | 테러맨 예고 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33827572</link>
-            <guid>https://tv.naver.com/v/33827572</guid>
-            <pubDate>Fri, 10 Mar 2023 23:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_49/Nw3LB_1678368546130pcfEY_JPEG/1678368451656.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
