@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 02:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 03:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 케이팝? 이제 몸으로 불러드립니다💃🎵🕺 | 7화 예고]]></title>
+            <link>https://tv.naver.com/v/34309064</link>
+            <guid>https://tv.naver.com/v/34309064</guid>
+            <pubDate>Mon, 27 Mar 2023 03:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_221/ptnO5_16796596432732ggm3_JPEG/1679659557325.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비의도적 연애담] 현실에서도 이렇게 귀엽고 멋있으면 반칙이지 | 3-4화 비하인드 메이킹]]></title>
             <link>https://tv.naver.com/v/34290247</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_144/HmLIN_16790344387331okS3_JPEG/1679034428788.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비의도적 연애담] 차서원X공찬 첫 만남, 이렇게 설렘이 시작되는 걸까? | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/34070984</link>
-            <guid>https://tv.naver.com/v/34070984</guid>
-            <pubDate>Fri, 17 Mar 2023 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_182/d0QdJ_1679034376885Msj21_JPEG/1679034270026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
