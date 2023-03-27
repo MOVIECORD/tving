@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 22:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 23:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아워게임 : LG트윈스] 캡틴 오지환부터 '선발' 김윤식까지⚾ | 주요 선수 소개 영상]]></title>
+            <link>https://tv.naver.com/v/34381970</link>
+            <guid>https://tv.naver.com/v/34381970</guid>
+            <pubDate>Mon, 27 Mar 2023 23:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_137/VnLNh_16799165924362X0dz_JPEG/1679916442941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] 케이팝? 이제 몸으로 불러드립니다💃🎵🕺 | 7화 예고]]></title>
             <link>https://tv.naver.com/v/34309064</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_170/7CV4M_16790344249946VY96_JPEG/1679034381616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비의도적 연애담] 손 케미도 설레💕 공찬도 심쿵한 차서원의 다정함 | 2화 클립]]></title>
-            <link>https://tv.naver.com/v/34071039</link>
-            <guid>https://tv.naver.com/v/34071039</guid>
-            <pubDate>Fri, 17 Mar 2023 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_144/HmLIN_16790344387331okS3_JPEG/1679034428788.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
