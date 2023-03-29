@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 02:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 03:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] 화이트 블러드 VS 이두나🎤 멈출 수 없는 설렘이 찾아옵니다💕 | 7화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34385138</link>
+            <guid>https://tv.naver.com/v/34385138</guid>
+            <pubDate>Wed, 29 Mar 2023 03:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_164/MIzin_1679921654068pS84A_JPEG/1679921591689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아워게임 : LG트윈스] 캡틴 오지환부터 '선발' 김윤식까지⚾ | 주요 선수 소개 영상 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34381970</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_111/O4Qbm_1679034603358vYLoC_JPEG/1679034548496.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비의도적 연애담] 만취 후 낯선 남자의 집에서 눈 뜬 공찬👀 | 2화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34071107</link>
-            <guid>https://tv.naver.com/v/34071107</guid>
-            <pubDate>Fri, 17 Mar 2023 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_16/C19PD_1679034543366P5v9t_JPEG/1679034505525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
