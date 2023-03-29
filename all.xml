@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 22:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 23:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 타임 호텔] "못 믿어요, 이러면" 치열한 두뇌 싸움 시작 | 메인 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34449642</link>
+            <guid>https://tv.naver.com/v/34449642</guid>
+            <pubDate>Wed, 29 Mar 2023 23:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_98/N746X_1680086113196g2x3e_JPEG/1680086109374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] 더 보여줘 다음 다음 다음 케젠💚 | 샤이니 민호 영업 타임 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34397132</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 19 Mar 2023 02:22:26 GMT</pubDate>
             <content:encoded><![CDATA[8:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_230/8jmBU_1679049108818OB8qv_JPEG/1679048955855.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비의도적 연애담] 차서원x공찬, 아찔한 동거의 시작🏠 | 3화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34080283</link>
-            <guid>https://tv.naver.com/v/34080283</guid>
-            <pubDate>Sat, 18 Mar 2023 09:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_150/2w8TI_1679049086596S60Ti_JPEG/1679048859083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
