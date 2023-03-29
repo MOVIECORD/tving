@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 10:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 11:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 더 보여줘 다음 다음 다음 케젠💚 | 샤이니 민호 영업 타임]]></title>
+            <link>https://tv.naver.com/v/34397132</link>
+            <guid>https://tv.naver.com/v/34397132</guid>
+            <pubDate>Wed, 29 Mar 2023 11:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_83/hjyL6_1679965170155lHljy_JPEG/1679965107577.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[웹툰싱어] 화이트 블러드 VS 이두나🎤 멈출 수 없는 설렘이 찾아옵니다💕 | 7화 예고]]></title>
             <link>https://tv.naver.com/v/34385138</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Mar 2023 09:10:11 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_150/2w8TI_1679049086596S60Ti_JPEG/1679048859083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비의도적 연애담] 차서원 앞에선 전화를 못 받는 공찬의 비밀 | 2화 클립]]></title>
-            <link>https://tv.naver.com/v/34071137</link>
-            <guid>https://tv.naver.com/v/34071137</guid>
-            <pubDate>Fri, 17 Mar 2023 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_111/O4Qbm_1679034603358vYLoC_JPEG/1679034548496.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
