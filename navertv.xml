@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 02:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 03:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBTI vs 사주] ✨세계최초✨ MBTI, 사주만으로 매칭한 단체 소개팅?! | 티저 예고]]></title>
+            <link>https://tv.naver.com/v/34465689</link>
+            <guid>https://tv.naver.com/v/34465689</guid>
+            <pubDate>Thu, 30 Mar 2023 03:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_81/XZ2eS_1680137595386fwyl1_JPEG/1680137528237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 타임 호텔] "못 믿어요, 이러면" 치열한 두뇌 싸움 시작 | 메인 예고]]></title>
             <link>https://tv.naver.com/v/34449642</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Mar 2023 03:11:47 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_206/Ay5MR_16790589380821J4Hw_JPEG/1679058818323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비의도적 연애담] 꿀 떨어지는 심쿵 촬영 현장💜 | 1-2화 비하인드 메이킹]]></title>
-            <link>https://tv.naver.com/v/34080295</link>
-            <guid>https://tv.naver.com/v/34080295</guid>
-            <pubDate>Sun, 19 Mar 2023 02:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[8:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_230/8jmBU_1679049108818OB8qv_JPEG/1679048955855.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
