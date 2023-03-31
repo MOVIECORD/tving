@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 02:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 03:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아워게임 : LG트윈스] "선배가 얘기를 하면은..#@^&!!!" 선수님 혹시 꼰....(크흠) | 3-4화 예고]]></title>
+            <link>https://tv.naver.com/v/34505644</link>
+            <guid>https://tv.naver.com/v/34505644</guid>
+            <pubDate>Fri, 31 Mar 2023 03:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_130/uFspX_1680229880389eANde_JPEG/1680229807522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아워게임 : LG트윈스] 오지환X문보경 환상 콤비! 이게 바로 야구 보는 맛 아입니까~ | 2화 클]]></title>
             <link>https://tv.naver.com/v/34485984</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Mar 2023 09:10:59 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_287/L0l76_1679487432515OGRj3_JPEG/1679487346925.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 진취적이고 욕망하는 여성들을 위한 무대! 정년이 X 김예림 'LION'🦁 | 6화 클립]]></title>
-            <link>https://tv.naver.com/v/34235330</link>
-            <guid>https://tv.naver.com/v/34235330</guid>
-            <pubDate>Fri, 24 Mar 2023 09:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_194/HNh9m_1679487332617IhuAI_JPEG/1679487286835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
