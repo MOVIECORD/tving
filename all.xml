@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 08:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 09:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 31 Mar 2023 11:09:02 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_26/2qfeg_1680253059520hBpK7_JPEG/1680252857310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비의도적 연애담] 본격적으로 연애 시작하는 차서원X공찬 | 7화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34512202</link>
+            <guid>https://tv.naver.com/v/34512202</guid>
+            <pubDate>Sat, 01 Apr 2023 09:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_239/g71zS_1680242669885Tn02S_JPEG/1680242601078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[비의도적 연애담] 드디어 마음이 통하나? 차서원X공찬의 입맞춤 | 6화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 03:11:45 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_81/XZ2eS_1680137595386fwyl1_JPEG/1680137528237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] "못 믿어요, 이러면" 치열한 두뇌 싸움 시작 | 메인 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34449642</link>
-            <guid>https://tv.naver.com/v/34449642</guid>
-            <pubDate>Wed, 29 Mar 2023 23:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_98/N746X_1680086113196g2x3e_JPEG/1680086109374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
