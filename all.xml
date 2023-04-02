@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 04:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 05:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#아워게임 : LG트윈스 본격 덕질터뷰 | LG트윈스 다큐에 찐팬의 등판이라⚾ (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34524212</link>
+            <guid>https://tv.naver.com/v/34524212</guid>
+            <pubDate>Sun, 02 Apr 2023 05:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[5:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_249/02qws_1680264674650TK2oT_JPEG/1680264586138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방과 후 전쟁활동] 김수겸한테 암살 시도 당하고 괴생명체까지 만난 김기해?! | 2화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34518992</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 02 Apr 2023 00:53:05 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_35/8dR3i_1680155149323rb4Xb_JPEG/1680155105446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방과 후 전쟁활동] 우리, 총 들기 전의 모습으로 돌아갈 수 있을까? | 하이라이트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34472844</link>
-            <guid>https://tv.naver.com/v/34472844</guid>
-            <pubDate>Thu, 30 Mar 2023 06:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_50/LPINq_16801512725814IyiS_JPEG/1680151104484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
