@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 00:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 02:03:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 31 Mar 2023 11:09:02 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_26/2qfeg_1680253059520hBpK7_JPEG/1680252857310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비의도적 연애담] 나노 단위로 봐도 촬영 현장은 설렘 그 자체😋 | 5-6화 비하인드 클립]]></title>
+            <link>https://tv.naver.com/v/34512219</link>
+            <guid>https://tv.naver.com/v/34512219</guid>
+            <pubDate>Sun, 02 Apr 2023 02:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[7:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_66/aYNL1_1680242690701PyHWs_JPEG/1680242609506.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[비의도적 연애담] 본격적으로 연애 시작하는 차서원X공찬 | 7화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 06:14:08 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_50/LPINq_16801512725814IyiS_JPEG/1680151104484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 고백 장면을 그대로 옮겨온 무대😭 영재의 '너는 내 세상이었어' | 7화 선공개]]></title>
-            <link>https://tv.naver.com/v/34469260</link>
-            <guid>https://tv.naver.com/v/34469260</guid>
-            <pubDate>Thu, 30 Mar 2023 05:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_95/jgBxk_1680144578157Tnt8a_JPEG/1680144436664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
