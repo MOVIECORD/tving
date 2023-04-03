@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 02:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 03:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[케이팝 제너레이션] 중요한 건 꺾이지 않는 덕심? 넥스트 K-POP을 위한 길 | 8화 예고]]></title>
+            <link>https://tv.naver.com/v/34525525</link>
+            <guid>https://tv.naver.com/v/34525525</guid>
+            <pubDate>Mon, 03 Apr 2023 03:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_3/UFk76_1680267449774dAhbg_JPEG/1680267374066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#아워게임 : LG트윈스 본격 덕질터뷰 | LG트윈스 다큐에 찐팬의 등판이라⚾]]></title>
             <link>https://tv.naver.com/v/34524212</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 10:11:58 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_269/uvRAH_1680168499357NjKCE_JPEG/1680168457511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 카메라 앞에선 제법 수줍은 편🤭 '리얼'한 워밍업 현장 | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/34485876</link>
-            <guid>https://tv.naver.com/v/34485876</guid>
-            <pubDate>Thu, 30 Mar 2023 10:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_254/RAKJC_16801684473869fjv5_JPEG/1680168402210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
