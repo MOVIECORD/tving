@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 00:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 02:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Mon, 03 Apr 2023 23:10:26 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_249/dLkLL_1680527727075C9Cff_JPEG/1680527588626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 취미는 멘사 퀴즈 풀기, IQ158 브레인 등장 | 김남희 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34591412</link>
+            <guid>https://tv.naver.com/v/34591412</guid>
+            <pubDate>Tue, 04 Apr 2023 02:04:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_37/Tg1ce_1680525858356uWp4l_JPEG/1680525822936.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 모두의 경계 대상 1호, 경력자 온다 | 홍진호 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34591359</link>
+            <guid>https://tv.naver.com/v/34591359</guid>
+            <pubDate>Tue, 04 Apr 2023 02:04:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_117/6RxyE_1680525768375j13gP_JPEG/1680525725483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 맑눈광이 뭐냐고요? 그럴땐 게임하는 존박을 보세요 | 존박 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34591320</link>
+            <guid>https://tv.naver.com/v/34591320</guid>
+            <pubDate>Tue, 04 Apr 2023 02:04:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_56/lX80Q_1680525716635fbq9A_JPEG/1680525668488.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] 중요한 건 꺾이지 않는 덕심? 넥스트 K-POP을 위한 길 | 8화 예고 (TVING ─ NAVER TV)]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 10:11:58 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_152/oprir_1680168660154hRWSg_JPEG/1680168637435.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 이거...맞아...? 믿고 싶지 않은 연속 홈런😨 | 2화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34485971</link>
-            <guid>https://tv.naver.com/v/34485971</guid>
-            <pubDate>Thu, 30 Mar 2023 10:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_32/s5zwA_16801686329194sRRy_JPEG/1680168610916.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 2군에서 1군, 1군에서 선발이 되기까지! 김윤식의 성장일기 | 2화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34485960</link>
-            <guid>https://tv.naver.com/v/34485960</guid>
-            <pubDate>Thu, 30 Mar 2023 10:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_259/VbZJ0_1680168603105ScW5q_JPEG/1680168546263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 고우석 마운드 등판! 아웃 진행 시켜👆 | 1화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34485925</link>
-            <guid>https://tv.naver.com/v/34485925</guid>
-            <pubDate>Thu, 30 Mar 2023 10:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_154/3QowH_1680168535003gD2pn_JPEG/1680168505555.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
