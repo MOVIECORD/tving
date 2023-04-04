@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 06:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 07:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 04 Apr 2023 02:04:08 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_56/lX80Q_1680525716635fbq9A_JPEG/1680525668488.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방과 후 전쟁활동] 구체 다 덤벼👾 전투력 상승한 2소대 | 훈련병 생활 비하인드 메이킹]]></title>
+            <link>https://tv.naver.com/v/34591260</link>
+            <guid>https://tv.naver.com/v/34591260</guid>
+            <pubDate>Tue, 04 Apr 2023 07:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[6:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_97/OGV8j_1680525632965H9WEU_JPEG/1680525513156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] 중요한 건 꺾이지 않는 덕심? 넥스트 K-POP을 위한 길 | 8화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 09:11:11 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_133/K8nLn_1680175758790eayy8_JPEG/1680175689714.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 오지환X문보경 환상 콤비! 이게 바로 야구 보는 맛 아입니까~ | 2화 클]]></title>
-            <link>https://tv.naver.com/v/34485984</link>
-            <guid>https://tv.naver.com/v/34485984</guid>
-            <pubDate>Thu, 30 Mar 2023 10:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_152/oprir_1680168660154hRWSg_JPEG/1680168637435.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
