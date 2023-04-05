@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 00:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 01:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Wed, 05 Apr 2023 00:41:13 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230404_99/xTplX_1680611041198cRN6t_JPEG/1680610896159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 충.성🫡 반전 포커페이스 신병 인사드립니다  | 김현규 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34612348</link>
+            <guid>https://tv.naver.com/v/34612348</guid>
+            <pubDate>Wed, 05 Apr 2023 01:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_267/MzEi2_1680588754042bO92r_JPEG/1680588716252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 브레인들의 게임에 킹 스미스(?)의 등장이라 | 황제성 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34612315</link>
+            <guid>https://tv.naver.com/v/34612315</guid>
+            <pubDate>Wed, 05 Apr 2023 01:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_72/PG10h_1680588708228iwgV1_JPEG/1680588676328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 팬들한테 C++ 강의 해주는 미시간 공대 엘리트 등장 | 클로이 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34612279</link>
+            <guid>https://tv.naver.com/v/34612279</guid>
+            <pubDate>Wed, 05 Apr 2023 01:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_11/PrYdQ_16805886681835SK2D_JPEG/1680588635177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[우리가 사랑했던 모든 것] 열여덟, 그 시절🌸 하이틴 로맨스 | 티저 예고 (TVING ─ NAVER TV)]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 07:09:51 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_103/MJwm9_1680230125027imVAx_JPEG/1680230117987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] "선배가 얘기를 하면은..#@^&!!!" 선수님 혹시 꼰....(크흠) | 3-4화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34505644</link>
-            <guid>https://tv.naver.com/v/34505644</guid>
-            <pubDate>Fri, 31 Mar 2023 03:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_130/uFspX_1680229880389eANde_JPEG/1680229807522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 과몰입 환자들의 질문 폭발💥 가 원픽 명장면! | 7화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34489692</link>
-            <guid>https://tv.naver.com/v/34489692</guid>
-            <pubDate>Fri, 31 Mar 2023 09:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_34/2UjRX_1680175863653xFQcw_JPEG/1680175817518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] '이두나!' 속 드림스윗 소환 완료💫 '케플러'의 당찬 무대! 'WANNABE' | 7화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34489665</link>
-            <guid>https://tv.naver.com/v/34489665</guid>
-            <pubDate>Fri, 31 Mar 2023 09:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_62/igzGp_1680175808912jF3F4_JPEG/1680175765550.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
