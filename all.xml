@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 02:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 03:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰싱어] 하이브 VS 급식아빠🎤 레전드 작품과 무대 장인들의 완벽 싱크로💯 | 8화 예 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34639465</link>
+            <guid>https://tv.naver.com/v/34639465</guid>
+            <pubDate>Wed, 05 Apr 2023 03:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230405_187/6ZM8Q_1680661986206jqEh6_JPEG/1680661598715.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBTI vs 사주] 오직 궁합으로만 매칭! 운명의 짝을 찾기 위한 신박한 소개팅💘 | 메인 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34625418</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 07:09:51 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_207/2I16u_1680230433237rPOOU_JPEG/1680230132572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] 세븐틴 찰떡안무의 비결? 일상에서 영감 받는 호시X백구영 | 7화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34505788</link>
-            <guid>https://tv.naver.com/v/34505788</guid>
-            <pubDate>Fri, 31 Mar 2023 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_103/MJwm9_1680230125027imVAx_JPEG/1680230117987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
