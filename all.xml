@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 00:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 02:01:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 석양이 싫어요 해가 '지니까' 승부욕 100% 반전 승부사 | 신지연 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34668015</link>
+            <guid>https://tv.naver.com/v/34668015</guid>
+            <pubDate>Thu, 06 Apr 2023 02:01:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230405_293/31pfo_1680703976595r3she_JPEG/1680703954373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 젊음이 무기, 암기와 스피드로 승부한다  | 래원 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34668002</link>
+            <guid>https://tv.naver.com/v/34668002</guid>
+            <pubDate>Thu, 06 Apr 2023 02:01:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230405_50/xxb1s_1680703949030DKCMq_JPEG/1680703929570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 서바이벌 프로 과몰입러! 호텔을 무대삼아 입성!  | 모니카 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34667984</link>
+            <guid>https://tv.naver.com/v/34667984</guid>
+            <pubDate>Thu, 06 Apr 2023 02:01:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230405_77/BOvJ5_16807039224079we8q_JPEG/1680703884428.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[웹툰싱어] 하이브 VS 급식아빠🎤 레전드 작품과 무대 장인들의 완벽 싱크로💯 | 8화 예 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34639465</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 09:11:11 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_268/DTCVa_1680241566749WYTSA_JPEG/1680241445679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] 케플러 AI 설?! 자로 잰 듯 정확한 칼군무📐 | 7화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34505997</link>
-            <guid>https://tv.naver.com/v/34505997</guid>
-            <pubDate>Fri, 31 Mar 2023 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_21/vltwZ_1680230556561VD4Xj_JPEG/1680230525510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] "이게 되네..?" 에스파의 NEXT LEVEL 디귿 춤 탄생 비화✨ | 7화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34505958</link>
-            <guid>https://tv.naver.com/v/34505958</guid>
-            <pubDate>Fri, 31 Mar 2023 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_279/4NNzI_1680230476242f32JH_JPEG/1680230439793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션]🔥초심 잃지 않습니다🔥 7년 차 아이돌 세븐틴 | 7화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34505979</link>
-            <guid>https://tv.naver.com/v/34505979</guid>
-            <pubDate>Fri, 31 Mar 2023 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_300/6S2SO_168023051943803LBG_JPEG/1680230482123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
