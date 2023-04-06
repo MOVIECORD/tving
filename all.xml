@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 09:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 10:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비의도적 연애담] 장의순 감독까지 합세해서 찐 비하인드 썰 푼다 | 코멘터리 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34697532</link>
+            <guid>https://tv.naver.com/v/34697532</guid>
+            <pubDate>Thu, 06 Apr 2023 10:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[23:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_143/o0Ajc_16807746920487Ehso_JPEG/1680774364893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아워게임 : LG트윈스] | LG트윈스 VS 두산⚾ 피할 수 없는 한 지붕 두 가족🏠 | 4화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34695603</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 03 Apr 2023 03:10:56 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_3/UFk76_1680267449774dAhbg_JPEG/1680267374066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#아워게임 : LG트윈스 본격 덕질터뷰 | LG트윈스 다큐에 찐팬의 등판이라⚾ (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34524212</link>
-            <guid>https://tv.naver.com/v/34524212</guid>
-            <pubDate>Sun, 02 Apr 2023 05:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[5:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_249/02qws_1680264674650TK2oT_JPEG/1680264586138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
