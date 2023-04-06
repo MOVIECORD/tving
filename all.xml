@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 04:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 05:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 06 Apr 2023 02:01:14 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230405_77/BOvJ5_16807039224079we8q_JPEG/1680703884428.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웹툰싱어] 취향 저격! 화끈한 아포칼립스의 맛🐜 하이브X엔플라잉 'MONSTER' | 8화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34666599</link>
+            <guid>https://tv.naver.com/v/34666599</guid>
+            <pubDate>Thu, 06 Apr 2023 05:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230405_44/0VetE_1680701438396iCg53_JPEG/1680701303439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[웹툰싱어] 하이브 VS 급식아빠🎤 레전드 작품과 무대 장인들의 완벽 싱크로💯 | 8화 예 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 09:11:11 GMT</pubDate>
             <content:encoded><![CDATA[4:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_32/ANJDd_1680241573018KoEFL_JPEG/1680241471742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비의도적 연애담] 뽀뽀도 하고…? 도우가 무조건 들어줘야 하는 원태민의 소원 | 5화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34511573</link>
-            <guid>https://tv.naver.com/v/34511573</guid>
-            <pubDate>Fri, 31 Mar 2023 09:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_268/DTCVa_1680241566749WYTSA_JPEG/1680241445679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
