@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 20:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 21:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 07 Apr 2023 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_151/1PmsO_16808497448281zXpH_JPEG/1680849374987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비의도적 연애담] 신뢰 회복 심쿵 완료!? 두 커플, 네 사람의 엔딩 | 9화 예고]]></title>
+            <link>https://tv.naver.com/v/34729404</link>
+            <guid>https://tv.naver.com/v/34729404</guid>
+            <pubDate>Fri, 07 Apr 2023 21:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_100/0xP4J_1680849597697mJuug_JPEG/1680849436080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[방과 후 전쟁활동] 전우애로 뭉친 2소대의 참우정💜 | 즐거운 현장 비하인드 메이킹]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Apr 2023 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[2:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230405_233/0w1bV_1680701644980kxWHV_JPEG/1680701610753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 내 편일땐 든든, 남 일땐 덜덜! 급식아빠 X 카드(KARD) '품행제로'😎 | 8화 클립]]></title>
-            <link>https://tv.naver.com/v/34666701</link>
-            <guid>https://tv.naver.com/v/34666701</guid>
-            <pubDate>Fri, 07 Apr 2023 09:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230405_27/ObqON_1680701597542iL7Jf_JPEG/1680701554569.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
