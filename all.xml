@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 04:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 05:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아워게임 : LG트윈스] 열심히 훈련한 당신, 쉬어라! 선수들의 여름방학 엿보기 | 5-6화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34720938</link>
+            <guid>https://tv.naver.com/v/34720938</guid>
+            <pubDate>Fri, 07 Apr 2023 05:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_96/o3lMh_1680836879932HJfhy_JPEG/1680836783361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비의도적 연애담] 장의순 감독까지 합세해서 찐 비하인드 썰 푼다 | 코멘터리 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34697532</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Apr 2023 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[6:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_97/OGV8j_1680525632965H9WEU_JPEG/1680525513156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[케이팝 제너레이션] 중요한 건 꺾이지 않는 덕심? 넥스트 K-POP을 위한 길 | 8화 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34525525</link>
-            <guid>https://tv.naver.com/v/34525525</guid>
-            <pubDate>Mon, 03 Apr 2023 03:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_3/UFk76_1680267449774dAhbg_JPEG/1680267374066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
