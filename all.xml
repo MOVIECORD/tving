@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 10:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 11:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 07 Apr 2023 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_151/1PmsO_16808497448281zXpH_JPEG/1680849374987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방과 후 전쟁활동] 전우애로 뭉친 2소대의 참우정💜 | 즐거운 현장 비하인드 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34726964</link>
+            <guid>https://tv.naver.com/v/34726964</guid>
+            <pubDate>Fri, 07 Apr 2023 11:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[7:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_92/J4SCd_16808460757200EgXy_JPEG/1680845711113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[케이팝 제너레이션] VR 세계에 과몰입 했다가 많은 걸 배운 로켓펀치 쥬리🚀 | 8화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Apr 2023 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230405_27/ObqON_1680701597542iL7Jf_JPEG/1680701554569.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰싱어] 애간장 조리사 자격증이라도 취득하셨나? 하이브X김태우 '떠나지마' | 8화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34666673</link>
-            <guid>https://tv.naver.com/v/34666673</guid>
-            <pubDate>Fri, 07 Apr 2023 09:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230405_245/GoT24_1680701540790031EQ_JPEG/1680701446905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
