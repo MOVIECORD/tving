@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 06:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 07:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방과 후 전쟁활동] 2소대 헤쳐모여🔥 전쟁 다음은 오락이다🎮 | 방과 후 오락활동 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34741064</link>
+            <guid>https://tv.naver.com/v/34741064</guid>
+            <pubDate>Sun, 09 Apr 2023 07:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[10:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_35/yzPV2_1680871031082TQj6Y_JPEG/1680870964271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비의도적 연애담] 차서원에게 마지막으로 진심을 호소하는 공찬  | 8화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34729544</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Apr 2023 02:01:14 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230405_50/xxb1s_1680703949030DKCMq_JPEG/1680703929570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 서바이벌 프로 과몰입러! 호텔을 무대삼아 입성!  | 모니카 편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34667984</link>
-            <guid>https://tv.naver.com/v/34667984</guid>
-            <pubDate>Thu, 06 Apr 2023 02:01:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230405_77/BOvJ5_16807039224079we8q_JPEG/1680703884428.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
