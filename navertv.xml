@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 23:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 00:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 오세훈X조준영X장여빈 비주얼 케미 폭발💖ㅣ대본 리딩 영상]]></title>
+            <link>https://tv.naver.com/v/34852489</link>
+            <guid>https://tv.naver.com/v/34852489</guid>
+            <pubDate>Wed, 12 Apr 2023 00:48:40 GMT</pubDate>
+            <content:encoded><![CDATA[7:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_106/lPisB_1681212694829ypdDj_JPEG/1681212591002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아워게임 : LG트윈스] 신의 방망이라던 김현수's 배트가 불러온 결과...?!⚾ | 5화 선공개]]></title>
             <link>https://tv.naver.com/v/34841032</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Apr 2023 09:10:22 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230406_60/bSj74_1680770876959gk1TX_JPEG/1680770822331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 유강남이 부릅니다. 🎶보여줄게 완전히 달라진 나🎵 | 3화 클립]]></title>
-            <link>https://tv.naver.com/v/34695476</link>
-            <guid>https://tv.naver.com/v/34695476</guid>
-            <pubDate>Thu, 06 Apr 2023 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_58/fpdbQ_1680770817695KbzhO_JPEG/1680770780146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
