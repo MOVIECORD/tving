@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 02:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 03:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 경력직의 빠른 스캔 완. "할만한데?" | 1화 선공개]]></title>
+            <link>https://tv.naver.com/v/34868717</link>
+            <guid>https://tv.naver.com/v/34868717</guid>
+            <pubDate>Wed, 12 Apr 2023 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[5:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_43/xfhp3_1681266583866K692d_JPEG/1681266551021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 한 사람이 체크아웃될 때까지, 운명이 달린 가위바위보! | 1화 선공개]]></title>
+            <link>https://tv.naver.com/v/34868691</link>
+            <guid>https://tv.naver.com/v/34868691</guid>
+            <pubDate>Wed, 12 Apr 2023 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_238/8oAD5_1681266545823CcclA_JPEG/1681266491511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[우리가 사랑했던 모든 것] 오세훈X조준영X장여빈 비주얼 케미 폭발💖ㅣ대본 리딩 영상]]></title>
             <link>https://tv.naver.com/v/34852489</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 06 Apr 2023 09:10:22 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230406_299/TdHD7_1680771021605ChfRI_JPEG/1680770941007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 핵심만 말하는 토커 임찬규와 알잘딱깔센 리스너 켈리 | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/34695538</link>
-            <guid>https://tv.naver.com/v/34695538</guid>
-            <pubDate>Thu, 06 Apr 2023 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_279/pP1Tg_1680770932243gSICa_JPEG/1680770882020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 형들의 격려에 터져 나온 눈물😥 쏘스윗 트윈스💗 | 3화 클립]]></title>
-            <link>https://tv.naver.com/v/34695506</link>
-            <guid>https://tv.naver.com/v/34695506</guid>
-            <pubDate>Thu, 06 Apr 2023 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_60/bSj74_1680770876959gk1TX_JPEG/1680770822331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
