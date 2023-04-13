@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 10:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 11:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 13 Apr 2023 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[2:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_265/jKg6q_1681372135396xLt7K_JPEG/1681372064981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBTI vs 사주] 똑같은 사주를 타고난 둘의 기막힌 공통점😮 | 미공개 영상]]></title>
+            <link>https://tv.naver.com/v/34918513</link>
+            <guid>https://tv.naver.com/v/34918513</guid>
+            <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[11:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_53/is9O7_1681369489356P1xUn_JPEG/1681369451548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 타임 호텔] 더 이상 기브앤테이크는 믿지 않음. 테이크만 있을 뿐 | 4화 클립]]></title>
@@ -160,6 +168,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_244/eh6es_1681368984047mIkBp_JPEG/1681368936889.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MBTI vs 사주] (커플탄생) MBTI 매칭 소개팅과 사주 매칭 소개팅 커플 수는?! | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/34890885</link>
+            <guid>https://tv.naver.com/v/34890885</guid>
+            <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_117/XkYDb_1681300342161LhoaI_JPEG/1681300155080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBTI vs 사주] 학구형 INTJ와 재미형 ENFP의 소개팅은...?! | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/34890875</link>
+            <guid>https://tv.naver.com/v/34890875</guid>
+            <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_68/hQC1l_1681300315154CY8kS_JPEG/1681300151092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBTI vs 사주] 슬픈 영상을 보고 울지 않는 유형은 T vs 금을 가진 사람?! | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/34890848</link>
+            <guid>https://tv.naver.com/v/34890848</guid>
+            <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_101/9FzHl_1681300285251Qx8aP_JPEG/1681300240749.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBTI vs 사주] 나서서 춤추는 사람들은 E vs 식상 중 무엇이 더 크게 작용할까? | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/34890820</link>
+            <guid>https://tv.naver.com/v/34890820</guid>
+            <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_7/G0pmX_1681300235150SEfO8_JPEG/1681300142973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBTI vs 사주] 진짜 나를 찾기 위해 MBTI vs 사주 실험에 참여한 150명의 사람들! | 1화 클립]]></title>
+            <link>https://tv.naver.com/v/34890800</link>
+            <guid>https://tv.naver.com/v/34890800</guid>
+            <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_39/E3M1R_16813002066987Jnqy_JPEG/1681300138612.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[더 타임 호텔] "탈락자를 만들 수 있지" 모두를 술렁이게한 타임 뱅크의 실체! | 2화 클립]]></title>
             <link>https://tv.naver.com/v/34884519</link>
             <guid>https://tv.naver.com/v/34884519</guid>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 12 Apr 2023 09:10:13 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_147/MzQQZ_1681289264897fdhks_JPEG/1681289004087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 아무튼 제일 큰 숫자를 만들면 이깁니다 | 2화 클립]]></title>
-            <link>https://tv.naver.com/v/34884502</link>
-            <guid>https://tv.naver.com/v/34884502</guid>
-            <pubDate>Wed, 12 Apr 2023 09:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[7:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_125/Ervnx_1681289260435kyGFF_JPEG/1681288960420.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] VIP특권?! 스위트룸 초청 기준! 그분이 제일 배신 안 할 것 같아요 | 2화 클립]]></title>
-            <link>https://tv.naver.com/v/34884497</link>
-            <guid>https://tv.naver.com/v/34884497</guid>
-            <pubDate>Wed, 12 Apr 2023 09:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_78/1beTb_1681289255376aRLWt_JPEG/1681288943663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 이게 되네...행동력에 운빨이 더해졌을때 | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/34883210</link>
-            <guid>https://tv.naver.com/v/34883210</guid>
-            <pubDate>Wed, 12 Apr 2023 09:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_178/fEDQF_1681287788479zF1YH_JPEG/1681287759746.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 호락호락하게 제 패를 보여드리...겠냐? | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/34883062</link>
-            <guid>https://tv.naver.com/v/34883062</guid>
-            <pubDate>Wed, 12 Apr 2023 09:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_39/X5Hf0_1681287641221nqkih_JPEG/1681287387923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 뒤를 조심하세요..시도도 못한 판 흔들기 | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/34883038</link>
-            <guid>https://tv.naver.com/v/34883038</guid>
-            <pubDate>Wed, 12 Apr 2023 09:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_184/n5RXM_1681287620780k8dez_JPEG/1681287358987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 시간 결제 좀만 더 할걸걸걸🦜충격 1찬 정식의 정체 | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/34883030</link>
-            <guid>https://tv.naver.com/v/34883030</guid>
-            <pubDate>Wed, 12 Apr 2023 09:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[7:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_275/d5blw_1681287610652OUgXs_JPEG/1681287300983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
