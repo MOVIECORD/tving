@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 06:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 07:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아워게임 : LG트윈스] 투수들의 이유있는 자신감과 '그 날' 플럿코에게 생긴 일 | 7화 예고]]></title>
+            <link>https://tv.naver.com/v/34952218</link>
+            <guid>https://tv.naver.com/v/34952218</guid>
+            <pubDate>Fri, 14 Apr 2023 07:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_216/SP03D_1681450537861SMAG1_JPEG/1681450435780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아워게임 : LG트윈스] 선배한테 사랑받는 법? 어렵지 않아요^^ | 6화 클립]]></title>
             <link>https://tv.naver.com/v/34920591</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Apr 2023 09:10:13 GMT</pubDate>
             <content:encoded><![CDATA[5:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_167/ax4bZ_16812892687529Bfdk_JPEG/1681289038184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 남의 팀 연합 작전 한 가운데서 밥 먹는 기분이란..ㅎ | 2화 클립]]></title>
-            <link>https://tv.naver.com/v/34884505</link>
-            <guid>https://tv.naver.com/v/34884505</guid>
-            <pubDate>Wed, 12 Apr 2023 09:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_147/MzQQZ_1681289264897fdhks_JPEG/1681289004087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
