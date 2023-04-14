@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 10:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 11:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_265/jKg6q_1681372135396xLt7K_JPEG/1681372064981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MBTI vs 사주] 똑같은 사주를 타고난 둘의 기막힌 공통점😮 | 미공개 영상]]></title>
-            <link>https://tv.naver.com/v/34918513</link>
-            <guid>https://tv.naver.com/v/34918513</guid>
-            <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[11:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_53/is9O7_1681369489356P1xUn_JPEG/1681369451548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[더 타임 호텔] 더 이상 기브앤테이크는 믿지 않음. 테이크만 있을 뿐 | 4화 클립]]></title>
             <link>https://tv.naver.com/v/34918496</link>
             <guid>https://tv.naver.com/v/34918496</guid>
@@ -110,6 +102,14 @@
             <pubDate>Thu, 13 Apr 2023 09:11:14 GMT</pubDate>
             <content:encoded><![CDATA[6:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_281/e8GOP_1681369446869BaKyn_JPEG/1681369339535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBTI vs 사주] 똑같은 사주를 타고난 둘의 기막힌 공통점😮 | 미공개 영상]]></title>
+            <link>https://tv.naver.com/v/34918513</link>
+            <guid>https://tv.naver.com/v/34918513</guid>
+            <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[11:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_38/3cRN4_1681470279142xBgMT_JPEG/1681470274239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 타임 호텔] "내가 널 오해했구나!" 소박함에 경계해제된 홍진호 | 4화 클립]]></title>
