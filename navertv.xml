@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 06:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 07:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_244/eh6es_1681368984047mIkBp_JPEG/1681368936889.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MBTI vs 사주] 성공할 사주가 정해져 있다고? | 2화 예고]]></title>
+            <link>https://tv.naver.com/v/34906725</link>
+            <guid>https://tv.naver.com/v/34906725</guid>
+            <pubDate>Sat, 15 Apr 2023 07:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_70/w76Y3_1681351441388dsyQp_JPEG/1681351326588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MBTI vs 사주] (커플탄생) MBTI 매칭 소개팅과 사주 매칭 소개팅 커플 수는?! | 1화 클립]]></title>
             <link>https://tv.naver.com/v/34890885</link>
             <guid>https://tv.naver.com/v/34890885</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
             <content:encoded><![CDATA[4:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_101/9FzHl_1681300285251Qx8aP_JPEG/1681300240749.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBTI vs 사주] 나서서 춤추는 사람들은 E vs 식상 중 무엇이 더 크게 작용할까? | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/34890820</link>
-            <guid>https://tv.naver.com/v/34890820</guid>
-            <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[4:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_7/G0pmX_1681300235150SEfO8_JPEG/1681300142973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
