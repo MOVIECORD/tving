@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 02:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 03:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 14 Apr 2023 07:09:31 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_216/SP03D_1681450537861SMAG1_JPEG/1681450435780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] 위험하지만 멈출 수 없어ㅣ위험한 정사ㅣ공식 예고편]]></title>
+            <link>https://tv.naver.com/v/34951825</link>
+            <guid>https://tv.naver.com/v/34951825</guid>
+            <pubDate>Sat, 15 Apr 2023 03:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_28/eOOVF_1681449988605WqI4F_JPEG/1681449872245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아워게임 : LG트윈스] 선배한테 사랑받는 법? 어렵지 않아요^^ | 6화 클립]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
             <content:encoded><![CDATA[4:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_7/G0pmX_1681300235150SEfO8_JPEG/1681300142973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBTI vs 사주] 진짜 나를 찾기 위해 MBTI vs 사주 실험에 참여한 150명의 사람들! | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/34890800</link>
-            <guid>https://tv.naver.com/v/34890800</guid>
-            <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_39/E3M1R_16813002066987Jnqy_JPEG/1681300138612.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
