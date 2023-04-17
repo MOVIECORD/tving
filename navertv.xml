@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 00:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 02:02:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sat, 15 Apr 2023 03:10:43 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_28/eOOVF_1681449988605WqI4F_JPEG/1681449872245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 온다 온다 큰거 온다💥팝콘각 마약왕 게임 | 5화 예고]]></title>
+            <link>https://tv.naver.com/v/34947638</link>
+            <guid>https://tv.naver.com/v/34947638</guid>
+            <pubDate>Mon, 17 Apr 2023 02:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_100/jqIBZ_1681442438903RwOSK_JPEG/1681442401901.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아워게임 : LG트윈스] 선배한테 사랑받는 법? 어렵지 않아요^^ | 6화 클립]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
             <content:encoded><![CDATA[4:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_117/XkYDb_1681300342161LhoaI_JPEG/1681300155080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBTI vs 사주] 학구형 INTJ와 재미형 ENFP의 소개팅은...?! | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/34890875</link>
-            <guid>https://tv.naver.com/v/34890875</guid>
-            <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_68/hQC1l_1681300315154CY8kS_JPEG/1681300151092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
