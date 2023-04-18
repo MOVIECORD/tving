@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 23:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 00:47:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 오세훈X조준영 사로잡은 전학생 장여빈 등장💗 | 메인 예고]]></title>
+            <link>https://tv.naver.com/v/35040230</link>
+            <guid>https://tv.naver.com/v/35040230</guid>
+            <pubDate>Tue, 18 Apr 2023 00:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_18/ydgcw_1681727551336nbYAp_JPEG/1681727479498.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방과 후 전쟁활동] 신현수 없이 남겨진 후 흑화한 2소대?! | 파트2 선공개]]></title>
             <link>https://tv.naver.com/v/34958761</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Apr 2023 09:11:14 GMT</pubDate>
             <content:encoded><![CDATA[4:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_244/eh6es_1681368984047mIkBp_JPEG/1681368936889.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBTI vs 사주] 성공할 사주가 정해져 있다고? | 2화 예고]]></title>
-            <link>https://tv.naver.com/v/34906725</link>
-            <guid>https://tv.naver.com/v/34906725</guid>
-            <pubDate>Sat, 15 Apr 2023 07:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_70/w76Y3_1681351441388dsyQp_JPEG/1681351326588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
