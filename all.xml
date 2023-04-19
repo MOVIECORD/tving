@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 00:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 03:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 디저트] 디저트에 진심인 사람들의 달콤한 전쟁이 시작됐다 🍰ㅣ메인 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35081576</link>
+            <guid>https://tv.naver.com/v/35081576</guid>
+            <pubDate>Wed, 19 Apr 2023 03:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230418_145/qoNg7_1681817733444zHhtC_JPEG/1681817730755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[우리가 사랑했던 모든 것] 오세훈X조준영 사로잡은 전학생 장여빈 등장💗 | 메인 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35040230</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Apr 2023 09:11:14 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_104/aBiDa_1681368996153uK12H_JPEG/1681368781036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 존: 나 단호😤 남들 치트키 쓸 때 일단 정면 승부 간다 | 3화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34918047</link>
-            <guid>https://tv.naver.com/v/34918047</guid>
-            <pubDate>Thu, 13 Apr 2023 09:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[5:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_173/90ynF_1681368990936nz1N0_JPEG/1681368578802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
