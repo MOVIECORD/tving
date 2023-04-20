@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 10:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 11:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Thu, 20 Apr 2023 07:10:31 GMT</pubDate>
             <content:encoded><![CDATA[5:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_260/0LaLf_1681959568484z9D5k_JPEG/1681959492234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방과 후 전쟁활동] 최고의 소대장 신현수의 마지막 인사😭 | 스페셜 비하인드 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35110054</link>
+            <guid>https://tv.naver.com/v/35110054</guid>
+            <pubDate>Thu, 20 Apr 2023 11:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_287/I7DCD_1681886139464mwLop_JPEG/1681885691252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 디저트] 디저트에 진심인 사람들의 달콤한 전쟁이 시작됐다 🍰ㅣ메인 예고 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Apr 2023 11:09:20 GMT</pubDate>
             <content:encoded><![CDATA[11:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_38/3cRN4_1681470279142xBgMT_JPEG/1681470274239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] "내가 널 오해했구나!" 소박함에 경계해제된 홍진호 | 4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34918467</link>
-            <guid>https://tv.naver.com/v/34918467</guid>
-            <pubDate>Thu, 13 Apr 2023 09:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_209/cdmC7_1681369439156xm7iX_JPEG/1681369431788.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
