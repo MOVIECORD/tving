@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 08:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 09:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방과 후 전쟁활동] 2소대 전역하는 거야..? 거짓말이지?😭 | 파트2 비하인드 메이킹]]></title>
+            <link>https://tv.naver.com/v/35202796</link>
+            <guid>https://tv.naver.com/v/35202796</guid>
+            <pubDate>Sun, 23 Apr 2023 09:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[5:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_154/OvfnB_1682082686740yfB03_JPEG/1682082619579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방과 후 전쟁활동] 수능 취소? 고의로 무전기 고장? 2소대에게 피어난 불신😨 | 8화 클립]]></title>
             <link>https://tv.naver.com/v/35200875</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Apr 2023 03:12:57 GMT</pubDate>
             <content:encoded><![CDATA[1:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230418_145/qoNg7_1681817733444zHhtC_JPEG/1681817730755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 오세훈X조준영 사로잡은 전학생 장여빈 등장💗 | 메인 예고]]></title>
-            <link>https://tv.naver.com/v/35040230</link>
-            <guid>https://tv.naver.com/v/35040230</guid>
-            <pubDate>Tue, 18 Apr 2023 00:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_18/ydgcw_1681727551336nbYAp_JPEG/1681727479498.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
