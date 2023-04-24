@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 02:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 03:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 타임 호텔] "이제 움직일 때가 됐지" 존박 흑화하다?| 7화 예고]]></title>
+            <link>https://tv.naver.com/v/35253798</link>
+            <guid>https://tv.naver.com/v/35253798</guid>
+            <pubDate>Mon, 24 Apr 2023 03:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_184/G8v2e_1682301271501LwJJI_JPEG/1682301244530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방과 후 전쟁활동] 2소대 전역하는 거야..? 거짓말이지?😭 | 파트2 비하인드 메이킹]]></title>
             <link>https://tv.naver.com/v/35202796</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 03:11:15 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230419_94/IKQTy_16818662368313U46R_JPEG/1681865920888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBTI vs 사주] [복권 실험] '편재'가 많으면 진짜 당첨 확률이 높을까? | 2화 클립]]></title>
-            <link>https://tv.naver.com/v/35097624</link>
-            <guid>https://tv.naver.com/v/35097624</guid>
-            <pubDate>Fri, 21 Apr 2023 03:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_31/zPUF6_1681866219316YFzMv_JPEG/1681865913855.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
