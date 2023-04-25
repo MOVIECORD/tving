@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 00:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 02:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 우사즈 교복 폼 미쳤다💗 (+🍪있음) | 포스터 촬영 비하인드]]></title>
+            <link>https://tv.naver.com/v/35291396</link>
+            <guid>https://tv.naver.com/v/35291396</guid>
+            <pubDate>Tue, 25 Apr 2023 02:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[4:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_180/YIMmk_1682386104526rjFJU_JPEG/1682386012331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 타임 호텔] "이제 움직일 때가 됐지" 존박 흑화하다?| 7화 예고]]></title>
             <link>https://tv.naver.com/v/35253798</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 03:11:15 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230419_208/Qjf4N_1681866249480VUavq_JPEG/1681865925369.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBTI vs 사주] *놀라운 결과* OO을 가진 사람은 약속 시간을 100% 지킨다! | 2화 클립]]></title>
-            <link>https://tv.naver.com/v/35097631</link>
-            <guid>https://tv.naver.com/v/35097631</guid>
-            <pubDate>Fri, 21 Apr 2023 03:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_94/IKQTy_16818662368313U46R_JPEG/1681865920888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
