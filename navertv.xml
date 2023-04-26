@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 02:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 03:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 25 Apr 2023 11:08:40 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_194/tDhSd_1682413842064HRh9c_JPEG/1682413549346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] 내 꿈을 위한 모험ㅣ스타트렉: 스트레인지 뉴 월드ㅣ티저 예고편]]></title>
+            <link>https://tv.naver.com/v/35302528</link>
+            <guid>https://tv.naver.com/v/35302528</guid>
+            <pubDate>Wed, 26 Apr 2023 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_44/AKiXZ_16824042407534ArVL_JPEG/1682404125906.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[우리가 사랑했던 모든 것] 우사즈 교복 폼 미쳤다💗 (+🍪있음) | 포스터 촬영 비하인드]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Apr 2023 10:11:31 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_185/83zwd_1681983479489cusY7_JPEG/1681983444261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 대망의 마지막 이야기 공개! 전편 몰아보기 가보자고 | 최종화 예고]]></title>
-            <link>https://tv.naver.com/v/35157748</link>
-            <guid>https://tv.naver.com/v/35157748</guid>
-            <pubDate>Thu, 20 Apr 2023 10:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_86/qh0xx_1681981988017HeS8X_JPEG/1681981925958.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
