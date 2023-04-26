@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 00:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 02:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 누구도 믿을 수 없다! 속고 속이는 심리 예측 '온 앤 오프' | 7화 선공개 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35313047</link>
+            <guid>https://tv.naver.com/v/35313047</guid>
+            <pubDate>Wed, 26 Apr 2023 02:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[20:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_114/hlGCI_1682419983721lNpdJ_JPEG/1682419913680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방과 후 전쟁활동] 졸업사진 한 번에 톱스타 총출동하는 3-2반🤣 | 10화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35310016</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Apr 2023 10:11:31 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_86/qh0xx_1681981988017HeS8X_JPEG/1681981925958.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 낚시는 낚시를 낳고🐟 잔머리왕 킹스미스| 5화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35141974</link>
-            <guid>https://tv.naver.com/v/35141974</guid>
-            <pubDate>Thu, 20 Apr 2023 07:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[7:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_59/oBAPP_1681959750073wq4AI_JPEG/1681959717331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
