@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 11:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 12:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 26 Apr 2023 08:15:06 GMT</pubDate>
             <content:encoded><![CDATA[57:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_36/y687g_1682490295665lwf8w_JPEG/1682490179752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방과 후 전쟁활동] 숨겨왔던 방과 후 최강 컨디션 모음🗂️ | 미공개 비하인드 메이킹 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35340440</link>
+            <guid>https://tv.naver.com/v/35340440</guid>
+            <pubDate>Wed, 26 Apr 2023 12:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[7:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_151/S4CIH_1682490046049jo8k3_JPEG/1682489991884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 타임 호텔] 누구도 믿을 수 없다! 속고 속이는 심리 예측 '온 앤 오프' | 7화 선공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 05:09:53 GMT</pubDate>
             <content:encoded><![CDATA[5:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_270/oJyHn_1682052777215N2COr_JPEG/1682052531890.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 언제봐도 가슴이 뻐렁치는 김민성의 그랜드슬램 | 7화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35158536</link>
-            <guid>https://tv.naver.com/v/35158536</guid>
-            <pubDate>Thu, 20 Apr 2023 10:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_279/UrTEs_1681983542217jc6cc_JPEG/1681983512824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
