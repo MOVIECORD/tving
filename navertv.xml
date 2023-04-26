@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 23:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 00:49:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_174/JDlJI_1682079516820YakYu_JPEG/1682079137406.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 충격! 이혼 관찰 리얼리티 컴백 "내가 돈 벌어오는 기계야?"ㅣ1차 티저]]></title>
+            <link>https://tv.naver.com/v/35199664</link>
+            <guid>https://tv.naver.com/v/35199664</guid>
+            <pubDate>Wed, 26 Apr 2023 00:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_98/oLYEt_1682077423715GdY2o_JPEG/1682077287374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[더 디저트] 국밥부장관 성시경의 독설(?) 가득한 '먹을텐데'ㅣ스페셜 티저 예고]]></title>
             <link>https://tv.naver.com/v/35189604</link>
             <guid>https://tv.naver.com/v/35189604</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Apr 2023 07:10:31 GMT</pubDate>
             <content:encoded><![CDATA[7:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_59/oBAPP_1681959750073wq4AI_JPEG/1681959717331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 이건 찐텐 맞는 것 같은데? 주언규의 첫 공조 요청? | 5화 클립]]></title>
-            <link>https://tv.naver.com/v/35141950</link>
-            <guid>https://tv.naver.com/v/35141950</guid>
-            <pubDate>Thu, 20 Apr 2023 07:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[4:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_227/SAZul_1681959698425FC0zm_JPEG/1681959662525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
