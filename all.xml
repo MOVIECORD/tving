@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 10:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 11:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아워게임 : LG트윈스] 마무리는 캡틴이 장식합니다⚾ 역시는 역시👍 | 최종화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35383282</link>
+            <guid>https://tv.naver.com/v/35383282</guid>
+            <pubDate>Thu, 27 Apr 2023 11:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_96/cEGYX_1682581933349XFjdf_JPEG/1682581665195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아워게임 : LG트윈스] "김범석이라 뽑았습니다" LG트윈스 뉴 심장의 등장?! | 최종화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35383251</link>
+            <guid>https://tv.naver.com/v/35383251</guid>
+            <pubDate>Thu, 27 Apr 2023 11:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_35/XEIc9_1682581898742BGjuu_JPEG/1682581672815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아워게임 : LG트윈스] 대한민국 3대 마요 추가 "캡틴 다치지 마요😭" | 최종화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35383124</link>
+            <guid>https://tv.naver.com/v/35383124</guid>
+            <pubDate>Thu, 27 Apr 2023 11:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_85/xLdLv_16825817476303h8dh_JPEG/1682581677877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 디저트] 현실감각 100% 솔직하고 거침없는 출사표! | 달콤살벌 출사표 영상 이민석 편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35375368</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 25 Apr 2023 11:08:40 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_43/U3MRJ_1682413877693VR7II_JPEG/1682413563376.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방과 후 전쟁활동] 사건 이후, 서울로 복귀하려는 2소대 | 9화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35309993</link>
-            <guid>https://tv.naver.com/v/35309993</guid>
-            <pubDate>Tue, 25 Apr 2023 11:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_288/DZqGf_1682413869486a1gQE_JPEG/1682413552917.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방과 후 전쟁활동] 죄수들과의 대치 중, 손 안대고 코풀기 작전 시작하는 2소대 | 9화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35309982</link>
-            <guid>https://tv.naver.com/v/35309982</guid>
-            <pubDate>Tue, 25 Apr 2023 11:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_170/gWCf2_1682413861018EPivn_JPEG/1682413545248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방과 후 전쟁활동] 총성과 함께 사라진 일하, 쓰러진 소연.. 횡설수설하는 영수 | 10화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35310008</link>
-            <guid>https://tv.naver.com/v/35310008</guid>
-            <pubDate>Tue, 25 Apr 2023 11:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_102/zOOqc_1682413889968WNcRM_JPEG/1682413559779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
