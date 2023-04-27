@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 04:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 05:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 디저트] 현실감각 100% 솔직하고 거침없는 출사표! | 달콤살벌 출사표 영상 이민석 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35375368</link>
+            <guid>https://tv.naver.com/v/35375368</guid>
+            <pubDate>Thu, 27 Apr 2023 05:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[6:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_82/zC5zx_1682571075946KHeT7_JPEG/1682571042080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 디저트] 귀여운 얼굴에 승부욕은 최강이지오🔥| 달콤살벌 출사표 영상 박지오 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35375344</link>
+            <guid>https://tv.naver.com/v/35375344</guid>
+            <pubDate>Thu, 27 Apr 2023 05:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[6:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_10/LghKK_1682571037792bMdVO_JPEG/1682570904381.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 디저트] 어떡해.. 최종 발표 중 와장창 떨어지는 초콜렛, 무너지는 억장 | 2화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35371098</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 25 Apr 2023 11:08:40 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_102/zOOqc_1682413889968WNcRM_JPEG/1682413559779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방과 후 전쟁활동] ??: 수능이 취소됐다는데, 웃고 떠들 일이냐고🤬 | 10화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35309973</link>
-            <guid>https://tv.naver.com/v/35309973</guid>
-            <pubDate>Tue, 25 Apr 2023 11:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_15/oXbcC_1682413850910H8gql_JPEG/1682413556241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방과 후 전쟁활동] 진정한 친구가 된 이연X권은빈, 그리고... | 9화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35309968</link>
-            <guid>https://tv.naver.com/v/35309968</guid>
-            <pubDate>Tue, 25 Apr 2023 11:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_194/tDhSd_1682413842064HRh9c_JPEG/1682413549346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
