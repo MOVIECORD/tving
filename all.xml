@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 04:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 디저트] 더 글로리 연기까지 가능한 더 디저트 셰프 | 달콤살벌 출사표 영상 이승준 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35395561</link>
+            <guid>https://tv.naver.com/v/35395561</guid>
+            <pubDate>Fri, 28 Apr 2023 05:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[4:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_295/3ptmM_1682602720994r8Rsz_JPEG/1682602549398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 디저트] 자기PR 1분으로는 턱 없이 부족한 열정 셰프 | 달콤살벌 출사표 영상 김현종 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35395425</link>
+            <guid>https://tv.naver.com/v/35395425</guid>
+            <pubDate>Fri, 28 Apr 2023 05:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[6:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_141/TXC3N_1682602539485Og4mF_JPEG/1682602467569.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아워게임 : LG트윈스] 마무리는 캡틴이 장식합니다⚾ 역시는 역시👍 | 최종화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35383282</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 26 Apr 2023 02:03:21 GMT</pubDate>
             <content:encoded><![CDATA[20:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_114/hlGCI_1682419983721lNpdJ_JPEG/1682419913680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방과 후 전쟁활동] 졸업사진 한 번에 톱스타 총출동하는 3-2반🤣 | 10화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35310016</link>
-            <guid>https://tv.naver.com/v/35310016</guid>
-            <pubDate>Tue, 25 Apr 2023 11:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_191/Togbd_16824139019062QVrp_JPEG/1682413566870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방과 후 전쟁활동] 학교로 몸을 피한 2소대를 급습한 구체?! | 10화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35309998</link>
-            <guid>https://tv.naver.com/v/35309998</guid>
-            <pubDate>Tue, 25 Apr 2023 11:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_43/U3MRJ_1682413877693VR7II_JPEG/1682413563376.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
