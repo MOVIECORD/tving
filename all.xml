@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 04:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 05:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 디저트] 디저트에도 손 맛이 있다는 걸 아시나요| 달콤살벌 출사표 영상 강초롱 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35395577</link>
+            <guid>https://tv.naver.com/v/35395577</guid>
+            <pubDate>Sat, 29 Apr 2023 05:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[7:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_171/sBKaF_1682602746636FpGe0_JPEG/1682602721966.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 디저트] 더 글로리 연기까지 가능한 더 디저트 셰프 | 달콤살벌 출사표 영상 이승준 편 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35395561</link>
@@ -14,6 +22,22 @@
             <pubDate>Fri, 28 Apr 2023 05:09:47 GMT</pubDate>
             <content:encoded><![CDATA[4:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_295/3ptmM_1682602720994r8Rsz_JPEG/1682602549398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 디저트] 조용하게 우승을 노리는 금손🤚 | 달콤살벌 출사표 영상 홍시현 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35395549</link>
+            <guid>https://tv.naver.com/v/35395549</guid>
+            <pubDate>Sat, 29 Apr 2023 05:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[6:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_158/p4KuT_1682602930108W9Nyw_JPEG/1682602927912.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 디저트] 요리 국가대표의 실력 보여드리겠습니다 | 달콤살벌 출사표 영상 하민재 편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35395524</link>
+            <guid>https://tv.naver.com/v/35395524</guid>
+            <pubDate>Sat, 29 Apr 2023 05:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[6:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_255/a7yh9_1682602672491w6Pba_JPEG/1682602614319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 디저트] 자기PR 1분으로는 턱 없이 부족한 열정 셰프 | 달콤살벌 출사표 영상 김현종 편 (TVING ─ NAVER TV)]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 27 Apr 2023 03:11:19 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_274/k5Brz_1682511348233rw5YB_JPEG/1682511114236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ING터뷰] 1분 1초도 허투루 쓰지 않는 잉터뷰가 왔습니다 | 더 타임 호텔 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35340945</link>
-            <guid>https://tv.naver.com/v/35340945</guid>
-            <pubDate>Wed, 26 Apr 2023 08:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[11:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_282/RgYvH_1682490775291ScHRj_PNG/1682490731647.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[방과 후 전쟁활동] 숨겨왔던 방과 후 최강 컨디션 모음🗂️ | 미공개 비하인드 메이킹 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35340440</link>
-            <guid>https://tv.naver.com/v/35340440</guid>
-            <pubDate>Wed, 26 Apr 2023 12:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[7:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_151/S4CIH_1682490046049jo8k3_JPEG/1682489991884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 누구도 믿을 수 없다! 속고 속이는 심리 예측 '온 앤 오프' | 7화 선공개 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35313047</link>
-            <guid>https://tv.naver.com/v/35313047</guid>
-            <pubDate>Wed, 26 Apr 2023 02:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[20:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_114/hlGCI_1682419983721lNpdJ_JPEG/1682419913680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
