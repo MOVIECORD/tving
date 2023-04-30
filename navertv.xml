@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 04:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 05:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 디저트] MZ에게서 느껴지는 아재의 향기| 달콤살벌 출사표 영상 최예나 편]]></title>
+            <link>https://tv.naver.com/v/35395687</link>
+            <guid>https://tv.naver.com/v/35395687</guid>
+            <pubDate>Sun, 30 Apr 2023 05:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[6:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_114/Ic2Wn_1682602920386cE0Qz_JPEG/1682602835405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 디저트] 디저트 꿈나무의 선생님이 이번엔 참가자로!| 달콤살벌 출사표 영상 김명준 편]]></title>
+            <link>https://tv.naver.com/v/35395679</link>
+            <guid>https://tv.naver.com/v/35395679</guid>
+            <pubDate>Sun, 30 Apr 2023 05:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[8:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_2/uMdJi_1682602895622joLmg_JPEG/1682602841909.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 디저트] 프랑스 파리에서 온 8년 경력의 열정  | 달콤살벌 출사표 영상 안수경 편]]></title>
+            <link>https://tv.naver.com/v/35395623</link>
+            <guid>https://tv.naver.com/v/35395623</guid>
+            <pubDate>Sun, 30 Apr 2023 05:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[6:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_297/c9lFr_1682602800882WCzUd_JPEG/1682602777190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 디저트] 디저트에도 손 맛이 있다는 걸 아시나요| 달콤살벌 출사표 영상 강초롱 편]]></title>
             <link>https://tv.naver.com/v/35395577</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 27 Apr 2023 03:11:19 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_90/KEtEp_1682511411799Yd4JW_JPEG/1682511253859.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 옛말 중에 실수는 성공의 어머니라는 게 있습니다 | 7화 클립]]></title>
-            <link>https://tv.naver.com/v/35353521</link>
-            <guid>https://tv.naver.com/v/35353521</guid>
-            <pubDate>Thu, 27 Apr 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_129/iFch3_1682511393623DMFPC_JPEG/1682511213430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 이렇게 배신인가..? 새로운 연합 결성?! #존박 의 선택은 | 7화 클립]]></title>
-            <link>https://tv.naver.com/v/35353510</link>
-            <guid>https://tv.naver.com/v/35353510</guid>
-            <pubDate>Thu, 27 Apr 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_139/1TqG0_168251138294024y5K_JPEG/1682511192755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 통닭이 1500만원? 이제 제법 벅찬 인플레이션 | 7화 클립]]></title>
-            <link>https://tv.naver.com/v/35353487</link>
-            <guid>https://tv.naver.com/v/35353487</guid>
-            <pubDate>Thu, 27 Apr 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_274/k5Brz_1682511348233rw5YB_JPEG/1682511114236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
