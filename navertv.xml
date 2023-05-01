@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 06:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 07:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 자~~선수 입장⏰ 쉴틈 없이 다음 카이로스 게임 가보자고 | 8화 예고]]></title>
+            <link>https://tv.naver.com/v/35478171</link>
+            <guid>https://tv.naver.com/v/35478171</guid>
+            <pubDate>Mon, 01 May 2023 07:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230501_292/lu1cZ_1682884018526Fxwqm_JPEG/1682884011664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 디저트] 달콤한 디저트에 살벌함 와장창! 참가자들끼리 독설 파티? | 대면식 비하인드]]></title>
             <link>https://tv.naver.com/v/35396940</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Apr 2023 02:02:27 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_106/k3oLo_1682560372252naH5K_JPEG/1682560305055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 쫄? 오히려 좋아. 위기 감지 능력 발동한 #황제성 | 7화 클립]]></title>
-            <link>https://tv.naver.com/v/35353539</link>
-            <guid>https://tv.naver.com/v/35353539</guid>
-            <pubDate>Thu, 27 Apr 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_43/FIZbG_1682511422518qxpgc_JPEG/1682511320759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
