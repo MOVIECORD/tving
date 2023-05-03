@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 02:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 03:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 디저트] MBTI I로는 승준 제법이군.. 민재 너야말로ㅣ2화 비하인드 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35551247</link>
+            <guid>https://tv.naver.com/v/35551247</guid>
+            <pubDate>Wed, 03 May 2023 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_40/iF0gJ_1683076668700cSeMd_JPEG/1683076445308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 타임 호텔] 영끌해서 선수 영입! 식사도 개인 시간으로 대접하세요🍚 | 8화 선공개 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35533393</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Apr 2023 03:11:19 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_219/TvpGo_1682564069907lNnF8_JPEG/1682564043039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 디저트 셰프들이 뽑은 1위의 디저트는?👑ㅣ1화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35370681</link>
-            <guid>https://tv.naver.com/v/35370681</guid>
-            <pubDate>Thu, 27 Apr 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_110/rYgcM_168256398673548b78_JPEG/1682563944158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
