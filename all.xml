@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 08:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 09:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,30 @@
             <pubDate>Thu, 04 May 2023 03:10:45 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_13/cEhqV_1683165011468EorpE_JPEG/1683165001171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] #김현규 이쯤되면 와르르르 담당? 이번엔 억장이 와르르르 | 8화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35580702</link>
+            <guid>https://tv.naver.com/v/35580702</guid>
+            <pubDate>Thu, 04 May 2023 09:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_29/GIhV0_1683123485721lrfDh_JPEG/1683123461649.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 브레이크가 없는 슈퍼카가 달린다면 이런 기분? | 8화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35580678</link>
+            <guid>https://tv.naver.com/v/35580678</guid>
+            <pubDate>Thu, 04 May 2023 09:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_169/yyKPo_1683123450041CWN0T_JPEG/1683123422849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] "팀 망치면 상금 나눠드릴게요" #존박 파격 제안 | 8화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35580586</link>
+            <guid>https://tv.naver.com/v/35580586</guid>
+            <pubDate>Thu, 04 May 2023 09:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_101/7ivwB_1683123282313x98Xz_JPEG/1683123254599.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 새벽에 술 먹고 들어온 남편의 만행😩| 4MC 과몰입 티저 (TVING ─ NAVER TV)]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 28 Apr 2023 05:09:47 GMT</pubDate>
             <content:encoded><![CDATA[6:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_141/TXC3N_1682602539485Og4mF_JPEG/1682602467569.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 마무리는 캡틴이 장식합니다⚾ 역시는 역시👍 | 최종화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35383282</link>
-            <guid>https://tv.naver.com/v/35383282</guid>
-            <pubDate>Thu, 27 Apr 2023 11:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_96/cEGYX_1682581933349XFjdf_JPEG/1682581665195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] "김범석이라 뽑았습니다" LG트윈스 뉴 심장의 등장?! | 최종화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35383251</link>
-            <guid>https://tv.naver.com/v/35383251</guid>
-            <pubDate>Thu, 27 Apr 2023 11:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_35/XEIc9_1682581898742BGjuu_JPEG/1682581672815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아워게임 : LG트윈스] 대한민국 3대 마요 추가 "캡틴 다치지 마요😭" | 최종화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35383124</link>
-            <guid>https://tv.naver.com/v/35383124</guid>
-            <pubDate>Thu, 27 Apr 2023 11:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_85/xLdLv_16825817476303h8dh_JPEG/1682581677877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
