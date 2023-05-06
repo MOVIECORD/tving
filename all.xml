@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 02:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 03:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 쓰러진 준희와 홀로 남은 고유?!😥 | 3-4화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35614736</link>
+            <guid>https://tv.naver.com/v/35614736</guid>
+            <pubDate>Sat, 06 May 2023 03:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_218/a4be7_1683204641659GsEXi_JPEG/1683204586436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[우리가 사랑했던 모든 것] 게임하다 위험에 빠진 땅콩 알러지 오세훈ㅋㅋㅋㅋ | 2화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35611648</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 30 Apr 2023 05:09:09 GMT</pubDate>
             <content:encoded><![CDATA[6:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_297/c9lFr_1682602800882WCzUd_JPEG/1682602777190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 디저트에도 손 맛이 있다는 걸 아시나요| 달콤살벌 출사표 영상 강초롱 편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35395577</link>
-            <guid>https://tv.naver.com/v/35395577</guid>
-            <pubDate>Sat, 29 Apr 2023 05:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[7:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_171/sBKaF_1682602746636FpGe0_JPEG/1682602721966.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
