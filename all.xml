@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 07:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 08:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 하라고등학교, 알고보면 순둥이 집합소💗 | 1-2화 비하인드 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35707526</link>
+            <guid>https://tv.naver.com/v/35707526</guid>
+            <pubDate>Mon, 08 May 2023 08:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[7:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_131/bdhDB_1683530474369sMXc2_JPEG/1683530401943.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 타임 호텔] 드디어 오고야만 파이널!! 업보를 짊어진 극악 난이도🔥| 9화 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35696169</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 May 2023 07:10:16 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230501_292/lu1cZ_1682884018526Fxwqm_JPEG/1682884011664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 달콤한 디저트에 살벌함 와장창! 참가자들끼리 독설 파티? | 대면식 비하인드 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35396940</link>
-            <guid>https://tv.naver.com/v/35396940</guid>
-            <pubDate>Mon, 01 May 2023 02:04:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_138/goZ6r_1682605048003YMNdb_JPEG/1682604995127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
