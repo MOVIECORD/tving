@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 02:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 03:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 06 May 2023 03:10:20 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_218/a4be7_1683204641659GsEXi_JPEG/1683204586436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 디저트] 그릇째로 자르는 모밀국수? 이게 디저트야 국수야?ㅣ5화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35613217</link>
+            <guid>https://tv.naver.com/v/35613217</guid>
+            <pubDate>Mon, 08 May 2023 03:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_75/375F9_1683201625911jzGHe_JPEG/1683201552791.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[우리가 사랑했던 모든 것] 게임하다 위험에 빠진 땅콩 알러지 오세훈ㅋㅋㅋㅋ | 2화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 30 Apr 2023 05:09:09 GMT</pubDate>
             <content:encoded><![CDATA[8:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_2/uMdJi_1682602895622joLmg_JPEG/1682602841909.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 프랑스 파리에서 온 8년 경력의 열정  | 달콤살벌 출사표 영상 안수경 편 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35395623</link>
-            <guid>https://tv.naver.com/v/35395623</guid>
-            <pubDate>Sun, 30 Apr 2023 05:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[6:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_297/c9lFr_1682602800882WCzUd_JPEG/1682602777190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
