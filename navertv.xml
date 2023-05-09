@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 23:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 00:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 08 May 2023 08:13:25 GMT</pubDate>
             <content:encoded><![CDATA[7:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_131/bdhDB_1683530474369sMXc2_JPEG/1683530401943.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] NO필터! YES솔직! 돌아온 결이사의 MC들ㅣ4MC 컴백 영상]]></title>
+            <link>https://tv.naver.com/v/35701042</link>
+            <guid>https://tv.naver.com/v/35701042</guid>
+            <pubDate>Tue, 09 May 2023 00:51:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_285/dge3G_1683521540012NfXO9_JPEG/1683521494367.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 타임 호텔] 드디어 오고야만 파이널!! 업보를 짊어진 극악 난이도🔥| 9화 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 May 2023 03:10:39 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_132/etY1e_1682995235581N8HVY_JPEG/1682995171053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 자~~선수 입장⏰ 쉴틈 없이 다음 카이로스 게임 가보자고 | 8화 예고]]></title>
-            <link>https://tv.naver.com/v/35478171</link>
-            <guid>https://tv.naver.com/v/35478171</guid>
-            <pubDate>Mon, 01 May 2023 07:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230501_292/lu1cZ_1682884018526Fxwqm_JPEG/1682884011664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
