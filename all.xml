@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 09:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 10:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230510_124/ht3vM_16837222399005diHV_JPEG/1683722205657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[더 타임 호텔] 웃음기 사라진 #황제성, "포기"라는 단어가 제일 싫어요 | 9화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35799232</link>
-            <guid>https://tv.naver.com/v/35799232</guid>
-            <pubDate>Thu, 11 May 2023 02:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[5:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_240/xQryg_1683722195272Kd1ke_JPEG/1683722167920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[더 타임 호텔] 언규형과 현규중에 고르라면...제 선택은요 | 9화 클립 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35799199</link>
             <guid>https://tv.naver.com/v/35799199</guid>
             <pubDate>Thu, 11 May 2023 02:00:32 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230510_198/eWl0g_1683722163501clAVb_JPEG/1683722134610.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 웃음기 사라진 #황제성, "포기"라는 단어가 제일 싫어요 | 9화 클립 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35799232</link>
+            <guid>https://tv.naver.com/v/35799232</guid>
+            <pubDate>Thu, 11 May 2023 02:00:32 GMT</pubDate>
+            <content:encoded><![CDATA[5:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_240/xQryg_1683722195272Kd1ke_JPEG/1683722167920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 타임 호텔] #존박 진짜 천재네! 이제 딱 하나 남은 경우의 수! | 9화 클립 (TVING ─ NAVER TV)]]></title>
