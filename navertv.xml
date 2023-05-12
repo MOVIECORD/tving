@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 23:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 00:50:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 11 May 2023 11:08:33 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_160/sHoE6_1683801272389vzkrr_JPEG/1683801228477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 마라맛 갈등 폭발🤬 혜진X주민 커플 | 부부 하이라이]]></title>
+            <link>https://tv.naver.com/v/35832480</link>
+            <guid>https://tv.naver.com/v/35832480</guid>
+            <pubDate>Fri, 12 May 2023 00:50:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_286/8nu53_1683800149536yAWAS_JPEG/1683800107335.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] "평생 같이 살 수 없는 사람" 소영X상진 커플 | 부부 하이라이트]]></title>
+            <link>https://tv.naver.com/v/35832452</link>
+            <guid>https://tv.naver.com/v/35832452</guid>
+            <pubDate>Fri, 12 May 2023 00:50:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_124/gzsVf_1683800098827z6xsw_JPEG/1683800053370.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 두 번째 이혼 위기💥 은희X건우 커플| 부부 하이라이]]></title>
+            <link>https://tv.naver.com/v/35832418</link>
+            <guid>https://tv.naver.com/v/35832418</guid>
+            <pubDate>Fri, 12 May 2023 00:50:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_112/eoJ3H_1683800043274alg3P_JPEG/1683799963922.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 디저트] 비주얼부터 맛까지! 모두의 견제를 받는 현종의 카카오 디저트🤨ㅣ5화 클립]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 04 May 2023 03:10:45 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_174/pDzaT_1683165590349Bvz8k_JPEG/1683165535970.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 우승을 위해 본능을 깨운 홍시현! 간절한 마음이 닿았다..✨ | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/35591134</link>
-            <guid>https://tv.naver.com/v/35591134</guid>
-            <pubDate>Thu, 04 May 2023 03:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_253/YZCjV_1683165529078JTFS0_JPEG/1683165499173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 원핸드 디저트 100개 판매 시작!💫 대중들이 픽한 디저트는?🧁 | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/35591024</link>
-            <guid>https://tv.naver.com/v/35591024</guid>
-            <pubDate>Thu, 04 May 2023 03:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_196/CtnTk_1683165377615U9LLl_JPEG/1683165342452.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 된장, 고추장, 간장으로 디저트를 만들라고요?😵‍💫 | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/35591048</link>
-            <guid>https://tv.naver.com/v/35591048</guid>
-            <pubDate>Thu, 04 May 2023 03:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[6:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_213/DmE5q_1683165489953WPiSN_JPEG/1683165464823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
