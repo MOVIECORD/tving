@@ -4,9 +4,41 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 10:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 11:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 달빛 아래 가까워지는 세 사람💜 | 4화 클립]]></title>
+            <link>https://tv.naver.com/v/35839090</link>
+            <guid>https://tv.naver.com/v/35839090</guid>
+            <pubDate>Fri, 12 May 2023 11:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_120/4EmpS_1683810658322VQNIj_JPEG/1683810610520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 데이트(?) 신청하는 오세훈과 지켜보는 조준영 | 4화 클립]]></title>
+            <link>https://tv.naver.com/v/35839049</link>
+            <guid>https://tv.naver.com/v/35839049</guid>
+            <pubDate>Fri, 12 May 2023 11:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_213/IMYcI_1683810605050nFW7u_JPEG/1683810558105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 친구를 위해 신장이식을 선택한 오세훈 | 3화 클립]]></title>
+            <link>https://tv.naver.com/v/35839017</link>
+            <guid>https://tv.naver.com/v/35839017</guid>
+            <pubDate>Fri, 12 May 2023 11:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_245/yVSGx_1683810552444Jx9xv_JPEG/1683810496759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 신장이 아픈 준희가 그동안 참아온 고통😥 | 3화 클립]]></title>
+            <link>https://tv.naver.com/v/35838965</link>
+            <guid>https://tv.naver.com/v/35838965</guid>
+            <pubDate>Fri, 12 May 2023 11:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_145/HSSWn_1683810489331f8reL_JPEG/1683810439870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 안구건조증이 완치됐어요🩹 조현아, 박장현 '상처' |뮤직비디오]]></title>
             <link>https://tv.naver.com/v/35833346</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 05 May 2023 11:08:27 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_190/CMHXY_16831986574758nbGU_JPEG/1683198603166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 톱배우가 된 첫사랑과 재회한 고박사 송재림 | 1-2화 클립]]></title>
-            <link>https://tv.naver.com/v/35611617</link>
-            <guid>https://tv.naver.com/v/35611617</guid>
-            <pubDate>Fri, 05 May 2023 11:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_224/ni2mE_1683198599142deQjS_JPEG/1683198554534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 전학생 장여빈에게 반해버린 오세훈x조준영 | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/35611593</link>
-            <guid>https://tv.naver.com/v/35611593</guid>
-            <pubDate>Fri, 05 May 2023 11:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_228/Jbcqm_1683198550544tW6I2_JPEG/1683198487058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 찐친 괴롭히는 일진 참교육하는 오세훈 | 1화 클립]]></title>
-            <link>https://tv.naver.com/v/35611545</link>
-            <guid>https://tv.naver.com/v/35611545</guid>
-            <pubDate>Fri, 05 May 2023 11:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_20/L6mxF_1683198474747goLmF_JPEG/1683198297112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 박빙의 승부⚡ 마지막에 솔드 아웃을 외친 팀은 누구?! | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/35591198</link>
-            <guid>https://tv.naver.com/v/35591198</guid>
-            <pubDate>Thu, 04 May 2023 03:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_122/ledRS_1683165620934DYbBv_JPEG/1683165595088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
