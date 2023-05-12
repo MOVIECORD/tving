@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 04:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 05:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 안구건조증이 완치됐어요🩹 조현아, 박장현 '상처' |뮤직비디오]]></title>
+            <link>https://tv.naver.com/v/35833346</link>
+            <guid>https://tv.naver.com/v/35833346</guid>
+            <pubDate>Fri, 12 May 2023 05:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_252/ewbtH_1683801734559qUFFg_JPEG/1683801657841.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[우리가 사랑했던 모든 것] 우사즈 3인 3색 스티커 사용법📱💟 | 스티커 체험 영상]]></title>
             <link>https://tv.naver.com/v/35833090</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 May 2023 03:10:45 GMT</pubDate>
             <content:encoded><![CDATA[4:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_122/ledRS_1683165620934DYbBv_JPEG/1683165595088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] '노티드에서 레시피를 사고싶어요' 홍시현 된장 디저트 극찬!👍 | 4화 클립]]></title>
-            <link>https://tv.naver.com/v/35591175</link>
-            <guid>https://tv.naver.com/v/35591175</guid>
-            <pubDate>Thu, 04 May 2023 03:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_174/pDzaT_1683165590349Bvz8k_JPEG/1683165535970.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
