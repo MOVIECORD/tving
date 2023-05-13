@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 04:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 05:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 가까워지는 세 사람 사이에 생기는 균열💥 | 5-6화 예고]]></title>
+            <link>https://tv.naver.com/v/35841523</link>
+            <guid>https://tv.naver.com/v/35841523</guid>
+            <pubDate>Sat, 13 May 2023 05:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_130/xOXDH_1683814421382dFHd5_JPEG/1683814323200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[우리가 사랑했던 모든 것] 달빛 아래 가까워지는 세 사람💜 | 4화 클립]]></title>
             <link>https://tv.naver.com/v/35839090</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 May 2023 03:10:48 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_75/375F9_1683201625911jzGHe_JPEG/1683201552791.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 게임하다 위험에 빠진 땅콩 알러지 오세훈ㅋㅋㅋㅋ | 2화 클립]]></title>
-            <link>https://tv.naver.com/v/35611648</link>
-            <guid>https://tv.naver.com/v/35611648</guid>
-            <pubDate>Fri, 05 May 2023 11:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_190/CMHXY_16831986574758nbGU_JPEG/1683198603166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
