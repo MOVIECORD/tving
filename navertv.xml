@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 08:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 09:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 빵터진 우사즈🤣🤣 웃참 대실패 현장🎥 | 3-4화 비하인드]]></title>
+            <link>https://tv.naver.com/v/35984597</link>
+            <guid>https://tv.naver.com/v/35984597</guid>
+            <pubDate>Tue, 16 May 2023 09:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[10:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230516_120/eXBgS_1684226378568pCj2k_JPEG/1684226328107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 타임 호텔] 최종_최최종_라운드🐰 쉽다! 다~~외우면 됨| 최종화 선공개]]></title>
             <link>https://tv.naver.com/v/35951176</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 May 2023 00:51:11 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_285/dge3G_1683521540012NfXO9_JPEG/1683521494367.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 드디어 오고야만 파이널!! 업보를 짊어진 극악 난이도🔥| 9화 예고]]></title>
-            <link>https://tv.naver.com/v/35696169</link>
-            <guid>https://tv.naver.com/v/35696169</guid>
-            <pubDate>Mon, 08 May 2023 05:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_282/Zjwum_1683512136694wbUuv_JPEG/1683512029212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
