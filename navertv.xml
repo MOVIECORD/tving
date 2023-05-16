@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 06:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 07:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 타임 호텔] 최종_최최종_라운드🐰 쉽다! 다~~외우면 됨| 최종화 선공개]]></title>
+            <link>https://tv.naver.com/v/35951176</link>
+            <guid>https://tv.naver.com/v/35951176</guid>
+            <pubDate>Tue, 16 May 2023 07:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[8:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_246/xQC3F_16841507938583pd4C_JPEG/1684150790629.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 디저트] 회식 다음 날 해장국🍲 주는 사람=좋은 사람 | 5화 비하인드]]></title>
             <link>https://tv.naver.com/v/35929460</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 May 2023 05:10:02 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_282/Zjwum_1683512136694wbUuv_JPEG/1683512029212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 쓰러진 준희와 홀로 남은 고유?!😥 | 3-4화 예고]]></title>
-            <link>https://tv.naver.com/v/35614736</link>
-            <guid>https://tv.naver.com/v/35614736</guid>
-            <pubDate>Sat, 06 May 2023 03:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_218/a4be7_1683204641659GsEXi_JPEG/1683204586436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
