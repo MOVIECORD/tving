@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 06:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 08:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 16 May 2023 09:11:04 GMT</pubDate>
             <content:encoded><![CDATA[10:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230516_120/eXBgS_1684226378568pCj2k_JPEG/1684226328107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 모두가 궁금해했던 그 노래🎵적재 '모순' X 결이사2 | 뮤직비디오]]></title>
+            <link>https://tv.naver.com/v/35973792</link>
+            <guid>https://tv.naver.com/v/35973792</guid>
+            <pubDate>Wed, 17 May 2023 08:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230516_8/77Dw2_1684211324850r442G_JPEG/1684211250033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 타임 호텔] 최종_최최종_라운드🐰 쉽다! 다~~외우면 됨| 최종화 선공개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 May 2023 10:11:51 GMT</pubDate>
             <content:encoded><![CDATA[13:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230509_225/CHX1W_1683622416282FHw05_JPEG/1683622378513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 하라고등학교, 알고보면 순둥이 집합소💗 | 1-2화 비하인드]]></title>
-            <link>https://tv.naver.com/v/35707526</link>
-            <guid>https://tv.naver.com/v/35707526</guid>
-            <pubDate>Mon, 08 May 2023 08:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[7:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_131/bdhDB_1683530474369sMXc2_JPEG/1683530401943.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
