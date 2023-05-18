@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 10:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 11:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[5:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_161/jMrpc_1684320337934KNmu3_JPEG/1684320316194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+} 강아지가 이어준 사랑ㅣ어쩌다 콜린ㅣ공식 예고편 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36016250</link>
+            <guid>https://tv.naver.com/v/36016250</guid>
+            <pubDate>Thu, 18 May 2023 11:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_124/9601n_1684303306400y6CGf_JPEG/1684303206530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#우리가사랑했던모든것 본격 덕질터뷰 | 비주얼=하이틴✨ 오세훈X조준영X장여빈 무물 타임 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 11 May 2023 03:11:11 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_208/vTN6Y_1683772727595Ksl7C_JPEG/1683772689959.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 이거 어디까지 먹을 수 있는 거예요? 그릇까지요🍽️| 5화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35814433</link>
-            <guid>https://tv.naver.com/v/35814433</guid>
-            <pubDate>Thu, 11 May 2023 03:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_79/ASvIx_1683772681383py9gs_JPEG/1683772646308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
