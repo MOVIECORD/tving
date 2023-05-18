@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 04:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 05:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_31/cHLNv_16843204897755PNNk_JPEG/1684320464563.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[더 디저트] 난 와서 먹어보라고 할 때가 제일 무섭더라 | 6화 클립]]></title>
-            <link>https://tv.naver.com/v/36027445</link>
-            <guid>https://tv.naver.com/v/36027445</guid>
-            <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_216/i9VCo_1684320460676yjGXU_JPEG/1684320427106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[더 디저트] 대추와 티라미슈! 막걸리에 어울리는 디저트 대첩!ㅣ6화 클립]]></title>
             <link>https://tv.naver.com/v/36027427</link>
             <guid>https://tv.naver.com/v/36027427</guid>
             <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_89/UQJeR_1684320423028lsnTy_JPEG/1684320392268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 디저트] 난 와서 먹어보라고 할 때가 제일 무섭더라 | 6화 클립]]></title>
+            <link>https://tv.naver.com/v/36027445</link>
+            <guid>https://tv.naver.com/v/36027445</guid>
+            <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_119/qJZkB_1684385687123Eo3Eh_JPEG/1684385684410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 디저트] 언제나 긍정적이었던 초롱이의 눈물🥲 (feat.혹평)| 6화 클립]]></title>
