@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 02:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 03:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 19 May 2023 11:09:08 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_199/D5L2A_1684483881043wtUaT_JPEG/1684483804253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 고유X고준희, 흔들리는 우정!?😭 | 7-8화 예고 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36099393</link>
+            <guid>https://tv.naver.com/v/36099393</guid>
+            <pubDate>Sat, 20 May 2023 03:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_25/hBpe5_1684479345304XVaFR_JPEG/1684479288530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 타임 호텔] 싸워라. 싸워라. 존홍 싸움에 마음 편한 #황제성 | 10화 클립 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 May 2023 11:08:39 GMT</pubDate>
             <content:encoded><![CDATA[2:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_120/4EmpS_1683810658322VQNIj_JPEG/1683810610520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 데이트(?) 신청하는 오세훈과 지켜보는 조준영 | 4화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35839049</link>
-            <guid>https://tv.naver.com/v/35839049</guid>
-            <pubDate>Fri, 12 May 2023 11:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_213/IMYcI_1683810605050nFW7u_JPEG/1683810558105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
