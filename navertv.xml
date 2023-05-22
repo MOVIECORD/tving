@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 07:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 08:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 고유X준희한테 과몰입한 사람? 그게 나예요.. | 5-6화 비하인드]]></title>
+            <link>https://tv.naver.com/v/36171676</link>
+            <guid>https://tv.naver.com/v/36171676</guid>
+            <pubDate>Mon, 22 May 2023 08:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[9:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_234/zGY67_1684724461017a4YHb_JPEG/1684724394879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[우리가 사랑했던 모든 것] 편의점 절도하는 첫사랑과 마주한 순간 | 6화 클립]]></title>
             <link>https://tv.naver.com/v/36103321</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_70/8nHDq_1684320262774ME0qw_JPEG/1684319993136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 극찬받는 지오, 승준의 소주 디저트! 이게 되네..? | 6화 클립]]></title>
-            <link>https://tv.naver.com/v/36027365</link>
-            <guid>https://tv.naver.com/v/36027365</guid>
-            <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[5:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_161/jMrpc_1684320337934KNmu3_JPEG/1684320316194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
