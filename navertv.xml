@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 04:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 05:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sat, 20 May 2023 03:10:11 GMT</pubDate>
             <content:encoded><![CDATA[0:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_25/hBpe5_1684479345304XVaFR_JPEG/1684479288530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 갈수록 어긋나는 부부들과 새로운 부부의 등장💑ㅣ3화 예고 | TVING]]></title>
+            <link>https://tv.naver.com/v/36089252</link>
+            <guid>https://tv.naver.com/v/36089252</guid>
+            <pubDate>Mon, 22 May 2023 05:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_128/npXwQ_1684463744172Y6t02_JPEG/1684463585967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 엔조이 커플과 1, 2화 같이 보기💓| 엔조이 커플 리뷰 영상]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[5:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_161/jMrpc_1684320337934KNmu3_JPEG/1684320316194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+} 강아지가 이어준 사랑ㅣ어쩌다 콜린ㅣ공식 예고편]]></title>
-            <link>https://tv.naver.com/v/36016250</link>
-            <guid>https://tv.naver.com/v/36016250</guid>
-            <pubDate>Thu, 18 May 2023 11:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_124/9601n_1684303306400y6CGf_JPEG/1684303206530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
