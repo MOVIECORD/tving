@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 00:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 02:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sat, 20 May 2023 07:08:56 GMT</pubDate>
             <content:encoded><![CDATA[14:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230518_173/QMDku_1684376649136Wturj_JPEG/1684376480218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[댄스가수 유랑단] 불러만 주시면 어디든 갑니다💃  - 춤바람 관광-]]></title>
+            <link>https://tv.naver.com/v/36046362</link>
+            <guid>https://tv.naver.com/v/36046362</guid>
+            <pubDate>Mon, 22 May 2023 02:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_286/CTSkt_1684375958549domno_JPEG/1684375775127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 타임 호텔] 싸워라. 싸워라. 존홍 싸움에 마음 편한 #황제성 | 10화 클립]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 May 2023 11:08:43 GMT</pubDate>
             <content:encoded><![CDATA[1:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_124/9601n_1684303306400y6CGf_JPEG/1684303206530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#우리가사랑했던모든것 본격 덕질터뷰 | 비주얼=하이틴✨ 오세훈X조준영X장여빈 무물 타임]]></title>
-            <link>https://tv.naver.com/v/36007054</link>
-            <guid>https://tv.naver.com/v/36007054</guid>
-            <pubDate>Wed, 17 May 2023 03:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[12:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_53/wH0MS_1684290239448r6G0V_PNG/1684290132999.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
