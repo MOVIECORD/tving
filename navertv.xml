@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 02:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 03:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] OST 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕💗 | TVING]]></title>
+            <link>https://tv.naver.com/v/36189228</link>
+            <guid>https://tv.naver.com/v/36189228</guid>
+            <pubDate>Tue, 23 May 2023 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[12:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_102/ed8nt_1684749256298yQdl7_JPEG/1684748460533.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[우리가 사랑했던 모든 것] 고유X준희한테 과몰입한 사람? 그게 나예요.. | 5-6화 비하인드]]></title>
             <link>https://tv.naver.com/v/36171676</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_181/ZPHzW_1684320388209uMraq_JPEG/1684320346084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 절반이 떨어지는 데스매치⚔️ 모두의 원픽은 초롱 셰프?ㅣ6화 클립]]></title>
-            <link>https://tv.naver.com/v/36027348</link>
-            <guid>https://tv.naver.com/v/36027348</guid>
-            <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_70/8nHDq_1684320262774ME0qw_JPEG/1684319993136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
