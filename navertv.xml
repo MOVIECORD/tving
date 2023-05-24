@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 10:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 11:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 디저트] 보고싶겠죠, 그립겠죠, 하지만 올라갈 수 있겠죠 | 7화 비하인드 | TVING]]></title>
+            <link>https://tv.naver.com/v/36207467</link>
+            <guid>https://tv.naver.com/v/36207467</guid>
+            <pubDate>Wed, 24 May 2023 11:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_218/C1oMv_1684800702664PgbiW_JPEG/1684800657178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[우리가 사랑했던 모든 것] OST 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕💗 | TVING]]></title>
             <link>https://tv.naver.com/v/36189228</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230518_119/qJZkB_1684385687123Eo3Eh_JPEG/1684385684410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 언제나 긍정적이었던 초롱이의 눈물🥲 (feat.혹평)| 6화 클립]]></title>
-            <link>https://tv.naver.com/v/36027418</link>
-            <guid>https://tv.naver.com/v/36027418</guid>
-            <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_181/ZPHzW_1684320388209uMraq_JPEG/1684320346084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
