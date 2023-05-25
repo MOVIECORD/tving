@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 00:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 02:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 결이사에 전진X류이서 부부가?!😮ㅣ3화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/36282437</link>
+            <guid>https://tv.naver.com/v/36282437</guid>
+            <pubDate>Thu, 25 May 2023 02:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_99/Rv3cv_1684939412749WuyeM_JPEG/1684939380037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 디저트] 보고싶겠죠, 그립겠죠, 하지만 올라갈 수 있겠죠 | 7화 비하인드 | TVING]]></title>
             <link>https://tv.naver.com/v/36207467</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_89/UQJeR_1684320423028lsnTy_JPEG/1684320392268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 난 와서 먹어보라고 할 때가 제일 무섭더라 | 6화 클립]]></title>
-            <link>https://tv.naver.com/v/36027445</link>
-            <guid>https://tv.naver.com/v/36027445</guid>
-            <pubDate>Thu, 18 May 2023 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_119/qJZkB_1684385687123Eo3Eh_JPEG/1684385684410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
