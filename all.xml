@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 22:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 23:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Thu, 25 May 2023 03:11:03 GMT</pubDate>
             <content:encoded><![CDATA[4:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230524_109/HPMmv_1684937942613GWDV5_JPEG/1684937900616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] 다들 준비 됐나?ㅣ스타트렉: 스트레인지 뉴 월드 시즌 2ㅣ공식 예고| TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36266775</link>
+            <guid>https://tv.naver.com/v/36266775</guid>
+            <pubDate>Thu, 25 May 2023 23:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_250/GHamR_1684914637589IQUCT_JPEG/1684914573888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 디저트] 보고싶겠죠, 그립겠죠, 하지만 올라갈 수 있겠죠 | 7화 비하인드 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 May 2023 09:09:01 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_295/QWqid_16843266831341Qjrq_JPEG/1684326642461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2]  밤 늦게 나갈 수 있다 VS 없다 팽팽한 의견대립⚔️| 1화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36031237</link>
-            <guid>https://tv.naver.com/v/36031237</guid>
-            <pubDate>Fri, 19 May 2023 09:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_69/Rb6Db_1684326560980Xfjf8_JPEG/1684326524448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
