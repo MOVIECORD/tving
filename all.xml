@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 08:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 09:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Thu, 25 May 2023 23:09:55 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230524_250/GHamR_1684914637589IQUCT_JPEG/1684914573888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 이혼 도장 찍고 시작하는 나나X세현 커플 | 부부 하이라이트| TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36207984</link>
+            <guid>https://tv.naver.com/v/36207984</guid>
+            <pubDate>Fri, 26 May 2023 09:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_31/9GywA_16848022231695xyGt_JPEG/1684802148080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 디저트] 보고싶겠죠, 그립겠죠, 하지만 올라갈 수 있겠죠 | 7화 비하인드 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 May 2023 09:09:01 GMT</pubDate>
             <content:encoded><![CDATA[8:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_18/KnF5K_1684326721092bYIat_JPEG/1684326687746.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] "술먹고 놀다가 와서 이혼하기 싫다고 하면.."| 2화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36031311</link>
-            <guid>https://tv.naver.com/v/36031311</guid>
-            <pubDate>Sat, 20 May 2023 09:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_295/QWqid_16843266831341Qjrq_JPEG/1684326642461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
