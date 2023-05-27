@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 06:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 07:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 26 May 2023 11:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_47/k4QFN_1685068035059CamRe_JPEG/1685067825475.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 마지막 부부 등장, 콧노래와 함께 법원 입장🎵 | 3화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36310601</link>
+            <guid>https://tv.naver.com/v/36310601</guid>
+            <pubDate>Sat, 27 May 2023 07:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[6:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_299/A8oZw_1685003250406PXXO1_JPEG/1685003197133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 외박 불가 선언에 터져버린 소영의 눈물💧 | 3화 클립 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 May 2023 02:09:04 GMT</pubDate>
             <content:encoded><![CDATA[5:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230518_286/CTSkt_1684375958549domno_JPEG/1684375775127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타임 호텔] 싸워라. 싸워라. 존홍 싸움에 마음 편한 #황제성 | 10화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36046145</link>
-            <guid>https://tv.naver.com/v/36046145</guid>
-            <pubDate>Thu, 18 May 2023 07:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_114/6pV0H_1684375548365kNnYP_JPEG/1684375520457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
