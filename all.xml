@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 12:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 13:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
             <pubDate>Sat, 27 May 2023 07:08:56 GMT</pubDate>
             <content:encoded><![CDATA[6:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_299/A8oZw_1685003250406PXXO1_JPEG/1685003197133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 아들과 함께 하는 시간😌 미안한 마음 가득한 건우 | 3화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36310547</link>
+            <guid>https://tv.naver.com/v/36310547</guid>
+            <pubDate>Sat, 27 May 2023 13:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_78/jDHaH_168500319216838sBG_JPEG/1685003116858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 구아빠 전진도 깜짝 놀란 최은희의 결혼 후 모습😮 | 3화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36310482</link>
+            <guid>https://tv.naver.com/v/36310482</guid>
+            <pubDate>Sat, 27 May 2023 13:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[6:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_53/kk7Vc_1685003109449i79Bp_JPEG/1685003003256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 외박 불가 선언에 터져버린 소영의 눈물💧 | 3화 클립 | TVING (TVING ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 22 May 2023 05:10:34 GMT</pubDate>
             <content:encoded><![CDATA[0:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_128/npXwQ_1684463744172Y6t02_JPEG/1684463585967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 엔조이 커플과 1, 2화 같이 보기💓| 엔조이 커플 리뷰 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36046741</link>
-            <guid>https://tv.naver.com/v/36046741</guid>
-            <pubDate>Sat, 20 May 2023 07:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[14:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_173/QMDku_1684376649136Wturj_JPEG/1684376480218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[댄스가수 유랑단] 불러만 주시면 어디든 갑니다💃  - 춤바람 관광- (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36046362</link>
-            <guid>https://tv.naver.com/v/36046362</guid>
-            <pubDate>Mon, 22 May 2023 02:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[5:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_286/CTSkt_1684375958549domno_JPEG/1684375775127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
