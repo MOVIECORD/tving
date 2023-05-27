@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 13:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 14:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_53/kk7Vc_1685003109449i79Bp_JPEG/1685003003256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 계속 제자리를 맴도는 부부의 고구마 대화💦 | 3화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/36310405</link>
+            <guid>https://tv.naver.com/v/36310405</guid>
+            <pubDate>Sat, 27 May 2023 14:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_55/ErNmk_16850029984329zkPN_JPEG/1685002946783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[결혼과 이혼 사이2] 외박 불가 선언에 터져버린 소영의 눈물💧 | 3화 클립 | TVING]]></title>
             <link>https://tv.naver.com/v/36310367</link>
             <guid>https://tv.naver.com/v/36310367</guid>
             <pubDate>Fri, 26 May 2023 10:11:21 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_252/qfvq1_1685002936919q4AHm_JPEG/1685002903938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] "보내줘 VS 못 보내" 외박을 건 타협불가 싸움⚡ | 3화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/36310337</link>
+            <guid>https://tv.naver.com/v/36310337</guid>
+            <pubDate>Sat, 27 May 2023 14:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_243/i3C1J_1685002894951KOqsn_JPEG/1685002290240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 상진의 첫 독박육아! 오늘은 엄마가 없단다 😂 | 3화 클립 | TVING]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 19 May 2023 11:09:08 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_199/D5L2A_1684483881043wtUaT_JPEG/1684483804253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 고유X고준희, 흔들리는 우정!?😭 | 7-8화 예고]]></title>
-            <link>https://tv.naver.com/v/36099393</link>
-            <guid>https://tv.naver.com/v/36099393</guid>
-            <pubDate>Sat, 20 May 2023 03:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_25/hBpe5_1684479345304XVaFR_JPEG/1684479288530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 갈수록 어긋나는 부부들과 새로운 부부의 등장💑ㅣ3화 예고 | TVING]]></title>
-            <link>https://tv.naver.com/v/36089252</link>
-            <guid>https://tv.naver.com/v/36089252</guid>
-            <pubDate>Mon, 22 May 2023 05:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_128/npXwQ_1684463744172Y6t02_JPEG/1684463585967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
