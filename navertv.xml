@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 02:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 03:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 26 May 2023 11:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_47/k4QFN_1685068035059CamRe_JPEG/1685067825475.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[우리가 사랑했던 모든 것] 👊💗😭 극한의 감정 몰아쳤던 촬영 현장 | 7-8화 비하인드]]></title>
+            <link>https://tv.naver.com/v/36334278</link>
+            <guid>https://tv.naver.com/v/36334278</guid>
+            <pubDate>Sun, 28 May 2023 03:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[13:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_184/hX8e3_1685065608818RJ0Sc_JPEG/1685065522949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 마지막 부부 등장, 콧노래와 함께 법원 입장🎵 | 3화 클립 | TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 19 May 2023 11:09:08 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_205/nUQAZ_1684484038073xqUwe_JPEG/1684483902455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 친구와 첫사랑이 겹쳤다 | 5화 클립]]></title>
-            <link>https://tv.naver.com/v/36102985</link>
-            <guid>https://tv.naver.com/v/36102985</guid>
-            <pubDate>Fri, 19 May 2023 11:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_199/D5L2A_1684483881043wtUaT_JPEG/1684483804253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
