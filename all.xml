@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 06:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 07:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_171/zi9wa_1685002284335T1ucW_JPEG/1685002214671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 결혼 VS 이혼, 선택 앞에 엇갈리는 부부들의 마음⚡ | 4화 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36309823</link>
+            <guid>https://tv.naver.com/v/36309823</guid>
+            <pubDate>Mon, 29 May 2023 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_140/0y8uS_1685002205054niaa5_JPEG/1685002143228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[결혼과 이혼 사이2] 결이사에 전진X류이서 부부가?!😮ㅣ3화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/36282437</link>
             <guid>https://tv.naver.com/v/36282437</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 May 2023 08:13:18 GMT</pubDate>
             <content:encoded><![CDATA[9:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230522_234/zGY67_1684724461017a4YHb_JPEG/1684724394879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 편의점 절도하는 첫사랑과 마주한 순간 | 6화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36103321</link>
-            <guid>https://tv.naver.com/v/36103321</guid>
-            <pubDate>Fri, 19 May 2023 11:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_262/vYn08_1684484279771YBNpc_JPEG/1684484236277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
