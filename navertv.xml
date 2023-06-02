@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 06:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 07:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 디저트] 아침을 맞이하는 세가지의 유형 그런데 복선을 곁들인 | 8화 비하인드 | TVING]]></title>
+            <link>https://tv.naver.com/v/36536240</link>
+            <guid>https://tv.naver.com/v/36536240</guid>
+            <pubDate>Fri, 02 Jun 2023 07:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_270/zA3a7_1685596951073fwDgU_JPEG/1685596850790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 디저트] 오랜만에 보는 얼굴들! 또 다른 대면식 평가인가요..?😮 | 8화 클립 | TVING]]></title>
             <link>https://tv.naver.com/v/36526578</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 May 2023 03:11:03 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230524_191/Tk6Vi_1684938064535y0dyn_JPEG/1684938039046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 야무지게 JIO 디저트 바 발표하는 지오🧐 | 7화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/36281421</link>
-            <guid>https://tv.naver.com/v/36281421</guid>
-            <pubDate>Thu, 25 May 2023 03:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_123/XQilR_1684938034121lFsiG_JPEG/1684938003504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
