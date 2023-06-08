@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 00:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 02:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_49/shfk9_1685932245320xCKr6_JPEG/1685932110724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 아직도 해결하지 못한 첫번째 이혼의 갈등ㅣ5화 선공개 | TVING]]></title>
+            <title><![CDATA[[결혼과 이혼 사이2] 못하겠어, 지친 맘에 터져나오는 진심들 | 5화 예고 | TVING]]></title>
             <link>https://tv.naver.com/v/36582137</link>
             <guid>https://tv.naver.com/v/36582137</guid>
             <pubDate>Mon, 05 Jun 2023 07:10:07 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230602_280/Q5AtJ_16856902445037F16I_JPEG/1685690210056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 아직도 해결하지 못한 첫번째 이혼의 갈등ㅣ5화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/36582077</link>
+            <guid>https://tv.naver.com/v/36582077</guid>
+            <pubDate>Thu, 08 Jun 2023 02:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_295/XtLEs_16856901768009uPKS_JPEG/1685690169103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 나나웅니 만나서 털어놓는 혜진의 상처🥲 | 4화 클립 | TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 May 2023 13:10:29 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_78/jDHaH_168500319216838sBG_JPEG/1685003116858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 구아빠 전진도 깜짝 놀란 최은희의 결혼 후 모습😮 | 3화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/36310482</link>
-            <guid>https://tv.naver.com/v/36310482</guid>
-            <pubDate>Sat, 27 May 2023 13:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[6:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_53/kk7Vc_1685003109449i79Bp_JPEG/1685003003256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
