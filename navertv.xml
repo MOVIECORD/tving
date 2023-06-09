@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 08:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 09:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 넌 아기랑 나를 방치한 거야👶 | 5화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/36763396</link>
+            <guid>https://tv.naver.com/v/36763396</guid>
+            <pubDate>Fri, 09 Jun 2023 09:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_207/Tjx2S_16861883742890Fy8T_JPEG/1686188326427.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 밝기만 한 줄 알았던 소영의 심각한 상태😥 | 5화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/36763289</link>
+            <guid>https://tv.naver.com/v/36763289</guid>
+            <pubDate>Fri, 09 Jun 2023 09:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[6:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_189/TgQUi_16861881989212fw8l_JPEG/1686188154283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 진지하게 나한테 사과한 적 없잖아 | 5화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/36763180</link>
+            <guid>https://tv.naver.com/v/36763180</guid>
+            <pubDate>Fri, 09 Jun 2023 09:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_119/RkT0g_1686188031279PLgBj_JPEG/1686187997426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[댄스가수 유랑단] 패션 매거진 포토그래퍼인데요 혹시 릴스 한 번 찍어도 될까요? | TVING]]></title>
             <link>https://tv.naver.com/v/36651047</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 26 May 2023 11:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_47/k4QFN_1685068035059CamRe_JPEG/1685067825475.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 👊💗😭 극한의 감정 몰아쳤던 촬영 현장 | 7-8화 비하인드]]></title>
-            <link>https://tv.naver.com/v/36334278</link>
-            <guid>https://tv.naver.com/v/36334278</guid>
-            <pubDate>Sun, 28 May 2023 03:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[13:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_184/hX8e3_1685065608818RJ0Sc_JPEG/1685065522949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 마지막 부부 등장, 콧노래와 함께 법원 입장🎵 | 3화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/36310601</link>
-            <guid>https://tv.naver.com/v/36310601</guid>
-            <pubDate>Sat, 27 May 2023 07:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[6:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_299/A8oZw_1685003250406PXXO1_JPEG/1685003197133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 아들과 함께 하는 시간😌 미안한 마음 가득한 건우 | 3화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/36310547</link>
-            <guid>https://tv.naver.com/v/36310547</guid>
-            <pubDate>Sat, 27 May 2023 13:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_78/jDHaH_168500319216838sBG_JPEG/1685003116858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
