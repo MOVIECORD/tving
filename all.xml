@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 23:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 00:57:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 초심으로 돌아왔습니다. 그런데 이원 생중계도 곁들여.. | 티저 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36900556</link>
+            <guid>https://tv.naver.com/v/36900556</guid>
+            <pubDate>Tue, 13 Jun 2023 00:56:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_28/e7Cvr_1686552755166wVESe_JPEG/1686552582688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 좋아서 한 결혼 끝에 채워지는 현실들 | 6화 예고 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/36824229</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 May 2023 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_1/r4Q2Q_1685077636647HFOLn_JPEG/1685077581294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리가 사랑했던 모든 것] 또 한 번의 이별 앞에 무너지는 두 사람 | 8화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36335784</link>
-            <guid>https://tv.naver.com/v/36335784</guid>
-            <pubDate>Fri, 26 May 2023 11:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_244/SMOPh_168506810715241FwM_JPEG/1685068096002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
