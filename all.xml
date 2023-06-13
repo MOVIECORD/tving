@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 06:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 07:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 13 Jun 2023 00:56:59 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230612_28/e7Cvr_1686552755166wVESe_JPEG/1686552582688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[댄스가수 유랑단] 감동과 웃김을 넘나드는 찐친텐션 마라맛 토크 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36895154</link>
+            <guid>https://tv.naver.com/v/36895154</guid>
+            <pubDate>Tue, 13 Jun 2023 07:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[11:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_99/GiSNa_1686545299284hELwi_JPEG/1686544662768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 좋아서 한 결혼 끝에 채워지는 현실들 | 6화 예고 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 May 2023 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[5:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_300/UEuIP_168507770923391Ox6_JPEG/1685077681504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 디저트] 멘토링인가요, 팬미팅인가요 | 7화 비하인드 현종편 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36341411</link>
-            <guid>https://tv.naver.com/v/36341411</guid>
-            <pubDate>Mon, 29 May 2023 05:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_226/AP3Jn_1685077676564rTxVa_JPEG/1685077640679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
