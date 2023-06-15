@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 00:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 02:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] "집은 절대 못 나눠준다고" 단호한 주민ㅣ6화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36970964</link>
+            <guid>https://tv.naver.com/v/36970964</guid>
+            <pubDate>Thu, 15 Jun 2023 02:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_136/tttyh_1686709194583BPsVe_JPEG/1686709097293.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신비아파트 특별판 : 조선퇴마실록] 궁궐을 뒤집어 놓으셨다!ㅣ티저 예고| TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/36969488</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 May 2023 11:09:21 GMT</pubDate>
             <content:encoded><![CDATA[9:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230530_175/lX0Tv_16854292947794bb4s_JPEG/1685429186029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[댄스가수 유랑단] 베테랑들에게 냅다 무대 리허설을 시켜보았다 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36456403</link>
-            <guid>https://tv.naver.com/v/36456403</guid>
-            <pubDate>Tue, 30 May 2023 11:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[8:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_189/pogEH_1685429123606KCsWr_JPEG/1685429035910.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
