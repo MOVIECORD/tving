@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 23:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 00:56:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신비아파트 특별판: 조선퇴마실록] 인형술사의 정체는 누구?! | 2차 티저 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37071260</link>
+            <guid>https://tv.naver.com/v/37071260</guid>
+            <pubDate>Mon, 19 Jun 2023 00:56:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_207/539jb_1686907658762rquMg_JPEG/1686907588292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 아빠 구라의 어필에 어리둥절한 아들 그리🙄 | 6화 클립 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37062469</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Jun 2023 09:11:45 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_264/0Vh0v_1685601489835i1ppQ_JPEG/1685601441673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 정신과 상담 받은 주민이 오열한 이유😭 | 4화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36539707</link>
-            <guid>https://tv.naver.com/v/36539707</guid>
-            <pubDate>Fri, 02 Jun 2023 09:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_28/DrGcW_1685601392119eeqQy_JPEG/1685601353119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
