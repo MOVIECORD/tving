@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 06:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 07:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 19 Jun 2023 00:56:13 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_207/539jb_1686907658762rquMg_JPEG/1686907588292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 이혼을 선택하면 너무 상처받을 것 같은데 | 7화 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37067366</link>
+            <guid>https://tv.naver.com/v/37067366</guid>
+            <pubDate>Mon, 19 Jun 2023 07:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_84/QmpAA_1686902479163TWF30_JPEG/1686902404430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 아빠 구라의 어필에 어리둥절한 아들 그리🙄 | 6화 클립 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Jun 2023 09:11:45 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_259/JK66b_1685601569415PshKw_JPEG/1685601499104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 변호사를 찾은 소영, 무덤덤히 떠올리는 지난 날😢 | 4화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36539792</link>
-            <guid>https://tv.naver.com/v/36539792</guid>
-            <pubDate>Fri, 02 Jun 2023 09:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_264/0Vh0v_1685601489835i1ppQ_JPEG/1685601441673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
