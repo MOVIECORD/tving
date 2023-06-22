@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 00:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 02:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 22 Jun 2023 00:57:58 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_31/M5VBm_1687334431749P9eoO_JPEG/1687334303994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 육아에 참여했다고? 진짜 어이없다ㅣ7화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/37195784</link>
+            <guid>https://tv.naver.com/v/37195784</guid>
+            <pubDate>Thu, 22 Jun 2023 02:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[4:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_240/cykID_1687260803346RO1q1_JPEG/1687260656044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[댄스가수 유랑단] 목소리만 들어도 알 수 있는 난 어쩔 수 없는 찐팬인가봐 | TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Jun 2023 07:08:51 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_15/LtJ8C_1685601827113kmJOV_JPEG/1685601805456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 말 한마디가 부부싸움에 미치는 영향⚔️ | 4화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/36540058</link>
-            <guid>https://tv.naver.com/v/36540058</guid>
-            <pubDate>Fri, 02 Jun 2023 09:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_183/QhDO9_16856018009216egja_JPEG/1685601779769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
