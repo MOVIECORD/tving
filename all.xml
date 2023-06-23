@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 06:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 07:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2억9천 : 결혼전쟁] 거절하기에는 너무나 큰돈이었다｜티저｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37262951</link>
+            <guid>https://tv.naver.com/v/37262951</guid>
+            <pubDate>Fri, 23 Jun 2023 07:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_215/4Pjcu_1687415166888SMylW_PNG/1687415114673.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 돈이야? 나야? 선택해. “내일 봬요 형”💘ㅣTVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37227949</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Jun 2023 02:25:42 GMT</pubDate>
             <content:encoded><![CDATA[4:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230602_295/XtLEs_16856901768009uPKS_JPEG/1685690169103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 나나웅니 만나서 털어놓는 혜진의 상처🥲 | 4화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36540078</link>
-            <guid>https://tv.naver.com/v/36540078</guid>
-            <pubDate>Sat, 03 Jun 2023 07:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_15/LtJ8C_1685601827113kmJOV_JPEG/1685601805456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
