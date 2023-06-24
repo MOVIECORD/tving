@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 06:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 07:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 착한 말투에 그렇지 못한 내용? 상진의 저온화상 화법 | 7화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37277494</link>
+            <guid>https://tv.naver.com/v/37277494</guid>
+            <pubDate>Sat, 24 Jun 2023 07:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_122/XBenJ_1687438195429QoqRk_JPEG/1687438139064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] "그땐 버려진 것만 같았어" 상담 후 터놓는 마음 | 7화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37277454</link>
+            <guid>https://tv.naver.com/v/37277454</guid>
+            <pubDate>Sat, 24 Jun 2023 07:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_4/NWKvF_1687438133937tn5Fg_JPEG/1687438075687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 남편과 아이들 생각으로 가득찬 자신을 돌아본 혜진 | 7화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37277420</link>
+            <guid>https://tv.naver.com/v/37277420</guid>
+            <pubDate>Sat, 24 Jun 2023 07:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_157/2qg23_1687438070145qsxwL_JPEG/1687437987123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 조금씩 서로를 이해해가는 은희 X 건후 | 7화 클립 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37277253</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 10 Jun 2023 07:09:49 GMT</pubDate>
             <content:encoded><![CDATA[5:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230608_193/j9uKl_16861883030706WSie_JPEG/1686188271948.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 말하지 않으면 아무도 몰라요🗣️ | 5화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36763328</link>
-            <guid>https://tv.naver.com/v/36763328</guid>
-            <pubDate>Sat, 10 Jun 2023 07:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_200/Aj59B_1686188261602re1MM_JPEG/1686188249285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 밝기만 한 줄 알았던 소영의 심각한 상태😥 | 5화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36763289</link>
-            <guid>https://tv.naver.com/v/36763289</guid>
-            <pubDate>Fri, 09 Jun 2023 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[6:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_189/TgQUi_16861881989212fw8l_JPEG/1686188154283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 나도 능력이 있으면 다 해주고 싶지💦 | 5화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36763235</link>
-            <guid>https://tv.naver.com/v/36763235</guid>
-            <pubDate>Sat, 10 Jun 2023 07:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_161/Ajyvq_16861881210804yLU3_JPEG/1686188087479.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
