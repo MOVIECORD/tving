@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 22:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 23:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 이동휘, 지석진, 조세호, 역대급 대환장 삼각관계🤣ㅣTVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37427944</link>
+            <guid>https://tv.naver.com/v/37427944</guid>
+            <pubDate>Tue, 27 Jun 2023 23:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_103/VvA74_1687856261060tflFq_PNG/1687856227408.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 사라진 이름, 계획된 여행ㅣTVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37427880</link>
+            <guid>https://tv.naver.com/v/37427880</guid>
+            <pubDate>Tue, 27 Jun 2023 23:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_270/qIRlG_1687856152007zGWHM_PNG/1687856012878.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 햄밤즈 10년 서사🐯🧡 돈 앞에서 끝?!(겠냐고!💢)ㅣTVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37427648</link>
+            <guid>https://tv.naver.com/v/37427648</guid>
+            <pubDate>Tue, 27 Jun 2023 23:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_241/30VKv_16878557555224GQns_PNG/1687855437371.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[경이로운 소문2:카운터펀치] 새로운 악귀들의 등장과 카운터즈 컴백!  |  티저예고 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37388722</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 16 Jun 2023 00:56:35 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_149/CZXKu_1686706694366LAv27_JPEG/1686706601615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] 모두를 지키기 위한 싸움ㅣ라이어니스: 특수 작전팀ㅣ티저 예고 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36906932</link>
-            <guid>https://tv.naver.com/v/36906932</guid>
-            <pubDate>Tue, 13 Jun 2023 02:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_136/nPILH_1686561962386vhUIf_JPEG/1686561823821.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 초심으로 돌아왔습니다. 그런데 이원 생중계도 곁들여.. | 티저 예고 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36900556</link>
-            <guid>https://tv.naver.com/v/36900556</guid>
-            <pubDate>Tue, 13 Jun 2023 00:56:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_28/e7Cvr_1686552755166wVESe_JPEG/1686552582688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[댄스가수 유랑단] 감동과 웃김을 넘나드는 찐친텐션 마라맛 토크 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36895154</link>
-            <guid>https://tv.naver.com/v/36895154</guid>
-            <pubDate>Tue, 13 Jun 2023 07:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[11:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_99/GiSNa_1686545299284hELwi_JPEG/1686544662768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
