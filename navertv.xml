@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 08:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 09:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[경이로운 소문2:카운터펀치] 새로운 악귀들의 등장과 카운터즈 컴백!  |  티저예고 | TVING]]></title>
+            <link>https://tv.naver.com/v/37388722</link>
+            <guid>https://tv.naver.com/v/37388722</guid>
+            <pubDate>Tue, 27 Jun 2023 09:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_10/dpZS8_1687771482657HcnWh_JPEG/1687771185660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 시즌 통틀어 가장 잘 차려진 밥상, 먹기만 하면 돼요💚 | 메인 예고 | TVING]]></title>
             <link>https://tv.naver.com/v/37388216</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 13 Jun 2023 07:09:59 GMT</pubDate>
             <content:encoded><![CDATA[11:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230612_99/GiSNa_1686545299284hELwi_JPEG/1686544662768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 좋아서 한 결혼 끝에 채워지는 현실들 | 6화 예고 | TVING]]></title>
-            <link>https://tv.naver.com/v/36824229</link>
-            <guid>https://tv.naver.com/v/36824229</guid>
-            <pubDate>Mon, 12 Jun 2023 07:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_274/FRqhl_1686301053682GvBdB_JPEG/1686301010970.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
