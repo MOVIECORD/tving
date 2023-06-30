@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 04:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 05:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 두바이에서 광고하는 티빙 예능💰｜3차 티저｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37455753</link>
+            <guid>https://tv.naver.com/v/37455753</guid>
+            <pubDate>Fri, 30 Jun 2023 05:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230628_258/udWc6_1687927403993oTahC_PNG/1687927355429.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 이동휘, 지석진, 조세호, 역대급 대환장 삼각관계🤣ㅣ2차 티저ㅣTVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37427944</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Jun 2023 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[6:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_54/GfHzh_1686895842828i1zuT_JPEG/1686895712882.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 왜 돈 때문에 아쉬운 소리를 나한테 하냐고 | 6화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37062223</link>
-            <guid>https://tv.naver.com/v/37062223</guid>
-            <pubDate>Fri, 16 Jun 2023 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[4:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_113/8VetP_1686895830185KBguv_JPEG/1686895781800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
