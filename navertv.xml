@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 08:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 09:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,30 @@
             <pubDate>Mon, 26 Jun 2023 23:11:51 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_116/IUl99_1687770694616JTw4m_JPEG/1687770578027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] "우리 같이 잠도 안 자잖아" 은희의 충격 발언 | 8화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/37385693</link>
+            <guid>https://tv.naver.com/v/37385693</guid>
+            <pubDate>Fri, 30 Jun 2023 09:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_244/28XRM_1687767303649AweIe_JPEG/1687767230134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 아빠랑 마지막 아니야😭 패널들 맴찢한 아이반응 | 8화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/37385527</link>
+            <guid>https://tv.naver.com/v/37385527</guid>
+            <pubDate>Fri, 30 Jun 2023 09:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_131/BiLnZ_1687767120408r5UJ3_JPEG/1687767016338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 아이들을 위해 이혼하기로 결심했어요 | 8화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/37385305</link>
+            <guid>https://tv.naver.com/v/37385305</guid>
+            <pubDate>Fri, 30 Jun 2023 09:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_227/4Sd1d_1687766836193GpzMa_JPEG/1687766774517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 상담 이후 확 바뀐 건우의 태도😀ㅣ8화 선공개 | TVING]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 17 Jun 2023 07:09:33 GMT</pubDate>
             <content:encoded><![CDATA[4:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_197/5dOdd_1686896043152fTbQl_JPEG/1686895983059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 백만년 만에 찍는 가족사진에 뚝딱, 어색🫠 | 6화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/37062326</link>
-            <guid>https://tv.naver.com/v/37062326</guid>
-            <pubDate>Fri, 16 Jun 2023 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_205/aUJEo_1686895973835rGCSD_JPEG/1686895949388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 딸들이 싫어하는 아빠의 모습에 서운한 세현 | 6화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/37062297</link>
-            <guid>https://tv.naver.com/v/37062297</guid>
-            <pubDate>Fri, 16 Jun 2023 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[4:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_172/9B33p_1686895936059n2A3i_JPEG/1686895892645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 엔조이커플도 뒷목 잡은 혜진의 한 달 생활비💵 | 6화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/37062230</link>
-            <guid>https://tv.naver.com/v/37062230</guid>
-            <pubDate>Fri, 16 Jun 2023 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[6:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_54/GfHzh_1686895842828i1zuT_JPEG/1686895712882.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
