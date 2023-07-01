@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 06:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 07:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 30 Jun 2023 09:10:56 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_131/BiLnZ_1687767120408r5UJ3_JPEG/1687767016338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 돌싱의 세계로 온 걸 환영해 🍷 친구와 진대 타임 | 8화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37385411</link>
+            <guid>https://tv.naver.com/v/37385411</guid>
+            <pubDate>Sat, 01 Jul 2023 07:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_47/aIrhw_1687766983537vCx5c_JPEG/1687766828757.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 아이들을 위해 이혼하기로 결심했어요 | 8화 클립 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Jun 2023 07:09:33 GMT</pubDate>
             <content:encoded><![CDATA[4:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_282/Rh1zq_1686896089034Ud3Lp_JPEG/1686896054398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 도르마무 풀릴 듯 말듯 다시 시작되는 다툼 🪢 | 6화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37062362</link>
-            <guid>https://tv.naver.com/v/37062362</guid>
-            <pubDate>Sat, 17 Jun 2023 07:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_197/5dOdd_1686896043152fTbQl_JPEG/1686895983059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
