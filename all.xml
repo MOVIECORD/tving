@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 23:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 01:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신비아파트 특별판 : 조선퇴마실록] ️‍ ️‍경복궁의 운명은?! | 1-2화 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37620490</link>
+            <guid>https://tv.naver.com/v/37620490</guid>
+            <pubDate>Tue, 04 Jul 2023 01:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_139/wH1e4_1688369758528CbpUn_JPEG/1688369728762.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 지금 너무 힘들고 벗어나고 싶어 | 9화 예고 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37620450</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Jun 2023 07:09:33 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_221/SsgNA_1686896179431lUVjP_JPEG/1686896140421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 엄마의 설명에 먼저 손 내미는 아이, 라라 심쿵💗| 6화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37062436</link>
-            <guid>https://tv.naver.com/v/37062436</guid>
-            <pubDate>Sat, 17 Jun 2023 07:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_276/Gu6o7_1686896132135772dv_JPEG/1686896100777.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
