@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 10:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 11:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 04 Jul 2023 23:11:31 GMT</pubDate>
             <content:encoded><![CDATA[6:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230704_174/ppVut_1688459558885t3vrf_PNG/1688458958963.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[댄스가수 유랑단] 일일 초청 강사 랄랄 그리고 쎈 척하는 언니들 | TVING]]></title>
+            <link>https://tv.naver.com/v/37665389</link>
+            <guid>https://tv.naver.com/v/37665389</guid>
+            <pubDate>Wed, 05 Jul 2023 11:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[5:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_188/JfGwo_1688458135574R5U5K_JPEG/1688458069691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신비아파트 특별판 : 조선퇴마실록] ️‍ ️‍경복궁의 운명은?! | 1-2화 예고 | TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Jun 2023 00:56:13 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_207/539jb_1686907658762rquMg_JPEG/1686907588292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 이혼을 선택하면 너무 상처받을 것 같은데 | 7화 예고 | TVING]]></title>
-            <link>https://tv.naver.com/v/37067366</link>
-            <guid>https://tv.naver.com/v/37067366</guid>
-            <pubDate>Wed, 05 Jul 2023 01:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_84/QmpAA_1686902479163TWF30_JPEG/1686902404430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
