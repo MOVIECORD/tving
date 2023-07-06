@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 10:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 11:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 그 MC에 그 제작진 아니겠어요💚 (ft.섹X 지옥 테스트) | 1화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/37671043</link>
+            <guid>https://tv.naver.com/v/37671043</guid>
+            <pubDate>Thu, 06 Jul 2023 11:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_167/DEL9v_1688467283688qhWsK_JPEG/1688467257136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[브로 앤 마블] I Believe🎵 제 브로는요🥹 나의 브로 소개서ㅣ4차 티저ㅣTVING]]></title>
             <link>https://tv.naver.com/v/37666510</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 22 Jun 2023 02:19:41 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230620_240/cykID_1687260803346RO1q1_JPEG/1687260656044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[댄스가수 유랑단] 목소리만 들어도 알 수 있는 난 어쩔 수 없는 찐팬인가봐 | TVING]]></title>
-            <link>https://tv.naver.com/v/37140144</link>
-            <guid>https://tv.naver.com/v/37140144</guid>
-            <pubDate>Tue, 20 Jun 2023 11:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[5:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_224/sVg1b_1687152307508KjyEn_JPEG/1687152252662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
