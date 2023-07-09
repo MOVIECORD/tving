@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 01:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 03:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 그 어떤 SSANG욕보다 상처가 큰 그 시절 속궁합썰 | 2화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/37797760</link>
+            <guid>https://tv.naver.com/v/37797760</guid>
+            <pubDate>Sun, 09 Jul 2023 03:03:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_165/1eEzR_1688732399161AdD1v_JPEG/1688732374987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 이게 썸이 아니면 세상이 어떻게 돌아가고 있는 거야 | 2화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/37797716</link>
+            <guid>https://tv.naver.com/v/37797716</guid>
+            <pubDate>Sun, 09 Jul 2023 03:03:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_95/pasvE_1688732327001iua7g_JPEG/1688732298321.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 이런 고백 어떤데? 제발 하지마 VS 너무 좋잖아 | 2화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/37797672</link>
+            <guid>https://tv.naver.com/v/37797672</guid>
+            <pubDate>Sun, 09 Jul 2023 03:03:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_259/959Ib_1688732244648bnSEA_JPEG/1688732212763.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 뼈 트리오(?) 세계의 암묵적인 서열 싸움ㅋㅋㅋ⚡ | 1화 클립 | TVING]]></title>
             <link>https://tv.naver.com/v/37797604</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 30 Jun 2023 09:10:56 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_131/BiLnZ_1687767120408r5UJ3_JPEG/1687767016338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 돌싱의 세계로 온 걸 환영해 🍷 친구와 진대 타임 | 8화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/37385411</link>
-            <guid>https://tv.naver.com/v/37385411</guid>
-            <pubDate>Sat, 01 Jul 2023 07:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_47/aIrhw_1687766983537vCx5c_JPEG/1687766828757.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 아이들을 위해 이혼하기로 결심했어요 | 8화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/37385305</link>
-            <guid>https://tv.naver.com/v/37385305</guid>
-            <pubDate>Fri, 30 Jun 2023 09:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_227/4Sd1d_1687766836193GpzMa_JPEG/1687766774517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 상담 이후 확 바뀐 건우의 태도😀ㅣ8화 선공개 | TVING]]></title>
-            <link>https://tv.naver.com/v/37382600</link>
-            <guid>https://tv.naver.com/v/37382600</guid>
-            <pubDate>Thu, 29 Jun 2023 03:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[5:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_92/RUAci_1687763284607aqG7O_JPEG/1687763169721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
