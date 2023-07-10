@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 06:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 07:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_277/p2ArF_1688379684519VgR9A_JPEG/1688379647603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[결혼과 이혼 사이2] "주작소리 나올 것 같은데" MC들도 놀란 최종 선택은? | 10화 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37624395</link>
+            <guid>https://tv.naver.com/v/37624395</guid>
+            <pubDate>Mon, 10 Jul 2023 07:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_274/qcjom_1688375003974x99Fy_JPEG/1688374946634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[결혼과 이혼 사이2] 자기주도적 학습 선생님 나나👩‍🏫ㅣ9화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37622982</link>
             <guid>https://tv.naver.com/v/37622982</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 26 Jun 2023 23:11:51 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_116/IUl99_1687770694616JTw4m_JPEG/1687770578027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] "우리 같이 잠도 안 자잖아" 은희의 충격 발언 | 8화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37385693</link>
-            <guid>https://tv.naver.com/v/37385693</guid>
-            <pubDate>Fri, 30 Jun 2023 09:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_244/28XRM_1687767303649AweIe_JPEG/1687767230134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
