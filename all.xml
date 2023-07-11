@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 06:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 07:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 자세 차이부터 성욕 차이까지?! 세상 모든 차이 다 드루와! | 3화 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37898824</link>
+            <guid>https://tv.naver.com/v/37898824</guid>
+            <pubDate>Tue, 11 Jul 2023 07:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_279/EKlk3_1689039125528CJ5Ux_JPEG/1689039068552.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] 특수 작전팀 잠입 준비 완료! 라이어니스: 특수 작전팀ㅣ메인 예고 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37874730</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 23:11:15 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230627_241/30VKv_16878557555224GQns_PNG/1687855437371.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[경이로운 소문2:카운터펀치] 새로운 악귀들의 등장과 카운터즈 컴백!  |  티저예고 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37388722</link>
-            <guid>https://tv.naver.com/v/37388722</guid>
-            <pubDate>Tue, 27 Jun 2023 09:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_10/dpZS8_1687771482657HcnWh_JPEG/1687771185660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
