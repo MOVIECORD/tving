@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 10:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 11:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 11 Jul 2023 07:10:55 GMT</pubDate>
             <content:encoded><![CDATA[1:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_279/EKlk3_1689039125528CJ5Ux_JPEG/1689039068552.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] 모든 것은 사체에 담겨 있다ㅣ사체의 증언ㅣ공식 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37875288</link>
+            <guid>https://tv.naver.com/v/37875288</guid>
+            <pubDate>Wed, 12 Jul 2023 11:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_58/S0Cdn_1688979218826SzOkW_JPEG/1688979154543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파라마운트+] 특수 작전팀 잠입 준비 완료! 라이어니스: 특수 작전팀ㅣ메인 예고 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Jun 2023 05:10:41 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230628_258/udWc6_1687927403993oTahC_PNG/1687927355429.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 이동휘, 지석진, 조세호, 역대급 대환장 삼각관계🤣ㅣ2차 티저ㅣTVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37427944</link>
-            <guid>https://tv.naver.com/v/37427944</guid>
-            <pubDate>Tue, 27 Jun 2023 23:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_103/VvA74_1687856261060tflFq_PNG/1687856227408.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
