@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 05:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 06:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오프닝 2023] 올여름 물들일 7가지 이야기✨ㅣ라인업 티저ㅣTVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37953478</link>
+            <guid>https://tv.naver.com/v/37953478</guid>
+            <pubDate>Wed, 12 Jul 2023 06:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_245/vKGuM_1689141805047KSExF_JPEG/1689141599263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오프닝 2023] 눈부시게 찬란한, 나와 당신의 7가지 이야기🌈ㅣ티저 예고ㅣTVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37953237</link>
+            <guid>https://tv.naver.com/v/37953237</guid>
+            <pubDate>Wed, 12 Jul 2023 06:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_278/Hxv8l_1689141514932phvX7_JPEG/1689141191994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 자세 차이부터 성욕 차이까지?! 세상 모든 차이 다 드루와! | 3화 예고 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37898824</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 23:11:15 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230627_103/VvA74_1687856261060tflFq_PNG/1687856227408.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 사라진 이름, 계획된 여행ㅣ2차 티저ㅣTVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37427880</link>
-            <guid>https://tv.naver.com/v/37427880</guid>
-            <pubDate>Tue, 27 Jun 2023 23:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_270/qIRlG_1687856152007zGWHM_PNG/1687856012878.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 햄밤즈 10년 서사🐯🧡 돈 앞에서 끝?!(겠냐고!💢)ㅣ2차 티저ㅣTVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37427648</link>
-            <guid>https://tv.naver.com/v/37427648</guid>
-            <pubDate>Tue, 27 Jun 2023 23:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_241/30VKv_16878557555224GQns_PNG/1687855437371.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
