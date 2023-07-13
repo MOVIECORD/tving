@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 02:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 03:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Wed, 12 Jul 2023 17:10:19 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_21/5xBvV_1689179522983rJtcS_PNG/1689179389791.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[신비아파트 특별판 : 조선퇴마실록] ️‍시사회 나타난 신비와 금비 | 시사회 스케치 영상]]></title>
+            <link>https://tv.naver.com/v/37967941</link>
+            <guid>https://tv.naver.com/v/37967941</guid>
+            <pubDate>Thu, 13 Jul 2023 03:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_185/yJbZW_1689163531807eUtRh_JPEG/1689163529808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[결혼과 이혼 사이2] 끝이 없는 외박 논쟁의 승자는?ㅣ10화 선공개 | TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jul 2023 09:11:37 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_96/IzomB_1688380134229kmwBb_JPEG/1688379923804.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 이벤트 장인이었던 주민이를 찾습니다📢 | 9화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/37627402</link>
-            <guid>https://tv.naver.com/v/37627402</guid>
-            <pubDate>Sat, 08 Jul 2023 07:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[4:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_219/YNKS3_1688380083688qlqlf_JPEG/1688379915281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
