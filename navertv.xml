@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 10:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 11:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 돌잡이 때 가오(?) 잡은 특급 게스트 ★덱스★의 연애?! | 3화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/37984948</link>
+            <guid>https://tv.naver.com/v/37984948</guid>
+            <pubDate>Thu, 13 Jul 2023 11:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_159/yPudh_1689212136927g0Cg6_JPEG/1689212098937.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오프닝 2023] 나를 쏘다🔫ㅣ예고ㅣTVING]]></title>
             <link>https://tv.naver.com/v/37978454</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jul 2023 09:11:37 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_176/tCOyq_16883801638357ay3J_JPEG/1688379926606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] "아내가 남편의 귀인이네" 터져버린 혜진의 눈물 | 9화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/37627427</link>
-            <guid>https://tv.naver.com/v/37627427</guid>
-            <pubDate>Fri, 07 Jul 2023 09:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_96/IzomB_1688380134229kmwBb_JPEG/1688379923804.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
