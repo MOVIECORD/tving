@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 10:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 11:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신비아파트 특별판 : 조선퇴마실록] ️‍이건 다 금비 계획이었다? | 10분 미리보기 | TVING]]></title>
+            <link>https://tv.naver.com/v/38000731</link>
+            <guid>https://tv.naver.com/v/38000731</guid>
+            <pubDate>Fri, 14 Jul 2023 11:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[10:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_260/8Qn6j_1689231768638WfW97_JPEG/1689231671085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 돌잡이 때 가오(?) 잡은 특급 게스트 ★덱스★의 연애?! | 3화 선공개 | TVING]]></title>
             <link>https://tv.naver.com/v/37984948</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jul 2023 03:23:07 GMT</pubDate>
             <content:encoded><![CDATA[5:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230704_154/UCV8h_1688467313912mRyIT_JPEG/1688467289418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] I Believe🎵 제 브로는요🥹 나의 브로 소개서ㅣ4차 티저ㅣTVING]]></title>
-            <link>https://tv.naver.com/v/37666510</link>
-            <guid>https://tv.naver.com/v/37666510</guid>
-            <pubDate>Tue, 04 Jul 2023 23:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[6:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_174/ppVut_1688459558885t3vrf_PNG/1688458958963.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
