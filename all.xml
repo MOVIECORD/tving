@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 08:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 09:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,30 @@
             <pubDate>Wed, 12 Jul 2023 17:10:19 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_21/5xBvV_1689179522983rJtcS_PNG/1689179389791.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 재결합했던 그 장소에서 또 다시 선택의 시간| 10화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37972012</link>
+            <guid>https://tv.naver.com/v/37972012</guid>
+            <pubDate>Fri, 14 Jul 2023 09:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_78/toTGA_1689168889620S06qW_JPEG/1689168853268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 최종 선택 직전 각자 털어놓는 속마음 | 10화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37971910</link>
+            <guid>https://tv.naver.com/v/37971910</guid>
+            <pubDate>Fri, 14 Jul 2023 09:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_14/XEKV4_1689168735236pBjn1_JPEG/1689168709131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결혼과 이혼 사이2] 나나X세현의 마지막 여행✈️ | 10화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37971827</link>
+            <guid>https://tv.naver.com/v/37971827</guid>
+            <pubDate>Fri, 14 Jul 2023 09:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[6:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_11/sKIFa_16891686332645Ibnm_JPEG/1689168598715.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신비아파트 특별판 : 조선퇴마실록] ️‍시사회 나타난 신비와 금비 | 시사회 스케치 영상 (TVING ─ NAVER TV)]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 04 Jul 2023 23:11:31 GMT</pubDate>
             <content:encoded><![CDATA[6:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230704_174/ppVut_1688459558885t3vrf_PNG/1688458958963.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[댄스가수 유랑단] 일일 초청 강사 랄랄 그리고 쎈 척하는 언니들 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37665389</link>
-            <guid>https://tv.naver.com/v/37665389</guid>
-            <pubDate>Wed, 05 Jul 2023 11:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[5:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_188/JfGwo_1688458135574R5U5K_JPEG/1688458069691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 나나가 세현에게 당부하고 싶은 것들 | 9화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37627486</link>
-            <guid>https://tv.naver.com/v/37627486</guid>
-            <pubDate>Sat, 08 Jul 2023 07:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_16/EHHto_1688380229537FlBdU_JPEG/1688379931248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 머리 좀 빨으라고;; 별안간 시작된 생리현상 논쟁 | 9화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37627447</link>
-            <guid>https://tv.naver.com/v/37627447</guid>
-            <pubDate>Fri, 07 Jul 2023 09:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_176/tCOyq_16883801638357ay3J_JPEG/1688379926606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
