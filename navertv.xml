@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 11:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 12:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 14 Jul 2023 11:09:23 GMT</pubDate>
             <content:encoded><![CDATA[10:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_260/8Qn6j_1689231768638WfW97_JPEG/1689231671085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신비아파트 특별판 : 조선퇴마실록] ️‍과연 돌아갈 수 있을까 | 3-4화 예고 | TVING]]></title>
+            <link>https://tv.naver.com/v/38000692</link>
+            <guid>https://tv.naver.com/v/38000692</guid>
+            <pubDate>Fri, 14 Jul 2023 12:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_44/D0BYX_1689231717621piSCw_JPEG/1689231637038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 돌잡이 때 가오(?) 잡은 특급 게스트 ★덱스★의 연애?! | 3화 선공개 | TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jul 2023 02:54:08 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230707_71/qDVG7_16886938482071p21F_JPEG/1688693802780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 너는 무슨 사귀자는 얘기를 호롤롤로로 하니🤦‍♀️ | 2화 선공개 | TVING]]></title>
-            <link>https://tv.naver.com/v/37671027</link>
-            <guid>https://tv.naver.com/v/37671027</guid>
-            <pubDate>Fri, 07 Jul 2023 03:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[5:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_154/UCV8h_1688467313912mRyIT_JPEG/1688467289418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
