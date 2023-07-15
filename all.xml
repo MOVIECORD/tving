@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 02:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 03:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 사연자를 위한 집단지성 급구❗ (ft. 주우재 물오른 연기) | 3화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38051254</link>
+            <guid>https://tv.naver.com/v/38051254</guid>
+            <pubDate>Sat, 15 Jul 2023 03:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_134/v2mp6_1689327766082avWA1_JPEG/1689327721643.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 요즘은 플러팅을 목마로 하나 봐요🤗 | 3화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38051232</link>
+            <guid>https://tv.naver.com/v/38051232</guid>
+            <pubDate>Sat, 15 Jul 2023 03:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_8/DJwEj_1689327717627J458G_JPEG/1689327677140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 우리 미주 잘한다 잘한다 잘한다 | 3화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38051203</link>
+            <guid>https://tv.naver.com/v/38051203</guid>
+            <pubDate>Sat, 15 Jul 2023 03:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_257/PHpAL_1689327672486bAq5R_JPEG/1689327638987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신비아파트 특별판 : 조선퇴마실록] ️‍이건 다 금비 계획이었다? | 10분 미리보기 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/38000731</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 08 Jul 2023 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230707_270/p23ID_1688731792563BRsQw_JPEG/1688731743713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 찌질하다 찌질해😭 그만큼 사랑했단 거지 | 1화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37797319</link>
-            <guid>https://tv.naver.com/v/37797319</guid>
-            <pubDate>Sat, 08 Jul 2023 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_288/u1hl0_1688731695074Puag4_JPEG/1688731613952.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 두바이? 이젠 돈으로 사겠어💰ㅣ5차 티저ㅣTVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37784513</link>
-            <guid>https://tv.naver.com/v/37784513</guid>
-            <pubDate>Mon, 10 Jul 2023 01:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_33/pTlth_1688712361725EeSIQ_JPEG/1688712331194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 그 MC에 그 제작진 아니겠어요💚 (ft.섹X 지옥 테스트) | 1화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37772180</link>
-            <guid>https://tv.naver.com/v/37772180</guid>
-            <pubDate>Fri, 07 Jul 2023 02:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_71/qDVG7_16886938482071p21F_JPEG/1688693802780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
