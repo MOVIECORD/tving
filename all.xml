@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 04:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 05:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 15 Jul 2023 03:27:44 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_257/PHpAL_1689327672486bAq5R_JPEG/1689327638987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 소식좌? 이젠 척척 브라더스라 불러다오🤜🤛  | 1-3화 하이라이트 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38003733</link>
+            <guid>https://tv.naver.com/v/38003733</guid>
+            <pubDate>Sun, 16 Jul 2023 05:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[14:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_130/DGfNb_1689235739290ytAIl_JPEG/1689235701891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신비아파트 특별판 : 조선퇴마실록] ️‍이건 다 금비 계획이었다? | 10분 미리보기 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 09 Jul 2023 03:03:39 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230707_165/1eEzR_1688732399161AdD1v_JPEG/1688732374987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 이게 썸이 아니면 세상이 어떻게 돌아가고 있는 거야 | 2화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37797716</link>
-            <guid>https://tv.naver.com/v/37797716</guid>
-            <pubDate>Sun, 09 Jul 2023 03:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_95/pasvE_1688732327001iua7g_JPEG/1688732298321.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
