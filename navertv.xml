@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 22:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 23:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[잔혹한 인턴] 경력직 인턴이 무서운 이유💥| 티저 예고 | TVING]]></title>
+            <link>https://tv.naver.com/v/38125833</link>
+            <guid>https://tv.naver.com/v/38125833</guid>
+            <pubDate>Mon, 17 Jul 2023 23:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_179/9vobg_1689580099878GdhNE_JPEG/1689580035379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 사연자를 위한 집단지성 급구❗ (ft. 주우재 물오른 연기) | 3화 클립 | TVING]]></title>
             <link>https://tv.naver.com/v/38051254</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 11:09:51 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230710_58/S0Cdn_1688979218826SzOkW_JPEG/1688979154543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] 특수 작전팀 잠입 준비 완료! 라이어니스: 특수 작전팀ㅣ메인 예고]]></title>
-            <link>https://tv.naver.com/v/37874730</link>
-            <guid>https://tv.naver.com/v/37874730</guid>
-            <pubDate>Mon, 10 Jul 2023 23:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_139/9Zi4t_1688978402550R5SLq_JPEG/1688978175839.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
