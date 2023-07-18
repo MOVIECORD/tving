@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 06:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 07:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 고당도 유교보이 이석훈과 매운맛 취향 탐구 생활💚 | 4화 예고 | TVING]]></title>
+            <link>https://tv.naver.com/v/38158599</link>
+            <guid>https://tv.naver.com/v/38158599</guid>
+            <pubDate>Tue, 18 Jul 2023 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_156/Dj3ue_1689654126895ody5O_JPEG/1689654094347.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 우승, 그거 어떻게 하는 건데ㅣ1화 하이라이트ㅣTVING]]></title>
             <link>https://tv.naver.com/v/38152318</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 06:14:48 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_245/vKGuM_1689141805047KSExF_JPEG/1689141599263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오프닝 2023] 눈부시게 찬란한, 나와 당신의 7가지 이야기🌈ㅣ티저 예고ㅣTVING]]></title>
-            <link>https://tv.naver.com/v/37953237</link>
-            <guid>https://tv.naver.com/v/37953237</guid>
-            <pubDate>Wed, 12 Jul 2023 06:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_278/Hxv8l_1689141514932phvX7_JPEG/1689141191994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
