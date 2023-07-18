@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 23:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 01:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 우승, 그거 어떻게 하는 건데ㅣ1화 하이라이트ㅣTVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38152318</link>
+            <guid>https://tv.naver.com/v/38152318</guid>
+            <pubDate>Tue, 18 Jul 2023 01:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_133/c0lPh_1689642829939dvjKd_JPEG/1689642765724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔혹한 인턴] 경력직 인턴이 무서운 이유💥| 티저 예고 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/38125833</link>
@@ -208,6 +216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_171/RQ1eP_1689156944528RvAMv_JPEG/1689156914962.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[브로 앤 마블] 우승, 그거 어떻게 하는 건데ㅣ1화 하이라이트ㅣTVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37961017</link>
+            <guid>https://tv.naver.com/v/37961017</guid>
+            <pubDate>Tue, 18 Jul 2023 01:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_262/DRs6A_1689150957816f53MO_JPEG/1689150845615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오프닝 2023] 고수X아린과 함께 한바탕 춤을💃🕺ㅣ1화 선공개ㅣTVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37954146</link>
             <guid>https://tv.naver.com/v/37954146</guid>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 06:14:48 GMT</pubDate>
             <content:encoded><![CDATA[0:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_278/Hxv8l_1689141514932phvX7_JPEG/1689141191994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 자세 차이부터 성욕 차이까지?! 세상 모든 차이 다 드루와! | 3화 예고 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37898824</link>
-            <guid>https://tv.naver.com/v/37898824</guid>
-            <pubDate>Tue, 11 Jul 2023 07:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_279/EKlk3_1689039125528CJ5Ux_JPEG/1689039068552.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] 모든 것은 사체에 담겨 있다ㅣ사체의 증언ㅣ공식 예고 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37875288</link>
-            <guid>https://tv.naver.com/v/37875288</guid>
-            <pubDate>Wed, 12 Jul 2023 11:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_58/S0Cdn_1688979218826SzOkW_JPEG/1688979154543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
