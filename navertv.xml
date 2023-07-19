@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 10:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 11:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] 혼란스러운 시대 두 남자의 로맨스 | 길 위의 연인들 | 퍼스트룩 예고 | TVING]]></title>
+            <link>https://tv.naver.com/v/38204210</link>
+            <guid>https://tv.naver.com/v/38204210</guid>
+            <pubDate>Wed, 19 Jul 2023 11:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_241/7nx0F_1689750603418r184D_JPEG/1689750376976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 고당도 유교보이 이석훈과 매운맛 취향 탐구 생활💚 | 4화 예고 | TVING]]></title>
             <link>https://tv.naver.com/v/38158599</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jul 2023 01:03:54 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_262/FJu5B_1689146453843iYbLi_JPEG/1689146445684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오프닝 2023] 올여름 물들일 7가지 이야기✨ㅣ라인업 티저ㅣTVING]]></title>
-            <link>https://tv.naver.com/v/37953478</link>
-            <guid>https://tv.naver.com/v/37953478</guid>
-            <pubDate>Wed, 12 Jul 2023 06:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_245/vKGuM_1689141805047KSExF_JPEG/1689141599263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
