@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 10:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 11:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] ISTJ 인간 이석훈, S아니고 M인걸로 밝혀져..!! (그거 아님) | 4화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/38252137</link>
+            <guid>https://tv.naver.com/v/38252137</guid>
+            <pubDate>Thu, 20 Jul 2023 11:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[5:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_124/jvuO9_1689847458812RgYUb_JPEG/1689847360116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] 혼란스러운 시대 두 남자의 로맨스 | 길 위의 연인들 | 퍼스트룩 예고 | TVING]]></title>
             <link>https://tv.naver.com/v/38204210</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jul 2023 01:03:54 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_171/RQ1eP_1689156944528RvAMv_JPEG/1689156914962.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 우승, 그거 어떻게 하는 건데ㅣ1화 하이라이트ㅣTVING]]></title>
-            <link>https://tv.naver.com/v/37961017</link>
-            <guid>https://tv.naver.com/v/37961017</guid>
-            <pubDate>Tue, 18 Jul 2023 01:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_262/DRs6A_1689150957816f53MO_JPEG/1689150845615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
