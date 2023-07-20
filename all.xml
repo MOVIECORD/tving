@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 00:55:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 02:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 18 Jul 2023 01:19:17 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230718_133/c0lPh_1689642829939dvjKd_JPEG/1689642765724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 우리 승기 바보 아니다😂｜1,2화 선공개｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38129106</link>
+            <guid>https://tv.naver.com/v/38129106</guid>
+            <pubDate>Thu, 20 Jul 2023 02:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[9:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_81/1z1Tp_16895850837561PQGl_JPEG/1689585042553.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[잔혹한 인턴] 경력직 인턴이 무서운 이유💥| 티저 예고 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Jul 2023 01:19:17 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_262/DRs6A_1689150957816f53MO_JPEG/1689150845615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오프닝 2023] 고수X아린과 함께 한바탕 춤을💃🕺ㅣ1화 선공개ㅣTVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37954146</link>
-            <guid>https://tv.naver.com/v/37954146</guid>
-            <pubDate>Thu, 13 Jul 2023 01:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_262/FJu5B_1689146453843iYbLi_JPEG/1689146445684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
