@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 11:09:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 12:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,30 @@
             <pubDate>Thu, 20 Jul 2023 11:08:32 GMT</pubDate>
             <content:encoded><![CDATA[5:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230720_124/jvuO9_1689847458812RgYUb_JPEG/1689847360116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 목적지는 러브레이크💕｜1화 클립｜TVING]]></title>
+            <link>https://tv.naver.com/v/38250019</link>
+            <guid>https://tv.naver.com/v/38250019</guid>
+            <pubDate>Fri, 21 Jul 2023 12:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_9/sIuQm_1689843412502Yx2Bv_JPEG/1689843202534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 통행료 싹쓸이 실화냐?｜1화 클립｜TVING]]></title>
+            <link>https://tv.naver.com/v/38249863</link>
+            <guid>https://tv.naver.com/v/38249863</guid>
+            <pubDate>Fri, 21 Jul 2023 12:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_240/ZzYpG_1689843170647qvhPh_JPEG/1689842798625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 무대를 뒤집어 놓으셨다.｜1화 클립｜TVING]]></title>
+            <link>https://tv.naver.com/v/38249559</link>
+            <guid>https://tv.naver.com/v/38249559</guid>
+            <pubDate>Fri, 21 Jul 2023 12:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_257/BrZbn_1689842771651EudsL_JPEG/1689842546420.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파라마운트+] 혼란스러운 시대 두 남자의 로맨스 | 길 위의 연인들 | 퍼스트룩 예고 | TVING]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 15 Jul 2023 09:09:57 GMT</pubDate>
             <content:encoded><![CDATA[5:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_230/LDbfR_1689168826584ofvTq_JPEG/1689168794153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 최종 선택 직전 각자 털어놓는 속마음 | 10화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/37971910</link>
-            <guid>https://tv.naver.com/v/37971910</guid>
-            <pubDate>Fri, 14 Jul 2023 09:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_14/XEKV4_1689168735236pBjn1_JPEG/1689168709131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 기타? 합창? 꽃다발? 과연 이벤트였을까요🤔 | 10화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/37971935</link>
-            <guid>https://tv.naver.com/v/37971935</guid>
-            <pubDate>Sat, 15 Jul 2023 09:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_34/IiMSD_1689168785141939m3_JPEG/1689168783076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] 끝내 눈물을 흘린 소영의 선택은?😭 | 10화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/37971886</link>
-            <guid>https://tv.naver.com/v/37971886</guid>
-            <pubDate>Sat, 15 Jul 2023 09:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[4:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_243/qYLwp_1689168704164JVvmg_JPEG/1689168675456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
