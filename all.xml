@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 02:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 03:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 20 Jul 2023 11:08:32 GMT</pubDate>
             <content:encoded><![CDATA[5:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230720_124/jvuO9_1689847458812RgYUb_JPEG/1689847360116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 시브로에게 닥친 B극?!｜2화 클립｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38250307</link>
+            <guid>https://tv.naver.com/v/38250307</guid>
+            <pubDate>Sat, 22 Jul 2023 03:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_22/mrAmS_1689843841494K3vxB_JPEG/1689843476517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 목적지는 러브레이크💕｜1화 클립｜TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 09:11:14 GMT</pubDate>
             <content:encoded><![CDATA[4:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_78/toTGA_1689168889620S06qW_JPEG/1689168853268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[결혼과 이혼 사이2] "너도 이런 선택을 했구나" 혜진X주민의 선택은?  | 10화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37971977</link>
-            <guid>https://tv.naver.com/v/37971977</guid>
-            <pubDate>Sat, 15 Jul 2023 09:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_230/LDbfR_1689168826584ofvTq_JPEG/1689168794153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
