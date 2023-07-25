@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 00:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 02:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 24 Jul 2023 02:05:34 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_159/bT5VU_16899241317390X1s1_JPEG/1689924016908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 플렉스와 독박, 진짜와 가짜｜3,4화 예고｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38283419</link>
+            <guid>https://tv.naver.com/v/38283419</guid>
+            <pubDate>Tue, 25 Jul 2023 02:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_252/HXKel_1689924124587yRCKg_JPEG/1689924075410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 남자친구 YA동 플레이리스트 속 나와 너무 다른 그 여자 | 4화 클립 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 17:10:19 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_5/hxlYT_1689179841436FNzY6_PNG/1689179774458.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오프닝 2023] 여름감기💜ㅣ예고ㅣTVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37978356</link>
-            <guid>https://tv.naver.com/v/37978356</guid>
-            <pubDate>Wed, 12 Jul 2023 17:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_206/GkZLN_1689179733275LUM6k_PNG/1689179675395.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
