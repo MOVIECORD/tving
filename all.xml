@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 06:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 07:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] "우리 사랑이 달라졌어요" 장기 연애 전문가의 꿀팁🍯  | 5화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38362876</link>
+            <guid>https://tv.naver.com/v/38362876</guid>
+            <pubDate>Tue, 25 Jul 2023 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_99/oBqR1_1690191603978jSuHY_JPEG/1690191527692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 골라보는 3브로 3케미｜TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/38283423</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 17:10:19 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_212/RNcPM_16891799230115QHkO_JPEG/1689179916278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오프닝 2023] 우리가 못 만나는 이유 1가지💔ㅣ예고ㅣTVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37978385</link>
-            <guid>https://tv.naver.com/v/37978385</guid>
-            <pubDate>Wed, 12 Jul 2023 17:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_5/hxlYT_1689179841436FNzY6_PNG/1689179774458.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
