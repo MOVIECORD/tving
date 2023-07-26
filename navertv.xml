@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 00:55:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 02:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 25 Jul 2023 08:13:10 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230725_40/IdWDj_1690269821159Yf4qh_JPEG/1690269775571.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 두바이에서 생긴 일｜선공개 모음｜TVING]]></title>
+            <link>https://tv.naver.com/v/38283816</link>
+            <guid>https://tv.naver.com/v/38283816</guid>
+            <pubDate>Wed, 26 Jul 2023 02:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[9:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_208/aAUyj_1689924644981J3qeq_JPEG/1689924513779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 골라보는 3브로 3케미｜TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 17:10:19 GMT</pubDate>
             <content:encoded><![CDATA[0:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_67/2DFiM_1689179990501cD1DN_JPEG/1689179946242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오프닝 2023] 복숭아 누르지 마시오🍑ㅣ예고ㅣTVING]]></title>
-            <link>https://tv.naver.com/v/37978411</link>
-            <guid>https://tv.naver.com/v/37978411</guid>
-            <pubDate>Wed, 12 Jul 2023 17:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_212/RNcPM_16891799230115QHkO_JPEG/1689179916278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
