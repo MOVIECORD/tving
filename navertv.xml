@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 10:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 11:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] 보비 액설로드가 돌아온다 | 빌리언스 시즌7 | 티저 예고 | TVING]]></title>
+            <link>https://tv.naver.com/v/38399872</link>
+            <guid>https://tv.naver.com/v/38399872</guid>
+            <pubDate>Wed, 26 Jul 2023 11:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_65/OSLVw_16902768022605N0OU_JPEG/1690276713149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] "우리 사랑이 달라졌어요" 장기연애 전문가의 꿀팁🍯  | 5화 예고 | TVING]]></title>
             <link>https://tv.naver.com/v/38394618</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 17:10:19 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_263/dmGmF_1689180062129gq7me_JPEG/1689180020985.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오프닝 2023] 2시 15분🌼ㅣ예고ㅣTVING]]></title>
-            <link>https://tv.naver.com/v/37978433</link>
-            <guid>https://tv.naver.com/v/37978433</guid>
-            <pubDate>Wed, 12 Jul 2023 17:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_67/2DFiM_1689179990501cD1DN_JPEG/1689179946242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
