@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 22:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 23:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[잔혹한 인턴] 이것만 해주면 과장 자리 너 줄게 | 메인 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38423557</link>
+            <guid>https://tv.naver.com/v/38423557</guid>
+            <pubDate>Wed, 26 Jul 2023 23:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_145/y5HWk_1690340112289d76sB_PNG/1690340030919.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] 보비 액설로드가 돌아온다 | 빌리언스 시즌7 | 티저 예고 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/38399872</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jul 2023 11:10:10 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_159/yPudh_1689212136927g0Cg6_JPEG/1689212098937.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오프닝 2023] 나를 쏘다🔫ㅣ예고ㅣTVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37978454</link>
-            <guid>https://tv.naver.com/v/37978454</guid>
-            <pubDate>Wed, 12 Jul 2023 17:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_263/dmGmF_1689180062129gq7me_JPEG/1689180020985.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
