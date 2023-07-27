@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 10:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 11:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 미주야 연애는 말이야 10년은 해야...| 5화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/38439915</link>
+            <guid>https://tv.naver.com/v/38439915</guid>
+            <pubDate>Thu, 27 Jul 2023 11:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_170/MRwVU_1690366768545qMjyt_JPEG/1690366711092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔혹한 인턴] 이것만 해주면 과장 자리 너 줄게 | 메인 예고 | TVING]]></title>
             <link>https://tv.naver.com/v/38423557</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 11:09:23 GMT</pubDate>
             <content:encoded><![CDATA[10:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_260/8Qn6j_1689231768638WfW97_JPEG/1689231671085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신비아파트 특별판 : 조선퇴마실록] ️‍과연 돌아갈 수 있을까 | 3-4화 예고 | TVING]]></title>
-            <link>https://tv.naver.com/v/38000692</link>
-            <guid>https://tv.naver.com/v/38000692</guid>
-            <pubDate>Fri, 14 Jul 2023 12:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_44/D0BYX_1689231717621piSCw_JPEG/1689231637038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
