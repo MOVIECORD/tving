@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 10:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 11:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 01 Aug 2023 07:10:35 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_93/zKfyy_1690787939432YhzAO_JPEG/1690787888987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙 라인업] 8월 TVING NOW (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38575916</link>
+            <guid>https://tv.naver.com/v/38575916</guid>
+            <pubDate>Tue, 01 Aug 2023 11:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_21/o2pJO_1690786652027LbCD4_JPEG/1690786584723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 바리스타 자격증까지 딴 갓연석😎｜3화 클립｜TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Jul 2023 12:18:31 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230720_257/BrZbn_1689842771651EudsL_JPEG/1689842546420.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] 혼란스러운 시대 두 남자의 로맨스 | 길 위의 연인들 | 퍼스트룩 예고 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38204210</link>
-            <guid>https://tv.naver.com/v/38204210</guid>
-            <pubDate>Wed, 19 Jul 2023 11:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_241/7nx0F_1689750603418r184D_JPEG/1689750376976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
