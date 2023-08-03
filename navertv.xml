@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 00:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 01:58:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Thu, 27 Jul 2023 11:08:24 GMT</pubDate>
             <content:encoded><![CDATA[4:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_170/MRwVU_1690366768545qMjyt_JPEG/1690366711092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 잠자리를 건 멀리뛰기 대결⛺｜5화 선공개｜TVING]]></title>
+            <link>https://tv.naver.com/v/38436947</link>
+            <guid>https://tv.naver.com/v/38436947</guid>
+            <pubDate>Thu, 03 Aug 2023 01:57:56 GMT</pubDate>
+            <content:encoded><![CDATA[8:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_54/HlfF5_1690361351314jLBsV_JPEG/1690361349321.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 요술램프 속 지니 등장🧞‍♂️｜5화 예고｜TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Jul 2023 12:18:31 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230720_240/ZzYpG_1689843170647qvhPh_JPEG/1689842798625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 무대를 뒤집어 놓으셨다.｜1화 클립｜TVING]]></title>
-            <link>https://tv.naver.com/v/38249559</link>
-            <guid>https://tv.naver.com/v/38249559</guid>
-            <pubDate>Fri, 21 Jul 2023 12:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_257/BrZbn_1689842771651EudsL_JPEG/1689842546420.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
