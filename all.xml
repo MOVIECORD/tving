@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 12:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 13:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 시브로가 준비한 댄스 챌린지｜4화 에필로그｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38693388</link>
+            <guid>https://tv.naver.com/v/38693388</guid>
+            <pubDate>Thu, 03 Aug 2023 13:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230803_126/dYZoM_1691051458571mWgLP_JPEG/1691051455223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 마녀사냥은 탑게이와 애교 장인이 접수한다. | 6화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/38678210</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Jul 2023 03:10:14 GMT</pubDate>
             <content:encoded><![CDATA[5:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230720_22/mrAmS_1689843841494K3vxB_JPEG/1689843476517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 목적지는 러브레이크💕｜1화 클립｜TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38250019</link>
-            <guid>https://tv.naver.com/v/38250019</guid>
-            <pubDate>Fri, 21 Jul 2023 12:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_9/sIuQm_1689843412502Yx2Bv_JPEG/1689843202534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
