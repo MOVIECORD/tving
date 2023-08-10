@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 00:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 02:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 08 Aug 2023 07:09:05 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230808_281/lWpoY_1691458059855gAYHC_JPEG/1691458013354.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 브로와 떠나는 두바이 투어🧳｜6화 선공개｜TVING]]></title>
+            <link>https://tv.naver.com/v/38797736</link>
+            <guid>https://tv.naver.com/v/38797736</guid>
+            <pubDate>Thu, 10 Aug 2023 02:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[8:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_16/Ii7fY_1691380276172fnOtm_JPEG/1691380245219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 당신의 브로는 당신을 선택하지 않았습니다💔｜6화 예고｜TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Jul 2023 02:08:13 GMT</pubDate>
             <content:encoded><![CDATA[9:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_208/aAUyj_1689924644981J3qeq_JPEG/1689924513779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 요술램프를 향한 시브로의 통행료 지옥💸｜4화 선공개｜TVING]]></title>
-            <link>https://tv.naver.com/v/38283684</link>
-            <guid>https://tv.naver.com/v/38283684</guid>
-            <pubDate>Thu, 27 Jul 2023 01:55:49 GMT</pubDate>
-            <content:encoded><![CDATA[9:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_194/TPoPc_1689924464986A1VRP_JPEG/1689924440443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
