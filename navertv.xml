@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 10:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 11:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Fri, 11 Aug 2023 09:10:01 GMT</pubDate>
             <content:encoded><![CDATA[4:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_183/VkQep_16915616906825yaCc_JPEG/1691561617737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 섭외 아니고 리얼 상황인 이원생중계 (ft. 미스터 카멜) | 7화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/38869811</link>
+            <guid>https://tv.naver.com/v/38869811</guid>
+            <pubDate>Fri, 11 Aug 2023 11:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_175/34gOS_1691551059121rX1y8_JPEG/1691551034353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 현역들이 겪은 최악의 이별.. 데스노트 꺼낸다📖🖋️ | 7화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/38869795</link>
+            <guid>https://tv.naver.com/v/38869795</guid>
+            <pubDate>Fri, 11 Aug 2023 11:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_271/iw3Nn_1691551028946uNtLR_JPEG/1691551001232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 트라우마로 발사하지 못하게 된 남자친구💧 | 7화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/38869777</link>
+            <guid>https://tv.naver.com/v/38869777</guid>
+            <pubDate>Fri, 11 Aug 2023 11:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[5:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_19/E9rze_1691550996226XK3KM_JPEG/1691550957215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 환승연애 현실판? 나에게 환승하겠다는 썸남...🤯 | 7화 선공개 | TVING]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 31 Jul 2023 02:07:34 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_67/M0ybw_1690361285639wqJKu_JPEG/1690361283489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴] 이것만 해주면 과장 자리 너 줄게 | 메인 예고 | TVING]]></title>
-            <link>https://tv.naver.com/v/38423557</link>
-            <guid>https://tv.naver.com/v/38423557</guid>
-            <pubDate>Wed, 26 Jul 2023 23:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_145/y5HWk_1690340112289d76sB_PNG/1690340030919.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] 보비 액설로드가 돌아온다 | 빌리언스 시즌7 | 티저 예고 | TVING]]></title>
-            <link>https://tv.naver.com/v/38399872</link>
-            <guid>https://tv.naver.com/v/38399872</guid>
-            <pubDate>Wed, 26 Jul 2023 11:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_65/OSLVw_16902768022605N0OU_JPEG/1690276713149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] "우리 사랑이 달라졌어요" 장기연애 전문가의 꿀팁🍯  | 5화 예고 | TVING]]></title>
-            <link>https://tv.naver.com/v/38394618</link>
-            <guid>https://tv.naver.com/v/38394618</guid>
-            <pubDate>Tue, 25 Jul 2023 08:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_40/IdWDj_1690269821159Yf4qh_JPEG/1690269775571.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
