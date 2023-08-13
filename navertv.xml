@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 07:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 08:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[잔혹한 인턴] 작전 수행 중인 고해라｜2화 클립｜TVING]]></title>
+            <link>https://tv.naver.com/v/38954032</link>
+            <guid>https://tv.naver.com/v/38954032</guid>
+            <pubDate>Sun, 13 Aug 2023 08:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_252/rkErB_1691720221404NKCMP_JPEG/1691720111934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔혹한 인턴]  '이것' 해주면 과장 자리 줄게｜1화 클립｜TVING]]></title>
             <link>https://tv.naver.com/v/38952837</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 12:18:26 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_23/6sCWq_1690432650662gtq7R_JPEG/1690432293133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 미주야 연애는 말이야 10년은 해야...| 5화 선공개 | TVING]]></title>
-            <link>https://tv.naver.com/v/38439915</link>
-            <guid>https://tv.naver.com/v/38439915</guid>
-            <pubDate>Thu, 27 Jul 2023 11:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_170/MRwVU_1690366768545qMjyt_JPEG/1690366711092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
