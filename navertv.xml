@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 04:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 05:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 08 Aug 2023 07:09:05 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230808_281/lWpoY_1691458059855gAYHC_JPEG/1691458013354.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 사랑의 신, 바다의 신, 그리고 땅의 신⛰️ ｜6화 에필로그｜TVING]]></title>
+            <link>https://tv.naver.com/v/38797770</link>
+            <guid>https://tv.naver.com/v/38797770</guid>
+            <pubDate>Sun, 13 Aug 2023 05:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_43/ZleCz_16913803430549pNIu_JPEG/1691380339280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 브로와 떠나는 두바이 투어🧳｜6화 선공개｜TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jul 2023 11:08:24 GMT</pubDate>
             <content:encoded><![CDATA[4:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_170/MRwVU_1690366768545qMjyt_JPEG/1690366711092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 브로들 물 만났세호｜5화 에필로그｜TVING]]></title>
-            <link>https://tv.naver.com/v/38437013</link>
-            <guid>https://tv.naver.com/v/38437013</guid>
-            <pubDate>Sun, 06 Aug 2023 05:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_229/ZKalG_1690361455120K21Oz_JPEG/1690361450489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
