@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 07:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 08:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[잔혹한 인턴] 육아에는 퇴근이 없다｜3화 예고｜TVING]]></title>
+            <link>https://tv.naver.com/v/39049235</link>
+            <guid>https://tv.naver.com/v/39049235</guid>
+            <pubDate>Mon, 14 Aug 2023 08:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_85/ngn4F_1691997030041Ly6Ml_JPEG/1691996995037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔혹한 인턴] 작전 수행 중인 고해라｜2화 클립｜TVING]]></title>
             <link>https://tv.naver.com/v/38954032</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 29 Jul 2023 03:10:19 GMT</pubDate>
             <content:encoded><![CDATA[3:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_45/AtJVD_169043329042286hNs_JPEG/1690432810367.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 돈 값하는 두바이 야경｜3화 미공개 클립｜TVING]]></title>
-            <link>https://tv.naver.com/v/38463917</link>
-            <guid>https://tv.naver.com/v/38463917</guid>
-            <pubDate>Fri, 28 Jul 2023 12:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_57/WXTW0_16904327839821TfHe_JPEG/1690432713849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
