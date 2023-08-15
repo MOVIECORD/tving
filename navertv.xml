@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 06:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 07:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 하이틴 퀸카 소미와 함께 하는 이별과 재회의 모든 것💧 | 8화 예고 | TVING]]></title>
+            <link>https://tv.naver.com/v/39060159</link>
+            <guid>https://tv.naver.com/v/39060159</guid>
+            <pubDate>Tue, 15 Aug 2023 07:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_126/vRjoa_1692013948767taPMY_JPEG/1692013901676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔혹한 인턴] 육아에는 퇴근이 없다｜3화 예고｜TVING]]></title>
             <link>https://tv.naver.com/v/39049235</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_130/V3w8P_1690459552192p28ag_JPEG/1690459498750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 왜 이렇게까지 하는 건데!｜4화 클립｜TVING]]></title>
-            <link>https://tv.naver.com/v/38464222</link>
-            <guid>https://tv.naver.com/v/38464222</guid>
-            <pubDate>Sat, 29 Jul 2023 03:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_45/AtJVD_169043329042286hNs_JPEG/1690432810367.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
