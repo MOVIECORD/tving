@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 10:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 11:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마녀사냥 2023] 국민센터 소미가 마녀사냥 출연하게 된 사정💚 | 8화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/39166145</link>
+            <guid>https://tv.naver.com/v/39166145</guid>
+            <pubDate>Thu, 17 Aug 2023 11:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[5:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_203/bb2BA_16922645824002vgRi_JPEG/1692264526372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 하이틴 퀸카 소미와 함께 하는 이별과 재회의 모든 것💧 | 8화 예고 | TVING]]></title>
             <link>https://tv.naver.com/v/39060159</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_115/jJnhN_16904596455046mpaQ_JPEG/1690459611964.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] "오빠 씻은 거 맞지?" 잠들기 전까지 생각난다...😭 | 5화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/38480855</link>
-            <guid>https://tv.naver.com/v/38480855</guid>
-            <pubDate>Fri, 28 Jul 2023 09:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_287/5cr3Q_1690459591519pfKIt_JPEG/1690459567382.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
