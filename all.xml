@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 08:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 09:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 17 Aug 2023 11:08:22 GMT</pubDate>
             <content:encoded><![CDATA[5:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230817_203/bb2BA_16922645824002vgRi_JPEG/1692264526372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 1등을 되찾기 위한 갓브로의 베팅!｜7화 클립｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39119609</link>
+            <guid>https://tv.naver.com/v/39119609</guid>
+            <pubDate>Fri, 18 Aug 2023 09:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230816_230/yNWYp_1692171019961aWVN6_JPEG/1692170951056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마녀사냥 2023] 하이틴 퀸카 소미와 함께 하는 이별과 재회의 모든 것💧 | 8화 예고 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[4:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_185/vKblA_1690459687597YEu2B_JPEG/1690459660873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 술로 시작된 사랑과 전쟁❤️‍🔥 종지부를 찍으러 왔다 | 5화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38480884</link>
-            <guid>https://tv.naver.com/v/38480884</guid>
-            <pubDate>Fri, 28 Jul 2023 09:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_115/jJnhN_16904596455046mpaQ_JPEG/1690459611964.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
