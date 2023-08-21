@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 00:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 01:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 20 Aug 2023 08:10:50 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_100/uuPpJ_1692340695868z0VGe_JPEG/1692340562350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 1만 디르함을 얻고 대역전극을 펼칠 브로는 누구?!｜8화 예고｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39201789</link>
+            <guid>https://tv.naver.com/v/39201789</guid>
+            <pubDate>Mon, 21 Aug 2023 01:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_231/eD4u1_1692340206047Lgw4h_JPEG/1692340167151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[잔혹한 인턴]  선배 워킹맘의 진심어린 조언｜ 4화 클립｜TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Aug 2023 02:03:16 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230804_69/Qra0M_1691125476640upatC_JPEG/1691125466805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 연인 사이 어긋난 속궁합, 마녀사냥 MC들의 선택은?! | 6화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38695689</link>
-            <guid>https://tv.naver.com/v/38695689</guid>
-            <pubDate>Fri, 04 Aug 2023 09:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230803_192/W79oV_1691055007244WGz43_JPEG/1691054982847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
