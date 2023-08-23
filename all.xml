@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 06:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 07:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[잔혹한 인턴] 꼰머 상사👴vs에어팟 신입🍼? | 🏢사회생활 밸런스 게임⚔️ | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39317553</link>
+            <guid>https://tv.naver.com/v/39317553</guid>
+            <pubDate>Wed, 23 Aug 2023 07:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[6:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230822_279/6Eqh5_1692670606912ICuRB_JPEG/1692670540703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔혹한 인턴] 사춘기 내 딸이 사라졌다?!｜ 4화 클립｜TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/39202217</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Aug 2023 05:08:48 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230807_43/ZleCz_16913803430549pNIu_JPEG/1691380339280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 브로와 떠나는 두바이 투어🧳｜6화 선공개｜TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38797736</link>
-            <guid>https://tv.naver.com/v/38797736</guid>
-            <pubDate>Thu, 10 Aug 2023 02:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[8:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_16/Ii7fY_1691380276172fnOtm_JPEG/1691380245219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
