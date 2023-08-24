@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 00:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 01:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 20 Aug 2023 08:10:50 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_100/uuPpJ_1692340695868z0VGe_JPEG/1692340562350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 특명, 뱅커를 찾아 암호를 풀고 1만 디르함을 손에 넣어라! ㅣ8화 선공개｜TV (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39202088</link>
+            <guid>https://tv.naver.com/v/39202088</guid>
+            <pubDate>Thu, 24 Aug 2023 01:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_184/OQLnl_1692340556784z5mDP_JPEG/1692340266440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 1만 디르함을 얻고 대역전극을 펼칠 브로는 누구?!｜8화 예고｜TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Aug 2023 07:09:05 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230808_281/lWpoY_1691458059855gAYHC_JPEG/1691458013354.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 사랑의 신, 바다의 신, 그리고 땅의 신⛰️ ｜6화 에필로그｜TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38797770</link>
-            <guid>https://tv.naver.com/v/38797770</guid>
-            <pubDate>Sun, 13 Aug 2023 05:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_43/ZleCz_16913803430549pNIu_JPEG/1691380339280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
