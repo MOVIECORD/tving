@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 06:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 07:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 24 Aug 2023 01:41:00 GMT</pubDate>
             <content:encoded><![CDATA[7:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_184/OQLnl_1692340556784z5mDP_JPEG/1692340266440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로 앤 마블] 한 번의 잘못된 판단으로 전재산을 잃은 지브로😅｜8화 에필로그｜TVING]]></title>
+            <link>https://tv.naver.com/v/39201850</link>
+            <guid>https://tv.naver.com/v/39201850</guid>
+            <pubDate>Sun, 27 Aug 2023 07:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_297/Bs1md_1692340268950jwJGb_JPEG/1692340225761.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브로 앤 마블] 1만 디르함을 얻고 대역전극을 펼칠 브로는 누구?!｜8화 예고｜TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Aug 2023 09:10:01 GMT</pubDate>
             <content:encoded><![CDATA[4:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_183/VkQep_16915616906825yaCc_JPEG/1691561617737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 섭외 아니고 리얼 상황인 이원생중계 (ft. 미스터 카멜) | 7화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/38869811</link>
-            <guid>https://tv.naver.com/v/38869811</guid>
-            <pubDate>Fri, 11 Aug 2023 11:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_175/34gOS_1691551059121rX1y8_JPEG/1691551034353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
