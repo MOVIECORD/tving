@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 06:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 07:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[잔혹한 인턴]  그렇게 굴리더니 이제 와서 날 버린다고? 😧 ｜7화 예고｜TVING]]></title>
+            <link>https://tv.naver.com/v/39536165</link>
+            <guid>https://tv.naver.com/v/39536165</guid>
+            <pubDate>Mon, 28 Aug 2023 07:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_197/I2aEG_16931891275235zpVw_JPEG/1693189086691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔혹한 인턴] "회사 때려치우고 유튜브 시작할까?"의 교과서｜6화 클립｜TVING]]></title>
             <link>https://tv.naver.com/v/39450932</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Aug 2023 01:41:50 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230810_223/lK9cM_1691647668986vpOxf_JPEG/1691647637680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 주사위에 모든 것을 건 남자들｜6화 클립｜TVING]]></title>
-            <link>https://tv.naver.com/v/38876794</link>
-            <guid>https://tv.naver.com/v/38876794</guid>
-            <pubDate>Fri, 11 Aug 2023 09:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_183/VkQep_16915616906825yaCc_JPEG/1691561617737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
