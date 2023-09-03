@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 03:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 04:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[잔혹한 인턴] 술김에 만난 남자의 정체｜8화 클립｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39722676</link>
+            <guid>https://tv.naver.com/v/39722676</guid>
+            <pubDate>Sun, 03 Sep 2023 04:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_271/s8UW0_1693541231523ukADn_JPEG/1693540915898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[잔혹한 인턴] 요즘 시대에 이런 회사가?｜8화 클립｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39719569</link>
+            <guid>https://tv.naver.com/v/39719569</guid>
+            <pubDate>Sun, 03 Sep 2023 04:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[6:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_99/LAKww_1693536057205vQek8_JPEG/1693535999332.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔혹한 인턴] 인성 터진 셰프 vs 인자강 금 과장｜7화 클립｜TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/39718401</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 14 Aug 2023 08:12:45 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230814_85/ngn4F_1691997030041Ly6Ml_JPEG/1691996995037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴] 작전 수행 중인 고해라｜2화 클립｜TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38954032</link>
-            <guid>https://tv.naver.com/v/38954032</guid>
-            <pubDate>Sun, 13 Aug 2023 08:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_252/rkErB_1691720221404NKCMP_JPEG/1691720111934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴]  '이것' 해주면 과장 자리 줄게｜1화 클립｜TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38952837</link>
-            <guid>https://tv.naver.com/v/38952837</guid>
-            <pubDate>Sat, 12 Aug 2023 12:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_32/MHUpv_1691718378431pthz5_JPEG/1691718309562.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
