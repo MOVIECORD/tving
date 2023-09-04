@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 06:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 07:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[잔혹한 인턴]  회사 동기였던 두 여자의 잔혹한 과거 ｜9화 예고｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39727407</link>
+            <guid>https://tv.naver.com/v/39727407</guid>
+            <pubDate>Mon, 04 Sep 2023 07:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_213/tuMfJ_1693547304104acPiL_JPEG/1693547260761.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔혹한 인턴] 술김에 만난 남자의 정체｜8화 클립｜TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/39722676</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Aug 2023 07:09:20 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230814_126/vRjoa_1692013948767taPMY_JPEG/1692013901676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴] 육아에는 퇴근이 없다｜3화 예고｜TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39049235</link>
-            <guid>https://tv.naver.com/v/39049235</guid>
-            <pubDate>Mon, 14 Aug 2023 08:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_85/ngn4F_1691997030041Ly6Ml_JPEG/1691996995037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
