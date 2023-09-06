@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 22:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 23:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[운수 오진 날] 어쩐지 운수가 좋더라니.. 연쇄살인마와 멈출 수 없는 동행 | 1차 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39934422</link>
+            <guid>https://tv.naver.com/v/39934422</guid>
+            <pubDate>Wed, 06 Sep 2023 23:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230906_225/Yi2HI_1693992121081Ge5oD_JPEG/1693992057792.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔혹한 인턴]  회사 동기였던 두 여자의 잔혹한 과거 ｜9화 예고｜TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/39727407</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Aug 2023 09:09:32 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230816_230/yNWYp_1692171019961aWVN6_JPEG/1692170951056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 하이틴 퀸카 소미와 함께 하는 이별과 재회의 모든 것💧 | 8화 예고 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39060159</link>
-            <guid>https://tv.naver.com/v/39060159</guid>
-            <pubDate>Tue, 15 Aug 2023 07:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_126/vRjoa_1692013948767taPMY_JPEG/1692013901676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
