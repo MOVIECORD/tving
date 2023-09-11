@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 02:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 03:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] 끝나지 않는 싸움ㅣ옐로우스톤 시즌5ㅣ10월 대공개ㅣTVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40100293</link>
+            <guid>https://tv.naver.com/v/40100293</guid>
+            <pubDate>Mon, 11 Sep 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_38/4T15b_1694395812495XiU6F_JPEG/1694395672026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔혹한 인턴] 세상 착했던 최 실장이 흑화한 계기..ㄷㄷ｜10화 클립｜TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/40015601</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Aug 2023 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_143/yrFHm_1692323628550Ab3GK_JPEG/1692323606842.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 전 애인한테 연락 온 기억 소환 대잔치🎊 | 8화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39189604</link>
-            <guid>https://tv.naver.com/v/39189604</guid>
-            <pubDate>Fri, 18 Aug 2023 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[8:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_237/4casr_1692323596974RGSSp_JPEG/1692323568022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
