@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 06:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 07:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 11 Sep 2023 03:10:22 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230911_38/4T15b_1694395812495XiU6F_JPEG/1694395672026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[잔혹한 인턴] 본격적으로 시작되는 꼬리 자르기 작전 ｜11화 예고｜TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40018353</link>
+            <guid>https://tv.naver.com/v/40018353</guid>
+            <pubDate>Mon, 11 Sep 2023 07:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_66/4ljCy_1694152026282qdpow_JPEG/1694151994827.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[잔혹한 인턴] 세상 착했던 최 실장이 흑화한 계기..ㄷㄷ｜10화 클립｜TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Aug 2023 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_45/GfYwh_1692323661688IP8TQ_JPEG/1692323637760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] "6개월 안에 저 팀장이랑 사귈 거다" 화끈한 요즘 사내연애 | 8화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39189621</link>
-            <guid>https://tv.naver.com/v/39189621</guid>
-            <pubDate>Fri, 18 Aug 2023 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_143/yrFHm_1692323628550Ab3GK_JPEG/1692323606842.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
