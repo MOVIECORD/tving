@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 06:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 07:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[잔혹한 인턴] 라미란이 멋있고😎 엄지원이 귀여운🥰 촬영 현장 | 현장 메이킹 | TVING]]></title>
+            <link>https://tv.naver.com/v/40117263</link>
+            <guid>https://tv.naver.com/v/40117263</guid>
+            <pubDate>Wed, 13 Sep 2023 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[5:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_246/WxSPn_169441637571547X4s_JPEG/1694416313358.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] 끝나지 않는 싸움ㅣ옐로우스톤 시즌5ㅣ10월 대공개ㅣTVING]]></title>
             <link>https://tv.naver.com/v/40100293</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 19 Aug 2023 05:08:36 GMT</pubDate>
             <content:encoded><![CDATA[17:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_276/6qBZ3_1692324056663ozfEi_JPEG/1692324016632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀사냥 2023] 꼭 알아둬야 할 사랑과 집착을 구분하는 방법❗ | 8화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/39189635</link>
-            <guid>https://tv.naver.com/v/39189635</guid>
-            <pubDate>Fri, 18 Aug 2023 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_45/GfYwh_1692323661688IP8TQ_JPEG/1692323637760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
