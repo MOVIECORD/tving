@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 04:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 05:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 여름이었다💙 첫사랑을 만난 소년 소녀의 추억 | 2차 티저 | TVING]]></title>
+            <link>https://tv.naver.com/v/40505910</link>
+            <guid>https://tv.naver.com/v/40505910</guid>
+            <pubDate>Thu, 21 Sep 2023 05:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_272/tyq8c_1695194280753vFGL7_JPEG/1695194106973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 연프 맛집 신작💙 서툴고도 설렜던 그들의 첫사랑 | 1차 예고 | TVING]]></title>
             <link>https://tv.naver.com/v/40308472</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Aug 2023 01:41:28 GMT</pubDate>
             <content:encoded><![CDATA[0:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_231/eD4u1_1692340206047Lgw4h_JPEG/1692340167151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴]  선배 워킹맘의 진심어린 조언｜ 4화 클립｜TVING]]></title>
-            <link>https://tv.naver.com/v/39199725</link>
-            <guid>https://tv.naver.com/v/39199725</guid>
-            <pubDate>Sun, 20 Aug 2023 08:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_224/ppaDE_1692337894750Rrf7s_JPEG/1692337860104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
