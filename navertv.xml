@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 04:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 05:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 설렘 서투름 사이, 소년 소녀의 마음이 향하는 곳 | 하이라이트 | TVING]]></title>
+            <link>https://tv.naver.com/v/40723606</link>
+            <guid>https://tv.naver.com/v/40723606</guid>
+            <pubDate>Tue, 26 Sep 2023 05:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[21:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_37/BSWti_1695692694185TJ7oT_JPEG/1695692624701.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 여름이었다💙 첫사랑을 만난 소년 소녀의 추억 | 2차 티저 | TVING]]></title>
             <link>https://tv.naver.com/v/40505910</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 27 Aug 2023 07:09:50 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_297/Bs1md_1692340268950jwJGb_JPEG/1692340225761.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 1만 디르함을 얻고 대역전극을 펼칠 브로는 누구?!｜8화 예고｜TVING]]></title>
-            <link>https://tv.naver.com/v/39201789</link>
-            <guid>https://tv.naver.com/v/39201789</guid>
-            <pubDate>Mon, 21 Aug 2023 01:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_231/eD4u1_1692340206047Lgw4h_JPEG/1692340167151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
