@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 06:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 07:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 두근두근 첫만남💗 | 1,2화 풀버전 공개 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40979166</link>
+            <guid>https://tv.naver.com/v/40979166</guid>
+            <pubDate>Thu, 05 Oct 2023 07:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:32:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_170/LaqbX_1696426081400IBpAJ_JPEG/1696425993809.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 벌써부터 심장 반응하는 설렘의 기운😳 시작된 걸까-10CM | MV | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/40793567</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Aug 2023 08:10:50 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_100/uuPpJ_1692340695868z0VGe_JPEG/1692340562350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브로 앤 마블] 특명, 뱅커를 찾아 암호를 풀고 1만 디르함을 손에 넣어라! ㅣ8화 선공개｜TV (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39202088</link>
-            <guid>https://tv.naver.com/v/39202088</guid>
-            <pubDate>Thu, 24 Aug 2023 01:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_184/OQLnl_1692340556784z5mDP_JPEG/1692340266440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
