@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 05:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 06:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 06 Oct 2023 04:12:14 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_299/VfdNI_1696487115746mwp2d_JPEG/1696487044495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 두근두근 첫만남💗 | 1,2화 풀버전 공개 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40979166</link>
-            <guid>https://tv.naver.com/v/40979166</guid>
-            <pubDate>Thu, 05 Oct 2023 07:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:32:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_170/LaqbX_1696426081400IBpAJ_JPEG/1696425993809.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 벌써부터 심장 반응하는 설렘의 기운😳 시작된 걸까-10CM | MV | TVING (TVING ─ NAVER TV)]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 26 Aug 2023 06:12:16 GMT</pubDate>
             <content:encoded><![CDATA[2:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230825_238/98Mdx_16929307646023oJQr_JPEG/1692930733868.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[잔혹한 인턴] 꼰머 상사👴vs에어팟 신입🍼? | 🏢사회생활 밸런스 게임⚔️ | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39317553</link>
+            <guid>https://tv.naver.com/v/39317553</guid>
+            <pubDate>Fri, 06 Oct 2023 06:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[6:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230822_279/6Eqh5_1692670606912ICuRB_JPEG/1692670540703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
