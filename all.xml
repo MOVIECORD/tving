@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 02:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 03:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 충격 반전🫢 수민 앞에서 아침과 180도 다른 동욱 | 2화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41172575</link>
+            <guid>https://tv.naver.com/v/41172575</guid>
+            <pubDate>Tue, 10 Oct 2023 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_279/EXucS_1696906906182GQkWw_JPEG/1696906819698.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 키링을 전달하기 위한 소녀들의 고군분투 | 2화 클립 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/41060535</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Sep 2023 04:11:09 GMT</pubDate>
             <content:encoded><![CDATA[3:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230901_151/N2p8u_1693533993277xIkNo_JPEG/1693533948569.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙 라인업] 9월 TVING NOW (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39672940</link>
-            <guid>https://tv.naver.com/v/39672940</guid>
-            <pubDate>Thu, 31 Aug 2023 15:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_101/A0Y0c_1693449013554NlGHI_JPEG/1693448892868.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
