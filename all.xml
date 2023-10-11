@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 06:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 07:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 본인도 모르게 계속 가게 되는 눈길👀 | 3화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41228745</link>
+            <guid>https://tv.naver.com/v/41228745</guid>
+            <pubDate>Wed, 11 Oct 2023 07:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[5:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_144/K3laZ_1697003167700vmLYS_JPEG/1697003156621.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 두근두근 첫만남💗  | 1,2화 무료 공개 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/41179871</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 03 Sep 2023 04:10:45 GMT</pubDate>
             <content:encoded><![CDATA[6:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230901_99/LAKww_1693536057205vQek8_JPEG/1693535999332.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴] 인성 터진 셰프 vs 인자강 금 과장｜7화 클립｜TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39718401</link>
-            <guid>https://tv.naver.com/v/39718401</guid>
-            <pubDate>Sat, 02 Sep 2023 04:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_214/Yzl38_1693534373001Tra1P_JPEG/1693534320851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
