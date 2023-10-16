@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 04:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 05:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[강철부대3] 해상 작전 사격의 정석 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41430664</link>
+            <guid>https://tv.naver.com/v/41430664</guid>
+            <pubDate>Mon, 16 Oct 2023 05:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_158/eDLLo_1697430075096SLVvh_JPEG/4241c3cc-6bdb-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 평온했던 소소연캠프에 전학생의 등장이라... | 3화 클립 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/41332646</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Sep 2023 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_66/4ljCy_1694152026282qdpow_JPEG/1694151994827.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴] 세상 착했던 최 실장이 흑화한 계기..ㄷㄷ｜10화 클립｜TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40015601</link>
-            <guid>https://tv.naver.com/v/40015601</guid>
-            <pubDate>Sun, 10 Sep 2023 04:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[6:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_240/TVF8g_1694148901858EoX6i_JPEG/1694148839768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
