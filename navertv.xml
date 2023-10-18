@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 22:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 23:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] 게임의 저주는 시작되었다ㅣ깃털처럼 가볍게ㅣ10월 26일 대공개ㅣTVING]]></title>
+            <link>https://tv.naver.com/v/41556048</link>
+            <guid>https://tv.naver.com/v/41556048</guid>
+            <pubDate>Wed, 18 Oct 2023 23:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_182/YZNY7_1697624991460sHubA_JPEG/1697624928803.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 사물함을 보고 미묘한 표정을 짓는 수민 | 4화 선공개 | TVING]]></title>
             <link>https://tv.naver.com/v/41499154</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Sep 2023 07:10:12 GMT</pubDate>
             <content:encoded><![CDATA[5:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230911_246/WxSPn_169441637571547X4s_JPEG/1694416313358.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파라마운트+] 끝나지 않는 싸움ㅣ옐로우스톤 시즌5ㅣ10월 대공개ㅣTVING]]></title>
-            <link>https://tv.naver.com/v/40100293</link>
-            <guid>https://tv.naver.com/v/40100293</guid>
-            <pubDate>Mon, 11 Sep 2023 03:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_38/4T15b_1694395812495XiU6F_JPEG/1694395672026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
