@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 06:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 07:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 사물함을 보고 미묘한 표정을 짓는 수민 | 4화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/41499154</link>
+            <guid>https://tv.naver.com/v/41499154</guid>
+            <pubDate>Wed, 18 Oct 2023 07:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_70/568rm_1697534043238wlGpr_JPEG/1697534016421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[강철부대3] 해상 작전 사격의 정석]]></title>
             <link>https://tv.naver.com/v/41430664</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Sep 2023 03:10:22 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230911_38/4T15b_1694395812495XiU6F_JPEG/1694395672026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴] 본격적으로 시작되는 꼬리 자르기 작전 ｜11화 예고｜TVING]]></title>
-            <link>https://tv.naver.com/v/40018353</link>
-            <guid>https://tv.naver.com/v/40018353</guid>
-            <pubDate>Mon, 11 Sep 2023 07:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_66/4ljCy_1694152026282qdpow_JPEG/1694151994827.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
