@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 02:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 03:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://tv.naver.com/v/41499154</guid>
             <pubDate>Wed, 18 Oct 2023 07:09:25 GMT</pubDate>
             <content:encoded><![CDATA[4:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_208/es3J5_1697617546633RYenE_JPEG/1697617537094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_266/eIyln_1697682020620CMjjR_JPEG/1697682017710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[강철부대3] 해상 작전 사격의 정석 (TVING ─ NAVER TV)]]></title>
