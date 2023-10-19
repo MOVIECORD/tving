@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 04:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 05:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 18 Oct 2023 07:09:25 GMT</pubDate>
             <content:encoded><![CDATA[4:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_266/eIyln_1697682020620CMjjR_JPEG/1697682017710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[강철부대3] 해상 작전 사격의 정석]]></title>
-            <link>https://tv.naver.com/v/41430664</link>
-            <guid>https://tv.naver.com/v/41430664</guid>
-            <pubDate>Mon, 16 Oct 2023 05:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_158/eDLLo_1697430075096SLVvh_JPEG/4241c3cc-6bdb-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 평온했던 소소연캠프에 전학생의 등장이라... | 3화 클립 | TVING]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 13 Sep 2023 07:10:12 GMT</pubDate>
             <content:encoded><![CDATA[5:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230911_246/WxSPn_169441637571547X4s_JPEG/1694416313358.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] 끝나지 않는 싸움ㅣ옐로우스톤 시즌5ㅣ10월 대공개ㅣTVING]]></title>
+            <link>https://tv.naver.com/v/40100293</link>
+            <guid>https://tv.naver.com/v/40100293</guid>
+            <pubDate>Thu, 19 Oct 2023 05:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_38/4T15b_1694395812495XiU6F_JPEG/1694395672026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
