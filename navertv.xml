@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 10:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 11:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 려원이 누나 걱정하는 연하남 혜성 | 4화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/41613761</link>
+            <guid>https://tv.naver.com/v/41613761</guid>
+            <pubDate>Fri, 20 Oct 2023 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_190/wrIg3_169771649149255UmN_JPEG/1697716485287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 모쏠 동욱이는 수민이 만날 생각에 설렘 | 4화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/41613749</link>
+            <guid>https://tv.naver.com/v/41613749</guid>
+            <pubDate>Fri, 20 Oct 2023 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_87/2UWCS_1697716479862sVU6k_JPEG/1697716389437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 듀엣까지 해버리는 혜성&려원 | 4화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/41613742</link>
+            <guid>https://tv.naver.com/v/41613742</guid>
+            <pubDate>Fri, 20 Oct 2023 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_226/TF3jd_1697716470529GFEwF_JPEG/1697716385086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 감정들이 휘몰아치는 둘만의 외출🤭 | 5화 예고 | TVING]]></title>
             <link>https://tv.naver.com/v/41598143</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 17 Sep 2023 04:11:18 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230914_183/7NDsm_1694675499592IJ0fg_JPEG/1694675444413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴] 소음공해 빌런 공수표🔉｜11화 클립｜TVING]]></title>
-            <link>https://tv.naver.com/v/40260235</link>
-            <guid>https://tv.naver.com/v/40260235</guid>
-            <pubDate>Sat, 16 Sep 2023 04:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_29/dzVQ5_1694674085808qbe80_JPEG/1694673997334.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴] 임신한 거 내가 모를 줄 알았지?｜11화 클립｜TVING]]></title>
-            <link>https://tv.naver.com/v/40259738</link>
-            <guid>https://tv.naver.com/v/40259738</guid>
-            <pubDate>Sat, 16 Sep 2023 04:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_115/IfL4h_1694673546911nU8nd_JPEG/1694673502406.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴] 라미란이 멋있고😎 엄지원이 귀여운🥰 촬영 현장 | 현장 메이킹 | TVING]]></title>
-            <link>https://tv.naver.com/v/40117263</link>
-            <guid>https://tv.naver.com/v/40117263</guid>
-            <pubDate>Wed, 13 Sep 2023 07:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[5:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_246/WxSPn_169441637571547X4s_JPEG/1694416313358.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
