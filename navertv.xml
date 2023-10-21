@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 22:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 23:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 20 Oct 2023 11:09:00 GMT</pubDate>
             <content:encoded><![CDATA[4:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_226/TF3jd_1697716470529GFEwF_JPEG/1697716385086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[장사천재 백사장2] 뭔데 왜 장사가 잘 되는 건데]]></title>
+            <link>https://tv.naver.com/v/41607907</link>
+            <guid>https://tv.naver.com/v/41607907</guid>
+            <pubDate>Sat, 21 Oct 2023 23:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_38/l6FOV_1697709877192OwRjj_JPEG/1697709875231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 감정들이 휘몰아치는 둘만의 외출🤭 | 5화 예고 | TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 17 Sep 2023 04:11:18 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230914_164/eizgy_1694676492477YOGf4_JPEG/1694676371440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴] 일하는 부모의 정당한 권리, 육아휴직｜12화 클립｜TVING]]></title>
-            <link>https://tv.naver.com/v/40261724</link>
-            <guid>https://tv.naver.com/v/40261724</guid>
-            <pubDate>Sun, 17 Sep 2023 04:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_183/7NDsm_1694675499592IJ0fg_JPEG/1694675444413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
