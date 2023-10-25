@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 06:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 07:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 두근두근💓 데이트 준비하는 소년 소녀 | 5화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/41859023</link>
+            <guid>https://tv.naver.com/v/41859023</guid>
+            <pubDate>Wed, 25 Oct 2023 07:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_294/4RFKl_1698211259085qdNCv_JPEG/1698211204897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 려원이 누나 걱정하는 연하남 혜성 | 4화 클립 | TVING]]></title>
             <link>https://tv.naver.com/v/41613761</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Sep 2023 09:10:19 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230915_221/mSJ9t_1694764121860IQJsB_JPEG/1694764060037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잔혹한 인턴] 마켓하우스 1호 '아빠' 육아휴직자🍼｜12화 클립｜TVING]]></title>
-            <link>https://tv.naver.com/v/40262659</link>
-            <guid>https://tv.naver.com/v/40262659</guid>
-            <pubDate>Sun, 17 Sep 2023 04:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_164/eizgy_1694676492477YOGf4_JPEG/1694676371440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
