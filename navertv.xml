@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 07:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 08:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 미공개 영상ㅣ소소연 캠프에 난리가 났다고요? 😯]]></title>
+            <link>https://tv.naver.com/v/42007176</link>
+            <guid>https://tv.naver.com/v/42007176</guid>
+            <pubDate>Sat, 28 Oct 2023 08:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_45/Lxg2Q_1698473153122gBDv9_JPEG/1698472783416.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 사진 전문가 준영의 수민이 인생샷 찍기📸 | 5화 클립 | TVING]]></title>
             <link>https://tv.naver.com/v/41963900</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Oct 2023 07:09:34 GMT</pubDate>
             <content:encoded><![CDATA[7:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231006_221/tD5x9_1696575192653r9ky7_JPEG/1696574883853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 투명러 동욱💙수민💙준영의 진심  | 1화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/41052219</link>
-            <guid>https://tv.naver.com/v/41052219</guid>
-            <pubDate>Fri, 06 Oct 2023 07:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_18/zroPL_1696575234453jBJRp_JPEG/1696575176902.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
