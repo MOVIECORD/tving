@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 22:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 23:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 31 Oct 2023 06:13:57 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231031_237/1lAFD_1698729949697KVSsU_JPEG/1698729923810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[운수 오진 날] #이성민 #유연석 #이정은 처절한 동행 시작! | 2차 예고 | TVING]]></title>
+            <link>https://tv.naver.com/v/42085520</link>
+            <guid>https://tv.naver.com/v/42085520</guid>
+            <pubDate>Tue, 31 Oct 2023 23:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_31/japR6_1698658778659LSvDV_JPEG/1698658722813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 미공개 영상ㅣ소소연 캠프에 난리가 났다고요? 😯]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Oct 2023 23:09:26 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231006_44/OLRqq_1696584963876407UK_JPEG/1696584863594.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 성한빈이 당신을 이렇게 부른다면...?😁 | 2화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/41060513</link>
-            <guid>https://tv.naver.com/v/41060513</guid>
-            <pubDate>Fri, 06 Oct 2023 23:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_99/iv0VC_1696584942971FNPwe_JPEG/1696584860254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
