@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 00:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 01:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 필름 카메라 데이트 그 후 | 미공개 영상 | TVING]]></title>
+            <link>https://tv.naver.com/v/42137786</link>
+            <guid>https://tv.naver.com/v/42137786</guid>
+            <pubDate>Wed, 01 Nov 2023 01:52:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_207/bomQh_1698745896226m92fA_JPEG/1698745785319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 동욱&수민 분위기 뭐야 소소록에 담은 둘의 마음 | 미공개 영상 | TVING]]></title>
             <link>https://tv.naver.com/v/42126922</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Oct 2023 23:09:26 GMT</pubDate>
             <content:encoded><![CDATA[10:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231006_86/P4HTx_1696584970138QopLE_JPEG/1696584867295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 즉흥 합주도 문제 없는 K예고생 | 2화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/41060532</link>
-            <guid>https://tv.naver.com/v/41060532</guid>
-            <pubDate>Fri, 06 Oct 2023 23:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_44/OLRqq_1696584963876407UK_JPEG/1696584863594.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
