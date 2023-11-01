@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 04:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 05:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 소녀들은 사랑을 고민 하는데...먹는데 진심인 소년들 | 6화 선공개]]></title>
+            <link>https://tv.naver.com/v/42166443</link>
+            <guid>https://tv.naver.com/v/42166443</guid>
+            <pubDate>Wed, 01 Nov 2023 05:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_137/SBUgm_1698806763583bD6Ly_JPEG/1698806665890.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 필름 카메라 데이트 그 후 | 미공개 영상 | TVING]]></title>
             <link>https://tv.naver.com/v/42137786</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 10 Oct 2023 03:10:44 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231010_279/EXucS_1696906906182GQkWw_JPEG/1696906819698.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 키링을 전달하기 위한 소녀들의 고군분투 | 2화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/41060535</link>
-            <guid>https://tv.naver.com/v/41060535</guid>
-            <pubDate>Fri, 06 Oct 2023 23:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[10:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_86/P4HTx_1696584970138QopLE_JPEG/1696584867295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
