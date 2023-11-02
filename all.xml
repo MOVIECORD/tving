@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 07:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 08:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.naver.com/v/42222369</guid>
             <pubDate>Thu, 02 Nov 2023 07:09:44 GMT</pubDate>
             <content:encoded><![CDATA[1:30:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_63/dIEea_1698894106504TH0eE_JPEG/1698893179159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_299/4EOX3_1698909268676B7mp9_JPEG/1698909264752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 후회 없이 최선을 다해본 아연  | 6화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
