@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 00:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 01:53:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Wed, 01 Nov 2023 23:10:18 GMT</pubDate>
             <content:encoded><![CDATA[6:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231101_70/whQGs_16988354029287cHjm_JPEG/1698835336586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[콩콩팥팥] 🫘콩팥즈의 본업 모먼트 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42185150</link>
+            <guid>https://tv.naver.com/v/42185150</guid>
+            <pubDate>Sun, 05 Nov 2023 01:53:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_107/iDKZd_1698826408457qDPqz_JPEG/53bfece5-788e-11ee-8f91-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 소녀들은 사랑을 고민 하는데...먹는데 진심인 소년들 | 6화 선공개 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Nov 2023 18:13:02 GMT</pubDate>
             <content:encoded><![CDATA[10:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231013_158/haE2P_16971753997741jxyJ_JPEG/1697175328338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 어제랑 다르잖아... 싸늘해진 동욱에게 상처받은 수민💦 | 3화 클립 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41326588</link>
-            <guid>https://tv.naver.com/v/41326588</guid>
-            <pubDate>Wed, 01 Nov 2023 18:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[8:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_75/oSR9h_1697167308792eT78l_JPEG/1697167238355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
