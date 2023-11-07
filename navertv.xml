@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 12:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 13:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 궁금함을 참치 못하고 결국 짜릿한 레몬 한입🍋 | 미공개 영상]]></title>
+            <link>https://tv.naver.com/v/42470177</link>
+            <guid>https://tv.naver.com/v/42470177</guid>
+            <pubDate>Tue, 07 Nov 2023 13:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_277/yCzdl_1699350467907ruEQj_JPEG/1699350445442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 너희 귀엽고 유치해ㅎ 끝말잇기로 진지한 혜성&성윤 | 미공개 영상]]></title>
+            <link>https://tv.naver.com/v/42470171</link>
+            <guid>https://tv.naver.com/v/42470171</guid>
+            <pubDate>Tue, 07 Nov 2023 13:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_226/NkvmT_1699350462469mH5pU_JPEG/1699350427501.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스우파2: 월드와이드로그] 츠바킬을 다시 보다니, 너무 감동되...🥲 | 1화 예고 | TVING]]></title>
             <link>https://tv.naver.com/v/42460790</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 20 Oct 2023 11:09:00 GMT</pubDate>
             <content:encoded><![CDATA[4:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_226/TF3jd_1697716470529GFEwF_JPEG/1697716385086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[장사천재 백사장2] 뭔데 왜 장사가 잘 되는 건데]]></title>
-            <link>https://tv.naver.com/v/41607907</link>
-            <guid>https://tv.naver.com/v/41607907</guid>
-            <pubDate>Sat, 21 Oct 2023 23:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_38/l6FOV_1697709877192OwRjj_JPEG/1697709875231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 감정들이 휘몰아치는 둘만의 외출🤭 | 5화 예고 | TVING]]></title>
-            <link>https://tv.naver.com/v/41598143</link>
-            <guid>https://tv.naver.com/v/41598143</guid>
-            <pubDate>Thu, 19 Oct 2023 11:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_206/8x9Ss_1697700330486KXjTU_JPEG/1697700296703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
