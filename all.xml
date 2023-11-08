@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 22:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 23:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 08 Nov 2023 13:13:19 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231108_44/P8zjW_1699439859575rjR7t_JPEG/1699439408516.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이재, 곧 죽습니다] 죽음 그 이후, 잔혹한 심판이 시작된다 | 1차 티저 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42528607</link>
+            <guid>https://tv.naver.com/v/42528607</guid>
+            <pubDate>Wed, 08 Nov 2023 23:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_207/vbnUT_1699433949324K6g1V_JPEG/1699433904254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 농구장 or 수영장 사심에 따라 움직이는 소년 소녀 | 7화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Nov 2023 18:13:02 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231026_99/jEBFD_1698309603826mXyym_JPEG/1698309594888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] ⚠스포주의 ⚠ 과몰입각 첫사랑은 어려워💦 | 첫사랑 영상 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41882911</link>
-            <guid>https://tv.naver.com/v/41882911</guid>
-            <pubDate>Wed, 01 Nov 2023 18:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_75/zzNwU_1698236296279Cqh5f_JPEG/1698236233688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
