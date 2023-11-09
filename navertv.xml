@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 08:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 09:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] ✨단짠단짠✨ 달달하다가 눈물나는 첫사랑의 아픔💦 | 8화 예고 | T]]></title>
+            <link>https://tv.naver.com/v/42577145</link>
+            <guid>https://tv.naver.com/v/42577145</guid>
+            <pubDate>Thu, 09 Nov 2023 09:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_98/dB5s1_16995119959656xlxT_JPEG/1699511873810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 서로의 데이트가 궁금한 동욱&수민 | 미공개 영상 | TVING]]></title>
             <link>https://tv.naver.com/v/42534046</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Oct 2023 09:09:52 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231027_227/7sPQa_1698381982682estF6_JPEG/1698381979061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 1:1 비밀대화로 상대방의 마음 알아보기?  | 6화 예고 | TVING]]></title>
-            <link>https://tv.naver.com/v/41926604</link>
-            <guid>https://tv.naver.com/v/41926604</guid>
-            <pubDate>Thu, 26 Oct 2023 09:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_99/jEBFD_1698309603826mXyym_JPEG/1698309594888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
