@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 07:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 08:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스우파2: 월드와이드로그] 무슨 말이 더 필요해? 츠바킬 메가 크루 | 1화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42638177</link>
+            <guid>https://tv.naver.com/v/42638177</guid>
+            <pubDate>Fri, 10 Nov 2023 08:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_153/JPWUk_1699596545305YwJLV_JPEG/1699596477785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 강아지도 좋고 너도 좋은 성윤&혜인🐶 | 미공개 영상 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/42592095</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Nov 2023 18:13:02 GMT</pubDate>
             <content:encoded><![CDATA[6:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231027_134/nTEgx_1698382019577EfkaE_JPEG/1698381999664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 금사빠 or 은사빠? 음악 취향 같은 민건&유리🥰  | 5화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41963896</link>
-            <guid>https://tv.naver.com/v/41963896</guid>
-            <pubDate>Wed, 01 Nov 2023 18:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231027_263/svA96_1698382014983HhuE0_JPEG/1698381996208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
