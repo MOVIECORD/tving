@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 10:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 11:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스우파2:월드와이드로그] 스우파2vs육아, 어떤 게 더 힘들어요?👀 | 1화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/42639000</link>
+            <guid>https://tv.naver.com/v/42639000</guid>
+            <pubDate>Sun, 12 Nov 2023 11:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_134/shlb2_1699598627991xg1OD_JPEG/1699598623863.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스우파2: 월드와이드로그] 무슨 말이 더 필요해? 츠바킬 메가 크루 | 1화 선공개 | TVING]]></title>
             <link>https://tv.naver.com/v/42638177</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 Oct 2023 07:09:54 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231031_174/RFoUv_1698734570952pcAkF_JPEG/1698734525302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙 라인업] 후끈뜨끈 11월 티빙 라인업🔥]]></title>
-            <link>https://tv.naver.com/v/42123515</link>
-            <guid>https://tv.naver.com/v/42123515</guid>
-            <pubDate>Tue, 31 Oct 2023 15:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_156/uUbyx_1698731321463OQGUr_JPEG/1698731318427.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
