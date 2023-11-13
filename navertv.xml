@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 05:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 06:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[티빙페스타2023] 더욱 더 막강한 라인업! 티빙 신규 콘텐츠 공개✨]]></title>
+            <link>https://tv.naver.com/v/42752118</link>
+            <guid>https://tv.naver.com/v/42752118</guid>
+            <pubDate>Mon, 13 Nov 2023 06:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_61/0lfaC_16998528588047UBJc_JPEG/1699852823370.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스우파2:월드와이드로그] 스우파2vs육아, 어떤 게 더 힘들어요?👀 | 1화 클립 | TVING]]></title>
             <link>https://tv.naver.com/v/42639000</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Nov 2023 01:52:36 GMT</pubDate>
             <content:encoded><![CDATA[2:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231031_207/bomQh_1698745896226m92fA_JPEG/1698745785319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 동욱&수민 분위기 뭐야 소소록에 담은 둘의 마음 | 미공개 영상 | TVING]]></title>
-            <link>https://tv.naver.com/v/42126922</link>
-            <guid>https://tv.naver.com/v/42126922</guid>
-            <pubDate>Tue, 31 Oct 2023 07:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_174/RFoUv_1698734570952pcAkF_JPEG/1698734525302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
