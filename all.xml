@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 08:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 09:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,12 +240,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231101_137/SBUgm_1698806763583bD6Ly_JPEG/1698806665890.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[플레이, 플리] 날 망하게 한 그녀와 콜라보🎵 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42163149</link>
-            <guid>https://tv.naver.com/v/42163149</guid>
-            <pubDate>Tue, 07 Nov 2023 09:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_110/15HDb_1698802416020DrdOD_JPEG/1698802412130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[플레이, 플리] 그 손, 내가 놓기 싫었어 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42163570</link>
+            <guid>https://tv.naver.com/v/42163570</guid>
+            <pubDate>Tue, 14 Nov 2023 09:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[4:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_44/8BWAx_1698803081274u73MV_JPEG/1698803059627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
