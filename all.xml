@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 22:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 23:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 15 Nov 2023 13:13:28 GMT</pubDate>
             <content:encoded><![CDATA[7:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231115_188/WkWf6_1700047343159CEoem_JPEG/1700047191585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이재, 곧 죽습니다] 12번의 죽음이 얼마나 고통스러운 건지 느껴봐 | 2차 티저 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42884171</link>
+            <guid>https://tv.naver.com/v/42884171</guid>
+            <pubDate>Wed, 15 Nov 2023 23:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_193/SUMtO_1700036654313dXHu7_JPEG/1700036570351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미래엔딩] 한반도에 찾아올 위기의 '그날'을 대비하라! | 1차 티저 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Nov 2023 23:10:18 GMT</pubDate>
             <content:encoded><![CDATA[6:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231101_70/whQGs_16988354029287cHjm_JPEG/1698835336586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[콩콩팥팥] 🫘콩팥즈의 본업 모먼트 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42185150</link>
-            <guid>https://tv.naver.com/v/42185150</guid>
-            <pubDate>Sun, 05 Nov 2023 01:53:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_107/iDKZd_1698826408457qDPqz_JPEG/53bfece5-788e-11ee-8f91-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
