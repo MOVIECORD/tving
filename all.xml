@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 02:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 03:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 15 Nov 2023 13:13:28 GMT</pubDate>
             <content:encoded><![CDATA[7:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231115_188/WkWf6_1700047343159CEoem_JPEG/1700047191585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[운수 오진 날] 손땀 유발주의! 이성민X유연석X이정은 아찔한 동행 시작! | 하이라이트 영상 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42886151</link>
+            <guid>https://tv.naver.com/v/42886151</guid>
+            <pubDate>Thu, 16 Nov 2023 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_181/AW0uO_1700038754442urIXO_JPEG/c4d07c5b-8394-11ee-9178-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이재, 곧 죽습니다] 12번의 죽음이 얼마나 고통스러운 건지 느껴봐 | 2차 티저 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Nov 2023 07:09:44 GMT</pubDate>
             <content:encoded><![CDATA[1:30:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231102_299/4EOX3_1698909268676B7mp9_JPEG/1698909264752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 후회 없이 최선을 다해본 아연  | 6화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42193041</link>
-            <guid>https://tv.naver.com/v/42193041</guid>
-            <pubDate>Wed, 01 Nov 2023 23:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[6:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_70/whQGs_16988354029287cHjm_JPEG/1698835336586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
