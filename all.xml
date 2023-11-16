@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 08:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 09:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 동욱💙수민의 주도권은 누구에게? | 9화 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42941511</link>
+            <guid>https://tv.naver.com/v/42941511</guid>
+            <pubDate>Thu, 16 Nov 2023 09:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_22/UqxoY_1700122386856nGF2w_JPEG/1700122328217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 수민&동욱의 달달한 시간 1열 직관잼😁 | 8화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/42893263</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Nov 2023 09:10:06 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231102_220/OtEcz_1698894477755fye3w_JPEG/1698894249542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 이제부터 리셋이야  | 6화 풀버전 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42222369</link>
-            <guid>https://tv.naver.com/v/42222369</guid>
-            <pubDate>Thu, 02 Nov 2023 07:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:30:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_299/4EOX3_1698909268676B7mp9_JPEG/1698909264752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
