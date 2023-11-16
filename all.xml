@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 12:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 13:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 맞는말 대잔치하는 큐피트 혜인이ㅋㅋ | 미공개 영상 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42941572</link>
+            <guid>https://tv.naver.com/v/42941572</guid>
+            <pubDate>Thu, 16 Nov 2023 13:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_45/veVgE_1700122446431ydF6c_JPEG/1700122333134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 동욱💙수민의 주도권은 누구에게? | 9화 예고 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/42941511</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Nov 2023 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[6:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231103_228/FTgQg_1698992374957oTxWN_JPEG/1698992051566.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 사랑 참 어렵다...⭐ 지독한 첫사랑 중인 려원&수민 | 7화 예고 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42222660</link>
-            <guid>https://tv.naver.com/v/42222660</guid>
-            <pubDate>Thu, 02 Nov 2023 09:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_220/OtEcz_1698894477755fye3w_JPEG/1698894249542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
