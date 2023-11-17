@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 00:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 01:52:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스우파2:월드와이드] 좌충우돌 우당탕탕 원밀리언의 파티 타임🥂 | 2화 예고 | TVING]]></title>
+            <link>https://tv.naver.com/v/42943100</link>
+            <guid>https://tv.naver.com/v/42943100</guid>
+            <pubDate>Fri, 17 Nov 2023 01:52:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_117/kAasP_17001238781961ixbO_JPEG/1700123751989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 맞는말 대잔치하는 큐피트 혜인이ㅋㅋ | 미공개 영상 | TVING]]></title>
             <link>https://tv.naver.com/v/42941572</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Nov 2023 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[5:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231103_256/Pwgjk_1698992388878mBgrA_JPEG/1698992057527.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 눈에서 꿀 떨어짐🍯 1:1 대화로 행복한 성윤&혜인 | 6화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/42289803</link>
-            <guid>https://tv.naver.com/v/42289803</guid>
-            <pubDate>Fri, 03 Nov 2023 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[5:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_92/6t64M_1698992382005pFk8E_JPEG/1698992054801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
