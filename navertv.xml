@@ -4,9 +4,33 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 08:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 09:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 동욱의 고백을 들은 수민 | 8화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/42944573</link>
+            <guid>https://tv.naver.com/v/42944573</guid>
+            <pubDate>Fri, 17 Nov 2023 09:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_209/9lQNR_1700125313065nutJj_JPEG/1700125308670.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 폭풍전야같은 려원&혜성&아연 삼각관계 | 8화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/42944559</link>
+            <guid>https://tv.naver.com/v/42944559</guid>
+            <pubDate>Fri, 17 Nov 2023 09:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[6:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_171/XJkDT_1700125304581yJzdf_JPEG/1700125300038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 소녀들도 모르는 유리의 마음 속 행방🌪 | 8화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/42944545</link>
+            <guid>https://tv.naver.com/v/42944545</guid>
+            <pubDate>Fri, 17 Nov 2023 09:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_239/KAdSj_1700125292974k32dr_JPEG/1700125285966.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스우파2:월드와이드] 좌충우돌 우당탕탕 원밀리언의 파티 타임🥂 | 2화 예고 | TVING]]></title>
             <link>https://tv.naver.com/v/42943100</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 07 Nov 2023 08:13:45 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231107_85/tksBw_1699341106648DNBJv_JPEG/1699341026935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] K-고딩 그 잡채. 오락실 접수해버린 소년 소녀 | 미공개 영상 | TVING]]></title>
-            <link>https://tv.naver.com/v/42289862</link>
-            <guid>https://tv.naver.com/v/42289862</guid>
-            <pubDate>Sun, 05 Nov 2023 09:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[5:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_211/34Xic_16989924353655pXQa_JPEG/1698992424595.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 수민에게 동욱이란... 얼굴은 차은우+단점 없음+귀여움 | 미공개 영상]]></title>
-            <link>https://tv.naver.com/v/42289844</link>
-            <guid>https://tv.naver.com/v/42289844</guid>
-            <pubDate>Fri, 03 Nov 2023 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_38/az0In_1698992417973elNXi_JPEG/1698992294077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 민낯도 공유한 혜성&아연과 혜성이를 애타게 찾는 려원 | 6화 클립]]></title>
-            <link>https://tv.naver.com/v/42289811</link>
-            <guid>https://tv.naver.com/v/42289811</guid>
-            <pubDate>Fri, 03 Nov 2023 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[5:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_256/Pwgjk_1698992388878mBgrA_JPEG/1698992057527.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
