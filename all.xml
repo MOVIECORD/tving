@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 07:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 08:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Thu, 16 Nov 2023 13:13:29 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_45/veVgE_1700122446431ydF6c_JPEG/1700122333134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 동욱💙수민의 주도권은 누구에게? | 9화 예고 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42941511</link>
-            <guid>https://tv.naver.com/v/42941511</guid>
-            <pubDate>Thu, 16 Nov 2023 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_22/UqxoY_1700122386856nGF2w_JPEG/1700122328217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이재, 곧 죽습니다] 12번의 삶을 위해 최고의 배우들이 뭉쳤다! | TVING | 대본 리딩 비하인드 (TVING ─ NAVER TV)]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 07 Nov 2023 13:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231107_226/NkvmT_1699350462469mH5pU_JPEG/1699350427501.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스우파2: 월드와이드로그] 츠바킬을 다시 보다니, 너무 감동되...🥲 | 1화 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42460790</link>
+            <guid>https://tv.naver.com/v/42460790</guid>
+            <pubDate>Mon, 20 Nov 2023 08:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_85/tksBw_1699341106648DNBJv_JPEG/1699341026935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
