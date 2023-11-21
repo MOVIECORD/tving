@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 00:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 01:56:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 20 Nov 2023 11:09:19 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231120_95/Z40EN_1700476119505wzO9b_JPEG/1700475981417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스우파2 ON THE STAGE] 12월 3일 (일) 6PM 독점 생중계📢 콘서트 즐길 사람 여기 모엿🎉🎊]]></title>
+            <link>https://tv.naver.com/v/42999938</link>
+            <guid>https://tv.naver.com/v/42999938</guid>
+            <pubDate>Tue, 21 Nov 2023 01:56:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_224/G1VY0_1700210205034du8DQ_JPEG/1700210169095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스우파2: 월드와이드로그] 한 화면에 랴명💚이 함께? 기념일로 지정📅|2화 선공개|TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Nov 2023 13:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231107_277/yCzdl_1699350467907ruEQj_JPEG/1699350445442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 너희 귀엽고 유치해ㅎ 끝말잇기로 진지한 혜성&성윤 | 미공개 영상]]></title>
-            <link>https://tv.naver.com/v/42470171</link>
-            <guid>https://tv.naver.com/v/42470171</guid>
-            <pubDate>Tue, 07 Nov 2023 13:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_226/NkvmT_1699350462469mH5pU_JPEG/1699350427501.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
