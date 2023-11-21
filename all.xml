@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 04:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 05:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] ❤️플러팅 주의❤️ 소년 소녀들의 달달한 순간들 | 플러팅 하이라 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43122971</link>
+            <guid>https://tv.naver.com/v/43122971</guid>
+            <pubDate>Tue, 21 Nov 2023 05:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[24:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_232/Sh8zy_1700481950009Pz8nh_JPEG/1700481930320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 동욱💙수민의 주도권은 누구에게? | 9화 예고 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/43117399</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Nov 2023 05:10:40 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231108_14/iyUUi_1699419881685SENi6_JPEG/1699419592172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 궁금함을 참치 못하고 결국 짜릿한 레몬 한입🍋 | 미공개 영상 (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42470177</link>
-            <guid>https://tv.naver.com/v/42470177</guid>
-            <pubDate>Tue, 07 Nov 2023 13:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_277/yCzdl_1699350467907ruEQj_JPEG/1699350445442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
