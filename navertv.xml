@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 06:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 07:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 드디어 본격 데이트를 하게 된 동욱❤️수민 | 9화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/43224076</link>
+            <guid>https://tv.naver.com/v/43224076</guid>
+            <pubDate>Wed, 22 Nov 2023 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[6:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_233/BLNET_1700636251116Rb9La_JPEG/1700635946698.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 솔인가 파인가 그것이 문제로다 | 9화 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/43223566</link>
+            <guid>https://tv.naver.com/v/43223566</guid>
+            <pubDate>Wed, 22 Nov 2023 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[6:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_200/nArp7_1700635829033gVtqV_JPEG/1700635823675.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] ❤️플러팅 주의❤️ 소년 소녀들의 달달한 순간들 | 플러팅 하이라]]></title>
             <link>https://tv.naver.com/v/43122971</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 08 Nov 2023 23:10:06 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231108_207/vbnUT_1699433949324K6g1V_JPEG/1699433904254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 농구장 or 수영장 사심에 따라 움직이는 소년 소녀 | 7화 선공개 | TVING]]></title>
-            <link>https://tv.naver.com/v/42510058</link>
-            <guid>https://tv.naver.com/v/42510058</guid>
-            <pubDate>Wed, 08 Nov 2023 05:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[5:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_280/0Ydrj_1699419890984Si7Tz_JPEG/1699419806646.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 수민의 브런치 약속으로 간헐적 단식 중인 동욱 | 7화 선공개 | TVING]]></title>
-            <link>https://tv.naver.com/v/42510050</link>
-            <guid>https://tv.naver.com/v/42510050</guid>
-            <pubDate>Wed, 08 Nov 2023 05:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_14/iyUUi_1699419881685SENi6_JPEG/1699419592172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
