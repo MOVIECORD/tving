@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 08:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 09:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 올 여름 뜨겁게 사랑한 소년 소녀의 마지막 마음 | 10화 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43284933</link>
+            <guid>https://tv.naver.com/v/43284933</guid>
+            <pubDate>Thu, 23 Nov 2023 09:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_194/7yV3v_1700724747054LOjTJ_JPEG/1700724172145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[운수 오진 날] 벽에 희망을 붙인 썰부터 징크스까지! | 운수대통뽑기 키워드 토크 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/43274087</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Nov 2023 13:12:20 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231109_255/P1Ltj_1699524375420tPz19_JPEG/1699524329966.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다]우리 둘이 데이트 갈껄! 반모하는 사이 려원&성윤 | 미공개 영상 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42592075</link>
-            <guid>https://tv.naver.com/v/42592075</guid>
-            <pubDate>Thu, 09 Nov 2023 13:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_151/LcRse_1699524359350IsNAT_JPEG/1699524326888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
