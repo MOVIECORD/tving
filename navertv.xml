@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 02:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 03:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 22 Nov 2023 07:10:10 GMT</pubDate>
             <content:encoded><![CDATA[6:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231122_200/nArp7_1700635829033gVtqV_JPEG/1700635823675.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[플레이, 플리] 고백 그런 거 하려는 건 아니지?ㅣ3화 예고ㅣTVING]]></title>
+            <link>https://tv.naver.com/v/43218566</link>
+            <guid>https://tv.naver.com/v/43218566</guid>
+            <pubDate>Thu, 23 Nov 2023 03:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_283/P5F63_1700631517289wDmVL_JPEG/1700631503578.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스우파2:월드와이드로그] 마당발 바다가 말아주는 스우파2 비하인드🗣️ |3화 예고| TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Nov 2023 09:10:17 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231109_98/dB5s1_16995119959656xlxT_JPEG/1699511873810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 서로의 데이트가 궁금한 동욱&수민 | 미공개 영상 | TVING]]></title>
-            <link>https://tv.naver.com/v/42534046</link>
-            <guid>https://tv.naver.com/v/42534046</guid>
-            <pubDate>Wed, 08 Nov 2023 13:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_258/Uxod7_1699439868200nHwkV_JPEG/1699439413833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
