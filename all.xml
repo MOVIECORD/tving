@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 23:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 00:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이재, 곧 죽습니다] 12번의 다른 인생을 줄게, 어디 한번 살아남아봐 | 메인 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43241440</link>
+            <guid>https://tv.naver.com/v/43241440</guid>
+            <pubDate>Thu, 23 Nov 2023 00:44:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_79/vqD9i_1700653656602vkoS2_JPEG/1700653601218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 드디어 본격 데이트를 하게 된 동욱❤️수민 | 9화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/43224076</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Nov 2023 13:13:19 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231108_44/P8zjW_1699439859575rjR7t_JPEG/1699439408516.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이재, 곧 죽습니다] 죽음 그 이후, 잔혹한 심판이 시작된다 | 1차 티저 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42528607</link>
-            <guid>https://tv.naver.com/v/42528607</guid>
-            <pubDate>Wed, 08 Nov 2023 23:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_207/vbnUT_1699433949324K6g1V_JPEG/1699433904254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
