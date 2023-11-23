@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 00:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 01:52:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 22 Nov 2023 07:10:10 GMT</pubDate>
             <content:encoded><![CDATA[6:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231122_200/nArp7_1700635829033gVtqV_JPEG/1700635823675.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스우파2:월드와이드로그] 마당발 바다가 말아주는 스우파2 비하인드🗣️ |3화 예고| TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43216040</link>
+            <guid>https://tv.naver.com/v/43216040</guid>
+            <pubDate>Thu, 23 Nov 2023 01:51:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_168/4oWEF_1700629115913vi4Ad_JPEG/1700629040820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] ❤️플러팅 주의❤️ 소년 소녀들의 달달한 순간들 | 플러팅 하이라 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Nov 2023 13:13:19 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231108_258/Uxod7_1699439868200nHwkV_JPEG/1699439413833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 흰머리도 뽑아주는 동갑내기 혜성&성윤 | 미공개 영상 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42534034</link>
-            <guid>https://tv.naver.com/v/42534034</guid>
-            <pubDate>Wed, 08 Nov 2023 13:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_44/P8zjW_1699439859575rjR7t_JPEG/1699439408516.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
