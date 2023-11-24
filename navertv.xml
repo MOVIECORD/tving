@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 10:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 11:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Thu, 23 Nov 2023 01:51:50 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231122_168/4oWEF_1700629115913vi4Ad_JPEG/1700629040820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파라마운트+] 가업을 물려받은 형제의 위험한 거래ㅣ파이니스트 카인드ㅣTVING]]></title>
+            <link>https://tv.naver.com/v/43165261</link>
+            <guid>https://tv.naver.com/v/43165261</guid>
+            <pubDate>Fri, 24 Nov 2023 11:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_142/p3L5B_1700549047150UWBch_JPEG/1700548927622.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] ❤️플러팅 주의❤️ 소년 소녀들의 달달한 순간들 | 플러팅 하이라]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Nov 2023 06:13:46 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231113_61/0lfaC_16998528588047UBJc_JPEG/1699852823370.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스우파2:월드와이드로그] 스우파2vs육아, 어떤 게 더 힘들어요?👀 | 1화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/42639000</link>
-            <guid>https://tv.naver.com/v/42639000</guid>
-            <pubDate>Sun, 12 Nov 2023 11:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_134/shlb2_1699598627991xg1OD_JPEG/1699598623863.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
