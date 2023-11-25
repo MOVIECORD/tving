@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 06:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 07:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,22 @@
             <pubDate>Sat, 25 Nov 2023 05:09:02 GMT</pubDate>
             <content:encoded><![CDATA[2:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_177/BZ9xT_1700796193832FIrgH_JPEG/1700795517298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 힘들어하는 수민의 마음의 안식처는 아연이🥰 | 미공개 영상 | TVING]]></title>
+            <link>https://tv.naver.com/v/43327649</link>
+            <guid>https://tv.naver.com/v/43327649</guid>
+            <pubDate>Sat, 25 Nov 2023 07:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_63/qatcF_1700795250483MJBLD_JPEG/1700795133735.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] ❌처녀귀신 아님❌ 충격적 초상화의 주인공은? | 미공개 영상 | TVING]]></title>
+            <link>https://tv.naver.com/v/43327632</link>
+            <guid>https://tv.naver.com/v/43327632</guid>
+            <pubDate>Sat, 25 Nov 2023 07:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_177/dqJ01_1700795235002qIvhs_JPEG/1700795130361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 함께 버킷리스트 채우러 가는 혜성❤️아연 | 9화 클립 | TVING]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 17 Nov 2023 09:10:26 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_239/KAdSj_1700125292974k32dr_JPEG/1700125285966.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스우파2:월드와이드] 좌충우돌 우당탕탕 원밀리언의 파티 타임🥂 | 2화 예고 | TVING]]></title>
-            <link>https://tv.naver.com/v/42943100</link>
-            <guid>https://tv.naver.com/v/42943100</guid>
-            <pubDate>Fri, 17 Nov 2023 01:52:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_117/kAasP_17001238781961ixbO_JPEG/1700123751989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 맞는말 대잔치하는 큐피트 혜인이ㅋㅋ | 미공개 영상 | TVING]]></title>
-            <link>https://tv.naver.com/v/42941572</link>
-            <guid>https://tv.naver.com/v/42941572</guid>
-            <pubDate>Thu, 16 Nov 2023 13:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_45/veVgE_1700122446431ydF6c_JPEG/1700122333134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
