@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 22:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 23:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_194/7yV3v_1700724747054LOjTJ_JPEG/1700724172145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[미래엔딩] 원자탄이 몇 개 터지는 정도, 한 마디로 패닉입니다ㅣ1화 예고ㅣTVING]]></title>
+            <link>https://tv.naver.com/v/43277372</link>
+            <guid>https://tv.naver.com/v/43277372</guid>
+            <pubDate>Sun, 26 Nov 2023 23:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_168/KiRii_1700718095039AEPXy_JPEG/1700718044816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[운수 오진 날] 벽에 희망을 붙인 썰부터 징크스까지! | 운수대통뽑기 키워드 토크 | TVING]]></title>
             <link>https://tv.naver.com/v/43274087</link>
             <guid>https://tv.naver.com/v/43274087</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Nov 2023 09:10:26 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_209/9lQNR_1700125313065nutJj_JPEG/1700125308670.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 폭풍전야같은 려원&혜성&아연 삼각관계 | 8화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/42944559</link>
-            <guid>https://tv.naver.com/v/42944559</guid>
-            <pubDate>Fri, 17 Nov 2023 09:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[6:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_171/XJkDT_1700125304581yJzdf_JPEG/1700125300038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
