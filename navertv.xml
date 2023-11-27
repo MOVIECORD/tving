@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 01:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 02:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[운수 오진 날] #이성민 VS #유연석 "너도 똑같이 느끼게 해줄게" | Part 2 예고 | TVING]]></title>
+            <link>https://tv.naver.com/v/43352115</link>
+            <guid>https://tv.naver.com/v/43352115</guid>
+            <pubDate>Mon, 27 Nov 2023 02:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_8/S2xNr_1700818178933GapMP_JPEG/1700818134190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스우파2:월드와이드로그] 고등학교부터 스우파2까지! 바다의 댄스 역사 | 3화 선공개 | TVING]]></title>
             <link>https://tv.naver.com/v/43347396</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 19 Nov 2023 09:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_40/yX6WP_1700207111310iP5c8_JPEG/1700207050685.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 동욱의 고백을 들은 수민 | 8화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/42944573</link>
-            <guid>https://tv.naver.com/v/42944573</guid>
-            <pubDate>Fri, 17 Nov 2023 09:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_209/9lQNR_1700125313065nutJj_JPEG/1700125308670.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
