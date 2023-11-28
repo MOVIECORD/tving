@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 12:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 13:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 우정 VS 사랑⁉ 밸런스 게임으로 즐거운 소년 소녀 | 미공개 영상 | TVI]]></title>
+            <link>https://tv.naver.com/v/43531072</link>
+            <guid>https://tv.naver.com/v/43531072</guid>
+            <pubDate>Tue, 28 Nov 2023 13:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_205/9aGvp_17011646150410ueqR_JPEG/1701164553536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 설거지로 브로맨스 펼치는 소년들 | 미공개 영상 | TVING]]></title>
+            <link>https://tv.naver.com/v/43531069</link>
+            <guid>https://tv.naver.com/v/43531069</guid>
+            <pubDate>Tue, 28 Nov 2023 13:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_195/ncXk5_1701164611761NABfK_JPEG/1701164557222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[운수 오진 날] 과몰입 방지! 훈훈해서 안심되는(?) 현장  | 파트1 메이킹 비하인드 | TVING]]></title>
             <link>https://tv.naver.com/v/43521065</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 21 Nov 2023 05:10:08 GMT</pubDate>
             <content:encoded><![CDATA[24:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231120_232/Sh8zy_1700481950009Pz8nh_JPEG/1700481930320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 동욱💙수민의 주도권은 누구에게? | 9화 예고 | TVING]]></title>
-            <link>https://tv.naver.com/v/43117399</link>
-            <guid>https://tv.naver.com/v/43117399</guid>
-            <pubDate>Mon, 20 Nov 2023 11:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_95/Z40EN_1700476119505wzO9b_JPEG/1700475981417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스우파2 ON THE STAGE] 12월 3일 (일) 6PM 독점 생중계📢 콘서트 즐길 사람 여기 모엿🎉🎊]]></title>
-            <link>https://tv.naver.com/v/42999938</link>
-            <guid>https://tv.naver.com/v/42999938</guid>
-            <pubDate>Tue, 21 Nov 2023 01:56:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_224/G1VY0_1700210205034du8DQ_JPEG/1700210169095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
