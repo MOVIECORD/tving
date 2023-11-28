@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 08:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 09:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[운수 오진 날] 과몰입 방지! 훈훈해서 안심되는(?) 현장  | 파트1 메이킹 비하인드 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43521065</link>
+            <guid>https://tv.naver.com/v/43521065</guid>
+            <pubDate>Tue, 28 Nov 2023 09:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[7:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_207/EWlEW_17011553470547MepI_JPEG/1701155299835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[운수 오진 날] #이성민 VS #유연석 "너도 똑같이 느끼게 해줄게" | Part 2 예고 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/43352115</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Nov 2023 01:56:05 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_224/G1VY0_1700210205034du8DQ_JPEG/1700210169095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스우파2: 월드와이드로그] 한 화면에 랴명💚이 함께? 기념일로 지정📅|2화 선공개|TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42996706</link>
-            <guid>https://tv.naver.com/v/42996706</guid>
-            <pubDate>Sun, 19 Nov 2023 09:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_40/yX6WP_1700207111310iP5c8_JPEG/1700207050685.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
