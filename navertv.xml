@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 22:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 23:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이재, 곧 죽습니다] 이도현이 되어 고윤정을 만난 서인국 | 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/43532443</link>
+            <guid>https://tv.naver.com/v/43532443</guid>
+            <pubDate>Tue, 28 Nov 2023 23:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_92/bGBvx_1701166164635R05IU_JPEG/1701165979696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 우정 VS 사랑⁉ 밸런스 게임으로 즐거운 소년 소녀 | 미공개 영상 | TVI]]></title>
             <link>https://tv.naver.com/v/43531072</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Nov 2023 11:08:43 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231121_142/p3L5B_1700549047150UWBch_JPEG/1700548927622.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] ❤️플러팅 주의❤️ 소년 소녀들의 달달한 순간들 | 플러팅 하이라]]></title>
-            <link>https://tv.naver.com/v/43122971</link>
-            <guid>https://tv.naver.com/v/43122971</guid>
-            <pubDate>Tue, 21 Nov 2023 05:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[24:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_232/Sh8zy_1700481950009Pz8nh_JPEG/1700481930320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
