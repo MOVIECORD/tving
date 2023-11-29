@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 12:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 13:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 소년들이 기숙사에서 하는 일 | 미공개 영상 | TVING]]></title>
+            <link>https://tv.naver.com/v/43583429</link>
+            <guid>https://tv.naver.com/v/43583429</guid>
+            <pubDate>Wed, 29 Nov 2023 13:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_274/Z2Dmb_1701244910854Iq7Pw_JPEG/1701244790779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 준영이가 또...!!🤣 마지막 밤 롤링페이퍼 쓰기 | 미공개 영상 | TVING]]></title>
+            <link>https://tv.naver.com/v/43583423</link>
+            <guid>https://tv.naver.com/v/43583423</guid>
+            <pubDate>Wed, 29 Nov 2023 13:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_133/7EV7n_1701244906166kqw73_JPEG/1701244793543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] "나를 왜 좋아할까?" 고음발사 난무하는 소녀 기숙사 | 10화 선공개 | T]]></title>
             <link>https://tv.naver.com/v/43564360</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 22 Nov 2023 07:10:10 GMT</pubDate>
             <content:encoded><![CDATA[6:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231122_233/BLNET_1700636251116Rb9La_JPEG/1700635946698.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 솔인가 파인가 그것이 문제로다 | 9화 선공개 | TVING]]></title>
-            <link>https://tv.naver.com/v/43223566</link>
-            <guid>https://tv.naver.com/v/43223566</guid>
-            <pubDate>Wed, 22 Nov 2023 07:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[6:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_200/nArp7_1700635829033gVtqV_JPEG/1700635823675.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플레이, 플리] 고백 그런 거 하려는 건 아니지?ㅣ3화 예고ㅣTVING]]></title>
-            <link>https://tv.naver.com/v/43218566</link>
-            <guid>https://tv.naver.com/v/43218566</guid>
-            <pubDate>Thu, 23 Nov 2023 03:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_283/P5F63_1700631517289wDmVL_JPEG/1700631503578.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
