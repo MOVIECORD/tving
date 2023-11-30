@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 23:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 00:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Nov 2023 13:13:31 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231129_133/7EV7n_1701244906166kqw73_JPEG/1701244793543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이재, 곧 죽습니다] 이재곧 = 인국X소담의 혐관 로코?!❤️‍🔥💥 | 비하인드 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43572747</link>
+            <guid>https://tv.naver.com/v/43572747</guid>
+            <pubDate>Thu, 30 Nov 2023 00:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_99/Wfrda_1701235709586bqW1O_JPEG/1701235584579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] "나를 왜 좋아할까?" 고음발사 난무하는 소녀 기숙사 | 10화 선공개 | T (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Nov 2023 00:44:46 GMT</pubDate>
             <content:encoded><![CDATA[1:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231122_79/vqD9i_1700653656602vkoS2_JPEG/1700653601218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 드디어 본격 데이트를 하게 된 동욱❤️수민 | 9화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43224076</link>
-            <guid>https://tv.naver.com/v/43224076</guid>
-            <pubDate>Wed, 22 Nov 2023 07:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[6:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_233/BLNET_1700636251116Rb9La_JPEG/1700635946698.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
