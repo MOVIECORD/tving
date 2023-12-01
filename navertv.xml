@@ -4,9 +4,25 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 12:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 13:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 동욱 오빠에게 수민이가...러브레터 랩하는 수민 | 미공개 영상 | TVING]]></title>
+            <link>https://tv.naver.com/v/43688036</link>
+            <guid>https://tv.naver.com/v/43688036</guid>
+            <pubDate>Fri, 01 Dec 2023 13:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_177/0kuT7_1701407754138K5iyV_JPEG/1701407638377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소년 소녀 연애하다] 10일동안 유리가 찍은 소소연 캠프🎞 | 미공개 영상 | TVING]]></title>
+            <link>https://tv.naver.com/v/43688028</link>
+            <guid>https://tv.naver.com/v/43688028</guid>
+            <pubDate>Fri, 01 Dec 2023 13:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_99/jXEwF_1701407744042MKgYx_JPEG/1701407634639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 눈물주의💦 민건&유리의 소소연 캠프 헌정 영상 | 10화 클립 | TVING]]></title>
             <link>https://tv.naver.com/v/43688019</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 25 Nov 2023 05:09:02 GMT</pubDate>
             <content:encoded><![CDATA[2:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_177/BZ9xT_1700796193832FIrgH_JPEG/1700795517298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 힘들어하는 수민의 마음의 안식처는 아연이🥰 | 미공개 영상 | TVING]]></title>
-            <link>https://tv.naver.com/v/43327649</link>
-            <guid>https://tv.naver.com/v/43327649</guid>
-            <pubDate>Sat, 25 Nov 2023 07:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_63/qatcF_1700795250483MJBLD_JPEG/1700795133735.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] ❌처녀귀신 아님❌ 충격적 초상화의 주인공은? | 미공개 영상 | TVING]]></title>
-            <link>https://tv.naver.com/v/43327632</link>
-            <guid>https://tv.naver.com/v/43327632</guid>
-            <pubDate>Sat, 25 Nov 2023 07:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_177/dqJ01_1700795235002qIvhs_JPEG/1700795130361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
