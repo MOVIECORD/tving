@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 00:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 01:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 30 Nov 2023 01:53:05 GMT</pubDate>
             <content:encoded><![CDATA[0:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231129_296/SFgmH_1701241781631VUnYD_JPEG/1701241663308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스우파2 : ON THE STAGE] 서울 콘서트의 뜨거운 열기를 티빙에서 생중계로🔥🔥 (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43575643</link>
+            <guid>https://tv.naver.com/v/43575643</guid>
+            <pubDate>Fri, 01 Dec 2023 01:59:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_8/qPFPO_1701238312750Dm5Sn_JPEG/1701238253886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이재, 곧 죽습니다] 이재곧 = 인국X소담의 혐관 로코?!❤️‍🔥💥 | 비하인드 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Nov 2023 09:10:10 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_194/7yV3v_1700724747054LOjTJ_JPEG/1700724172145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미래엔딩] 원자탄이 몇 개 터지는 정도, 한 마디로 패닉입니다ㅣ1화 예고ㅣTVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43277372</link>
-            <guid>https://tv.naver.com/v/43277372</guid>
-            <pubDate>Sun, 26 Nov 2023 23:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_168/KiRii_1700718095039AEPXy_JPEG/1700718044816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
