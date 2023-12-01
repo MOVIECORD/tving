@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 23:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 00:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애3] 레전드 연애 리얼리티 컴백💞 | 컴백영상 | TVING]]></title>
+            <link>https://tv.naver.com/v/43675149</link>
+            <guid>https://tv.naver.com/v/43675149</guid>
+            <pubDate>Fri, 01 Dec 2023 00:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_56/deolw_1701391813399iDYeq_JPEG/1701391706304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 소년들이 기숙사에서 하는 일 | 미공개 영상 | TVING]]></title>
             <link>https://tv.naver.com/v/43583429</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Nov 2023 23:09:33 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_168/KiRii_1700718095039AEPXy_JPEG/1700718044816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[운수 오진 날] 벽에 희망을 붙인 썰부터 징크스까지! | 운수대통뽑기 키워드 토크 | TVING]]></title>
-            <link>https://tv.naver.com/v/43274087</link>
-            <guid>https://tv.naver.com/v/43274087</guid>
-            <pubDate>Thu, 23 Nov 2023 07:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[4:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_137/WD9K2_1700714471127u590t_JPEG/1700714403594.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
