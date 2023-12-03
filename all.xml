@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 08:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 09:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 02 Dec 2023 23:09:51 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_147/HBcEV_1701421548978xWeef_JPEG/1701421464847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스우파2:월드와이드로그] 모두 주목! BTS 정국 만난 썰 푼다💬 | 4화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43696968</link>
+            <guid>https://tv.naver.com/v/43696968</guid>
+            <pubDate>Sun, 03 Dec 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_66/wkjcf_1701415922371TV00Q_JPEG/1701415867133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년 소녀 연애하다] 동욱 오빠에게 수민이가...러브레터 랩하는 수민 | 미공개 영상 | TVING (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Nov 2023 09:09:33 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_292/8wRZy_1700813606043AOkiP_JPEG/1700813512221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[운수 오진 날] 그 손님 태우지 마요..연쇄살인마 #유연석 과 첫만남 | 1화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43328576</link>
-            <guid>https://tv.naver.com/v/43328576</guid>
-            <pubDate>Sat, 25 Nov 2023 05:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_286/y5gWb_1700796275254IK96F_JPEG/1700795136837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
