@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 23:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 00:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231130_288/6LUXl_1701327310195BQyaQ_JPEG/1701327144227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[미래엔딩] 지금 대한민국은 마약청정국과 신종 마약 국가의 갈림길?! (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43621773</link>
+            <guid>https://tv.naver.com/v/43621773</guid>
+            <pubDate>Mon, 04 Dec 2023 00:46:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231130_37/Dlbva_1701310364029cJspf_JPEG/1701310298504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[소년 소녀 연애하다] 소년들이 기숙사에서 하는 일 | 미공개 영상 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/43583429</link>
             <guid>https://tv.naver.com/v/43583429</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Nov 2023 02:23:45 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_8/S2xNr_1700818178933GapMP_JPEG/1700818134190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스우파2:월드와이드로그] 고등학교부터 스우파2까지! 바다의 댄스 역사 | 3화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43347396</link>
-            <guid>https://tv.naver.com/v/43347396</guid>
-            <pubDate>Sun, 26 Nov 2023 09:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_292/8wRZy_1700813606043AOkiP_JPEG/1700813512221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
