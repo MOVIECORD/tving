@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 02:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 03:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[운수 오진 날] 생생했던 그날의 돼지꿈 썰🐷돌이켜보니 고생길  | 파트1 코멘터리 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43816765</link>
+            <guid>https://tv.naver.com/v/43816765</guid>
+            <pubDate>Tue, 05 Dec 2023 03:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[8:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_80/7BRms_170168273589721Ai3_JPEG/1701682632195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤일로 시즌2ㅣ티저 예고편ㅣ파라마운트+ (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/43702494</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Nov 2023 09:10:37 GMT</pubDate>
             <content:encoded><![CDATA[7:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231128_207/EWlEW_17011553470547MepI_JPEG/1701155299835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[운수 오진 날] #이성민 VS #유연석 "너도 똑같이 느끼게 해줄게" | Part 2 예고 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43352115</link>
-            <guid>https://tv.naver.com/v/43352115</guid>
-            <pubDate>Mon, 27 Nov 2023 02:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_8/S2xNr_1700818178933GapMP_JPEG/1700818134190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
