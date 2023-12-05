@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 08:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 09:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마에스트라] 선은 넘지 말았어야지ㅣ하이라이트ㅣTVING]]></title>
+            <link>https://tv.naver.com/v/43870169</link>
+            <guid>https://tv.naver.com/v/43870169</guid>
+            <pubDate>Tue, 05 Dec 2023 09:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_101/1pqcx_1701764336960ULKL8_JPEG/1701764335490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[운수 오진 날] 생생했던 그날의 돼지꿈 썰🐷돌이켜보니 고생길  | 파트1 코멘터리 | TVING]]></title>
             <link>https://tv.naver.com/v/43816765</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Nov 2023 13:12:50 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231128_195/ncXk5_1701164611761NABfK_JPEG/1701164557222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[운수 오진 날] 과몰입 방지! 훈훈해서 안심되는(?) 현장  | 파트1 메이킹 비하인드 | TVING]]></title>
-            <link>https://tv.naver.com/v/43521065</link>
-            <guid>https://tv.naver.com/v/43521065</guid>
-            <pubDate>Tue, 28 Nov 2023 09:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[7:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_207/EWlEW_17011553470547MepI_JPEG/1701155299835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
