@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 23:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 00:46:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 05 Dec 2023 09:10:50 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231205_101/1pqcx_1701764336960ULKL8_JPEG/1701764335490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이재, 곧 죽습니다] 이재욱의 1:8 사이다 액션! | Part 1. 2차 선공개 | TVING]]></title>
+            <link>https://tv.naver.com/v/43870037</link>
+            <guid>https://tv.naver.com/v/43870037</guid>
+            <pubDate>Wed, 06 Dec 2023 00:45:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_42/rxoHH_1701764222315VOf9n_JPEG/1701763178376.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[운수 오진 날] 생생했던 그날의 돼지꿈 썰🐷돌이켜보니 고생길  | 파트1 코멘터리 | TVING]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Nov 2023 13:12:50 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231128_205/9aGvp_17011646150410ueqR_JPEG/1701164553536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 설거지로 브로맨스 펼치는 소년들 | 미공개 영상 | TVING]]></title>
-            <link>https://tv.naver.com/v/43531069</link>
-            <guid>https://tv.naver.com/v/43531069</guid>
-            <pubDate>Tue, 28 Nov 2023 13:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_195/ncXk5_1701164611761NABfK_JPEG/1701164557222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
