@@ -4,7 +4,7 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 07:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 08:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231130_232/CkhPJ_1701330226247kNCb4_JPEG/1701330044508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[운수 오진 날] "아빠?" 소름주의ㄷㄷ판을 뒤집어버린 전화 한통 | 4화 클립 | TVING]]></title>
+            <link>https://tv.naver.com/v/43640168</link>
+            <guid>https://tv.naver.com/v/43640168</guid>
+            <pubDate>Wed, 06 Dec 2023 08:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231130_206/OAv92_17013302169904fCWD_JPEG/1701330033901.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[운수 오진 날] 신분증, 가족사진 다 깐 사람한테 전화 빌려주기 가능? | 4화 클립 | TVING]]></title>
             <link>https://tv.naver.com/v/43640160</link>
             <guid>https://tv.naver.com/v/43640160</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Nov 2023 23:09:53 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231128_92/bGBvx_1701166164635R05IU_JPEG/1701165979696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 우정 VS 사랑⁉ 밸런스 게임으로 즐거운 소년 소녀 | 미공개 영상 | TVI]]></title>
-            <link>https://tv.naver.com/v/43531072</link>
-            <guid>https://tv.naver.com/v/43531072</guid>
-            <pubDate>Tue, 28 Nov 2023 13:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_205/9aGvp_17011646150410ueqR_JPEG/1701164553536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
