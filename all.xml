@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 22:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 23:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미래엔딩] 대한민국에 대정전이 발생한다면?ㅣ3화 예고ㅣTVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43921949</link>
+            <guid>https://tv.naver.com/v/43921949</guid>
+            <pubDate>Thu, 07 Dec 2023 23:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_203/KRmWK_1701846265281MOghM_JPEG/1701846252425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마에스트라] 선은 넘지 말았어야지ㅣ하이라이트ㅣTVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/43870169</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Nov 2023 05:09:52 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231129_191/8wDvb_1701227110695mMUg4_JPEG/1701226955812.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이재, 곧 죽습니다] 이도현이 되어 고윤정을 만난 서인국 | 선공개 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43532443</link>
-            <guid>https://tv.naver.com/v/43532443</guid>
-            <pubDate>Tue, 28 Nov 2023 23:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_92/bGBvx_1701166164635R05IU_JPEG/1701165979696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
