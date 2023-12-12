@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 22:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 23:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+] 전설적인 시리즈의 새로운 시작ㅣ트랜스포머: 비스트의 서막ㅣ2024년 1월 대]]></title>
+            <link>https://tv.naver.com/v/44226944</link>
+            <guid>https://tv.naver.com/v/44226944</guid>
+            <pubDate>Tue, 12 Dec 2023 23:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231212_96/KDcYI_17023798672294fudR_JPEG/1702379806092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이재, 곧 죽습니다] 목숨을 건 12번의 인생 환승이 시작된다! | 하이라이트 영상 | TVING]]></title>
             <link>https://tv.naver.com/v/44155855</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Dec 2023 05:09:38 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231130_232/CkhPJ_1701330226247kNCb4_JPEG/1701330044508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[운수 오진 날] "아빠?" 소름주의ㄷㄷ판을 뒤집어버린 전화 한통 | 4화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/43640168</link>
-            <guid>https://tv.naver.com/v/43640168</guid>
-            <pubDate>Wed, 06 Dec 2023 08:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231130_206/OAv92_17013302169904fCWD_JPEG/1701330033901.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
