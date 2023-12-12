@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 23:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 00:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이재, 곧 죽습니다] 목숨을 건 12번의 인생 환승이 시작된다! | 하이라이트 영상 | TVING]]></title>
+            <link>https://tv.naver.com/v/44155855</link>
+            <guid>https://tv.naver.com/v/44155855</guid>
+            <pubDate>Tue, 12 Dec 2023 00:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_14/ojTfQ_1702283532975LejWy_JPEG/1702283483537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이재, 곧 죽습니다] '이재' 캐릭터 동기화 중! | 단체 포스터 촬영 비하인드 | TVING]]></title>
             <link>https://tv.naver.com/v/44145834</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Dec 2023 08:13:26 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231130_206/OAv92_17013302169904fCWD_JPEG/1701330033901.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[운수 오진 날] 신분증, 가족사진 다 깐 사람한테 전화 빌려주기 가능? | 4화 클립 | TVING]]></title>
-            <link>https://tv.naver.com/v/43640160</link>
-            <guid>https://tv.naver.com/v/43640160</guid>
-            <pubDate>Sat, 02 Dec 2023 05:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231130_138/J1LdH_1701330209270uwbD8_JPEG/1701329995651.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
