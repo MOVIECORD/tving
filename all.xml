@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 22:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 23:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LTNS] 이솜X안재홍 이 조합, LONG TIME NO SEE♥ ㅣ대본 리딩 현장ㅣTVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44287787</link>
+            <guid>https://tv.naver.com/v/44287787</guid>
+            <pubDate>Wed, 13 Dec 2023 23:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_162/JNshF_1702467231734tt3vR_JPEG/1702467183790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이재, 곧 죽습니다] 밤하늘 별보다 빛나는 라인업✨ | 제작발표회 풀버전 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/44286220</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[6:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_105/vSUH0_1701407716065ml2RJ_JPEG/1701407532514.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 본인도 몰랐던 감정을 깨달아버린 유리😭 | 10화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43687985</link>
-            <guid>https://tv.naver.com/v/43687985</guid>
-            <pubDate>Fri, 01 Dec 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[6:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_5/Mqqrb_1701407708877gc2xc_JPEG/1701407537046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
