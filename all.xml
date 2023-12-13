@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 11:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 12:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이재, 곧 죽습니다] 밤하늘 별보다 빛나는 라인업✨ | 제작발표회 풀버전 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44286220</link>
+            <guid>https://tv.naver.com/v/44286220</guid>
+            <pubDate>Wed, 13 Dec 2023 12:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:10:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_183/umALG_1702465421810YoEv9_JPEG/1702464934232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+] 전설적인 시리즈의 새로운 시작ㅣ트랜스포머: 비스트의 서막ㅣ2024년 1월 대 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/44226944</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[6:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_5/Mqqrb_1701407708877gc2xc_JPEG/1701407537046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[환승연애3] 레전드 연애 리얼리티 컴백💞 | 컴백영상 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43675149</link>
-            <guid>https://tv.naver.com/v/43675149</guid>
-            <pubDate>Fri, 01 Dec 2023 00:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_56/deolw_1701391813399iDYeq_JPEG/1701391706304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
