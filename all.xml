@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 22:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 23:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[환승연애3] 다시 열릴 우리들의 도파민 파티ㅣ메인 예고 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44333479</link>
+            <guid>https://tv.naver.com/v/44333479</guid>
+            <pubDate>Thu, 14 Dec 2023 23:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231214_99/1LudA_1702541726912yJns5_JPEG/1702541680477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LTNS] 이솜X안재홍 이 조합, LONG TIME NO SEE♥ ㅣ대본 리딩 현장ㅣTVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/44287787</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_105/pBVzK_1701407721984cDTLk_JPEG/1701407528788.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 스스로 성장하고 소중한 우정을 얻은 성윤&민건 | 10화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43688000</link>
-            <guid>https://tv.naver.com/v/43688000</guid>
-            <pubDate>Fri, 01 Dec 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[6:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_105/vSUH0_1701407716065ml2RJ_JPEG/1701407532514.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
