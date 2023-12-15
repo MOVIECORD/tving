@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 08:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 09:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[운수 오진 날] 오지는 고난이도 촬영 현장에서 피어나는 케미 | 파트2 메이킹 비하인드 | TV (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44382932</link>
+            <guid>https://tv.naver.com/v/44382932</guid>
+            <pubDate>Fri, 15 Dec 2023 09:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_257/n2wdF_1702621078160ONHSQ_JPEG/1702620902030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[환승연애3] 다시 열릴 우리들의 도파민 파티ㅣ메인 예고 | TVING (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/44333479</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 13:13:36 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_177/0kuT7_1701407754138K5iyV_JPEG/1701407638377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 10일동안 유리가 찍은 소소연 캠프🎞 | 미공개 영상 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43688028</link>
-            <guid>https://tv.naver.com/v/43688028</guid>
-            <pubDate>Fri, 01 Dec 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_99/jXEwF_1701407744042MKgYx_JPEG/1701407634639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
