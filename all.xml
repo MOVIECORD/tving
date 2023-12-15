@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 00:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 01:54:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 13 Dec 2023 12:18:53 GMT</pubDate>
             <content:encoded><![CDATA[1:10:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231213_183/umALG_1702465421810YoEv9_JPEG/1702464934232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미래엔딩] 다시 시작된 신종 바이러스 집단감염ㅣ4화 예고ㅣTVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44263433</link>
+            <guid>https://tv.naver.com/v/44263433</guid>
+            <pubDate>Fri, 15 Dec 2023 01:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_11/J64Ks_17024442882817Wovw_JPEG/1702444244906.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파라마운트+] 전설적인 시리즈의 새로운 시작ㅣ트랜스포머: 비스트의 서막ㅣ2024년 1월 대 (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[4:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_5/jzeEV_1701407727962NN6mC_JPEG/1701407525261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 소소연 캠프..이제 안녕🖐️ | 10화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43688005</link>
-            <guid>https://tv.naver.com/v/43688005</guid>
-            <pubDate>Fri, 01 Dec 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_105/pBVzK_1701407721984cDTLk_JPEG/1701407528788.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
