@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 04:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 05:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Wed, 13 Dec 2023 12:18:53 GMT</pubDate>
             <content:encoded><![CDATA[1:10:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231213_183/umALG_1702465421810YoEv9_JPEG/1702464934232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미래엔딩] 1000만 가구가 에너지 빈곤에 허덕이는 남아프리카 공화국🪫 | 3화클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44284270</link>
+            <guid>https://tv.naver.com/v/44284270</guid>
+            <pubDate>Fri, 15 Dec 2023 05:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_298/SKs5j_1702463159143Pdmab_JPEG/1702463092753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미래엔딩] 시간이 지날 수록 커지는 대정전의 피해 규모⏳ | 3화클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44282457</link>
+            <guid>https://tv.naver.com/v/44282457</guid>
+            <pubDate>Fri, 15 Dec 2023 05:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_28/Rqs69_1702461161501uMjvW_JPEG/1702461087812.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미래엔딩] 다시 시작된 신종 바이러스 집단감염ㅣ4화 예고ㅣTVING (TVING ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 13:13:36 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_99/jXEwF_1701407744042MKgYx_JPEG/1701407634639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 눈물주의💦 민건&유리의 소소연 캠프 헌정 영상 | 10화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43688019</link>
-            <guid>https://tv.naver.com/v/43688019</guid>
-            <pubDate>Fri, 01 Dec 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_74/GoNFb_1701407732852rTFhf_JPEG/1701407520680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 수민 ❤️ 동욱의 마지막 소소록 | 10화 클립 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43688017</link>
-            <guid>https://tv.naver.com/v/43688017</guid>
-            <pubDate>Fri, 01 Dec 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_5/jzeEV_1701407727962NN6mC_JPEG/1701407525261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
