@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 04:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 05:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 16 Dec 2023 00:44:47 GMT</pubDate>
             <content:encoded><![CDATA[12:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231215_242/ZDc5O_1702643749326DTxoi_JPEG/1702643352125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이재, 곧 죽습니다] 언더독의 복수 | 2화 클립 | TVING (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44393707</link>
+            <guid>https://tv.naver.com/v/44393707</guid>
+            <pubDate>Sat, 16 Dec 2023 05:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_116/YbpDb_1702632435752yonjy_JPEG/1702632400030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[운수 오진 날] 오지는 고난이도 촬영 현장에서 피어나는 케미 | 파트2 메이킹 비하인드 | TV (TVING ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Dec 2023 23:09:51 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_147/HBcEV_1701421548978xWeef_JPEG/1701421464847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스우파2:월드와이드로그] 모두 주목! BTS 정국 만난 썰 푼다💬 | 4화 선공개 | TVING (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43696968</link>
-            <guid>https://tv.naver.com/v/43696968</guid>
-            <pubDate>Sun, 03 Dec 2023 09:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_66/wkjcf_1701415922371TV00Q_JPEG/1701415867133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
