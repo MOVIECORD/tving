@@ -4,9 +4,17 @@
         <title>TVING ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 23:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 00:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이재, 곧 죽습니다] 윤정이랑 싸우고, 소담이한테 멱살 잡힌 인국이의 하루 | 1화 비하인드]]></title>
+            <link>https://tv.naver.com/v/44401816</link>
+            <guid>https://tv.naver.com/v/44401816</guid>
+            <pubDate>Sat, 16 Dec 2023 00:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[12:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_242/ZDc5O_1702643749326DTxoi_JPEG/1702643352125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[운수 오진 날] 오지는 고난이도 촬영 현장에서 피어나는 케미 | 파트2 메이킹 비하인드 | TV]]></title>
             <link>https://tv.naver.com/v/44382932</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 03 Dec 2023 09:09:49 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_66/wkjcf_1701415922371TV00Q_JPEG/1701415867133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년 소녀 연애하다] 동욱 오빠에게 수민이가...러브레터 랩하는 수민 | 미공개 영상 | TVING]]></title>
-            <link>https://tv.naver.com/v/43688036</link>
-            <guid>https://tv.naver.com/v/43688036</guid>
-            <pubDate>Fri, 01 Dec 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_177/0kuT7_1701407754138K5iyV_JPEG/1701407638377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
