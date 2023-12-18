@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 10:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 11:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[운수 오진 날] 오지는 고난이도 촬영 현장에서 피어나는 케미 | 파트2 메이킹 비하인드 | TV (TVING ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44512825</link>
+            <guid>https://tv.naver.com/v/44512825</guid>
+            <pubDate>Mon, 18 Dec 2023 11:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[5:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_196/qTZMZ_1702896499396oacnW_JPEG/1702896457548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이재, 곧 죽습니다] 윤정이랑 싸우고, 소담이한테 멱살 잡힌 인국이의 하루 | 1화 비하인드 (TVING ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/44401816</link>
@@ -38,14 +46,6 @@
             <pubDate>Sat, 16 Dec 2023 05:09:18 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231215_116/YbpDb_1702632435752yonjy_JPEG/1702632400030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[운수 오진 날] 오지는 고난이도 촬영 현장에서 피어나는 케미 | 파트2 메이킹 비하인드 | TV (TVING ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/44382932</link>
-            <guid>https://tv.naver.com/v/44382932</guid>
-            <pubDate>Fri, 15 Dec 2023 09:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_257/n2wdF_1702621078160ONHSQ_JPEG/1702620902030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[환승연애3] 다시 열릴 우리들의 도파민 파티ㅣ메인 예고 | TVING (TVING ─ NAVER TV)]]></title>
